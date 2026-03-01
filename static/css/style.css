@@ -1,0 +1,333 @@
+/* ============================================================
+   CotC Equip II - Main Stylesheet
+   ============================================================ */
+
+/* ── Variables ───────────────────────────────────────────── */
+:root {
+    --octo-gold:    #c9a84c;
+    --octo-dark:    #1c1c24;
+    --octo-panel:   #24242f;
+    --octo-card:    #2a2a38;
+    --octo-border:  #35354a;
+    --octo-text:    #e8e0d0;
+    --octo-muted:   #9090a8;
+    --octo-green:   #4ade80;
+    --octo-purple:  #c084fc;
+    --octo-teal:    #2dd4bf;
+    --octo-red:     #f87171;
+}
+
+/* ── Reset & Base ────────────────────────────────────────── */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--octo-dark);
+    color: var(--octo-text);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* ── Typography ──────────────────────────────────────────── */
+.octo-font {
+    font-family: 'Cinzel', serif;
+}
+
+.text-gold   { color: var(--octo-gold)   !important; }
+.text-green  { color: var(--octo-green)  !important; }
+.text-purple { color: var(--octo-purple) !important; }
+.text-teal   { color: var(--octo-teal)   !important; }
+.text-muted  { color: var(--octo-muted)  !important; }
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--octo-text);
+}
+
+/* ── Scrollbar ───────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--octo-dark); }
+::-webkit-scrollbar-thumb { background: var(--octo-border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--octo-gold); }
+
+/* ── Navbar ──────────────────────────────────────────────── */
+.navbar {
+    background: rgba(20, 20, 28, 0.97);
+    border-bottom: 1px solid var(--octo-gold);
+    backdrop-filter: blur(10px);
+    padding: 0.6rem 1rem;
+}
+
+.navbar-brand {
+    color: var(--octo-gold) !important;
+    letter-spacing: 2px;
+    font-size: 1.1rem;
+}
+
+.nav-link {
+    color: var(--octo-text) !important;
+    transition: color 0.2s;
+    font-size: 0.9rem;
+}
+
+.nav-link:hover {
+    color: var(--octo-gold) !important;
+}
+
+/* ── Panels ──────────────────────────────────────────────── */
+.octo-panel {
+    background: var(--octo-panel);
+    border: 1px solid var(--octo-border);
+    border-radius: 8px;
+}
+
+/* ── Stats Bar ───────────────────────────────────────────── */
+.stat-value {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.stat-label {
+    font-size: 0.62rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--octo-muted);
+    margin-top: 2px;
+}
+
+.stat-pct {
+    font-size: 0.7rem;
+    color: var(--octo-muted);
+    margin-top: 2px;
+}
+
+.octo-progress {
+    height: 3px;
+    background: var(--octo-border);
+    border-radius: 2px;
+    margin-top: 4px;
+    overflow: hidden;
+}
+
+.octo-progress-bar {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.6s ease;
+}
+
+/* ── Search Bar ──────────────────────────────────────────── */
+.octo-input {
+    background: var(--octo-dark) !important;
+    border: 1px solid var(--octo-border) !important;
+    color: var(--octo-text) !important;
+    border-radius: 6px;
+    transition: border-color 0.2s;
+}
+
+.octo-input:focus {
+    border-color: var(--octo-gold) !important;
+    box-shadow: 0 0 0 2px rgba(201, 168, 76, 0.15) !important;
+    outline: none;
+}
+
+.octo-input::placeholder {
+    color: var(--octo-muted) !important;
+}
+
+.input-group-text {
+    background: var(--octo-dark) !important;
+    border: 1px solid var(--octo-border) !important;
+    color: var(--octo-muted) !important;
+}
+
+/* Fix select options */
+.octo-input option {
+    background: var(--octo-panel);
+    color: var(--octo-text);
+}
+
+/* Form switch */
+.form-check-input {
+    background-color: var(--octo-border);
+    border-color: var(--octo-border);
+    cursor: pointer;
+}
+
+.form-check-input:checked {
+    background-color: var(--octo-gold);
+    border-color: var(--octo-gold);
+}
+
+.form-check-label {
+    color: var(--octo-muted);
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+/* ── Traveler Cards ──────────────────────────────────────── */
+.traveler-card {
+    background: var(--octo-card);
+    border: 1px solid var(--octo-border);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+    padding: 0.6rem;
+}
+
+.traveler-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--octo-gold);
+    background: var(--octo-panel);
+}
+
+.traveler-card.card-obtenido {
+    border-color: rgba(74, 222, 128, 0.3);
+}
+
+.traveler-card.card-obtenido:hover {
+    border-color: var(--octo-green);
+}
+
+.card-status {
+    font-size: 0.6rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.card-name {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--octo-text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 4px;
+}
+
+.card-job {
+    font-size: 0.65rem;
+    color: var(--octo-muted);
+}
+
+.card-stars {
+    font-size: 0.65rem;
+    color: var(--octo-gold);
+}
+
+.card-awakening {
+    font-size: 0.6rem;
+    color: var(--octo-purple);
+}
+
+/* ── Modal ───────────────────────────────────────────────── */
+.modal-content {
+    background: var(--octo-panel) !important;
+    border: 1px solid var(--octo-gold) !important;
+    border-radius: 12px !important;
+    color: var(--octo-text);
+}
+
+.modal-header {
+    border-bottom: 1px solid var(--octo-border) !important;
+    padding: 1rem 1.25rem;
+}
+
+.modal-title {
+    color: var(--octo-gold);
+}
+
+.modal-body {
+    padding: 1.25rem;
+}
+
+.btn-close-white {
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+/* Section headers inside modal */
+.section-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--octo-gold);
+    margin-bottom: 0.75rem;
+}
+
+/* Stats grid in modal */
+.stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 0;
+    font-size: 0.82rem;
+    border-bottom: 1px solid rgba(53, 53, 74, 0.5);
+}
+
+.stat-row:last-child {
+    border-bottom: none;
+}
+
+.stat-row .stat-name {
+    color: var(--octo-muted);
+}
+
+.stat-row .stat-val {
+    font-weight: 700;
+    color: var(--octo-text);
+}
+
+/* ── Buttons ─────────────────────────────────────────────── */
+.btn-octo-primary {
+    background: var(--octo-gold);
+    color: #1c1c24;
+    font-weight: 700;
+    border: none;
+    font-size: 0.85rem;
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.btn-octo-primary:hover {
+    background: #dbb85a;
+    transform: translateY(-1px);
+}
+
+.btn-octo-secondary {
+    background: transparent;
+    color: var(--octo-muted);
+    border: 1px solid var(--octo-border);
+    font-size: 0.85rem;
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.btn-octo-secondary:hover {
+    border-color: var(--octo-muted);
+    color: var(--octo-text);
+}
+
+/* ── Footer ──────────────────────────────────────────────── */
+footer {
+    border-top: 1px solid var(--octo-border);
+    color: var(--octo-muted);
+    font-size: 0.7rem;
+    letter-spacing: 2px;
+}
+
+/* ── HTMX ────────────────────────────────────────────────── */
+.htmx-indicator {
+    opacity: 0;
+    transition: opacity 200ms ease-in;
+}
+
+.htmx-request .htmx-indicator {
+    opacity: 1;
+}

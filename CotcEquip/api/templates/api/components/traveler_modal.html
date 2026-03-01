@@ -1,0 +1,186 @@
+{% load static %}
+
+{% with entry=traveler.roster_entry %}
+{% with sprite_path="sprites/"|add:traveler.name|add:"_Sprite.webp" %}
+
+<!-- Header del modal -->
+<div class="modal-header" style="border-bottom:1px solid var(--octo-border);">
+    <div style="height:80px; display:flex; align-items:center; justify-content:center;">
+        <img
+            src="{{ traveler.sprite_url }}"
+            alt="{{ traveler.name }}"
+            style="max-height:80px; max-width:70px; object-fit:contain; image-rendering:pixelated;"
+            onerror="this.onerror=null; this.src='{{ traveler.sprite_fallback }}'"
+        >
+    </div>
+            <h5 class="modal-title octo-font text-gold mb-0">{{ traveler.name }}</h5>
+            <div style="font-size:0.75rem; color:var(--octo-muted);">{{ traveler.job }} · {{ traveler.element }}</div>
+            <div style="color:var(--octo-gold); font-size:0.8rem;">
+                {% for i in "12345"|make_list %}
+                    {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+</div>
+
+<!-- Body del modal -->
+<div class="modal-body">
+    <form
+        hx-post="/roster/traveler/{{ traveler.id }}/update/"
+        hx-target="#modal-content-area"
+        hx-swap="innerHTML"
+    >
+        {% csrf_token %}
+
+        <div class="row g-3">
+
+            <!-- Columna izquierda: estado del roster -->
+            <div class="col-md-6">
+                <div class="octo-panel p-3">
+                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Estado</div>
+
+                    <!-- Reclutado -->
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="is_obtained" name="is_obtained" value="true"
+                            {% if entry and entry.is_obtained %}checked{% endif %}>
+                        <label class="form-check-label" for="is_obtained">Reclutado</label>
+                    </div>
+
+                    <!-- 6 Estrellas -->
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="is_6_stars" name="is_6_stars" value="true"
+                            {% if entry and entry.is_6_stars %}checked{% endif %}>
+                        <label class="form-check-label" for="is_6_stars">6 Estrellas</label>
+                    </div>
+
+                    <!-- Nivel actual -->
+                    <div class="mb-2">
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Nivel actual</label>
+                        <input type="number" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="current_level" min="1" max="120"
+                            value="{{ entry.current_level|default:1 }}">
+                    </div>
+
+                    <!-- Awakening Level -->
+                    <div class="mb-2">
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Awakening Level (0-4)</label>
+                        <input type="number" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="awakening_level" min="0" max="4"
+                            value="{{ entry.awakening_level|default:0 }}">
+                    </div>
+
+                    <!-- Ultimate Level -->
+                    <div class="mb-2">
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Ultimate Level (0-20)</label>
+                        <input type="number" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="ultimate_level" min="0" max="20"
+                            value="{{ entry.ultimate_level|default:0 }}">
+                    </div>
+
+                    <!-- Ultimate Awakened -->
+                    <div class="form-check form-switch mb-2">
+                        <input class="form-check-input" type="checkbox" id="is_ultimate_awakened" name="is_ultimate_awakened" value="true"
+                            {% if entry and entry.is_ultimate_awakened %}checked{% endif %}>
+                        <label class="form-check-label" for="is_ultimate_awakened">Ultimate Awakened</label>
+                    </div>
+
+                    <!-- Overcharge -->
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="has_ultimate_overcharge" name="has_ultimate_overcharge" value="true"
+                            {% if entry and entry.has_ultimate_overcharge %}checked{% endif %}>
+                        <label class="form-check-label" for="has_ultimate_overcharge">Overcharge</label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Columna derecha: stats base -->
+            <div class="col-md-6">
+                <div class="octo-panel p-3">
+                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Stats Lv.120</div>
+
+                    <div class="row g-1" style="font-size:0.8rem;">
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">❤️ HP</span>
+                            <span class="fw-bold">{{ traveler.hp_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">💧 SP</span>
+                            <span class="fw-bold">{{ traveler.sp_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">⚔️ P.Atk</span>
+                            <span class="fw-bold">{{ traveler.p_atk_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">🛡️ P.Def</span>
+                            <span class="fw-bold">{{ traveler.p_def_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">✨ E.Atk</span>
+                            <span class="fw-bold">{{ traveler.e_atk_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">🔮 E.Def</span>
+                            <span class="fw-bold">{{ traveler.e_def_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">💥 Crit</span>
+                            <span class="fw-bold">{{ traveler.crit_120 }}</span>
+                        </div>
+                        <div class="col-6 d-flex justify-content-between">
+                            <span style="color:var(--octo-muted);">💨 Spd</span>
+                            <span class="fw-bold">{{ traveler.spd_120 }}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Equipamiento -->
+                <div class="octo-panel p-3 mt-3">
+                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Equipamiento</div>
+
+                    <div class="mb-2">
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Arma</label>
+                        <input type="text" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="current_weapon" placeholder="Nombre del arma..."
+                            value="{{ entry.current_weapon|default:'' }}">
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Souls del arma (0-8)</label>
+                        <input type="number" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="weapon_souls_count" min="0" max="8"
+                            value="{{ entry.weapon_souls_count|default:0 }}">
+                    </div>
+
+                    <div>
+                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Armadura</label>
+                        <input type="text" class="form-control form-control-sm"
+                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                            name="current_armor" placeholder="Nombre de la armadura..."
+                            value="{{ entry.current_armor|default:'' }}">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Footer del form -->
+        <div class="mt-3 d-flex justify-content-end gap-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-dismiss="modal">Cancelar</button>
+            <button type="submit" class="btn btn-sm" style="background:var(--octo-gold); color:#000; font-weight:bold;">
+                Guardar cambios
+            </button>
+        </div>
+
+    </form>
+</div>
+
+{% endwith %}
+{% endwith %}

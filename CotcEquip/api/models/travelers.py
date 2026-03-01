@@ -40,6 +40,19 @@ class Traveler(models.Model):
         db_table = 'travelers_master'
         managed = False
 
+    @property
+    def sprite_url(self):
+        from django.templatetags.static import static
+        import os
+        nombre = self.name.replace(' ', '_')
+        path = f"sprites/{nombre}_Sprite.webp"
+        return static(path)
+
+    @property  
+    def sprite_fallback(self):
+        from django.templatetags.static import static
+        return static('sprites/question.png')
+    
     def __str__(self):
         return self.name
 

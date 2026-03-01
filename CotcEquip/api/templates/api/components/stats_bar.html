@@ -1,0 +1,60 @@
+<div class="octo-panel p-3 mb-4">
+
+    <!-- Fila superior: totales -->
+    <div class="row g-3 align-items-center mb-3">
+        <div class="col-6 col-md-3 text-center">
+            <div class="stat-value text-gold">{{ stats.reclutados }}</div>
+            <div class="stat-label">Reclutados</div>
+            <div class="octo-progress">
+                <div class="octo-progress-bar" style="width:{{ stats.pct_reclutados }}%; background:var(--octo-gold);"></div>
+            </div>
+            <div class="stat-pct">{{ stats.pct_reclutados }}%</div>
+        </div>
+
+        <div class="col-6 col-md-3 text-center">
+            <div class="stat-value" style="color:var(--octo-text);">{{ stats.reconocidos }}</div>
+            <div class="stat-label">Reconocidos</div>
+            <div class="octo-progress">
+                <div class="octo-progress-bar" style="width:100%; background:var(--octo-border);"></div>
+            </div>
+            <div class="stat-pct">Base total</div>
+        </div>
+
+        <div class="col-6 col-md-3 text-center">
+            <div class="stat-value text-purple">{{ stats.seis_estrellas }}</div>
+            <div class="stat-label">6 Estrellas</div>
+            <div class="octo-progress">
+                <div class="octo-progress-bar" style="width:{{ stats.pct_seis_estrellas }}%; background:var(--octo-purple);"></div>
+            </div>
+            <div class="stat-pct">{{ stats.pct_seis_estrellas }}%</div>
+        </div>
+
+        <div class="col-6 col-md-3 text-center">
+            <div class="stat-value text-teal">{{ stats.despertados }}</div>
+            <div class="stat-label">Despertados</div>
+            <div class="octo-progress">
+                <div class="octo-progress-bar" style="width:{{ stats.pct_despertados }}%; background:var(--octo-teal);"></div>
+            </div>
+            <div class="stat-pct">{{ stats.pct_despertados }}%</div>
+        </div>
+    </div>
+
+    <!-- Divisor -->
+    <hr style="border-color:var(--octo-border); margin:0.5rem 0 0.75rem;">
+
+    <!-- Fila inferior: por job -->
+    <div class="row g-2">
+        {% for j in stats.jobs %}
+        <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+            <div class="d-flex justify-content-between align-items-center mb-1">
+                <span style="font-size:0.72rem; color:var(--octo-text); font-weight:600;">{{ j.job }}</span>
+                <span style="font-size:0.7rem; color:var(--octo-muted);">{{ j.reclutados }}/{{ j.total }}</span>
+            </div>
+            <div class="octo-progress">
+                <div class="octo-progress-bar" style="width:{{ j.pct }}%; background:var(--octo-gold);"></div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</div>
