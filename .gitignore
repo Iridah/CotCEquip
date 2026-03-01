@@ -1,0 +1,32 @@
+# Entorno virtual
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Django
+*.log
+db.sqlite3
+staticfiles/
+media/
+
+# Variables de entorno - NUNCA subir esto
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migraciones compiladas (no las migraciones en sí)
+*/migrations/__pycache__/

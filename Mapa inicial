@@ -1,0 +1,31 @@
+CotcEquip/              # Tu raíz actual (donde hiciste git init)
+├── .env                # Ya lo tienes con tus credenciales
+├── manage.py           # Orquestador
+├── .gitignore          # ¡Vital! (env/, pycache, .env, staticfiles/)
+├── CotcEquip/          # Carpeta de configuración (CORE)
+│   ├── init.py
+│   ├── settings.py     # Configuración con environ
+│   ├── urls.py         # Router principal
+│   └── wsgi.py
+├── api/                # Tu aplicación principal
+│   ├── management/     # Para el script de carga de CSV
+│   │   └── commands/
+│   │       └── ingest_travelers.py
+│   ├── migrations/
+│   ├── templates/      # Modularización de UI
+│   │   └── api/
+│   │       ├── components/ # Hero, Filters, Dashboard, Grid
+│   │       └── taverna.html
+│   ├── models.py       # El modelo robusto que enviaste
+│   ├── serializers.py  # El serializer con alias (hp, sp, etc.)
+│   ├── urls.py         # Rutas de la API
+│   └── views.py        # Lógica de renderizado y API
+├── data/               # Origen de la verdad
+│   ├── fixtures/       # El CSV de 265 personajes
+│   └── raw_images/     # El tesoro de imágenes
+└── static/             # Archivos servidos al cliente
+    ├── sprites/        # los sprites que tengo disponible
+    ├── css/
+    ├── js/             # Alpine.js logic
+    ├── raw_images      # las 265 carpetas de travelers sin normalizar
+    └── assets/         # Iconos organizados
