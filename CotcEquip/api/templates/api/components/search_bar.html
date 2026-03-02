@@ -10,7 +10,7 @@
                 <input
                     type="text"
                     class="form-control"
-                    placeholder="Buscar traveler..."
+                    placeholder="Busca aca a tu traveler..."
                     style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
                     hx-get="/roster/search/"
                     hx-trigger="keyup changed delay:300ms"
@@ -50,7 +50,7 @@
                 hx-target="#traveler-grid"
                 hx-include="[name='q'],[name='job'],[name='solo_reclutados']"
             >
-                <option value="">Todos los Elementos</option>
+                <option value="">Todas las Armas / Elementos</option>
                 {% for elemento in elementos %}
                 <option value="{{ elemento }}">{{ elemento }}</option>
                 {% endfor %}

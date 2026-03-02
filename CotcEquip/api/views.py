@@ -60,7 +60,7 @@ def roster_view(request):
         'seis_estrellas':     seis_estrellas,
         'despertados':        despertados,
         'pct_reclutados':     _pct(reclutados, total),
-        'pct_seis_estrellas': _pct(seis_estrellas, reclutados) if reclutados > 0 else 0,
+        'pct_seis_estrellas': _pct(seis_estrellas, total),
         'pct_despertados':    _pct(despertados, reclutados) if reclutados > 0 else 0,
         'jobs':               jobs_stats,
     }
