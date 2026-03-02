@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-stars {
-    font-size: 0.65rem;
+    font-size: 1rem;
     color: var(--octo-gold);
 }
 
@@ -330,4 +330,10 @@ footer {
 
 .htmx-request .htmx-indicator {
     opacity: 1;
+}
+
+/* X-tras*/
+.form-control::placeholder {
+    color: var(--octo-muted) !important;
+    opacity: 1 !important;
 }

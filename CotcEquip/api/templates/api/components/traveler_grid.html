@@ -43,10 +43,10 @@
         </div>
 
         <!-- Job + Elemento -->
-        <div style="font-size:0.65rem; color:var(--octo-muted);">{{ traveler.job }}</div>
+        <div class="card-job">{{ traveler.job }}</div>
 
         <!-- Estrellas -->
-        <div style="font-size:0.6rem; color:var(--octo-gold);">
+        <div class="card-stars">
             {% for i in "12345"|make_list %}
                 {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
             {% endfor %}

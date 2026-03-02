@@ -9,8 +9,9 @@ class Traveler(models.Model):
     name = models.CharField(max_length=100, unique=True)
     rarity = models.IntegerField(default=5)
     job = models.CharField(max_length=50)
-    weapon_type = models.CharField(max_length=50, default='Unknown')
-    element = models.CharField(max_length=100)
+    weapon_type = models.CharField(max_length=50, default='Unknown')   # arma principal
+    element = models.CharField(max_length=20, default='None')
+    weapon_types = models.CharField(max_length=100, default='')        # todos los dominios
     is_released = models.BooleanField(default=True)
 
     # Stats base a nivel 120
