@@ -19,7 +19,7 @@
 <!-- Modal (siempre presente en el DOM, se llena via HTMX) -->
 <div class="modal fade" id="travelerModal" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content" style="background:var(--octo-panel); border:1px solid var(--octo-gold); border-radius:12px;">
+        <div class="modal-content">
             <div id="modal-content-area">
                 <!-- HTMX carga el contenido aquí -->
             </div>
@@ -31,25 +31,30 @@
 
 {% block extra_js %}
 <script>
-// Actualiza el contador del navbar cuando carga la página
-document.addEventListener('DOMContentLoaded', function() {
-    fetch('/api/travelers/?format=json&page_size=1000')
-        .then(r => r.json())
-        .then(data => {
-            const travelers = data.results || [];
-            const reconocidos = travelers.length;
-            const reclutados = travelers.filter(t => t.roster_entry && t.roster_entry.is_obtained).length;
-            document.getElementById('contador-reclutados').textContent = reclutados;
-            document.getElementById('contador-reconocidos').textContent = reconocidos;
-        });
-});
+(function() {
+    var bsModal = null;
 
-// Abre el modal cuando HTMX termina de cargar el contenido
-document.body.addEventListener('htmx:afterSwap', function(e) {
-    if (e.detail.target.id === 'modal-content-area') {
-        var modal = new bootstrap.Modal(document.getElementById('travelerModal'));
-        modal.show();
+    function getModal() {
+        if (!bsModal) {
+            bsModal = new bootstrap.Modal(document.getElementById('travelerModal'));
+        }
+        return bsModal;
     }
-});
+
+    // Abre el modal solo si no está visible
+    document.body.addEventListener('htmx:afterSwap', function(e) {
+        if (e.detail.target.id === 'modal-content-area') {
+            var el = document.getElementById('travelerModal');
+            if (!el.classList.contains('show')) {
+                getModal().show();
+            }
+        }
+    });
+
+    // Limpia la instancia cuando el modal se cierra
+    document.getElementById('travelerModal').addEventListener('hidden.bs.modal', function() {
+        bsModal = null;
+    });
+})();
 </script>
 {% endblock %}

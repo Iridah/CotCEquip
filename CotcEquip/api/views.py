@@ -60,18 +60,20 @@ def roster_view(request):
         'seis_estrellas':     seis_estrellas,
         'despertados':        despertados,
         'pct_reclutados':     _pct(reclutados, total),
-        'pct_seis_estrellas': _pct(seis_estrellas, total),
+        'pct_seis_estrellas': _pct(seis_estrellas, reclutados) if reclutados > 0 else 0,
         'pct_despertados':    _pct(despertados, reclutados) if reclutados > 0 else 0,
         'jobs':               jobs_stats,
     }
 
     jobs      = Traveler.objects.values_list('job', flat=True).distinct().order_by('job')
+    armas     = Traveler.objects.values_list('weapon_type', flat=True).distinct().order_by('weapon_type')
     elementos = Traveler.objects.values_list('element', flat=True).distinct().order_by('element')
 
     return render(request, 'api/roster.html', {
         'travelers': travelers,
         'stats':     stats,
         'jobs':      jobs,
+        'armas':     armas,
         'elementos': elementos,
     })
 
@@ -80,15 +82,18 @@ def roster_search(request):
     """Búsqueda y filtros via HTMX, retorna solo la grilla."""
     travelers = Traveler.objects.prefetch_related('roster_entry').order_by('name')
 
-    q              = request.GET.get('q', '').strip()
-    job            = request.GET.get('job', '').strip()
-    elemento       = request.GET.get('element', '').strip()
+    q               = request.GET.get('q', '').strip()
+    job             = request.GET.get('job', '').strip()
+    weapon          = request.GET.get('weapon', '').strip()
+    elemento        = request.GET.get('element', '').strip()
     solo_reclutados = request.GET.get('solo_reclutados', '')
 
     if q:
         travelers = travelers.filter(name__icontains=q)
     if job:
         travelers = travelers.filter(job=job)
+    if weapon:
+        travelers = travelers.filter(weapon_type=weapon)
     if elemento:
         travelers = travelers.filter(element=elemento)
     if solo_reclutados:

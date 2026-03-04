@@ -4,68 +4,55 @@
 {% for traveler in travelers %}
 
 {% with entry=traveler.roster_entry %}
-{% with sprite_path="sprites/"|add:traveler.name|add:"_Sprite.webp" %}
 
 <div class="col-6 col-sm-4 col-md-3 col-lg-2">
     <div
-        class="octo-panel p-2 text-center h-100 traveler-card {% if entry and entry.is_obtained %}card-obtenido{% endif %}"
-        style="cursor:pointer; transition: transform 0.15s, border-color 0.15s;"
+        class="traveler-card text-center h-100 {% if entry and entry.is_obtained %}card-obtenido{% endif %}{% if entry and entry.is_6_stars %} card-sixstar{% endif %}"
         hx-get="/roster/traveler/{{ traveler.id }}/modal/"
         hx-target="#modal-content-area"
         hx-trigger="click"
-        onmouseover="this.style.transform='translateY(-3px)'; this.style.borderColor='var(--octo-gold)';"
-        onmouseout="this.style.transform=''; this.style.borderColor='var(--octo-border)';"
     >
-        <!-- Indicador obtenido -->
         {% if entry and entry.is_obtained %}
-        <div class="mb-1">
-            <span style="font-size:0.6rem; letter-spacing:1px; text-transform:uppercase; color:#34d399;">● Reclutado</span>
-        </div>
+        <div class="card-status-obtained">● Reclutado</div>
         {% else %}
-        <div class="mb-1">
-            <span style="font-size:0.6rem; letter-spacing:1px; text-transform:uppercase; color:var(--octo-muted);">○ No obtenido</span>
-        </div>
+        <div class="card-status-missing">○ No obtenido</div>
         {% endif %}
 
-        <!-- Sprite -->
-        <div style="height:80px; display:flex; align-items:center; justify-content:center;">
+        <div class="card-sprite-container">
             <img
                 src="{{ traveler.sprite_url }}"
                 alt="{{ traveler.name }}"
-                style="max-height:80px; max-width:70px; object-fit:contain; image-rendering:pixelated;"
+                class="card-sprite"
                 onerror="this.onerror=null; this.src='{{ traveler.sprite_fallback }}'"
             >
         </div>
 
-        <!-- Nombre -->
-        <div class="mt-1" style="font-size:0.75rem; font-weight:600; color:var(--octo-text); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
-            {{ traveler.name }}
-        </div>
-
-        <!-- Job + Elemento -->
+        <div class="card-name">{{ traveler.name }}</div>
         <div class="card-job">{{ traveler.job }}</div>
 
-        <!-- Estrellas -->
-        <div class="card-stars">
-            {% for i in "12345"|make_list %}
-                {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
-            {% endfor %}
+        <div class="d-flex align-items-center justify-content-center gap-1">
+            {% if entry and entry.awakening_level == 4 %}
+            <img src="{% static 'assets/icons/Awakening_IV.png' %}" alt="IV" class="card-awakening-icon">
+            {% endif %}
+            <div class="card-stars {% if entry and entry.is_6_stars %}sixstar{% endif %}">
+                {% for i in "12345"|make_list %}
+                    {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
+                {% endfor %}
+            </div>
         </div>
 
-        <!-- Awakening level si está obtenido -->
-        {% if entry and entry.is_obtained and entry.awakening_level > 0 %}
-        <div style="font-size:0.6rem; color:#a78bfa;">✦{{ entry.awakening_level }}</div>
+        {% if entry and entry.awakening_level > 0 and entry.awakening_level < 4 %}
+        <div class="card-awakening">✦{{ entry.awakening_level }}</div>
         {% endif %}
 
     </div>
 </div>
 
 {% endwith %}
-{% endwith %}
 
 {% empty %}
-<div class="col-12 text-center py-5" style="color:var(--octo-muted);">
-    <div style="font-size:3rem;">⚔️</div>
+<div class="col-12 text-center py-5 card-empty">
+    <div class="card-empty-icon">⚔️</div>
     <div class="octo-font mt-2">No se encontraron travelers</div>
 </div>
 {% endfor %}
