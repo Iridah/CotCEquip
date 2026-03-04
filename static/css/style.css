@@ -15,6 +15,7 @@
     --octo-purple:  #c084fc;
     --octo-teal:    #2dd4bf;
     --octo-red:     #f87171;
+    --octo-sixstar: #cefffe;
 }
 
 /* ── Reset & Base ────────────────────────────────────────── */
@@ -185,11 +186,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .traveler-card.card-obtenido {
-    border-color: rgba(74, 222, 128, 0.3);
+    border-color: rgba(201, 168, 76, 0.3);
 }
 
 .traveler-card.card-obtenido:hover {
-    border-color: var(--octo-green);
+    border-color: var(--octo-gold);
+}
+
+.traveler-card.card-sixstar {
+    border-color: rgba(206, 255, 254, 0.3);
+}
+
+.traveler-card.card-sixstar:hover {
+    border-color: var(--octo-sixstar);
 }
 
 .card-status {
@@ -214,15 +223,55 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--octo-muted);
 }
 
+.card-awakening {
+    font-size: 1rem;
+    color: var(--octo-purple);
+}
+
+.card-status-obtained {
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--octo-gold);
+    margin-bottom: 4px;
+}
+
+.card-status-missing {
+    font-size: 0.6rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--octo-muted);
+    margin-bottom: 4px;
+}
+
+.card-sprite-container {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-sprite {
+    max-height: 80px;
+    max-width: 70px;
+    object-fit: contain;
+    image-rendering: pixelated;
+}
+
+.card-awakening-icon {
+    height: 2rem;
+}
+
 .card-stars {
     font-size: 1rem;
     color: var(--octo-gold);
 }
 
-.card-awakening {
-    font-size: 0.6rem;
-    color: var(--octo-purple);
+.card-stars.sixstar {
+    color: var(--octo-sixstar);
 }
+
+
 
 /* ── Modal ───────────────────────────────────────────────── */
 .modal-content {
@@ -330,10 +379,4 @@ footer {
 
 .htmx-request .htmx-indicator {
     opacity: 1;
-}
-
-/* X-tras*/
-.form-control::placeholder {
-    color: var(--octo-muted) !important;
-    opacity: 1 !important;
 }

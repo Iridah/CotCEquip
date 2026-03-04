@@ -2,55 +2,67 @@
     <div class="row g-2 align-items-center">
 
         <!-- Búsqueda por nombre -->
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-3">
             <div class="input-group">
-                <span class="input-group-text" style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-muted);">
-                    🔍
-                </span>
+                <span class="input-group-text">🔍</span>
                 <input
                     type="text"
-                    class="form-control"
-                    placeholder="Busca aca a tu traveler..."
-                    style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                    class="form-control octo-input"
+                    placeholder="Busca a tu traveler..."
                     hx-get="/roster/search/"
                     hx-trigger="keyup changed delay:300ms"
                     hx-target="#traveler-grid"
-                    hx-include="[name='job'],[name='element'],[name='solo_reclutados']"
+                    hx-include="[name='job'],[name='weapon'],[name='element'],[name='solo_reclutados']"
                     name="q"
                 >
             </div>
         </div>
 
         <!-- Filtro por Job -->
-        <div class="col-6 col-md-3">
+        <div class="col-6 col-md-2">
             <select
-                class="form-select"
-                style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                class="form-select octo-input"
                 name="job"
                 hx-get="/roster/search/"
                 hx-trigger="change"
                 hx-target="#traveler-grid"
-                hx-include="[name='q'],[name='element'],[name='solo_reclutados']"
+                hx-include="[name='q'],[name='weapon'],[name='element'],[name='solo_reclutados']"
             >
-                <option value="">Todos los Jobs</option>
+                <option value="">Todas las clases</option>
                 {% for job in jobs %}
                 <option value="{{ job }}">{{ job }}</option>
                 {% endfor %}
             </select>
         </div>
 
-        <!-- Filtro por Elemento -->
-        <div class="col-6 col-md-3">
+        <!-- Filtro por Arma -->
+        <div class="col-6 col-md-2">
             <select
-                class="form-select"
-                style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                class="form-select octo-input"
+                name="weapon"
+                hx-get="/roster/search/"
+                hx-trigger="change"
+                hx-target="#traveler-grid"
+                hx-include="[name='q'],[name='job'],[name='element'],[name='solo_reclutados']"
+            >
+                <option value="">Todas las armas</option>
+                {% for arma in armas %}
+                <option value="{{ arma }}">{{ arma }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <!-- Filtro por Elemento -->
+        <div class="col-6 col-md-2">
+            <select
+                class="form-select octo-input"
                 name="element"
                 hx-get="/roster/search/"
                 hx-trigger="change"
                 hx-target="#traveler-grid"
-                hx-include="[name='q'],[name='job'],[name='solo_reclutados']"
+                hx-include="[name='q'],[name='job'],[name='weapon'],[name='solo_reclutados']"
             >
-                <option value="">Todas las Armas / Elementos</option>
+                <option value="">Todos los elementos</option>
                 {% for elemento in elementos %}
                 <option value="{{ elemento }}">{{ elemento }}</option>
                 {% endfor %}
@@ -58,23 +70,21 @@
         </div>
 
         <!-- Toggle solo reclutados -->
-        <div class="col-12 col-md-2 text-center">
-            <div class="form-check form-switch d-flex justify-content-center align-items-center gap-2">
+        <div class="col-6 col-md-3 d-flex align-items-center justify-content-center gap-2">
+            <div class="form-check form-switch">
                 <input
                     class="form-check-input"
                     type="checkbox"
+                    role="switch"
                     id="soloReclutados"
                     name="solo_reclutados"
                     value="1"
-                    style="cursor:pointer;"
                     hx-get="/roster/search/"
                     hx-trigger="change"
                     hx-target="#traveler-grid"
-                    hx-include="[name='q'],[name='job'],[name='element']"
+                    hx-include="[name='q'],[name='job'],[name='weapon'],[name='element']"
                 >
-                <label class="form-check-label" for="soloReclutados" style="color:var(--octo-muted); font-size:0.85rem; cursor:pointer;">
-                    Solo míos
-                </label>
+                <label class="form-check-label" for="soloReclutados">Solo míos</label>
             </div>
         </div>
 
