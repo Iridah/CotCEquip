@@ -1,168 +1,149 @@
-{% load static %}
-
-{% with entry=traveler.roster_entry %}
-{% with sprite_path="sprites/"|add:traveler.name|add:"_Sprite.webp" %}
-
 <!-- Header del modal -->
-<div class="modal-header" style="border-bottom:1px solid var(--octo-border);">
-    <div style="height:80px; display:flex; align-items:center; justify-content:center;">
-        <img
-            src="{{ traveler.sprite_url }}"
-            alt="{{ traveler.name }}"
-            style="max-height:80px; max-width:70px; object-fit:contain; image-rendering:pixelated;"
-            onerror="this.onerror=null; this.src='{{ traveler.sprite_fallback }}'"
-        >
+<div class="modal-header">
+    <div class="card-sprite-container me-3">
+        <img src="{{ traveler.sprite_url }}" alt="{{ traveler.name }}" class="card-sprite"
+            onerror="this.onerror=null; this.src='{{ traveler.sprite_fallback }}'">
     </div>
-            <h5 class="modal-title octo-font text-gold mb-0">{{ traveler.name }}</h5>
-            <div style="font-size:0.75rem; color:var(--octo-muted);">{{ traveler.job }} · {{ traveler.element }}</div>
-            <div style="color:var(--octo-gold); font-size:0.8rem;">
-                {% for i in "12345"|make_list %}
-                    {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
-                {% endfor %}
-            </div>
+    <div>
+        <h5 class="modal-title octo-font text-gold mb-0">{{ traveler.name }}</h5>
+        <div style="font-size:0.75rem; color:var(--octo-muted);">{{ traveler.job }} · {{ traveler.element }}</div>
+        <div class="card-stars {% if entry and entry.is_6_stars %}sixstar{% endif %}">
+            {% for i in "12345"|make_list %}
+                {% if forloop.counter <= traveler.rarity %}★{% else %}☆{% endif %}
+            {% endfor %}
         </div>
     </div>
-    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+    <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal"></button>
 </div>
 
 <!-- Body del modal -->
-<div class="modal-body">
-    <form
-        hx-post="/roster/traveler/{{ traveler.id }}/update/"
-        hx-target="#modal-content-area"
-        hx-swap="innerHTML"
-    >
+<div class="modal-body" style="
+    background-image: linear-gradient(to right, rgba(28,28,36,0.95) 40%, rgba(28,28,36,0.5) 100%), url('{{ traveler.art_url }}');
+    background-size: cover;
+    background-position: right center;
+">
+    <form hx-post="/roster/traveler/{{ traveler.id }}/update/"
+          hx-target="#modal-content-area"
+          hx-swap="innerHTML">
         {% csrf_token %}
-
         <div class="row g-3">
 
-            <!-- Columna izquierda: estado del roster -->
+            <!-- Columna izquierda -->
             <div class="col-md-6">
                 <div class="octo-panel p-3">
-                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Estado</div>
+                    <div class="section-label">Estado</div>
 
-                    <!-- Reclutado -->
                     <div class="form-check form-switch mb-2">
                         <input class="form-check-input" type="checkbox" id="is_obtained" name="is_obtained" value="true"
                             {% if entry and entry.is_obtained %}checked{% endif %}>
                         <label class="form-check-label" for="is_obtained">Reclutado</label>
                     </div>
 
-                    <!-- 6 Estrellas -->
-                    <div class="form-check form-switch mb-2">
+                    <div class="form-check form-switch mb-3">
                         <input class="form-check-input" type="checkbox" id="is_6_stars" name="is_6_stars" value="true"
                             {% if entry and entry.is_6_stars %}checked{% endif %}>
                         <label class="form-check-label" for="is_6_stars">6 Estrellas</label>
                     </div>
 
                     <!-- Nivel actual -->
-                    <div class="mb-2">
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Nivel actual</label>
-                        <input type="number" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                    <div class="mb-3">
+                        <label class="form-label octo-label">Nivel actual</label>
+                        <input type="number" class="form-control form-control-sm octo-input"
                             name="current_level" min="1" max="120"
                             value="{{ entry.current_level|default:1 }}">
                     </div>
 
-                    <!-- Awakening Level -->
-                    <div class="mb-2">
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Awakening Level (0-4)</label>
-                        <input type="number" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
-                            name="awakening_level" min="0" max="4"
-                            value="{{ entry.awakening_level|default:0 }}">
+                    <!-- Awakening slider -->
+                    <div class="mb-3">
+                        <label class="form-label octo-label">Awakening Level: <span id="awk-val">{{ entry.awakening_level|default:0 }}</span></label>
+                        <input type="range" class="form-range" name="awakening_level" min="0" max="4"
+                            value="{{ entry.awakening_level|default:0 }}"
+                            oninput="document.getElementById('awk-val').textContent = this.value">
+                        <div id="trust-accessory-msg" class="mt-1" style="font-size:0.7rem; color:var(--octo-purple); {% if entry.awakening_level != 4 %}display:none;{% endif %}">
+                            ✦ Trust Accessory desbloqueado
+                        </div>
                     </div>
 
                     <!-- Ultimate Level -->
-                    <div class="mb-2">
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Ultimate Level (0-20)</label>
-                        <input type="number" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                    <div class="mb-3">
+                        <label class="form-label octo-label">Ultimate Level (0-20)</label>
+                        <input type="number" class="form-control form-control-sm octo-input"
                             name="ultimate_level" min="0" max="20"
                             value="{{ entry.ultimate_level|default:0 }}">
                     </div>
 
-                    <!-- Ultimate Awakened -->
                     <div class="form-check form-switch mb-2">
                         <input class="form-check-input" type="checkbox" id="is_ultimate_awakened" name="is_ultimate_awakened" value="true"
                             {% if entry and entry.is_ultimate_awakened %}checked{% endif %}>
-                        <label class="form-check-label" for="is_ultimate_awakened">Ultimate Awakened</label>
+                        <label class="form-check-label" for="is_ultimate_awakened">
+                            Ultimate Awakened
+                            <span style="font-size:0.65rem; color:var(--octo-muted);">(Requiere Awakening Stone ★5)</span>
+                        </label>
                     </div>
 
-                    <!-- Overcharge -->
                     <div class="form-check form-switch">
                         <input class="form-check-input" type="checkbox" id="has_ultimate_overcharge" name="has_ultimate_overcharge" value="true"
                             {% if entry and entry.has_ultimate_overcharge %}checked{% endif %}>
-                        <label class="form-check-label" for="has_ultimate_overcharge">Overcharge</label>
+                        <label class="form-check-label" for="has_ultimate_overcharge">
+                            Ultimate Overcharge
+                            <span style="font-size:0.65rem; color:var(--octo-muted);">(Requiere Esoteric Orb)</span>
+                        </label>
                     </div>
                 </div>
             </div>
 
-            <!-- Columna derecha: stats base -->
+            <!-- Columna derecha -->
             <div class="col-md-6">
-                <div class="octo-panel p-3">
-                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Stats Lv.120</div>
-
+                <div class="octo-panel p-3 mb-3">
+                    <div class="section-label">Stats Lv.120</div>
                     <div class="row g-1" style="font-size:0.8rem;">
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">❤️ HP</span>
-                            <span class="fw-bold">{{ traveler.hp_120 }}</span>
+                            <span class="text-muted">❤️ HP</span><span class="fw-bold">{{ traveler.hp_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">💧 SP</span>
-                            <span class="fw-bold">{{ traveler.sp_120 }}</span>
+                            <span class="text-muted">💧 SP</span><span class="fw-bold">{{ traveler.sp_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">⚔️ P.Atk</span>
-                            <span class="fw-bold">{{ traveler.p_atk_120 }}</span>
+                            <span class="text-muted">⚔️ P.Atk</span><span class="fw-bold">{{ traveler.p_atk_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">🛡️ P.Def</span>
-                            <span class="fw-bold">{{ traveler.p_def_120 }}</span>
+                            <span class="text-muted">🛡️ P.Def</span><span class="fw-bold">{{ traveler.p_def_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">✨ E.Atk</span>
-                            <span class="fw-bold">{{ traveler.e_atk_120 }}</span>
+                            <span class="text-muted">✨ E.Atk</span><span class="fw-bold">{{ traveler.e_atk_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">🔮 E.Def</span>
-                            <span class="fw-bold">{{ traveler.e_def_120 }}</span>
+                            <span class="text-muted">🔮 E.Def</span><span class="fw-bold">{{ traveler.e_def_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">💥 Crit</span>
-                            <span class="fw-bold">{{ traveler.crit_120 }}</span>
+                            <span class="text-muted">💥 Crit</span><span class="fw-bold">{{ traveler.crit_120 }}</span>
                         </div>
                         <div class="col-6 d-flex justify-content-between">
-                            <span style="color:var(--octo-muted);">💨 Spd</span>
-                            <span class="fw-bold">{{ traveler.spd_120 }}</span>
+                            <span class="text-muted">💨 Spd</span><span class="fw-bold">{{ traveler.spd_120 }}</span>
                         </div>
                     </div>
                 </div>
 
-                <!-- Equipamiento -->
-                <div class="octo-panel p-3 mt-3">
-                    <div class="octo-font text-gold mb-3" style="font-size:0.8rem; letter-spacing:2px; text-transform:uppercase;">Equipamiento</div>
+                <div class="octo-panel p-3">
+                    <div class="section-label">Equipamiento</div>
 
                     <div class="mb-2">
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Arma</label>
-                        <input type="text" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                        <label class="form-label octo-label">Arma</label>
+                        <input type="text" class="form-control form-control-sm octo-input"
                             name="current_weapon" placeholder="Nombre del arma..."
                             value="{{ entry.current_weapon|default:'' }}">
                     </div>
 
                     <div class="mb-2">
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Souls del arma (0-8)</label>
-                        <input type="number" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
-                            name="weapon_souls_count" min="0" max="8"
-                            value="{{ entry.weapon_souls_count|default:0 }}">
+                        <label class="form-label octo-label">Souls del arma: <span id="souls-val">{{ entry.weapon_souls_count|default:0 }}</span></label>
+                        <input type="range" class="form-range" name="weapon_souls_count" min="0" max="4"
+                            value="{{ entry.weapon_souls_count|default:0 }}"
+                            oninput="document.getElementById('souls-val').textContent = this.value">
                     </div>
 
                     <div>
-                        <label class="form-label" style="font-size:0.8rem; color:var(--octo-muted);">Armadura</label>
-                        <input type="text" class="form-control form-control-sm"
-                            style="background:var(--octo-dark); border-color:var(--octo-border); color:var(--octo-text);"
+                        <label class="form-label octo-label">Armadura</label>
+                        <input type="text" class="form-control form-control-sm octo-input"
                             name="current_armor" placeholder="Nombre de la armadura..."
                             value="{{ entry.current_armor|default:'' }}">
                     </div>
@@ -171,16 +152,9 @@
 
         </div>
 
-        <!-- Footer del form -->
         <div class="mt-3 d-flex justify-content-end gap-2">
-            <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-dismiss="modal">Cancelar</button>
-            <button type="submit" class="btn btn-sm" style="background:var(--octo-gold); color:#000; font-weight:bold;">
-                Guardar cambios
-            </button>
+            <button type="button" class="btn btn-sm btn-octo-secondary" data-bs-dismiss="modal">Cancelar</button>
+            <button type="submit" class="btn btn-sm btn-octo-primary">Guardar cambios</button>
         </div>
-
     </form>
 </div>
-
-{% endwith %}
-{% endwith %}
