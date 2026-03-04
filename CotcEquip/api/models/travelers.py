@@ -54,6 +54,11 @@ class Traveler(models.Model):
         from django.templatetags.static import static
         return static('sprites/question.png')
     
+    @property
+    def art_url(self):
+        from django.templatetags.static import static
+        return static(f"raw_images/{self.name}/{self.name}.png")
+    
     def __str__(self):
         return self.name
 
@@ -95,7 +100,6 @@ class RosterEntry(models.Model):
     current_armor = models.CharField(max_length=100, blank=True, null=True)
 
     updated_at = models.DateTimeField(auto_now=True)
-
     class Meta:
         db_table = 'roster_entries'
 

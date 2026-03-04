@@ -1,6 +1,7 @@
 from django.shortcuts import get_object_or_404, render
 from django.db.models import Count, Q
 from django.views.decorators.http import require_http_methods
+from django.http import HttpResponse
 from rest_framework import viewsets, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
@@ -138,7 +139,7 @@ def traveler_update(request, pk):
     entry.save()
 
     traveler.refresh_from_db()
-    return render(request, 'api/components/traveler_modal.html', {
-        'traveler': traveler,
-        'saved':    True,
-    })
+    context = {'traveler': traveler, 'saved': True}
+    response = render(request, 'api/components/traveler_modal.html', context)
+    response['HX-Trigger'] = 'closeModal'
+    return response
