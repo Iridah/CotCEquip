@@ -331,6 +331,12 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--octo-text);
 }
 
+.octo-label {
+    font-size: 0.8rem;
+    color: var(--octo-muted);
+    margin-bottom: 4px;
+}
+
 /* ── Buttons ─────────────────────────────────────────────── */
 .btn-octo-primary {
     background: var(--octo-gold);
