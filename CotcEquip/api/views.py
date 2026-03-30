@@ -106,12 +106,11 @@ def roster_search(request):
 
 
 def traveler_modal(request, pk):
-    """Retorna el contenido del modal via HTMX."""
     traveler = get_object_or_404(Traveler, pk=pk)
-    RosterEntry.objects.get_or_create(traveler=traveler)
-    traveler.refresh_from_db()
+    entry, _ = RosterEntry.objects.get_or_create(traveler=traveler)
     return render(request, 'api/components/traveler_modal.html', {
         'traveler': traveler,
+        'entry': entry,
     })
 
 
@@ -139,7 +138,7 @@ def traveler_update(request, pk):
     entry.save()
 
     traveler.refresh_from_db()
-    context = {'traveler': traveler, 'saved': True}
+    context = {'traveler': traveler, 'entry': entry, 'saved': True} 
     response = render(request, 'api/components/traveler_modal.html', context)
     response['HX-Trigger'] = 'closeModal'
     return response
