@@ -7,6 +7,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
     path('', include('api.urls')), # La app api maneja la raíz y los endpoints
+    path('rankings/', include('rankings.urls')),
+    path('weapons/', include('weapons.urls')),
 ]
 
 if settings.DEBUG:

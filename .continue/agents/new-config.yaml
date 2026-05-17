@@ -1,0 +1,36 @@
+# This is an example configuration file
+# To learn more, see the full config.yaml reference: https://docs.continue.dev/reference
+
+name: Personalizado
+version: 1.0.0
+schema: v1
+
+# Define which models can be used
+# https://docs.continue.dev/customization/models
+{
+  "models": [
+    {
+      "title": "Qwen Coder 2.5",
+      "provider": "ollama",
+      "model": "qwen2.5-coder",
+      "apiBase": "http://192.168.7.100:11434"
+    },
+    {
+      "title": "Mistral Nemo",
+      "provider": "ollama",
+      "model": "mistral-nemo",
+      "apiBase": "http://192.168.7.100:11434"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "Qwen Autocomplete",
+    "provider": "ollama",
+    "model": "qwen2.5-coder",
+    "apiBase": "http://192.168.7.100:11434"
+  }
+}
+
+# MCP Servers that Continue can access
+# https://docs.continue.dev/customization/mcp-tools
+mcpServers:
+  - uses: anthropic/memory-mcp

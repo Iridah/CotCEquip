@@ -2,15 +2,25 @@
 ingest_travelers.py (version unificada)
 Uso: python ingest_travelers.py <ruta_al_csv>
 """
-
-import csv, os, re, sys
+import csv
+import os
+import re
+import sys
+from pathlib import Path
 from urllib.parse import unquote
 
+import environ
+import pandas as pd
+import psycopg2
+
+env = environ.Env()
+environ.Env.read_env(Path(__file__).resolve().parent.parent.parent / 'CotcEquip' / '.env')
+
 DB_CONFIG = {
-    'dbname':   'cotc_db',
-    'user':     'cotc_user',
-    'password': '***PURGED-DB-PASSWORD***',
-    'host':     '127.0.0.1',
+    'dbname':   env('DB_NAME'),
+    'user':     env('DB_USER'),
+    'password': env('DB_PASSWORD'),
+    'host':     env('DB_HOST'),
     'port':     5432,
 }
 

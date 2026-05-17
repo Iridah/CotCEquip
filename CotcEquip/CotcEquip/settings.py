@@ -44,6 +44,11 @@ INSTALLED_APPS = [
     'corsheaders',
     # Local
     'api',
+    'rankings',
+    'weapons',
+    #'armors',
+    #'accesories',
+    #'pets',
 ]
 
 MIDDLEWARE = [
@@ -118,14 +123,14 @@ USE_I18N = True
 USE_TZ = True
 
 # Estáticos
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR.parent, 'static'),
+    BASE_DIR.parent / 'static',
 ]
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # Media
-MEDIA_URL = 'media/'
-MEDIA_ROOT = BASE_DIR / 'data/raw_images'
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR.parent / 'data' / 'raw_images'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

@@ -1,0 +1,94 @@
+{% extends 'api/base.html' %}
+{% load static %}
+
+{% block title %}Weapons · CotC Equip{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+    <h2 class="octo-font text-gold mb-1">Weapons</h2>
+    <p style="font-size:0.75rem; color:var(--octo-muted);">Catálogo de armas · Cap. 1</p>
+</div>
+
+<!-- Filtros -->
+<div class="octo-panel p-3 mb-4">
+    <form method="get" class="row g-2 align-items-center">
+        <div class="col-auto">
+            <select name="type" class="form-select form-select-sm octo-input">
+                <option value="">Todos los tipos</option>
+                {% for wt in weapon_types %}
+                    <option value="{{ wt }}" {% if wt == tipo %}selected{% endif %}>{{ wt }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-auto">
+            <input type="text" name="q" class="form-control form-control-sm octo-input"
+                placeholder="Buscar arma..." value="{{ q }}">
+        </div>
+        <div class="col-auto">
+            <div class="form-check form-switch mb-0">
+                <input class="form-check-input" type="checkbox" name="solo_soul" id="solo_soul"
+                    {% if solo_soul %}checked{% endif %} onchange="this.form.submit()">
+                <label class="form-check-label" for="solo_soul" style="font-size:0.8rem; color:var(--octo-muted);">Soul Weapons</label>
+            </div>
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-sm btn-octo-primary">Filtrar</button>
+            <a href="/weapons/" class="btn btn-sm btn-octo-secondary ms-1">Limpiar</a>
+        </div>
+    </form>
+</div>
+
+<!-- Tabla -->
+<div class="octo-panel p-0" style="overflow-x:auto;">
+    <table class="table table-dark mb-0" style="font-size:0.82rem;">
+        <thead>
+            <tr style="border-bottom:1px solid var(--octo-border); color:var(--octo-muted); font-size:0.7rem; letter-spacing:1px; text-transform:uppercase;">
+                <th class="ps-3">Nombre</th>
+                <th>Tipo</th>
+                <th class="text-center">Lv. Req</th>
+                <th class="text-center">P.Atk</th>
+                <th class="text-center">E.Atk</th>
+                <th class="text-center">P.Def</th>
+                <th class="text-center">E.Def</th>
+                <th class="text-center">SPD</th>
+                <th class="text-center">CRIT</th>
+                <th class="text-center">HP</th>
+                <th class="text-center">SP</th>
+                <th>Efecto</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for w in weapons %}
+            <tr style="border-bottom:1px solid var(--octo-border);">
+                <td class="ps-3 fw-bold" style="color:{% if w.is_soul_weapon %}var(--octo-purple){% else %}var(--octo-text){% endif %};">
+                    {{ w.name }}
+                    {% if w.is_soul_weapon %}
+                        <span style="font-size:0.65rem; color:var(--octo-muted);">· {{ w.soul_series }}</span>
+                    {% endif %}
+                </td>
+                <td>
+                    <img src="{% static 'assets/roles/' %}{{ w.weapon_type }}.png"
+                        alt="{{ w.weapon_type }}" style="width:18px; height:18px; margin-right:4px;"
+                        onerror="this.style.display='none'">
+                    <span style="color:var(--octo-muted);">{{ w.weapon_type }}</span>
+                </td>
+                <td class="text-center" style="color:var(--octo-muted);">{{ w.level_req }}</td>
+                <td class="text-center">{% if w.p_atk %}<span class="fw-bold" style="color:var(--octo-text);">{{ w.p_atk }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.e_atk %}<span class="fw-bold" style="color:var(--octo-text);">{{ w.e_atk }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.p_def %}<span style="color:var(--octo-muted);">{{ w.p_def }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.e_def %}<span style="color:var(--octo-muted);">{{ w.e_def }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.spd %}<span style="color:var(--octo-teal);">{{ w.spd }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.crit %}<span style="color:var(--octo-gold);">{{ w.crit }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.hp %}<span style="color:var(--octo-green);">{{ w.hp }}</span>{% else %}—{% endif %}</td>
+                <td class="text-center">{% if w.sp %}<span style="color:var(--octo-sixstar);">{{ w.sp }}</span>{% else %}—{% endif %}</td>
+                <td style="color:var(--octo-muted); font-size:0.75rem; max-width:200px;">{{ w.extra|default:"—" }}</td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="12" class="text-center py-4" style="color:var(--octo-muted);">No se encontraron armas.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

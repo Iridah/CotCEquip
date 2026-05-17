@@ -1,0 +1,91 @@
+{% extends 'api/base.html' %}
+{% load static %}
+
+{% block title %}Rankings · CotC Equip{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+    <h2 class="octo-font text-gold mb-1">Rankings</h2>
+    <p style="font-size:0.75rem; color:var(--octo-muted);">Escala relativa basada en stats Lv.120. Healer, Buffer, Debuffer y Breaker disponibles cuando se agreguen skills a la BD.</p>
+</div>
+
+<!-- Tabla -->
+<div class="octo-panel p-0" style="overflow-x:auto;">
+    <table class="table table-dark mb-0" style="font-size:0.82rem;">
+        <thead>
+            <tr style="border-bottom:1px solid var(--octo-border); color:var(--octo-muted); font-size:0.7rem; letter-spacing:1px; text-transform:uppercase;">
+                <th class="ps-3">Sprite</th>
+                <th>Nombre</th>
+                <th>Rareza</th>
+                <th>Clase</th>
+                <th>Elemento</th>
+                <th class="text-center">PDPS</th>
+                <th class="text-center">EDPS</th>
+                <th class="text-center">Tankiness</th>
+                <th class="text-center text-muted">Healer</th>
+                <th class="text-center text-muted">Buffer</th>
+                <th class="text-center text-muted">Debuffer</th>
+                <th class="text-center text-muted">Breaker</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for r in results %}
+            <tr style="border-bottom:1px solid var(--octo-border);">
+                <td class="ps-3">
+                    <div class="card-sprite-container" style="width:40px; height:40px;">
+                        <img src="{{ r.sprite_url }}" alt="{{ r.name }}" class="card-sprite">
+                    </div>
+                </td>
+                <td class="fw-bold" style="color:var(--octo-text);">{{ r.name }}</td>
+                <td>
+                    <span style="color:var(--octo-gold); font-size:0.7rem;">
+                        {% for i in "12345"|make_list %}
+                            {% if forloop.counter <= r.rarity %}★{% endif %}
+                        {% endfor %}
+                    </span>
+                </td>
+                <td style="color:var(--octo-muted);">{{ r.job }}</td>
+                <td style="color:var(--octo-muted);">{{ r.element }}</td>
+                <td class="text-center">
+                    <span class="rank-badge rank-{{ r.pdps_tier|lower|cut:'+' }}">{{ r.pdps_tier }}</span>
+                </td>
+                <td class="text-center">
+                    <span class="rank-badge rank-{{ r.edps_tier|lower|cut:'+' }}">{{ r.edps_tier }}</span>
+                </td>
+                <td class="text-center">
+                    <span class="rank-badge rank-{{ r.tankiness_tier|lower|cut:'+' }}">{{ r.tankiness_tier }}</span>
+                </td>
+                <td class="text-center" style="color:var(--octo-muted);">—</td>
+                <td class="text-center" style="color:var(--octo-muted);">—</td>
+                <td class="text-center" style="color:var(--octo-muted);">—</td>
+                <td class="text-center" style="color:var(--octo-muted);">—</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<style>
+.rank-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    min-width: 36px;
+    text-align: center;
+}
+.rank-splus  { background: #7c3aed; color: #fff; }
+.rank-s      { background: #2563eb; color: #fff; }
+.rank-a      { background: #16a34a; color: #fff; }
+.rank-b      { background: #ca8a04; color: #fff; }
+.rank-c      { background: #ea580c; color: #fff; }
+.rank-d      { background: #dc2626; color: #fff; }
+.rank-e      { background: #7f1d1d; color: #ccc; }
+.rank-f      { background: #1c1c24; color: #555; border: 1px solid #333; }
+.rank-na     { background: transparent; color: var(--octo-muted); }
+</style>
+{% endblock %}
