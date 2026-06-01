@@ -1,0 +1,230 @@
+# Meena
+
+Japanese Name: ミーナ
+Class: ⭐️⭐️⭐️⭐️
+Job: Dancer
+Influence: Fame
+Continent: Orsterra
+Location: Clearbrook
+Attributes: Fan%2026.png, Light%2037.png
+HP (Lv. 120): 3.606
+SP (Lv. 120): 563
+P.Atk (Lv. 120): 292
+P.Def (Lv. 120): 285
+E.Atk (Lv. 120): 446
+E.Def (Lv. 120): 389
+Crit (Lv. 120): 300
+Spd (Lv. 120): 417
+
+## Passive Skills
+
+<aside>
+<img src="https://img.game8.jp/7217335/64466e298c2b6312f3c6f1d07f59f7a0.png/show" alt="https://img.game8.jp/7217335/64466e298c2b6312f3c6f1d07f59f7a0.png/show" width="40px" /> **Enhanced Healing (Joint) (1★)**
+Raise HP recovery skill potency of Paired Allies by 10%.
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" alt="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" width="40px" /> **Hale Light Augment III (3★)**
+At full HP: Raise Light damage of Self by 20%.
+
+</aside>
+
+<aside>
+<img src="Meena/Dark_Resilience.png" alt="Meena/Dark_Resilience.png" width="40px" /> **Dark Resilience III**
+Raise own Dark Res. by 20%.
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-807d-91cf-007a354b5dbe" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-807d-91cf-007a354b5dbe" width="40px" /> **Light Resilience (5★)**
+Raise own Light Res. by 10%.
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. Boost (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+Impart Entire Front Row with Phys. Def. Up 10%.
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up (6★)**
+Raise Self’s Damage Limit by 30,000.
+
+</aside>
+
+## Battle Skills
+
+<aside>
+<img src="Meena/Light.png" alt="Meena/Light.png" width="40px" /> **Dazzling Dance**
+Deal Elem. Light damage to Single Foe (potency: 130). [9 SP]
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Spirited Mole Dance**
+ Impart Entire Front Row with Phys. Def. Up 10% (turns: 2-5 based on Boost Lv.). [12 SP]
+
+</aside>
+
+<aside>
+<img src="Meena/Fan.png" alt="Meena/Fan.png" width="40px" /> **Heavy Blow (1★)**
+Deal Phys. Fan damage to Single Foe (potency: 160). [18 SP]
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Healing Hymn (2★)**
+Restore HP of Entire Front Row (potency: 60). [28 SP]
+
+</aside>
+
+<aside>
+<img src="Meena/Light%201.png" alt="Meena/Light%201.png" width="40px" /> **Radiant Refrain II (2★)**
+Deal Elem. Light damage to All Foes (potency: 145). [32 SP]
+
+<aside>
+<img src="Meena/Light%201.png" alt="Meena/Light%201.png" width="40px" /> **Radiant Refrain II (6★)**
+Deal Elem. Light damage to All Foes (potency: 145) and lower Light Res. by 15% (turns: 2). [32 SP]
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Spirited Mole Dance II (3★)**
+Impart Entire Front Row with Phys. Def. Up 15% (turns: 2-5 based on Boost Lv.). [23 SP]
+
+**Lv.72 |** SP Saver: 23→18
+
+<aside>
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Spirited Mole Dance II (5★)**
+Impart Entire Front Row with Phys. Def. Up 15% (turns: 3-6 based on Boost Lv.). [18 SP]
+
+**Lv.99 |** Duration Up 2-5 turns→3-6 turns
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="Meena/Fan%201.png" alt="Meena/Fan%201.png" width="40px" /> **Stout Twofold Blow (4★)**
+Deal Phys. Fan damage to Single Foe 2 time(s) (potency: 2x115). [40 SP]
+
+**Lv.80 |** SP Saver: 40→32
+
+<aside>
+<img src="Meena/Fan%201.png" alt="Meena/Fan%201.png" width="40px" /> **Stout Twofold Blow (5★)**
+Deal Phys. Fan damage to Single Foe 2 time(s) (potency: **2x130**). [32 SP]
+
+**Lv.100 |** Potency Up: 2x115→2x130
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="Meena/Light%202.png" alt="Meena/Light%202.png" width="40px" /> **Sunlight Ballad IV ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+Deal Elem. Light damage to Single Foe 3 time(s) (potency: 3x85). [54 SP]
+
+</aside>
+
+## Ultimate Technique
+
+<aside>
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Starry Step (Lv. 1→10→20)**
+Restore HP of Entire Front Row (potency: **200→250→300**) and impart with Phys. Def. Up **10%→20%→30%** (turns: 2→3).
+
+<aside>
+<img src="Molrusso%20EX/Backsurge.png" alt="Molrusso%20EX/Backsurge.png" width="40px" />
+
+Overcharge:
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/193ebbc6-5396-8076-8391-007aae0ede08" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/193ebbc6-5396-8076-8391-007aae0ede08" width="40px" />
+
+Backsurge: When consuming 2 gauges, the Ultimate Technique can be activated from the back row. Meanwhile, Paired Ally can also act.
+
+</aside>
+
+</aside>
+
+---
+
+Uses:
+1→2
+
+Initial Gauge:
+20%→30%→40%
+
+Gauge Increase:
+20%/BP→25%/BP→40%/BP→80%/BP
+
+</aside>
+
+## EX skills
+
+<aside>
+<img src="Meena/Light%203.png" alt="Meena/Light%203.png" width="40px" /> **Azure Ballad**
+Deal Elem. Light damage to All Foes 3 time(s) (potency: 3x80) and raise Phys. Def. of Entire Front Row by 15% (turns: 2).
+
+---
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-802c-b9bc-007a54884b6f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-802c-b9bc-007a54884b6f" width="40px" />
+
+Usage Condition: At full HP
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80ba-9f36-007a936447ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80ba-9f36-007a936447ac" width="40px" />
+
+Uses: 2
+
+</aside>
+
+</aside>
+
+## Awakening IV Accessory
+
+<aside>
+<img src="Meena/Awakening_IV.png" alt="Meena/Awakening_IV.png" width="40px" /> **Innocent Dancing Shoes**
+·10 P.Atk, 30 E.Def, 10 SP
+·Raise Phys. Def. of Paired Allies by 10%
+
+</aside>
+
+## Misc.
+
+<aside>
+<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+Oct 28, 2020
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+Jul 27, 2022
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
+
+</aside>
+
+## Artwork
+
+![Meena.png](Meena/Meena.png)

@@ -1,0 +1,150 @@
+{% extends 'api/base.html' %}
+{% load static %}
+ 
+{% block title %}Builder · CotC Equip{% endblock %}
+ 
+{% block content %}
+<div class="mb-4">
+    <h2 class="octo-font text-gold mb-1">Builder</h2>
+    <p style="font-size:0.75rem; color:var(--octo-muted);">Optimizador de equipo · Fase 1</p>
+</div>
+ 
+<div class="row g-4">
+    <!-- Panel izquierdo: input -->
+    <div class="col-lg-4">
+        <div class="octo-panel p-4">
+            <h6 class="octo-font text-gold mb-3" style="letter-spacing:2px; font-size:0.75rem;">TRAVELER</h6>
+ 
+            <!-- Búsqueda de traveler -->
+            <input type="text" id="traveler-search"
+                class="form-control form-control-sm octo-input mb-2"
+                placeholder="Buscar traveler... (ej: zan = Z'aanta)"
+                autocomplete="off">
+ 
+            <select id="traveler-select" size="8"
+                class="form-select octo-input mb-3"
+                style="font-size:0.8rem; background:var(--octo-panel);">
+                {% for t in travelers %}
+                <option value="{{ t.id }}"
+                    data-name="{{ t.name }}"
+                    data-job="{{ t.job }}"
+                    data-hp="{{ t.hp_120 }}"
+                    data-sp="{{ t.sp_120 }}"
+                    data-patk="{{ t.p_atk_120 }}"
+                    data-pdef="{{ t.p_def_120 }}"
+                    data-eatk="{{ t.e_atk_120 }}"
+                    data-edef="{{ t.e_def_120 }}"
+                    data-crit="{{ t.crit_120 }}"
+                    data-spd="{{ t.spd_120 }}">
+                    {{ t.name }}
+                </option>
+                {% endfor %}
+            </select>
+ 
+            <!-- Stats base del traveler seleccionado -->
+            <div id="traveler-stats" class="mb-3" style="display:none;">
+                <h6 class="octo-font text-gold mb-2" style="letter-spacing:2px; font-size:0.7rem;">STATS LV.120</h6>
+                <div class="row g-1" style="font-size:0.78rem;">
+                    <div class="col-6">❤️ HP: <span id="st-hp" class="fw-bold"></span></div>
+                    <div class="col-6">💧 SP: <span id="st-sp" class="fw-bold"></span></div>
+                    <div class="col-6">⚔️ P.Atk: <span id="st-patk" class="fw-bold" style="color:var(--octo-text);"></span></div>
+                    <div class="col-6">🛡️ P.Def: <span id="st-pdef" class="fw-bold" style="color:var(--octo-muted);"></span></div>
+                    <div class="col-6">✨ E.Atk: <span id="st-eatk" class="fw-bold" style="color:var(--octo-gold);"></span></div>
+                    <div class="col-6">💜 E.Def: <span id="st-edef" class="fw-bold" style="color:var(--octo-muted);"></span></div>
+                    <div class="col-6">⚡ Crit: <span id="st-crit" class="fw-bold" style="color:var(--octo-gold);"></span></div>
+                    <div class="col-6">💨 Spd: <span id="st-spd" class="fw-bold" style="color:var(--octo-teal);"></span></div>
+                </div>
+            </div>
+ 
+            <!-- Objetivo -->
+            <h6 class="octo-font text-gold mb-2" style="letter-spacing:2px; font-size:0.7rem;">OBJETIVO</h6>
+            <div class="d-flex flex-wrap gap-2 mb-4">
+                {% for key, val in objectives.items %}
+                <button type="button"
+                    class="btn btn-sm objective-btn {% if key == 'e_atk' %}btn-octo-primary{% else %}btn-octo-secondary{% endif %}"
+                    data-objective="{{ key }}">
+                    {{ val.0 }}
+                </button>
+                {% endfor %}
+            </div>
+ 
+            <!-- Botón optimizar -->
+            <button id="btn-optimize" class="btn btn-octo-primary w-100"
+                hx-post="{% url 'builder_optimize' %}"
+                hx-target="#result-panel"
+                hx-swap="innerHTML"
+                hx-include="#traveler-id-input,#objective-input"
+                disabled>
+                Optimizar
+            </button>
+ 
+            <!-- Inputs ocultos para HTMX -->
+            <input type="hidden" id="traveler-id-input" name="traveler_id" value="">
+            <input type="hidden" id="objective-input"   name="objective"   value="e_atk">
+        </div>
+    </div>
+ 
+    <!-- Panel derecho: resultado -->
+    <div class="col-lg-8">
+        <div class="octo-panel p-4" id="result-panel"
+            style="min-height:300px; display:flex; align-items:center; justify-content:center;">
+            <p style="color:var(--octo-muted); font-size:0.85rem;">
+                Seleccioná un traveler y un objetivo para optimizar.
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}
+ 
+{% block extra_js %}
+<script>
+// Búsqueda de traveler
+document.getElementById('traveler-search').addEventListener('input', function() {
+    const q = this.value.toLowerCase().replace(/['\u2019]/g, '');
+    const opts = document.querySelectorAll('#traveler-select option');
+    opts.forEach(opt => {
+        const name = opt.dataset.name.toLowerCase().replace(/['\u2019]/g, '');
+        opt.style.display = name.includes(q) ? '' : 'none';
+    });
+});
+ 
+// Selección de traveler
+document.getElementById('traveler-select').addEventListener('change', function() {
+    const opt = this.options[this.selectedIndex];
+    if (!opt) return;
+ 
+    document.getElementById('traveler-id-input').value = opt.value;
+    document.getElementById('btn-optimize').disabled = false;
+ 
+    // Mostrar stats
+    document.getElementById('st-hp').textContent   = opt.dataset.hp;
+    document.getElementById('st-sp').textContent   = opt.dataset.sp;
+    document.getElementById('st-patk').textContent = opt.dataset.patk;
+    document.getElementById('st-pdef').textContent = opt.dataset.pdef;
+    document.getElementById('st-eatk').textContent = opt.dataset.eatk;
+    document.getElementById('st-edef').textContent = opt.dataset.edef;
+    document.getElementById('st-crit').textContent = opt.dataset.crit;
+    document.getElementById('st-spd').textContent  = opt.dataset.spd;
+    document.getElementById('traveler-stats').style.display = 'block';
+});
+ 
+// Selección de objetivo
+document.querySelectorAll('.objective-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.objective-btn').forEach(b => {
+            b.classList.remove('btn-octo-primary');
+            b.classList.add('btn-octo-secondary');
+        });
+        this.classList.remove('btn-octo-secondary');
+        this.classList.add('btn-octo-primary');
+        document.getElementById('objective-input').value = this.dataset.objective;
+    });
+});
+
+// CSRF para HTMX
+document.body.addEventListener('htmx:configRequest', function(evt) {
+    evt.detail.headers['X-CSRFToken'] = '{{ csrf_token }}';
+});
+</script>
+
+{% endblock %}

@@ -46,9 +46,10 @@ INSTALLED_APPS = [
     'api',
     'rankings',
     'weapons',
-    #'armors',
-    #'accesories',
+    'armors',
+    'accessories',
     #'pets',
+    'builder',
 ]
 
 MIDDLEWARE = [

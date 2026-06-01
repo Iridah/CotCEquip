@@ -1,0 +1,230 @@
+# Lolo
+
+Japanese Name: ロロ
+Class: ⭐️⭐️⭐️⭐️
+Job: Hunter
+Influence: Fame
+Continent: Orsterra
+Location: Cathedral of Thytos
+Attributes: Bow%2022.png, Staff_Staves%2014.png, Light%2034.png
+HP (Lv. 120): 3.852
+SP (Lv. 120): 461
+P.Atk (Lv. 120): 417
+P.Def (Lv. 120): 278
+E.Atk (Lv. 120): 280
+E.Def (Lv. 120): 268
+Crit (Lv. 120): 440
+Spd (Lv. 120): 415
+
+## Passive Skills
+
+<aside>
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hale Phys. Atk Boost (Joint) (1★)**
+At full HP: Impart Paired Allies with Phys. Atk. Up 10%.
+
+<aside>
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hale Phys. Atk Boost (Front/All) (6★)**
+At full HP: Impart **Entire Front Row** with Phys. Atk. Up 10%.
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/7660378/7d5758b06cbdbbcb9e8dfb8c6cd6faf7.png/show" alt="https://img.game8.jp/7660378/7d5758b06cbdbbcb9e8dfb8c6cd6faf7.png/show" width="40px" /> **Augment Lulu (3★)**
+Raise potency of “Summon Lulu” by 30%.
+
+</aside>
+
+<aside>
+<img src="Lolo/Dark_Resilience.png" alt="Lolo/Dark_Resilience.png" width="40px" /> **Dark Resilience III**
+Raise own Dark Res. by 20%.
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-807d-91cf-007a354b5dbe" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-807d-91cf-007a354b5dbe" width="40px" /> **Light Resilience (5★)**
+Raise own Light Res. by 10%.
+
+</aside>
+
+<aside>
+<img src="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" alt="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" width="40px" /> **Hale Bow Atk. Boost III (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+At full HP: Raise Bow damage of Paired Allies by 20%.
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up (6★)**
+Raise Self’s Damage Limit by 30,000.
+
+</aside>
+
+## Battle Skills
+
+<aside>
+<img src="Lolo/Summon_Lulu.png" alt="Lolo/Summon_Lulu.png" width="40px" /> **Summon Lulu**
+Summon Lulu, deal Phys. Staff damage to Single Foe (potency: 130). [7 SP]
+
+</aside>
+
+<aside>
+<img src="Lolo/Light.png" alt="Lolo/Light.png" width="40px" /> **Chain Lightstrike**
+Deal Elem. Light damage to Single Foe 2 time(s) (potency: 2x70). [20 SP]
+
+</aside>
+
+<aside>
+<img src="Lolo/Bow.png" alt="Lolo/Bow.png" width="40px" /> **Wild Shot (1★)**
+Deal Phys. Bow damage to Random Foe 3 time(s) (potency: 3x50). [25 SP]
+
+</aside>
+
+<aside>
+<img src="Lolo/Bow%201.png" alt="Lolo/Bow%201.png" width="40px" /> **Deceiving Shot (2★)**
+Deal Phys. Bow damage to All Foes (potency: 115) and have a moderate chance to inflict blind (turns: 2). [26 SP]
+
+</aside>
+
+<aside>
+<img src="Lolo/Light%201.png" alt="Lolo/Light%201.png" width="40px" /> **Chain Lightburst (2★)**
+Deal Elem Light damage to All Foes 2 time(s) (potency: 2x65). [30 SP]
+
+</aside>
+
+<aside>
+<img src="Lolo/Bow%202.png" alt="Lolo/Bow%202.png" width="40px" /> **Triple Sturdy Shot (3★)**
+Deal Phys. Bow damage to Single Foe 3 time(s) (potency: 3x60). [38 SP]
+
+**Lv.72 |** SP Saver: 38→30
+
+<aside>
+<img src="Lolo/Bow%202.png" alt="Lolo/Bow%202.png" width="40px" /> **Triple Sturdy Shot (5★)**
+Deal Phys. Bow damage to Single Foe 3 time(s) (potency: **3x80**). [30 SP]
+
+**Lv.99 |** SP Saver: 3x60→3x80
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="Lolo/Bow%203.png" alt="Lolo/Bow%203.png" width="40px" /> **Wild Raging Strike (4★)**
+Deal Phys. Bow damage to Random Foe 4 time(s) (potency: 4x30). [35 SP]
+
+**Lv.80 |** SP Saver: 35→28
+
+<aside>
+<img src="Lolo/Bow%203.png" alt="Lolo/Bow%203.png" width="40px" /> **Wild Raging Strike (5★)**
+Deal Phys. Bow damage to Random Foe 4 time(s) (potency: **4x40**). [28 SP]
+
+**Lv.100 |** Potency Up: 4x30→4x40
+
+</aside>
+
+</aside>
+
+<aside>
+<img src="Lolo/Bow%203.png" alt="Lolo/Bow%203.png" width="40px" /> **Obliterate Shot ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+Deal Phys. Bow damage to Single Foe (potency: 290). [56 SP]
+
+</aside>
+
+## Ultimate Technique
+
+<aside>
+<img src="Lolo/Summon_Lulu%201.png" alt="Lolo/Summon_Lulu%201.png" width="40px" /> **Lulu’s Onslaught (Lv. 1→10→20)**
+Deal Phys. Staff damage 2 time(s) (potency: **2x100→2x120→2x150**) and Phys. Bow damage 4 time(s) (potency: **4x100→4x120→4x150**) to Single Foe.
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80a2-a199-007a067e9993" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80a2-a199-007a067e9993" width="40px" />
+
+When activated at 200% Ultimate Technique gauge:
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/193ebbc6-5396-8035-8eea-007a52e85f9d" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/193ebbc6-5396-8035-8eea-007a52e85f9d" width="40px" />
+
+“Super Power Activation”: 50% more potent.
+
+</aside>
+
+</aside>
+
+---
+
+Uses:
+1→2
+
+Initial Gauge:
+20%→30%→40%
+
+Gauge Increase:
+15%/BP→20%/BP→30%/BP
+
+</aside>
+
+## EX skill
+
+<aside>
+<img src="Narr/Bow%205.png" alt="Narr/Bow%205.png" width="40px" /> **Blinding Arrows**
+Deal Phys. Bow damage to All Foes 2 time(s) (potency: 2x95). Exploits Light weakness (damage calculation based on Phys. Bow attack). Have a high chance to inflict blindness (turns: 2).
+
+---
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-802c-b9bc-007a54884b6f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-802c-b9bc-007a54884b6f" width="40px" />
+
+Usage Condition: Turn 4 onwards
+
+</aside>
+
+<aside>
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80ba-9f36-007a936447ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/137ebbc6-5396-80ba-9f36-007a936447ac" width="40px" />
+
+Uses: 2
+
+</aside>
+
+</aside>
+
+## Awakening IV Accessory
+
+<aside>
+<img src="Lolo/Awakening_IV.png" alt="Lolo/Awakening_IV.png" width="40px" /> **Snowy White Pelt**
+·30 P.Atk, 30 Crit, 10 SP
+·When breaking an enemy, lower their Bow Res. by 10% (turns: 3)
+
+</aside>
+
+## Misc.
+
+<aside>
+<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+Mar 25, 2021
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+Feb 14, 2024
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshiko Shibao](https://www.behindthevoiceactors.com/Yoshiko-Shibao/)
+
+</aside>
+
+## Artwork
+
+![Lolo.png](Lolo/Lolo.png)

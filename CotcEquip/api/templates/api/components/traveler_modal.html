@@ -15,7 +15,7 @@
     </div>
     <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal"></button>
 </div>
-
+ 
 <!-- Body del modal -->
 <div class="modal-body" style="
     background-image: linear-gradient(to right, rgba(28,28,36,0.95) 40%, rgba(28,28,36,0.5) 100%), url('{{ traveler.art_url }}');
@@ -27,33 +27,31 @@
           hx-swap="innerHTML">
         {% csrf_token %}
         <div class="row g-3">
-
+ 
             <!-- Columna izquierda -->
             <div class="col-md-6">
                 <div class="octo-panel p-3">
                     <div class="section-label">Estado</div>
-
+ 
                     <div class="form-check form-switch mb-2">
                         <input class="form-check-input" type="checkbox" id="is_obtained" name="is_obtained" value="true"
                             {% if entry and entry.is_obtained %}checked{% endif %}>
                         <label class="form-check-label" for="is_obtained">Reclutado</label>
                     </div>
-
+ 
                     <div class="form-check form-switch mb-3">
                         <input class="form-check-input" type="checkbox" id="is_6_stars" name="is_6_stars" value="true"
                             {% if entry and entry.is_6_stars %}checked{% endif %}>
                         <label class="form-check-label" for="is_6_stars">6 Estrellas</label>
                     </div>
-
-                    <!-- Nivel actual -->
+ 
                     <div class="mb-3">
                         <label class="form-label octo-label">Nivel actual</label>
                         <input type="number" class="form-control form-control-sm octo-input"
                             name="current_level" min="1" max="120"
                             value="{{ entry.current_level|default:1 }}">
                     </div>
-
-                    <!-- Awakening slider -->
+ 
                     <div class="mb-3">
                         <label class="form-label octo-label">Awakening Level: <span id="awk-val">{{ entry.awakening_level|default:0 }}</span></label>
                         <input type="range" class="form-range" name="awakening_level" min="0" max="4"
@@ -63,15 +61,14 @@
                             ✦ Trust Accessory desbloqueado
                         </div>
                     </div>
-
-                    <!-- Ultimate Level -->
+ 
                     <div class="mb-3">
                         <label class="form-label octo-label">Ultimate Level (0-20)</label>
                         <input type="number" class="form-control form-control-sm octo-input"
                             name="ultimate_level" min="0" max="20"
                             value="{{ entry.ultimate_level|default:0 }}">
                     </div>
-
+ 
                     <div class="form-check form-switch mb-2">
                         <input class="form-check-input" type="checkbox" id="is_ultimate_awakened" name="is_ultimate_awakened" value="true"
                             {% if entry and entry.is_ultimate_awakened %}checked{% endif %}>
@@ -80,7 +77,7 @@
                             <span style="font-size:0.65rem; color:var(--octo-muted);">(Requiere Awakening Stone ★5)</span>
                         </label>
                     </div>
-
+ 
                     <div class="form-check form-switch">
                         <input class="form-check-input" type="checkbox" id="has_ultimate_overcharge" name="has_ultimate_overcharge" value="true"
                             {% if entry and entry.has_ultimate_overcharge %}checked{% endif %}>
@@ -91,7 +88,7 @@
                     </div>
                 </div>
             </div>
-
+ 
             <!-- Columna derecha -->
             <div class="col-md-6">
                 <div class="octo-panel p-3 mb-3">
@@ -123,38 +120,114 @@
                         </div>
                     </div>
                 </div>
-
+ 
                 <div class="octo-panel p-3">
-                    <div class="section-label">Equipamiento</div>
-
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <div class="section-label mb-0">Equipamiento</div>
+                        <!-- Botón optimizar -->
+                        <div class="d-flex align-items-center gap-2">
+                            <select id="modal-objective" class="form-select form-select-sm octo-input"
+                                style="font-size:0.7rem; width:auto;">
+                                <option value="e_atk">E.Atk</option>
+                                <option value="p_atk">P.Atk</option>
+                                <option value="tankiness">P.Def+E.Def</option>
+                                <option value="p_atk_crit">P.Atk+Crit</option>
+                                <option value="e_atk_crit">E.Atk+Crit</option>
+                                <option value="spd">Spd</option>
+                                <option value="hp">HP</option>
+                            </select>
+                            <button type="button"
+                                class="btn btn-sm btn-octo-secondary"
+                                style="font-size:0.7rem; white-space:nowrap;"
+                                onclick="runModalOptimize({{ traveler.id }})">
+                                ⚙ Optimizar
+                            </button>
+                        </div>
+                    </div>
+ 
+                    <!-- Resultado inline del optimizador -->
+                    <div id="modal-optimize-result" class="mb-2" style="display:none;">
+                        <div class="p-2 mb-2" style="background:rgba(0,0,0,0.3); border-radius:4px; font-size:0.72rem;">
+                            <div style="color:var(--octo-muted); margin-bottom:4px;">Sugerencia del optimizador:</div>
+                            <div id="modal-opt-weapon" style="color:var(--octo-text);"></div>
+                            <div id="modal-opt-armor" style="color:var(--octo-text);"></div>
+                            <div id="modal-opt-accs" style="color:var(--octo-text);"></div>
+                            <button type="button" class="btn btn-sm btn-octo-primary mt-2"
+                                style="font-size:0.7rem;"
+                                onclick="applyOptimize()">
+                                Aplicar al equipamiento
+                            </button>
+                        </div>
+                    </div>
+ 
                     <div class="mb-2">
                         <label class="form-label octo-label">Arma</label>
-                        <input type="text" class="form-control form-control-sm octo-input"
+                        <input type="text" id="modal-weapon-input" class="form-control form-control-sm octo-input"
                             name="current_weapon" placeholder="Nombre del arma..."
                             value="{{ entry.current_weapon|default:'' }}">
                     </div>
-
+ 
                     <div class="mb-2">
                         <label class="form-label octo-label">Souls del arma: <span id="souls-val">{{ entry.weapon_souls_count|default:0 }}</span></label>
                         <input type="range" class="form-range" name="weapon_souls_count" min="0" max="4"
                             value="{{ entry.weapon_souls_count|default:0 }}"
                             oninput="document.getElementById('souls-val').textContent = this.value">
                     </div>
-
+ 
                     <div>
                         <label class="form-label octo-label">Armadura</label>
-                        <input type="text" class="form-control form-control-sm octo-input"
+                        <input type="text" id="modal-armor-input" class="form-control form-control-sm octo-input"
                             name="current_armor" placeholder="Nombre de la armadura..."
                             value="{{ entry.current_armor|default:'' }}">
                     </div>
                 </div>
             </div>
-
+ 
         </div>
-
+ 
         <div class="mt-3 d-flex justify-content-end gap-2">
             <button type="button" class="btn btn-sm btn-octo-secondary" data-bs-dismiss="modal">Cancelar</button>
             <button type="submit" class="btn btn-sm btn-octo-primary">Guardar cambios</button>
         </div>
     </form>
 </div>
+ 
+<script>
+let _optimizeResult = null;
+ 
+function runModalOptimize(travelerId) {
+    const objective = document.getElementById('modal-objective').value;
+    const resultDiv = document.getElementById('modal-optimize-result');
+    resultDiv.style.display = 'none';
+ 
+    fetch('/builder/optimize/', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]').value,
+            'X-Modal-Request': '1',
+        },
+        body: `traveler_id=${travelerId}&objective=${objective}`
+    })
+    .then(r => r.json())
+    .then(data => {
+        _optimizeResult = data;
+        document.getElementById('modal-opt-weapon').textContent =
+            `⚔ ${data.weapon}`;
+        document.getElementById('modal-opt-armor').textContent =
+            `🛡 ${data.headgear} / ${data.body_armor}`;
+        document.getElementById('modal-opt-accs').textContent =
+            `💍 ${data.accessories.join(', ')}`;
+        resultDiv.style.display = 'block';
+    })
+    .catch(err => console.error('Optimize error:', err));
+}
+ 
+function applyOptimize() {
+    if (!_optimizeResult) return;
+    document.getElementById('modal-weapon-input').value = _optimizeResult.weapon;
+    document.getElementById('modal-armor-input').value =
+        `${_optimizeResult.headgear} / ${_optimizeResult.body_armor}`;
+    document.getElementById('modal-optimize-result').style.display = 'none';
+}
+</script>
