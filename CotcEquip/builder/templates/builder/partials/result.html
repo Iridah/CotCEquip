@@ -16,31 +16,33 @@
     </div>
 
     <!-- Arma -->
+    {% if result.weapon %}
     <div class="mb-2">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Arma</div>
-        <div class="octo-panel p-3 d-flex justify-content-between align-items-center"
-             style="border:1px solid var(--octo-border);">
-            <div>
-                <div class="fw-bold" style="font-size:0.85rem;">{{ result.weapon.name }}</div>
-                <div style="font-size:0.75rem; color:var(--octo-muted);">{{ result.weapon.weapon_type }}</div>
-            </div>
-            <div class="text-end">
-                {% for f in result.stats_fields %}
-                <div style="font-size:0.8rem;">
-                    <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
-                    <span class="fw-bold text-gold">+{{ result.weapon|get_attr:f }}</span>
+        <div class="row g-2">
+            <div class="col-md-4">
+                <div class="octo-panel p-3" style="border:1px solid var(--octo-border); height:100%;">
+                    <div class="fw-bold" style="font-size:0.82rem;">{{ result.weapon.name }}</div>
+                    <div style="font-size:0.72rem; color:var(--octo-muted);">{{ result.weapon.weapon_type }}</div>
+                    {% for f in result.stats_fields %}
+                    <div style="font-size:0.78rem;">
+                        <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                        <span class="fw-bold text-gold">+{{ result.weapon|get_attr:f }}</span>
+                    </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
             </div>
         </div>
     </div>
+    {% endif %}
 
     <!-- Armadura -->
+    {% if result.headgear or result.body_armor %}
     <div class="mb-2">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Armadura</div>
         <div class="row g-2">
             {% if result.headgear %}
-            <div class="col-6">
+            <div class="col-md-4">
                 <div class="octo-panel p-3" style="border:1px solid var(--octo-border); height:100%;">
                     <div style="font-size:0.65rem; color:var(--octo-muted);">CABEZA</div>
                     <div class="fw-bold" style="font-size:0.82rem;">{{ result.headgear.name }}</div>
@@ -54,7 +56,7 @@
             </div>
             {% endif %}
             {% if result.body_armor %}
-            <div class="col-6">
+            <div class="col-md-4">
                 <div class="octo-panel p-3" style="border:1px solid var(--octo-border); height:100%;">
                     <div style="font-size:0.65rem; color:var(--octo-muted);">CUERPO</div>
                     <div class="fw-bold" style="font-size:0.82rem;">{{ result.body_armor.name }}</div>
@@ -69,9 +71,10 @@
             {% endif %}
         </div>
     </div>
+    {% endif %}
 
     <!-- Accesorios -->
-    <div>
+    <div class="mb-2">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">
             Accesorios ({{ result.acc_slots }} slots)
         </div>
@@ -124,19 +127,18 @@
         {% if suggestions.weapon %}
         <div class="mb-2">
             <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Arma</div>
-            <div class="octo-panel p-3 d-flex justify-content-between align-items-center"
-                style="border:1px solid var(--octo-border); opacity:0.85;">
-                <div>
-                    <div class="fw-bold" style="font-size:0.85rem;">{{ suggestions.weapon.name }}</div>
-                    <div style="font-size:0.75rem; color:var(--octo-muted);">{{ suggestions.weapon.weapon_type }}</div>
-                </div>
-                <div class="text-end">
-                    {% for f in suggestions.stats_fields %}
-                    <div style="font-size:0.8rem;">
-                        <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
-                        <span class="fw-bold text-gold">+{{ suggestions.weapon|get_attr:f }}</span>
+            <div class="row g-2">
+                <div class="col-md-4">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85; height:100%;">
+                        <div class="fw-bold" style="font-size:0.82rem;">{{ suggestions.weapon.name }}</div>
+                        <div style="font-size:0.72rem; color:var(--octo-muted);">{{ suggestions.weapon.weapon_type }}</div>
+                        {% for f in suggestions.stats_fields %}
+                        <div style="font-size:0.78rem;">
+                            <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                            <span class="fw-bold text-gold">+{{ suggestions.weapon|get_attr:f }}</span>
+                        </div>
+                        {% endfor %}
                     </div>
-                    {% endfor %}
                 </div>
             </div>
         </div>
@@ -147,8 +149,8 @@
             <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Armadura</div>
             <div class="row g-2">
                 {% if suggestions.headgear %}
-                <div class="col-6">
-                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85;">
+                <div class="col-md-4">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85; height:100%;">
                         <div style="font-size:0.65rem; color:var(--octo-muted);">CABEZA</div>
                         <div class="fw-bold" style="font-size:0.82rem;">{{ suggestions.headgear.name }}</div>
                         {% for f in suggestions.stats_fields %}
@@ -161,8 +163,8 @@
                 </div>
                 {% endif %}
                 {% if suggestions.body_armor %}
-                <div class="col-6">
-                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85;">
+                <div class="col-md-4">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85; height:100%;">
                         <div style="font-size:0.65rem; color:var(--octo-muted);">CUERPO</div>
                         <div class="fw-bold" style="font-size:0.82rem;">{{ suggestions.body_armor.name }}</div>
                         {% for f in suggestions.stats_fields %}
