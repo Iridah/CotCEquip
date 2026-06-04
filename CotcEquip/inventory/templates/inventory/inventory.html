@@ -1,0 +1,242 @@
+{% extends 'api/base.html' %}
+{% load static %}
+
+{% block title %}Inventario · CotC Equip{% endblock %}
+
+{% block extra_css %}
+<style>
+.inv-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.5rem;
+}
+.inv-card {
+    background: var(--octo-panel);
+    border: 1px solid var(--octo-border);
+    border-radius: 6px;
+    padding: 0.6rem 0.8rem;
+    cursor: pointer;
+    transition: border-color 0.15s, background 0.15s;
+    user-select: none;
+    font-size: 0.78rem;
+}
+.inv-card:hover {
+    border-color: var(--octo-gold);
+}
+.inv-card.owned {
+    border-color: var(--octo-gold);
+    background: rgba(212,175,55,0.08);
+}
+.inv-card .inv-name {
+    color: var(--octo-text);
+    font-weight: 500;
+    line-height: 1.3;
+}
+.inv-card.owned .inv-name {
+    color: var(--octo-gold);
+}
+.inv-check {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    border: 1px solid var(--octo-muted);
+    display: inline-block;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+.inv-card.owned .inv-check {
+    background: var(--octo-gold);
+    border-color: var(--octo-gold);
+}
+.inv-section-header {
+    letter-spacing: 2px;
+    font-size: 0.7rem;
+    color: var(--octo-gold);
+}
+.inv-search {
+    max-width: 280px;
+}
+.tab-btn {
+    font-size: 0.78rem;
+    padding: 0.3rem 0.9rem;
+    border-radius: 4px;
+    border: 1px solid var(--octo-border);
+    background: transparent;
+    color: var(--octo-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.tab-btn.active, .tab-btn:hover {
+    border-color: var(--octo-gold);
+    color: var(--octo-gold);
+}
+.inv-counter {
+    font-size: 0.72rem;
+    color: var(--octo-muted);
+}
+.inv-counter span {
+    color: var(--octo-gold);
+    font-weight: 600;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="mb-4 d-flex align-items-end justify-content-between flex-wrap gap-2">
+    <div>
+        <h2 class="octo-font text-gold mb-1">Inventario</h2>
+        <p style="font-size:0.75rem; color:var(--octo-muted);">Marcá lo que tenés · El Builder lo usa al optimizar</p>
+    </div>
+    <div class="inv-counter">
+        Weapons: <span id="cnt-weapons">0</span> &nbsp;·&nbsp;
+        Armors: <span id="cnt-armors">0</span> &nbsp;·&nbsp;
+        Accessories: <span id="cnt-accessories">0</span>
+    </div>
+</div>
+
+<!-- Tabs + búsqueda -->
+<div class="d-flex align-items-center gap-2 mb-3 flex-wrap">
+    <button class="tab-btn active" data-tab="weapons">Weapons</button>
+    <button class="tab-btn" data-tab="headgear">Headgear</button>
+    <button class="tab-btn" data-tab="body_armor">Body Armor</button>
+    <button class="tab-btn" data-tab="accessories">Accessories</button>
+    <input type="text" id="inv-search" class="form-control form-control-sm octo-input inv-search ms-auto"
+        placeholder="Filtrar por nombre...">
+</div>
+
+<!-- Sección Weapons -->
+<div id="tab-weapons" class="inv-tab">
+    <div class="inv-grid" id="grid-weapons">
+        {% for w in weapons %}
+        <div class="inv-card {% if w.name in owned_weapons %}owned{% endif %}"
+             data-type="weapon"
+             data-name="{{ w.name }}"
+             data-tab="weapons">
+            <div class="d-flex gap-2 align-items-start">
+                <div class="inv-check mt-1"></div>
+                <div class="inv-name">{{ w.name }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Sección Headgear -->
+<div id="tab-headgear" class="inv-tab" style="display:none;">
+    <div class="inv-grid" id="grid-headgear">
+        {% for a in headgear %}
+        <div class="inv-card {% if a.name in owned_armors %}owned{% endif %}"
+             data-type="armor"
+             data-name="{{ a.name }}"
+             data-tab="headgear">
+            <div class="d-flex gap-2 align-items-start">
+                <div class="inv-check mt-1"></div>
+                <div class="inv-name">{{ a.name }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Sección Body Armor -->
+<div id="tab-body_armor" class="inv-tab" style="display:none;">
+    <div class="inv-grid" id="grid-body_armor">
+        {% for a in body_armor %}
+        <div class="inv-card {% if a.name in owned_armors %}owned{% endif %}"
+             data-type="armor"
+             data-name="{{ a.name }}"
+             data-tab="body_armor">
+            <div class="d-flex gap-2 align-items-start">
+                <div class="inv-check mt-1"></div>
+                <div class="inv-name">{{ a.name }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Sección Accessories -->
+<div id="tab-accessories" class="inv-tab" style="display:none;">
+    <div class="inv-grid" id="grid-accessories">
+        {% for acc in accessories %}
+        <div class="inv-card {% if acc.name in owned_accessories %}owned{% endif %}"
+             data-type="accessory"
+             data-name="{{ acc.name }}"
+             data-tab="accessories">
+            <div class="d-flex gap-2 align-items-start">
+                <div class="inv-check mt-1"></div>
+                <div class="inv-name">{{ acc.name }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+const TOGGLE_URL = "{% url 'inventory_toggle' %}";
+const CSRF_TOKEN = "{{ csrf_token }}";
+
+// Contadores iniciales
+function recalcCounters() {
+    document.getElementById('cnt-weapons').textContent =
+        document.querySelectorAll('#grid-weapons .inv-card.owned').length;
+    document.getElementById('cnt-armors').textContent =
+        document.querySelectorAll('#grid-headgear .inv-card.owned, #grid-body_armor .inv-card.owned').length;
+    document.getElementById('cnt-accessories').textContent =
+        document.querySelectorAll('#grid-accessories .inv-card.owned').length;
+}
+recalcCounters();
+
+// Tabs
+document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.inv-tab').forEach(t => t.style.display = 'none');
+        this.classList.add('active');
+        document.getElementById('tab-' + this.dataset.tab).style.display = '';
+        document.getElementById('inv-search').value = '';
+        filterCards('');
+    });
+});
+
+// Búsqueda
+document.getElementById('inv-search').addEventListener('input', function() {
+    filterCards(this.value.toLowerCase());
+});
+
+function filterCards(q) {
+    document.querySelectorAll('.inv-tab:not([style*="display:none"]) .inv-card').forEach(card => {
+        const name = card.dataset.name.toLowerCase();
+        card.style.display = name.includes(q) ? '' : 'none';
+    });
+}
+
+// Toggle owned
+document.querySelectorAll('.inv-card').forEach(card => {
+    card.addEventListener('click', async function() {
+        const itemType = this.dataset.type;
+        const itemName = this.dataset.name;
+
+        try {
+            const resp = await fetch(TOGGLE_URL, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-CSRFToken': CSRF_TOKEN,
+                },
+                body: JSON.stringify({ item_type: itemType, item_name: itemName }),
+            });
+
+            if (!resp.ok) return;
+            const data = await resp.json();
+            this.classList.toggle('owned', data.owned);
+            recalcCounters();
+        } catch(e) {
+            console.error('Toggle error:', e);
+        }
+    });
+});
+</script>
+{% endblock %}

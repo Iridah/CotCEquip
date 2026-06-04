@@ -57,8 +57,24 @@
             <li class="nav-item">
                 <a class="nav-link {% if '/accessories/' in request.path %}active{% endif %}" href="/accessories/">Accessories</a>
             </li>
+            <!-- Separador -->
+            <li class="nav-item d-flex align-items-center px-1">
+                <span style="color:var(--octo-gold); font-size:1.4rem; font-weight:300; opacity:0.6;">|</span>
+            </li>
             <li class="nav-item">
-                <a class="nav-link {% if '/builder/' in request.path %}active{% endif %}" href="/builder/">Builder</a>
+                <a class="nav-link {% if '/inventory/' in request.path %}active{% endif %}" href="/inventory/">Inventory</a>
+            </li>
+            <!-- Separador -->
+            <li class="nav-item d-flex align-items-center px-1">
+                <span style="color:var(--octo-gold); font-size:1.4rem; font-weight:300; opacity:0.6;">|</span>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link octo-font text-gold {% if '/builder/' in request.path %}active{% endif %}" 
+                href="/builder/">Builder</a>
+            </li>
+            <!-- Separador -->
+            <li class="nav-item d-flex align-items-center px-1">
+                <span style="color:var(--octo-gold); font-size:1.4rem; font-weight:300; opacity:0.6;">|</span>
             </li>
         </ul>
 

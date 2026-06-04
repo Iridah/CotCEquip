@@ -12,6 +12,7 @@ urlpatterns = [
     path('armors/',      include('armors.urls')),
     path('accessories/', include('accessories.urls')),
     path('builder/', include('builder.urls')),
+    path('inventory/', include('inventory.urls')),
 ]
 
 if settings.DEBUG:

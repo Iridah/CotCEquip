@@ -14,7 +14,7 @@
             </div>
         </div>
     </div>
- 
+
     <!-- Arma -->
     <div class="mb-2">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Arma</div>
@@ -34,8 +34,8 @@
             </div>
         </div>
     </div>
- 
-    <!-- Armadura: headgear + body armor -->
+
+    <!-- Armadura -->
     <div class="mb-2">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Armadura</div>
         <div class="row g-2">
@@ -69,7 +69,7 @@
             {% endif %}
         </div>
     </div>
- 
+
     <!-- Accesorios -->
     <div>
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">
@@ -84,6 +84,11 @@
                     <div style="font-size:0.65rem; color:var(--octo-gold); letter-spacing:1px;">TRUST A4</div>
                     {% endif %}
                     <div class="fw-bold" style="font-size:0.82rem;">{{ acc.name }}</div>
+                    {% if acc.obj and acc.obj.source %}
+                    <div style="font-size:0.68rem; color:var(--octo-gold); margin-bottom:2px;">
+                        {{ acc.obj.source|truncatechars:40 }}
+                    </div>
+                    {% endif %}
                     {% for f in result.stats_fields %}
                     <div style="font-size:0.78rem;">
                         <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
@@ -100,4 +105,111 @@
             {% endfor %}
         </div>
     </div>
+
+    <!-- Sugerencias -->
+    {% if suggestions %}
+    <div class="mt-4 p-3" style="border:1px solid var(--octo-border); border-radius:6px; background:rgba(255,255,255,0.03);">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <div>
+                <h6 class="octo-font text-gold mb-0" style="letter-spacing:2px; font-size:0.7rem;">SUGERENCIAS</h6>
+                <small style="color:var(--octo-muted); font-size:0.7rem;">Items que mejorarían tu build</small>
+            </div>
+            {% if suggestions.score_delta > 0 %}
+            <div style="font-size:0.75rem; color:var(--octo-gold);">
+                +{{ suggestions.score_delta }} potencial
+            </div>
+            {% endif %}
+        </div>
+
+        {% if suggestions.weapon %}
+        <div class="mb-2">
+            <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Arma</div>
+            <div class="octo-panel p-3 d-flex justify-content-between align-items-center"
+                style="border:1px solid var(--octo-border); opacity:0.85;">
+                <div>
+                    <div class="fw-bold" style="font-size:0.85rem;">{{ suggestions.weapon.name }}</div>
+                    <div style="font-size:0.75rem; color:var(--octo-muted);">{{ suggestions.weapon.weapon_type }}</div>
+                </div>
+                <div class="text-end">
+                    {% for f in suggestions.stats_fields %}
+                    <div style="font-size:0.8rem;">
+                        <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                        <span class="fw-bold text-gold">+{{ suggestions.weapon|get_attr:f }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        {% if suggestions.headgear or suggestions.body_armor %}
+        <div class="mb-2">
+            <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Armadura</div>
+            <div class="row g-2">
+                {% if suggestions.headgear %}
+                <div class="col-6">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85;">
+                        <div style="font-size:0.65rem; color:var(--octo-muted);">CABEZA</div>
+                        <div class="fw-bold" style="font-size:0.82rem;">{{ suggestions.headgear.name }}</div>
+                        {% for f in suggestions.stats_fields %}
+                        <div style="font-size:0.78rem;">
+                            <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                            <span class="fw-bold text-gold">+{{ suggestions.headgear|get_attr:f }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+                {% if suggestions.body_armor %}
+                <div class="col-6">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85;">
+                        <div style="font-size:0.65rem; color:var(--octo-muted);">CUERPO</div>
+                        <div class="fw-bold" style="font-size:0.82rem;">{{ suggestions.body_armor.name }}</div>
+                        {% for f in suggestions.stats_fields %}
+                        <div style="font-size:0.78rem;">
+                            <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                            <span class="fw-bold text-gold">+{{ suggestions.body_armor|get_attr:f }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if suggestions.accessories %}
+        <div>
+            <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Accesorios</div>
+            <div class="row g-2">
+                {% for acc in suggestions.accessories %}
+                <div class="col-md-4">
+                    <div class="octo-panel p-3" style="border:1px solid var(--octo-border); opacity:0.85; height:100%;">
+                        <div class="fw-bold" style="font-size:0.82rem;">{{ acc.name }}</div>
+                        {% if acc.obj and acc.obj.source %}
+                        <div style="font-size:0.68rem; color:var(--octo-gold); margin-bottom:2px;">
+                            {{ acc.obj.source|truncatechars:40 }}
+                        </div>
+                        {% endif %}
+                        {% for f in suggestions.stats_fields %}
+                        <div style="font-size:0.78rem;">
+                            <span style="color:var(--octo-muted);">{{ f|upper }}:</span>
+                            <span class="fw-bold text-gold">+{{ acc.stats|get_dict:f }}</span>
+                        </div>
+                        {% endfor %}
+                        {% if acc.extra %}
+                        <div style="font-size:0.7rem; color:var(--octo-muted); margin-top:4px;">
+                            {{ acc.extra|truncatechars:80 }}
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+    </div>
+    {% endif %}
+
 </div>

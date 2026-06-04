@@ -4,6 +4,7 @@ from .weapons import Weapon
 from .armors import Armor
 from .accessories import Accessory
 from .pets import Pet
+from .inventory import InventoryItem
 
 # Esto permite que otras partes de la app (como tus comandos)
 # puedan hacer "from api.models import Traveler" directamente.
