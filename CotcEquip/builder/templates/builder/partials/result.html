@@ -15,13 +15,14 @@
         </div>
     </div>
 
-    <!-- Arma -->
-    {% if result.weapon %}
+    <!-- Arma + Armadura en una fila -->
     <div class="mb-2">
-        <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Arma</div>
+        <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Equipo</div>
         <div class="row g-2">
+            {% if result.weapon %}
             <div class="col-md-4">
                 <div class="octo-panel p-3" style="border:1px solid var(--octo-border); height:100%;">
+                    <div style="font-size:0.65rem; color:var(--octo-muted);">ARMA</div>
                     <div class="fw-bold" style="font-size:0.82rem;">{{ result.weapon.name }}</div>
                     <div style="font-size:0.72rem; color:var(--octo-muted);">{{ result.weapon.weapon_type }}</div>
                     {% for f in result.stats_fields %}
@@ -32,15 +33,7 @@
                     {% endfor %}
                 </div>
             </div>
-        </div>
-    </div>
-    {% endif %}
-
-    <!-- Armadura -->
-    {% if result.headgear or result.body_armor %}
-    <div class="mb-2">
-        <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:4px;">Armadura</div>
-        <div class="row g-2">
+            {% endif %}
             {% if result.headgear %}
             <div class="col-md-4">
                 <div class="octo-panel p-3" style="border:1px solid var(--octo-border); height:100%;">
@@ -71,7 +64,6 @@
             {% endif %}
         </div>
     </div>
-    {% endif %}
 
     <!-- Accesorios -->
     <div class="mb-2">

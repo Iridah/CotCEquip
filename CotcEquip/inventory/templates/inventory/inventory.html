@@ -20,64 +20,44 @@
     user-select: none;
     font-size: 0.78rem;
 }
-.inv-card:hover {
-    border-color: var(--octo-gold);
-}
+.inv-card:hover { border-color: var(--octo-gold); }
 .inv-card.owned {
     border-color: var(--octo-gold);
     background: rgba(212,175,55,0.08);
 }
-.inv-card .inv-name {
-    color: var(--octo-text);
-    font-weight: 500;
-    line-height: 1.3;
-}
-.inv-card.owned .inv-name {
-    color: var(--octo-gold);
-}
+.inv-card .inv-name { color: var(--octo-text); font-weight: 500; line-height: 1.3; }
+.inv-card.owned .inv-name { color: var(--octo-gold); }
 .inv-check {
-    width: 14px;
-    height: 14px;
-    border-radius: 3px;
+    width: 14px; height: 14px; border-radius: 3px;
     border: 1px solid var(--octo-muted);
-    display: inline-block;
-    flex-shrink: 0;
-    margin-top: 2px;
+    display: inline-block; flex-shrink: 0; margin-top: 2px;
 }
-.inv-card.owned .inv-check {
-    background: var(--octo-gold);
-    border-color: var(--octo-gold);
-}
-.inv-section-header {
-    letter-spacing: 2px;
-    font-size: 0.7rem;
-    color: var(--octo-gold);
-}
-.inv-search {
-    max-width: 280px;
-}
+.inv-card.owned .inv-check { background: var(--octo-gold); border-color: var(--octo-gold); }
+.inv-search { max-width: 280px; }
 .tab-btn {
-    font-size: 0.78rem;
-    padding: 0.3rem 0.9rem;
-    border-radius: 4px;
-    border: 1px solid var(--octo-border);
-    background: transparent;
-    color: var(--octo-muted);
-    cursor: pointer;
+    font-size: 0.78rem; padding: 0.3rem 0.9rem;
+    border-radius: 4px; border: 1px solid var(--octo-border);
+    background: transparent; color: var(--octo-muted);
+    cursor: pointer; transition: all 0.15s;
+}
+.tab-btn.active, .tab-btn:hover { border-color: var(--octo-gold); color: var(--octo-gold); }
+.inv-counter { font-size: 0.72rem; color: var(--octo-muted); }
+.inv-counter span { color: var(--octo-gold); font-weight: 600; }
+
+/* Filtros de tipo */
+.type-filter-bar { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.75rem; }
+.type-btn {
+    display: flex; align-items: center; gap: 4px;
+    padding: 0.25rem 0.6rem; border-radius: 4px;
+    border: 1px solid var(--octo-border); background: transparent;
+    color: var(--octo-muted); cursor: pointer; font-size: 0.72rem;
     transition: all 0.15s;
 }
-.tab-btn.active, .tab-btn:hover {
-    border-color: var(--octo-gold);
-    color: var(--octo-gold);
+.type-btn img { width: 18px; height: 18px; object-fit: contain; opacity: 0.7; }
+.type-btn.active, .type-btn:hover {
+    border-color: var(--octo-gold); color: var(--octo-gold);
 }
-.inv-counter {
-    font-size: 0.72rem;
-    color: var(--octo-muted);
-}
-.inv-counter span {
-    color: var(--octo-gold);
-    font-weight: 600;
-}
+.type-btn.active img, .type-btn:hover img { opacity: 1; }
 </style>
 {% endblock %}
 
@@ -95,13 +75,50 @@
 </div>
 
 <!-- Tabs + búsqueda -->
-<div class="d-flex align-items-center gap-2 mb-3 flex-wrap">
+<div class="d-flex align-items-center gap-2 mb-2 flex-wrap">
     <button class="tab-btn active" data-tab="weapons">Weapons</button>
     <button class="tab-btn" data-tab="headgear">Headgear</button>
     <button class="tab-btn" data-tab="body_armor">Body Armor</button>
     <button class="tab-btn" data-tab="accessories">Accessories</button>
     <input type="text" id="inv-search" class="form-control form-control-sm octo-input inv-search ms-auto"
         placeholder="Filtrar por nombre...">
+</div>
+
+<!-- Filtros por tipo de arma (visible solo en tab weapons) -->
+<div id="weapon-type-filters" class="type-filter-bar">
+    <button class="type-btn active" data-wtype="all">Todos</button>
+    <button class="type-btn" data-wtype="Sword">
+        <img src="{% static 'assets/roles/Sword.webp' %}" alt="Sword"> Sword
+    </button>
+    <button class="type-btn" data-wtype="Dagger">
+        <img src="{% static 'assets/roles/Dagger.webp' %}" alt="Dagger"> Dagger
+    </button>
+    <button class="type-btn" data-wtype="Axe">
+        <img src="{% static 'assets/roles/Axe.webp' %}" alt="Axe"> Axe
+    </button>
+    <button class="type-btn" data-wtype="Bow">
+        <img src="{% static 'assets/roles/Bow.webp' %}" alt="Bow"> Bow
+    </button>
+    <button class="type-btn" data-wtype="Polearm">
+        <img src="{% static 'assets/roles/Spear_Polearm.webp' %}" alt="Polearm"> Polearm
+    </button>
+    <button class="type-btn" data-wtype="Staff">
+        <img src="{% static 'assets/roles/Staff_Staves.webp' %}" alt="Staff"> Staff
+    </button>
+    <button class="type-btn" data-wtype="Tome">
+        <img src="{% static 'assets/roles/Tome.webp' %}" alt="Tome"> Tome
+    </button>
+    <button class="type-btn" data-wtype="Fan">
+        <img src="{% static 'assets/roles/Fan.webp' %}" alt="Fan"> Fan
+    </button>
+</div>
+
+<!-- Filtros de accessories (visible solo en tab accessories) -->
+<div id="accessory-type-filters" class="type-filter-bar" style="display:none;">
+    <button class="type-btn active" data-atype="all">Todos</button>
+    <button class="type-btn" data-atype="artifact">
+        <img src="{% static 'assets/roles/Accessory.png' %}" alt="Artifact"> Artifacts
+    </button>
 </div>
 
 <!-- Sección Weapons -->
@@ -111,6 +128,7 @@
         <div class="inv-card {% if w.name in owned_weapons %}owned{% endif %}"
              data-type="weapon"
              data-name="{{ w.name }}"
+             data-wtype="{{ w.weapon_type }}"
              data-tab="weapons">
             <div class="d-flex gap-2 align-items-start">
                 <div class="inv-check mt-1"></div>
@@ -162,6 +180,7 @@
         <div class="inv-card {% if acc.name in owned_accessories %}owned{% endif %}"
              data-type="accessory"
              data-name="{{ acc.name }}"
+             data-artifact="{{ acc.is_artifact|yesno:'true,false' }}"
              data-tab="accessories">
             <div class="d-flex gap-2 align-items-start">
                 <div class="inv-check mt-1"></div>
@@ -178,7 +197,9 @@
 const TOGGLE_URL = "{% url 'inventory_toggle' %}";
 const CSRF_TOKEN = "{{ csrf_token }}";
 
-// Contadores iniciales
+let activeWtype = 'all';
+let activeAtype = 'all';
+
 function recalcCounters() {
     document.getElementById('cnt-weapons').textContent =
         document.querySelectorAll('#grid-weapons .inv-card.owned').length;
@@ -197,19 +218,65 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
         this.classList.add('active');
         document.getElementById('tab-' + this.dataset.tab).style.display = '';
         document.getElementById('inv-search').value = '';
-        filterCards('');
+
+        // Mostrar/ocultar filtros según tab
+        const tab = this.dataset.tab;
+        document.getElementById('weapon-type-filters').style.display    = (tab === 'weapons')     ? '' : 'none';
+        document.getElementById('accessory-type-filters').style.display = (tab === 'accessories') ? '' : 'none';
+
+        // Reset filtros
+        activeWtype = 'all';
+        activeAtype = 'all';
+        document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('active'));
+        document.querySelector('[data-wtype="all"]').classList.add('active');
+        document.querySelector('[data-atype="all"]').classList.add('active');
+
+        applyFilters();
+    });
+});
+
+// Filtro por tipo de arma
+document.querySelectorAll('.type-btn[data-wtype]').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.type-btn[data-wtype]').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        activeWtype = this.dataset.wtype;
+        applyFilters();
+    });
+});
+
+// Filtro por artifact
+document.querySelectorAll('.type-btn[data-atype]').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.type-btn[data-atype]').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        activeAtype = this.dataset.atype;
+        applyFilters();
     });
 });
 
 // Búsqueda
 document.getElementById('inv-search').addEventListener('input', function() {
-    filterCards(this.value.toLowerCase());
+    applyFilters();
 });
 
-function filterCards(q) {
+function applyFilters() {
+    const q = document.getElementById('inv-search').value.toLowerCase();
     document.querySelectorAll('.inv-tab:not([style*="display:none"]) .inv-card').forEach(card => {
-        const name = card.dataset.name.toLowerCase();
-        card.style.display = name.includes(q) ? '' : 'none';
+        const name     = card.dataset.name.toLowerCase();
+        const wtype    = card.dataset.wtype || '';
+        const artifact = card.dataset.artifact || 'false';
+
+        let show = name.includes(q);
+
+        if (show && activeWtype !== 'all' && wtype) {
+            show = wtype === activeWtype;
+        }
+        if (show && activeAtype === 'artifact') {
+            show = artifact === 'true';
+        }
+
+        card.style.display = show ? '' : 'none';
     });
 }
 
@@ -218,24 +285,17 @@ document.querySelectorAll('.inv-card').forEach(card => {
     card.addEventListener('click', async function() {
         const itemType = this.dataset.type;
         const itemName = this.dataset.name;
-
         try {
             const resp = await fetch(TOGGLE_URL, {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'X-CSRFToken': CSRF_TOKEN,
-                },
+                headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
                 body: JSON.stringify({ item_type: itemType, item_name: itemName }),
             });
-
             if (!resp.ok) return;
             const data = await resp.json();
             this.classList.toggle('owned', data.owned);
             recalcCounters();
-        } catch(e) {
-            console.error('Toggle error:', e);
-        }
+        } catch(e) { console.error('Toggle error:', e); }
     });
 });
 </script>
