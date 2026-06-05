@@ -44,15 +44,34 @@
         <!-- Selector -->
         <div style="min-width:180px;">
             <h6 class="octo-font text-gold mb-1" style="letter-spacing:2px; font-size:0.7rem;">TRAVELER</h6>
-            <div class="d-flex gap-3 mb-1" style="font-size:0.75rem; color:var(--octo-muted);">
-                <label class="d-flex align-items-center gap-1" style="cursor:pointer;">
-                    <input type="radio" name="data_source" id="ds-roster" value="roster" checked
-                        style="accent-color:var(--octo-gold);"> Usar mi registro
-                </label>
-                <label class="d-flex align-items-center gap-1" style="cursor:pointer;">
-                    <input type="radio" name="data_source" id="ds-all" value="all"
-                        style="accent-color:var(--octo-gold);"> Usar toda la base
-                </label>
+            <!-- Toggle slide fuente de datos -->
+            <div class="d-flex align-items-center gap-2 mb-1">
+                <span style="font-size:0.72rem; color:var(--octo-muted);">Mi registro</span>
+                <div class="form-check form-switch mb-0">
+                    <input class="form-check-input" type="checkbox" id="ds-toggle"
+                        style="cursor:pointer; accent-color:var(--octo-gold);">
+                </div>
+                <span style="font-size:0.72rem; color:var(--octo-muted);">Toda la base</span>
+            </div>
+
+            <!-- Filtro de arco -->
+            <div class="d-flex gap-1 flex-wrap mb-1">
+                <button type="button" class="arc-btn active" data-arc="all"
+                    style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
+                        border:1px solid var(--octo-border); background:transparent;
+                        color:var(--octo-muted); cursor:pointer;">Todos</button>
+                <button type="button" class="arc-btn" data-arc="orsterra"
+                    style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
+                        border:1px solid var(--octo-border); background:transparent;
+                        color:var(--octo-muted); cursor:pointer;">Orsterra</button>
+                <button type="button" class="arc-btn" data-arc="solistia"
+                    style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
+                        border:1px solid var(--octo-border); background:transparent;
+                        color:var(--octo-muted); cursor:pointer;">Solistia</button>
+                <button type="button" class="arc-btn" data-arc="unchosen"
+                    style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
+                        border:1px solid var(--octo-border); background:transparent;
+                        color:var(--octo-muted); cursor:pointer;">Unchosen</button>
             </div>
             <input type="text" id="traveler-search"
                 class="form-control form-control-sm octo-input mb-1"
@@ -110,7 +129,7 @@
                 hx-post="{% url 'builder_optimize' %}"
                 hx-target="#result-panel"
                 hx-swap="innerHTML"
-                hx-include="#traveler-id-input,#objective-input,#data-source-input"
+                hx-include="#traveler-id-input,#objective-input,#data-source-input,#arc-input"
                 disabled>
                 Optimizar
             </button>
@@ -123,6 +142,7 @@
 <input type="hidden" id="data-source-input" name="data_source" value="roster">
 <input type="hidden" id="traveler-id-input" name="traveler_id" value="">
 <input type="hidden" id="objective-input"   name="objective"   value="e_atk">
+<input type="hidden" id="arc-input" name="arc" value="all">
 
 <!-- Panel de resultados -->
 <div class="octo-panel p-4" id="result-panel"
@@ -193,11 +213,21 @@ document.body.addEventListener('htmx:configRequest', function(evt) {
     evt.detail.headers['X-CSRFToken'] = '{{ csrf_token }}';
 });
 
-// Switch fuente de datos
-document.querySelectorAll('input[name="data_source"]').forEach(radio => {
-    radio.addEventListener('change', function() {
-        document.getElementById('data-source-input').value = this.value;
+// Toggle slide fuente de datos
+document.getElementById('ds-toggle').addEventListener('change', function() {
+    document.getElementById('data-source-input').value = this.checked ? 'all' : 'roster';
+});
+
+// Filtro de arco
+document.querySelectorAll('.arc-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.arc-btn').forEach(b => {
+            b.style.color = 'var(--octo-muted)';
+            b.style.borderColor = 'var(--octo-border)';
+        });
+        this.style.color = 'var(--octo-gold)';
+        this.style.borderColor = 'var(--octo-gold)';
+        document.getElementById('arc-input').value = this.dataset.arc;
     });
 });
-</script>
 {% endblock %}

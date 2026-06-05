@@ -33,6 +33,7 @@ class Weapon(models.Model):
     soul_bonus_4   = models.CharField(max_length=20, null=True, blank=True)
     is_soul_weapon = models.BooleanField(default=False)
     soul_series    = models.CharField(max_length=50, default='')
+    arc            = models.CharField(max_length=20, null=True, blank=True, default=None)
 
     class Meta:
         db_table = 'weapons'

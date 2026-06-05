@@ -32,23 +32,23 @@ def best_n_accessories(accessories, trust, n, stats_fields):
     pool = []
     for acc in accessories:
         pool.append({
-            'obj':        acc,
-            'name':       acc.name,
-            'score':      item_score(acc, stats_fields),
-            'stats':      {f: getattr(acc, f, 0) or 0 for f in stats_fields},
-            'extra':      acc.extra or '',
-            'is_trust':   False,
+            'obj':         acc,
+            'name':        acc.name,
+            'score':       item_score(acc, stats_fields),
+            'stats':       {f: getattr(acc, f, 0) or 0 for f in stats_fields},
+            'extra':       acc.extra or '',
+            'is_trust':    False,
             'is_artifact': getattr(acc, 'is_artifact', False),
         })
 
     if trust:
         pool.append({
-            'obj':        None,
-            'name':       trust['name'],
-            'score':      trust['score'],
-            'stats':      trust['stats'],
-            'extra':      trust['extra'],
-            'is_trust':   True,
+            'obj':         None,
+            'name':        trust['name'],
+            'score':       trust['score'],
+            'stats':       trust['stats'],
+            'extra':       trust['extra'],
+            'is_trust':    True,
             'is_artifact': False,
         })
 
@@ -86,12 +86,12 @@ def _get_inventory_sets():
     return owned_weapons, owned_armors, owned_accessories
 
 
-def optimize(traveler, entry, objective_key, data_source='all'):
+def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
     stats_fields = OBJECTIVES[objective_key][1]
 
     if data_source == 'roster':
         owned_w, owned_a, owned_acc = _get_inventory_sets()
-        weapons    = list(Weapon.objects.filter(name__in=owned_w))                         if owned_w   else list(Weapon.objects.all())
+        weapons    = list(Weapon.objects.filter(name__in=owned_w))                          if owned_w   else list(Weapon.objects.all())
         headgear   = list(Armor.objects.filter(armor_group='Headgear',   name__in=owned_a)) if owned_a   else list(Armor.objects.filter(armor_group='Headgear'))
         body_armor = list(Armor.objects.filter(armor_group='Body Armor', name__in=owned_a)) if owned_a   else list(Armor.objects.filter(armor_group='Body Armor'))
         acc_qs     = Accessory.objects.filter(name__in=owned_acc)                           if owned_acc else Accessory.objects.all()
@@ -101,7 +101,13 @@ def optimize(traveler, entry, objective_key, data_source='all'):
         body_armor = list(Armor.objects.filter(armor_group='Body Armor'))
         acc_qs     = Accessory.objects.all()
 
-    # weapon_types del traveler como set
+    # Filtro de arco en weapons y armors
+    if arc and arc != 'all':
+        weapons    = [w for w in weapons    if getattr(w, 'arc', None) == arc]
+        headgear   = [a for a in headgear   if getattr(a, 'arc', None) == arc]
+        body_armor = [a for a in body_armor if getattr(a, 'arc', None) == arc]
+
+    # Filtro de exclusivos e imprints
     traveler_weapon_types = set(
         w.strip() for w in (traveler.weapon_types or traveler.weapon_type or '').split(',')
         if w.strip()
@@ -175,6 +181,7 @@ def optimize_view(request):
     traveler_id = request.POST.get('traveler_id')
     objective   = request.POST.get('objective', 'e_atk')
     data_source = request.POST.get('data_source', 'all')
+    arc         = request.POST.get('arc', 'all')
     is_modal    = request.headers.get('X-Modal-Request') == '1'
 
     if not traveler_id:
@@ -197,14 +204,13 @@ def optimize_view(request):
     if objective not in OBJECTIVES:
         objective = 'e_atk'
 
-    result = optimize(traveler, entry, objective, data_source)
+    result = optimize(traveler, entry, objective, data_source, arc)
 
     # Sugerencias — solo cuando el usuario usa su roster
     suggestions = None
     if data_source == 'roster':
-        result_all = optimize(traveler, entry, objective, 'all')
-        
-        # Items del resultado actual
+        result_all = optimize(traveler, entry, objective, 'all', arc)
+
         current_names = set()
         if result['weapon']:
             current_names.add(result['weapon'].name)
@@ -214,11 +220,10 @@ def optimize_view(request):
             current_names.add(result['body_armor'].name)
         current_names.update(a['name'] for a in result['accessories'])
 
-        # Items del resultado ideal que no están en el actual
         suggestions = {
-            'weapon':     result_all['weapon']     if result_all['weapon']     and result_all['weapon'].name     not in current_names else None,
-            'headgear':   result_all['headgear']   if result_all['headgear']   and result_all['headgear'].name   not in current_names else None,
-            'body_armor': result_all['body_armor'] if result_all['body_armor'] and result_all['body_armor'].name not in current_names else None,
+            'weapon':      result_all['weapon']     if result_all['weapon']     and result_all['weapon'].name     not in current_names else None,
+            'headgear':    result_all['headgear']   if result_all['headgear']   and result_all['headgear'].name   not in current_names else None,
+            'body_armor':  result_all['body_armor'] if result_all['body_armor'] and result_all['body_armor'].name not in current_names else None,
             'accessories': [a for a in result_all['accessories'] if a['name'] not in current_names],
             'score_delta': result_all['total_score'] - result['total_score'],
             'stats_fields': result_all['stats_fields'],
