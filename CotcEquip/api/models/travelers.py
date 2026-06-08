@@ -115,6 +115,7 @@ class TravelerSkill(models.Model):
 
     class Meta:
         db_table = 'traveler_skills'
+        managed = False
 
     def __str__(self):
         return f"{self.traveler.name} — {self.name}"

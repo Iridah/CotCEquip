@@ -19,6 +19,18 @@ OBJECTIVES = {
     'hp':         ('HP',             ['hp']),
 }
 
+STAT_LABELS = {
+    'p_atk':        'P.Atk',
+    'e_atk':        'E.Atk',
+    'p_def':        'P.Def',
+    'e_def':        'E.Def',
+    'spd':          'Velocidad',
+    'crit':         'Crit',
+    'hp':           'HP',
+    'sp':           'SP',
+    'damage_limit': 'Damage Limit',
+}
+
 
 def item_score(obj, stats_fields):
     return sum(getattr(obj, f, 0) or 0 for f in stats_fields)
@@ -86,7 +98,7 @@ def _get_inventory_sets():
     return owned_weapons, owned_armors, owned_accessories
 
 
-def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
+def optimize(traveler, entry, objective_key, data_source='all', arc='all', skill_bonus=None):
     stats_fields = OBJECTIVES[objective_key][1]
 
     if data_source == 'roster':
@@ -154,16 +166,16 @@ def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
     )
 
     # Sumar stat_bonus de skills pasivas
-    skill_bonus = {}
-    for skill in TravelerSkill.objects.filter(
-        traveler=traveler,
-        skill_type__in=['passive', 'ex']
-    ).exclude(stat_bonus={}):
-        for key, val in skill.stat_bonus.items():
-            skill_bonus[key] = skill_bonus.get(key, 0) + val
-
-    # Agregar damage_limit al resultado si existe
-    damage_limit_bonus = skill_bonus.get('damage_limit', 0)
+    if skill_bonus is None:
+        skill_bonus = {}
+        for skill in TravelerSkill.objects.filter(
+            traveler=traveler,
+            skill_type__in=['passive', 'ex']
+        ).exclude(stat_bonus={}).exclude(stat_bonus__isnull=True):
+            for key, val in skill.stat_bonus.items():
+                skill_bonus[key] = skill_bonus.get(key, 0) + int(val)
+        if 'damage_limit' in skill_bonus:
+            skill_bonus = {'damage_limit': skill_bonus.pop('damage_limit'), **skill_bonus}
 
     return {
         'objective':    OBJECTIVES[objective_key][0],
@@ -178,7 +190,6 @@ def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
         'stats_fields': stats_fields,
         'data_source':  data_source,
         'skill_bonus':  skill_bonus,
-        'damage_limit_bonus': damage_limit_bonus,
     }
 
 
@@ -223,7 +234,7 @@ def optimize_view(request):
     # Sugerencias — solo cuando el usuario usa su roster
     suggestions = None
     if data_source == 'roster':
-        result_all = optimize(traveler, entry, objective, 'all', arc)
+        result_all = optimize(traveler, entry, objective, 'all', arc, skill_bonus=result['skill_bonus'])
 
         current_names = set()
         if result['weapon']:
@@ -257,4 +268,5 @@ def optimize_view(request):
         'result':      result,
         'entry':       entry,
         'suggestions': suggestions,
+        'stat_labels': STAT_LABELS,
     })

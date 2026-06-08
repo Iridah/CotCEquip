@@ -101,32 +101,23 @@
         </div>
     </div>
 
-    <!-- Sugerencias -->
-    {% if suggestions %}
-
     <!-- Skill Bonuses -->
     {% if result.skill_bonus %}
     <div class="mt-3 p-3" style="border:1px solid var(--octo-border); border-radius:6px; background:rgba(255,255,255,0.03);">
         <div style="font-size:0.65rem; letter-spacing:2px; color:var(--octo-muted); text-transform:uppercase; margin-bottom:8px;">Bonuses de Skills</div>
         <div class="d-flex flex-wrap gap-3">
-            {% if result.damage_limit_bonus %}
-            <div style="font-size:0.78rem;">
-                <span style="color:var(--octo-muted);">Damage Limit:</span>
-                <span class="fw-bold text-gold">+{{ result.damage_limit_bonus }}</span>
-            </div>
-            {% endif %}
             {% for key, val in result.skill_bonus.items %}
-            {% if key != 'damage_limit' %}
             <div style="font-size:0.78rem;">
-                <span style="color:var(--octo-muted);">{{ key }}:</span>
+                <span style="color:var(--octo-muted);">{{ stat_labels|get_dict:key|default:key }}:</span>
                 <span class="fw-bold text-gold">+{{ val }}</span>
             </div>
-            {% endif %}
             {% endfor %}
         </div>
     </div>
     {% endif %}
 
+    <!-- Sugerencias -->
+    {% if suggestions %}
     <div class="mt-4 p-3" style="border:1px solid var(--octo-border); border-radius:6px; background:rgba(255,255,255,0.03);">
         <div class="d-flex justify-content-between align-items-center mb-3">
             <div>
