@@ -6,6 +6,7 @@ import csv
 import os
 import re
 import sys
+import unicodedata
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -96,7 +97,7 @@ def main():
         reader = csv.DictReader(f)
         for row in reader:
             row = {k.strip(): v.strip() for k, v in row.items() if k}
-            name = row.get('Name', '').strip()
+            name = unicodedata.normalize('NFC', row.get('Name', '').strip()).replace('’', "'").replace('ʼ', "'")
             if not name:
                 continue
 
