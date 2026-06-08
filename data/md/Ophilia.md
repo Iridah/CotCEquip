@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Emberglow
-Attributes: Staff_Staves%2023.png, Light%2047.png
-HP (Lv. 120): 3.497
+Attributes: Staff_Staves%209.png, Light%2020.png
+HP (Lv. 120): 3497
 SP (Lv. 120): 550
 P.Atk (Lv. 120): 301
 P.Def (Lv. 120): 342
@@ -44,17 +44,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Dark Resistance Spirit (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Dark Resistance Spirit (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% SP or more: Impart Entire Front Row with Elem. Def. Up 10% and raise Dark Res. by 10%.
 
 <aside>
-<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Dark Resistance Spirit (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Dark Resistance Spirit (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At 50% SP or more: Impart Entire Front Row with Elem. Def. Up 10% and raise Dark Res. by 10%. Start of battle: Impart Entire Front Row with SP Stock (amount: 20% of user’s max SP/does not stack).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Light attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Grant an ally automatic revival (recovery amount: 25%-100% of max HP based on Bo
 </aside>
 
 <aside>
-<img src="Ophilia/Rehabilitate.png" alt="Ophilia/Rehabilitate.png" width="40px" /> **Sanctification Magic ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ophilia/Rehabilitate.png" alt="Ophilia/Rehabilitate.png" width="40px" /> **Sanctification Magic ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cure status ailments of Single Ally and grant immunity to some status ailments (with some exceptions) (turns: 1-4 based on Boost Lv.). Reaches Entire Front Row at Max Boost. [15 SP]
 
 <aside>
-<img src="Ophilia/Rehabilitate.png" alt="Ophilia/Rehabilitate.png" width="40px" /> **Sanctification Magic ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Ophilia/Rehabilitate.png" alt="Ophilia/Rehabilitate.png" width="40px" /> **Sanctification Magic ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Cure status ailments of Single Ally, grant immunity to some status ailments (with some exceptions) and grant the special effect “elemental attacks sealed” (turns: 1-4 based on Boost Lv.). Reaches Entire Front Row at Max Boost. [15 SP]
 
 </aside>
@@ -226,29 +226,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 25, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kayano](https://myanimelist.net/people/10765/Ai_Kayano?q=Ai%20Kayano&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kayano](https://myanimelist.net/people/10765/Ai_Kayano?q=Ai%20Kayano&cat=person)
 
 </aside>
 

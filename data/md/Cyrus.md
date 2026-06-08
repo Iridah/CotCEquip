@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Tome%205.png, Fire%2011.png, Ice%208.png, Lightning_Thunder%205.png
-HP (Lv. 120): 3.406
+Attributes: Tome%204.png, Fire%2012.png, Ice%209.png, Lightning_Thunder%205.png
+HP (Lv. 120): 3406
 SP (Lv. 120): 672
 P.Atk (Lv. 120): 286
 P.Def (Lv. 120): 331
@@ -56,17 +56,17 @@ Raise own Wind Res. by 20%.
 </aside>
 
 <aside>
-<img src="Cyrus/Elem_atk_Boost.png" alt="Cyrus/Elem_atk_Boost.png" width="40px" /> **Wise Seer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cyrus/Elem_atk_Boost.png" alt="Cyrus/Elem_atk_Boost.png" width="40px" /> **Wise Seer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When there are broken enemies, Impart Self with Elem. Atk. Up 20% and grant the ability to trigger critical hits when using elemental attacks.
 
 <aside>
-<img src="Cyrus/Elem_atk_Boost.png" alt="Cyrus/Elem_atk_Boost.png" width="40px" /> **Wise Seer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Cyrus/Elem_atk_Boost.png" alt="Cyrus/Elem_atk_Boost.png" width="40px" /> **Wise Seer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When there are broken enemies, Impart Self with Elem. Atk. Up 20% and grant the ability to trigger critical hits when using elemental attacks. At full HP: Add 30% of P.Atk to E.Atk (including equipment stats/Cannot be stacked).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Entire Front Row by 15,000 when using Elem. Fire, Ice or Lightning skills.
 
 </aside>
@@ -144,11 +144,11 @@ Deal Elem. Lightning damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Pursuit of Technical Theory ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Pursuit of Technical Theory ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise the potency of skills by 50% (turns: 3-6 based on Boost Lv./Cannot be extended/Does not stack with effects of the same type), but increase SP consumption by 50% (turns: 3-6 based on Boost Lv.). At Max Boost: Recover 1 BP. [25 SP]
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Pursuit of Technical Theory ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Pursuit of Technical Theory ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise the potency of skills by **100%** (turns: 3-6 based on Boost Lv./Cannot be extended/Does not stack with effects of the same type), grant Self automatic SP recovery (amount: 5% of max SP) and recover 1 BP, but increase SP consumption by 50% (turns: 3-6 based on Boost Lv.). At Max Boost: Recover 1 BP. [25 SP]
 
 </aside>
@@ -231,29 +231,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 18, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 21, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichirou Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichirou Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
 
 </aside>
 

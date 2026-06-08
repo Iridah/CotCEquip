@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Sunshade
-Attributes: Axe%2030.png, Lightning_Thunder%2032.png
-HP (Lv. 120): 3.526
+Attributes: Axe%209.png, Lightning_Thunder%2010.png
+HP (Lv. 120): 3526
 SP (Lv. 120): 574
 P.Atk (Lv. 120): 290
 P.Def (Lv. 120): 280
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **Ultimate Stance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **Ultimate Stance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Fill the Ultimate Technique gauge of Self to 100%.
 
 </aside>
@@ -126,7 +126,7 @@ Grant Entire Front Row automatic HP (potency: 150, turns: 2-5 based on Boost Lv.
 </aside>
 
 <aside>
-<img src="Primrose%20EX/Lightning_Thunder%203.png" alt="Primrose%20EX/Lightning_Thunder%203.png" width="40px" /> **Ballad of Thunder II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Primrose%20EX/Lightning_Thunder%203.png" alt="Primrose%20EX/Lightning_Thunder%203.png" width="40px" /> **Ballad of Thunder II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to Random Foe 5 time(s) (potency: 5x35). [60 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 22, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima?q=Houko%20Kuwashima&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima?q=Houko%20Kuwashima&cat=person)
 
 </aside>
 

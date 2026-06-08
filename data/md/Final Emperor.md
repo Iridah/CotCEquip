@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Empire of Avalon (Romancing SaGa 2)
 Location: Memoir
-Attributes: Sword%2021.png, Polearm%203.png, Dagger%2016.png, Axe%2012.png, Bow%2011.png, Staff%201.png, Fire%2021.png, Ice%2013.png, Lightning%205.png, Light%2023.png, Dark%2020.png
-HP (Lv. 120): 4.602
+Attributes: Sword%2045.png, Polearm%208.png, Dagger%2033.png, Axe%2030.png, Bow%2028.png, Staff%208.png, Fire%2051.png, Ice%2035.png, Lightning%2013.png, Light%2045.png, Dark%2038.png
+HP (Lv. 120): 4602
 SP (Lv. 120): 416
 P.Atk (Lv. 120): 619
 P.Def (Lv. 120): 453
@@ -65,17 +65,17 @@ Raise own Fire Res. by 15%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" alt="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" alt="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At the end of turn: If Self has 2+ “Glimmered skills”, grant Entire Front Row automatic revival once per battle (recovery amount: 100% of max HP). Triggers immediately if incapacitated (count does not increase when stacked). *Cannot be granted to incapacitated allies.
 
 <aside>
-<img src="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" alt="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" alt="https://img.game8.jp/6930254/65fb3a2e777e91fc54164efee613816e.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At the end of turn: If Self has 2+ “Glimmered skills”, grant Entire Front Row automatic revival once per battle (recovery amount: 100% of max HP) and grant them automatic HP recovery (potency: 50, turns: 1). Triggers immediately if incapacitated (count does not increase when stacked). *Cannot be granted to incapacitated allies.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -173,7 +173,7 @@ Deal Phys. Sword damage to All Foes (potency: 260) and absorb 10% of damage deal
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Random Foe 3 time(s) (potency: 3x85). When consuming 5 BP, “Glimmer” this skill and change it for the rest of the battle. [60 SP]
 
 <aside>
@@ -182,7 +182,7 @@ Deal Phys. Axe damage to Random Foe 3 time(s) (potency: 3x85). When consuming 5 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Axe damage to Random Foe 3 time(s) (potency: **3x95**). When consuming 5 BP, “Glimmer” this skill and change it for the rest of the battle. [60 SP]
 
 <aside>
@@ -272,28 +272,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 5, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuichiro Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuichiro Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
 
 </aside>
 

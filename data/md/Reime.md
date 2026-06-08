@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2045.png, Dark%2043.png
-HP (Lv. 120): 3.952
+Attributes: Sword%2023.png, Dark%2022.png
+HP (Lv. 120): 3952
 SP (Lv. 120): 406
 P.Atk (Lv. 120): 519
 P.Def (Lv. 120): 393
@@ -62,17 +62,17 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When dealing critical hits, lower Sword Res. of the target by 15% (turns: 2).
 
 <aside>
-<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When dealing critical hits, lower Sword Res. of the target by **20%** (turns: 2).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -160,11 +160,11 @@ Deal Phys. Sword damage to Random Foe 5 time(s) (potency: 5x30). When consuming 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe (potency: 260). Damage Limit of this skill is increased by 300,000. When consuming 5 BP: Reactivate the effect (without SP consumption). [44 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Sword damage to Single Foe (potency: 260). Damage Limit of this skill is increased by **500,000**. When consuming 5 BP: Reactivate the effect (without SP consumption). [44 SP]
 
 </aside>
@@ -248,28 +248,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 18, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami)
 
 </aside>
 

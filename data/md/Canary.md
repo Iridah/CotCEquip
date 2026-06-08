@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Grandport
-Attributes: Dagger%208.png, Fire%209.png
-HP (Lv. 120): 3.692
+Attributes: Dagger%2038.png, Fire%2069.png
+HP (Lv. 120): 3692
 SP (Lv. 120): 422
 P.Atk (Lv. 120): 393
 P.Def (Lv. 120): 285
@@ -60,7 +60,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Canary/Thief_Evasion%201.png" alt="Canary/Thief_Evasion%201.png" width="40px" /> **Loyal Canary ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Canary/Thief_Evasion%201.png" alt="Canary/Thief_Evasion%201.png" width="40px" /> **Loyal Canary ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy: Grant Self with Thief’s Evasion (times: 3).
 
 <aside>
@@ -151,7 +151,7 @@ Act faster during turn and deal Phys. Dagger damage to All Foes 3 time(s) (poten
 </aside>
 
 <aside>
-<img src="Canary/Dagger%205.png" alt="Canary/Dagger%205.png" width="40px" /> **Shining Assault ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Canary/Dagger%205.png" alt="Canary/Dagger%205.png" width="40px" /> **Shining Assault ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to All Foes 4 time(s) (potency: 4x35) and grant Self Thief’s Evasion (times: 2). [88 SP]
 
 <aside>
@@ -318,29 +318,29 @@ Gauge Increase: 15%→20%
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 1, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 27, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomoyo Takayanagi](https://myanimelist.net/people/45241/Tomoyo_Takayanagi)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomoyo Takayanagi](https://myanimelist.net/people/45241/Tomoyo_Takayanagi)
 
 </aside>
 

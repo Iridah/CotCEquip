@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2018.png, Axe%2010.png, Dark%2017.png
-HP (Lv. 120): 4.392
+Attributes: Sword%2032.png, Axe%2020.png, Dark%2027.png
+HP (Lv. 120): 4392
 SP (Lv. 120): 371
 P.Atk (Lv. 120): 469
 P.Def (Lv. 120): 393
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Lord’s Dignity ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Lord’s Dignity ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Activate attack skills twice when consuming 3 BP (the follow-up attack will not consume SP).
 
 </aside>
@@ -129,7 +129,7 @@ At full HP: **50%** more potent.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Raging Command ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Raging Command ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. of Entire Front Row by 15% and raise their Sword and Axe damage by 15% (turns: 2-5 based on Boost Lv.). [57 SP]
 
 </aside>
@@ -211,29 +211,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 25, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 13, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
 
 </aside>
 

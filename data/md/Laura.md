@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Tome%2021.png, Lightning_Thunder%2018.png
-HP (Lv. 120): 3.550
+Attributes: Tome%2045.png, Lightning_Thunder%2038.png
+HP (Lv. 120): 3550
 SP (Lv. 120): 642
 P.Atk (Lv. 120): 305
 P.Def (Lv. 120): 343
@@ -49,7 +49,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Laura/Elem_atk_Boost.png" alt="Laura/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Laura/Elem_atk_Boost.png" alt="Laura/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Elem. Atk. by 20%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Lightning damage to All Foes (potency: **175**). [26 SP]
 </aside>
 
 <aside>
-<img src="Laura/Lightning_Thunder%204.png" alt="Laura/Lightning_Thunder%204.png" width="40px" /> **Raging Bolt Shock III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Laura/Lightning_Thunder%204.png" alt="Laura/Lightning_Thunder%204.png" width="40px" /> **Raging Bolt Shock III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to Random Foe 3 time(s) (potency: 3x85) and have a moderate chance to inflict paralysis with every attack (turns: 2). [62 SP]
 
 </aside>
@@ -200,29 +200,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Axe%2023.png, Ice%2031.png
-HP (Lv. 120): 4.040
+Attributes: Axe%204.png, Ice%2010.png
+HP (Lv. 120): 4040
 SP (Lv. 120): 528
 P.Atk (Lv. 120): 345
 P.Def (Lv. 120): 402
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Cocktail Performance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Cocktail Performance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise BP recover amount of Self by 1 when an ally is in “Dominance”.
 
 <aside>
@@ -136,7 +136,7 @@ Deal Elem. Ice damage to Single Foe (potency: 230). Potency doubles when 3 or mo
 </aside>
 
 <aside>
-<img src="Morffins/Ice%203.png" alt="Morffins/Ice%203.png" width="40px" /> **Ice Smash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Morffins/Ice%203.png" alt="Morffins/Ice%203.png" width="40px" /> **Ice Smash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to All Foes 2 time(s) (potency: 2x95). Potency doubles when 3 or more allies are Dominance. [60 SP]
 
 </aside>
@@ -222,29 +222,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 17, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka)
 
 </aside>
 

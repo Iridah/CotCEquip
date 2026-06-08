@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: Orsterra
 Location: I'cirlo
-Attributes: Staff_Staves%2034.png, Ice%2051.png
-HP (Lv. 120): 3.772
+Attributes: Staff_Staves%201.png, Ice%207.png
+HP (Lv. 120): 3772
 SP (Lv. 120): 428
 P.Atk (Lv. 120): 431
 P.Def (Lv. 120): 317
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Yan%20Long/Phys_Atk_Boost.png" alt="Yan%20Long/Phys_Atk_Boost.png" width="40px" /> **Rising Dragon Spirit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Yan%20Long/Phys_Atk_Boost.png" alt="Yan%20Long/Phys_Atk_Boost.png" width="40px" /> **Rising Dragon Spirit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When consuming 3 BP or more: Raise own Phys. Atk. and Critical by 15% and grant Self Damage Limit Up (effect: 50,000). Also restore Phys. Atk. and Critical and grant immunity to Phys. Atk. Down and Critical Down during that turn.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Staff damage to Random Foe. Attack count rises based on Boost Lv. (po
 </aside>
 
 <aside>
-<img src="Yan%20Long/Staff_Staves%204.png" alt="Yan%20Long/Staff_Staves%204.png" width="40px" /> **Dragon’s Fortune Staff ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Yan%20Long/Staff_Staves%204.png" alt="Yan%20Long/Staff_Staves%204.png" width="40px" /> **Dragon’s Fortune Staff ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn and deal Phys. Staff damage to Single Foe 3 time(s) (potency: 3x85). At Max Boost: Grant Staff weakness to the same target (times: 2). [63 SP]
 
 <aside>
@@ -214,29 +214,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 27, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 15, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kenjirou Tsude](https://myanimelist.net/people/591/Kenjirou_Tsuda?q=Kenjirou%20Tsude&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kenjirou Tsude](https://myanimelist.net/people/591/Kenjirou_Tsuda?q=Kenjirou%20Tsude&cat=person)
 
 </aside>
 

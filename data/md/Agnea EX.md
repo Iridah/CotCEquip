@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Solistia
 Location: Memoir
-Attributes: Bow.png, Light%201.png, Dark%201.png
-HP (Lv. 120): 3.692
+Attributes: Bow%2025.png, Light%2042.png, Dark%2035.png
+HP (Lv. 120): 3692
 SP (Lv. 120): 466
 P.Atk (Lv. 120): 497
 P.Def (Lv. 120): 263
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%
 </aside>
 
 <aside>
-<img src="Agnea%20EX/Phys_Atk_Boost.png" alt="Agnea%20EX/Phys_Atk_Boost.png" width="40px" /> **Agnea’s Prayer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agnea%20EX/Phys_Atk_Boost.png" alt="Agnea%20EX/Phys_Atk_Boost.png" width="40px" /> **Agnea’s Prayer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When Self uses a battle skill to restore HP, if the recovery effect exceeds the target’s max HP, raise their Phys. Atk., Elem. Atk., and Critical by 15% and their Damage Limit by 20,000 (turns: 2). *Only applies to recovery effects during action order (excludes automatic recovery).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Bow damage to All Foes 4 time(s) (potency: 4x60). Exploits Light weak
 </aside>
 
 <aside>
-<img src="Agnea%20EX/Bow%205.png" alt="Agnea%20EX/Bow%205.png" width="40px" /> **Black & White Barrage ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agnea%20EX/Bow%205.png" alt="Agnea%20EX/Bow%205.png" width="40px" /> **Black & White Barrage ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 6 time(s) (potency: 6x40). Exploits Light and Dark weaknesses (damage calculation based on Phys. Bow attack). Potency increased by 20% when only one enemy is present. At Max Boost: Attack count becomes 8. [98 SP]
 
 </aside>
@@ -233,7 +233,7 @@ Instead of **Blessed Shooter**
 </aside>
 
 <aside>
-<img src="Agnea%20EX/Bow%205.png" alt="Agnea%20EX/Bow%205.png" width="40px" /> **黒白魔弓・乱れ撃ち ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agnea%20EX/Bow%205.png" alt="Agnea%20EX/Bow%205.png" width="40px" /> **黒白魔弓・乱れ撃ち ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 6 time(s) (potency: 6x40). Exploits Light and Dark weaknesses (damage calculation based on Phys. Bow attack). Potency increased by 20% when only one enemy is present. ~~At Max Boost: Attack count becomes 8.~~ [98 SP]
 Instead of **Black & White Barrage**
 
@@ -316,29 +316,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 20, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase)
 
 </aside>
 

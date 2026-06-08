@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Approval
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Axe%2038.png, Sword%2054.png, Polearm%208.png, Staff%208.png
-HP (Lv. 120): 4.760
+Attributes: Axe%2011.png, Sword%2013.png, Polearm%203.png, Staff%203.png
+HP (Lv. 120): 4760
 SP (Lv. 120): 448
 P.Atk (Lv. 120): 490
 P.Def (Lv. 120): 407
@@ -66,17 +66,17 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Signa%20EX/Phys_Atk_Boost.png" alt="Signa%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Signa%20EX/Phys_Atk_Boost.png" alt="Signa%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. and Axe damage of Self by 30%. When in “Legend” state, also raise Damage Limit by 100,000.
 
 <aside>
-<img src="Signa%20EX/Phys_Atk_Boost.png" alt="Signa%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Signa%20EX/Phys_Atk_Boost.png" alt="Signa%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Phys. Atk. and Axe damage of Self by 30% and raise the limit of Phys. Atk. and Axe damage augments from equipment and support skills to 50%. When in “Legend” state, also raise Damage Limit by **300,000**.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -181,7 +181,7 @@ Raise the potency of battle skills of Self by 30%-100% based on Boost Lv. (turns
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe (potency: 230).
 
 <aside>
@@ -190,7 +190,7 @@ Deal Phys. Axe damage to Single Foe (potency: 230).
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Axe damage to Single Foe (potency: 230).
 
 <aside>
@@ -285,28 +285,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
 
 </aside>
 

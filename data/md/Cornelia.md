@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Flamesgrace
-Attributes: Axe%207.png, Lightning_Thunder%204.png
-HP (Lv. 120): 4.030
+Attributes: Axe%2046.png, Lightning_Thunder%2045.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 473
 P.Atk (Lv. 120): 385
 P.Def (Lv. 120): 432
@@ -49,17 +49,17 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Recovery (Front/Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Recovery (Front/Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Grant Paired Ally automatic SP recovery (potency: 5).
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Recovery (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Recovery (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When in back row: Grant **Entire Front Row** automatic SP recovery (potency: 5).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Axe attacks of All Allies by 8,000.
 
 </aside>
@@ -137,11 +137,11 @@ Deal Phys. Axe damage to Single Foe (potency: **250**). [26 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Field First Aid ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Field First Aid ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 205). Afterward, move to back row (action does not count as switching). [55 SP]
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Field First Aid ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Field First Aid ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Restore HP of Entire Front Row (potency: 205) and cure stillness. Afterward, move to back row (action does not count as switching). [55 SP]
 
 </aside>
@@ -219,29 +219,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 11, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 17, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eriko Nakamura](https://myanimelist.net/people/8983/Eriko_Nakamura?q=Eriko%20Nakamura&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eriko Nakamura](https://myanimelist.net/people/8983/Eriko_Nakamura?q=Eriko%20Nakamura&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Emberglow
-Attributes: Axe%2034.png, Dark%2047.png
-HP (Lv. 120): 4.065
+Attributes: Axe%2040.png, Dark%2054.png
+HP (Lv. 120): 4065
 SP (Lv. 120): 453
 P.Atk (Lv. 120): 405
 P.Def (Lv. 120): 442
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rodion/Angelic_Ward.png" alt="Rodion/Angelic_Ward.png" width="40px" /> **Favor of Life ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rodion/Angelic_Ward.png" alt="Rodion/Angelic_Ward.png" width="40px" /> **Favor of Life ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 15% chance to recover 100% of damage taken when hit (With some exceptions/Does not stack with effects of the same type).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Axe damage to Single Foe 2 time(s) (potency: **2x130**) and have a mo
 </aside>
 
 <aside>
-<img src="Rodion/Axe%202.png" alt="Rodion/Axe%202.png" width="40px" /> **Soul Sever ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rodion/Axe%202.png" alt="Rodion/Axe%202.png" width="40px" /> **Soul Sever ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe (potency: 230) and absorb 1% of damage dealt as SP. [42 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshikazu Nagano](https://myanimelist.net/people/825/Yoshikazu_Nagano?q=Yoshikazu%20Nagano&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshikazu Nagano](https://myanimelist.net/people/825/Yoshikazu_Nagano?q=Yoshikazu%20Nagano&cat=person)
 
 </aside>
 

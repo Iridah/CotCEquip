@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Cragspear
-Attributes: Staff_Staves%2011.png, Light%2029.png
-HP (Lv. 120): 3.522
+Attributes: Staff_Staves%2031.png, Light%2064.png
+HP (Lv. 120): 3522
 SP (Lv. 120): 485
 P.Atk (Lv. 120): 326
 P.Def (Lv. 120): 347
@@ -49,7 +49,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Elem. Def. Boost (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" alt="https://img.game8.jp/6930249/70cb0c2f1c4daad5848a07bc2f08bea7.png/show" width="40px" /> **Elem. Def. Boost (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Def. of Paired Allies by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Restore HP of Single Ally (potency: **220**). [19 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Guardian’s Healing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Guardian’s Healing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 130) and impart with Elem. Def. Up 10% (turns: 2). [56 SP]
 
 </aside>
@@ -184,30 +184,30 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 *Free traveler when starting the game
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagita](https://myanimelist.net/people/19639/Junichi_Yanagita?q=Junichi%20Yanagita&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagita](https://myanimelist.net/people/19639/Junichi_Yanagita?q=Junichi%20Yanagita&cat=person)
 
 </aside>
 

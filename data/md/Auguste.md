@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Dagger%204.png, Tome%202.png, Dark%204.png
-HP (Lv. 120): 3.942
+Attributes: Dagger%2030.png, Tome%2032.png, Dark%2032.png
+HP (Lv. 120): 3942
 SP (Lv. 120): 417
 P.Atk (Lv. 120): 473
 P.Def (Lv. 120): 323
@@ -60,7 +60,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Auguste/Unbrilded_Passion.png" alt="Auguste/Unbrilded_Passion.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Auguste/Unbrilded_Passion.png" alt="Auguste/Unbrilded_Passion.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Impassionate Self (turns: 3).
 
 <aside>
@@ -141,7 +141,7 @@ Deal Phys. Tome damage to Single Foe (potency: 230) and lower Tome Res. by 10% (
 </aside>
 
 <aside>
-<img src="Auguste/Dark%201.png" alt="Auguste/Dark%201.png" width="40px" /> **Inner Darkness ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Auguste/Dark%201.png" alt="Auguste/Dark%201.png" width="40px" /> **Inner Darkness ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes (potency: 120) and lower Dagger, Tome and Dark Res. by 20% (turns: 2). Attack count becomes 3 and exploits Dagger and Tome weakness (damage calculation based on Elem. Dark attack) if impassioned when selecting this action. [38 SP]
 
 </aside>
@@ -215,7 +215,7 @@ Uses: 6
 **Battle Skills**
 
 <aside>
-<img src="Auguste/Dark%201.png" alt="Auguste/Dark%201.png" width="40px" /> **心を覗く闇 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Auguste/Dark%201.png" alt="Auguste/Dark%201.png" width="40px" /> **心を覗く闇 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes (potency: 120) and lower ~~Dagger, Tome and~~ Dark Res. by **15%** (turns: 2). Attack count becomes 3 and exploits Dagger and Tome weakness (damage calculation based on Elem. Dark attack) if impassioned when selecting this action. [38 SP]
 
 </aside>
@@ -257,29 +257,29 @@ Uses: **2**
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 26, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Namikawa](https://myanimelist.net/people/87/Daisuke_Namikawa?q=Daisuke%20Namikawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Namikawa](https://myanimelist.net/people/87/Daisuke_Namikawa?q=Daisuke%20Namikawa&cat=person)
 
 </aside>
 

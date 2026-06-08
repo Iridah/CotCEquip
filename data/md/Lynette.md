@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Fan%2022.png, Fire%2036.png
-HP (Lv. 120): 3.606
+Attributes: Fan%2017.png, Fire%2031.png
+HP (Lv. 120): 3606
 SP (Lv. 120): 569
 P.Atk (Lv. 120): 300
 P.Def (Lv. 120): 290
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of buff casted by Self by 1 turn.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Fan damage to Single Foe 3 time(s) (potency: 3x65) and impart Elem. D
 </aside>
 
 <aside>
-<img src="Lynette/Fire%204.png" alt="Lynette/Fire%204.png" width="40px" /> **Flame Burst ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lynette/Fire%204.png" alt="Lynette/Fire%204.png" width="40px" /> **Flame Burst ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to All Foes (potency: 260) and switch to Back Row. *It does not count as a switch. [42 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Axe%2040.png, Light%2060.png
-HP (Lv. 120): 4.035
+Attributes: Axe%2028.png, Light%2043.png
+HP (Lv. 120): 4035
 SP (Lv. 120): 458
 P.Atk (Lv. 120): 382
 P.Def (Lv. 120): 433
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936445/c4b6bf2e3b1029991832b55814d47d56.png/show" alt="https://img.game8.jp/6936445/c4b6bf2e3b1029991832b55814d47d56.png/show" width="40px" /> **Rearguard HP Restoration (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936445/c4b6bf2e3b1029991832b55814d47d56.png/show" alt="https://img.game8.jp/6936445/c4b6bf2e3b1029991832b55814d47d56.png/show" width="40px" /> **Rearguard HP Restoration (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Grant Front Row automatic HP recovery (potency: 30).
 
 </aside>
@@ -126,7 +126,7 @@ Grant Entire Front Row automatic HP recovery (potency: 150) and raise Dark Res. 
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Resilient Ward (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Resilient Ward (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise physical resistance of Entire Front Row by 15% (turns: 2-5 based on Boost Lv.). [54 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 24, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Itou](https://myanimelist.net/people/93/Shizuka_Itou?q=Shizuka%20Itou&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Itou](https://myanimelist.net/people/93/Shizuka_Itou?q=Shizuka%20Itou&cat=person)
 
 </aside>
 

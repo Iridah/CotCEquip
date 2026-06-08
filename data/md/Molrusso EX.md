@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Domination
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Fan%2028.png, Sword%2034.png, Axe%2022.png, Staff%203.png, Tome%2025.png, Fire%2039.png
-HP (Lv. 120): 3.606
+Attributes: Fan%2028.png, Sword%2052.png, Axe%2034.png, Staff%209.png, Tome%2037.png, Fire%2058.png
+HP (Lv. 120): 3606
 SP (Lv. 120): 539
 P.Atk (Lv. 120): 440
 P.Def (Lv. 120): 270
@@ -82,13 +82,13 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Molrusso%20EX/Speed-Augment.png" alt="Molrusso%20EX/Speed-Augment.png" width="40px" /> **Clown ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Molrusso%20EX/Speed-Augment.png" alt="Molrusso%20EX/Speed-Augment.png" width="40px" /> **Clown ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Augment Self based on the number of own Jests.
 ·2+: Raise Speed by 999.
 ·3 (max): Also gain the ability to exploit Fan weakness with some physical and elemental attacks other than the “Attack” action (with some exceptions/damage calculation based on corresponding attack).
 
 <aside>
-<img src="Molrusso%20EX/Speed-Augment%201.png" alt="Molrusso%20EX/Speed-Augment%201.png" width="40px" /> **Clown ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="Molrusso%20EX/Speed-Augment%201.png" alt="Molrusso%20EX/Speed-Augment%201.png" width="40px" /> **Clown ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 Augment Self based on the number of own Jests and grant Self “Playful” at start of battle (times: 3).
 ·2+: Raise Speed by 999.
 ·3 (max): Also gain the ability to exploit Fan weakness with some physical and elemental attacks other than the “Attack” action (with some exceptions/damage calculation based on corresponding attack).
@@ -96,7 +96,7 @@ Augment Self based on the number of own Jests and grant Self “Playful” at st
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Fan attacks of All Allies by 15,000.
 
 </aside>
@@ -209,7 +209,7 @@ Deal Elem. Fire damage to All Foes 3 time(s) (potency: 3x80) and cause them to c
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" width="40px" /> **Sweet Talk ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" width="40px" /> **Sweet Talk ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Fill the Ultimate Technique gauge of Entire Front Row by 25%/50%/100%/200% based on Boost Lv.. [90 SP]
 
 <aside>
@@ -218,7 +218,7 @@ Fill the Ultimate Technique gauge of Entire Front Row by 25%/50%/100%/200% based
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" width="40px" /> **Sweet Talk ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/306ebbc6-5396-800a-b5fb-007af647a2ac" width="40px" /> **Sweet Talk ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Fill the Ultimate Technique gauge of Entire Front Row by 25%/50%/100%/200% based on Boost Lv.) and restore their SP (amount: 5% of target’s max SP). [90 SP]
 
 <aside>
@@ -318,29 +318,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 12, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayaka Senbongi](https://myanimelist.net/people/25167/Sayaka_Senbongi?q=Sayaka%20Senbongi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayaka Senbongi](https://myanimelist.net/people/25167/Sayaka_Senbongi?q=Sayaka%20Senbongi&cat=person)
 
 </aside>
 

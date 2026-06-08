@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Sword%2029.png, Wind%2024.png
-HP (Lv. 120): 3.982
+Attributes: Sword%2050.png, Wind%2043.png
+HP (Lv. 120): 3982
 SP (Lv. 120): 371
 P.Atk (Lv. 120): 484
 P.Def (Lv. 120): 373
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **Sword Res. Drain on Break II** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **Sword Res. Drain on Break II** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, lower their Sword Res. by 15% (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Random Foe 5 time(s) (potency: 5x55). [70 SP]
 </aside>
 
 <aside>
-<img src="Lars/Sword%204.png" alt="Lars/Sword%204.png" width="40px" /> **Swift Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lars/Sword%204.png" alt="Lars/Sword%204.png" width="40px" /> **Swift Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe 4 time(s) (potency: 4x65). Attack count becomes 6 at Max Boost. [62 SP]
 
 </aside>
@@ -207,29 +207,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 7, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 1, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Yokota](https://myanimelist.net/people/47851/Daisuke_Yokota?q=Daisuke%20Yokota&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Yokota](https://myanimelist.net/people/47851/Daisuke_Yokota?q=Daisuke%20Yokota&cat=person)
 
 </aside>
 

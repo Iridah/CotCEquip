@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Wealth
 Continent: Orsterra
 Location: Sunshade
-Attributes: Fan%2016.png, Fire%2026.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2035.png, Fire%2070.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 554
 P.Atk (Lv. 120): 305
 P.Def (Lv. 120): 295
@@ -49,7 +49,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Vanguard Critical Boost (Front/All) V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Vanguard Critical Boost (Front/All) V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row, raise Critical of Entire Front Row by 30%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Elem. Fire damage to All Foes (potency: **170**). [26 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Grizzly Parade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Grizzly Parade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise critical damage of Entire Front Row by 10% (turns: 2-5 based on Boost Lv.). [12 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
 
 </aside>
 

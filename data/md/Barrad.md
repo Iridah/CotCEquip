@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Rippletide
-Attributes: Spear_Polearm%202.png, Fire%207.png
-HP (Lv. 120): 4.370
+Attributes: Spear_Polearm%2038.png, Fire%2075.png
+HP (Lv. 120): 4370
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 431
 P.Def (Lv. 120): 398
@@ -43,7 +43,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Polearm Atk. Boost (Joint) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Polearm Atk. Boost (Joint) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Polearm damage of Paired Allies by 15%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Polearm damage to Single Foe (potency: **250**). [26 SP]
 </aside>
 
 <aside>
-<img src="Barrad/Spear_Polearm%203.png" alt="Barrad/Spear_Polearm%203.png" width="40px" /> **Cloudy Sky Lance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Barrad/Spear_Polearm%203.png" alt="Barrad/Spear_Polearm%203.png" width="40px" /> **Cloudy Sky Lance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe (potency: 260). At 30% HP or less: 20% more potent. [50 SP]
 
 </aside>
@@ -204,29 +204,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouichi Souma](https://myanimelist.net/people/18545/Kouichi_Souma)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouichi Souma](https://myanimelist.net/people/18545/Kouichi_Souma)
 
 </aside>
 

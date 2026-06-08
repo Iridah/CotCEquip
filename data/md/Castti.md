@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Axe%205.png
-HP (Lv. 120): 3.900
+Attributes: Axe%2015.png
+HP (Lv. 120): 3900
 SP (Lv. 120): 458
 P.Atk (Lv. 120): 485
 P.Def (Lv. 120): 427
@@ -45,7 +45,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Castti/Castii_Potential.png" alt="Castti/Castii_Potential.png" width="40px" /> **Latent Power: Every Drop Counts ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Castti/Castii_Potential.png" alt="Castti/Castii_Potential.png" width="40px" /> **Latent Power: Every Drop Counts ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self Every Drop Counts (turns: 1).
 Every Drop Counts: Skill configuration changes to the following.
 
@@ -168,7 +168,7 @@ Deal Phys. Axe damage to Single Foe **6** time(s) (potency: **6x55**). [56 SP]
 </aside>
 
 <aside>
-<img src="Castti/Axe%206.png" alt="Castti/Axe%206.png" width="40px" /> **Drastic Measures ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Castti/Axe%206.png" alt="Castti/Axe%206.png" width="40px" /> **Drastic Measures ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe (potency: 260). Potency varies depending on the number of status effect icons of the target. [40 SP]
 ·6 or more: Raise potency by 50%.
 ·12 or more: Raise potency by 100%.
@@ -256,29 +256,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 26, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Michiko Neya](https://myanimelist.net/people/176/Michiko_Neya)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Michiko Neya](https://myanimelist.net/people/176/Michiko_Neya)
 
 </aside>
 

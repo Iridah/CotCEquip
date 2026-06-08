@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: NieR Universe (NieR series)
 Location: Memoir
-Attributes: Dagger%2020.png, Light%2030.png
-HP (Lv. 120): 4.072
+Attributes: Dagger%2018.png, Light%2022.png
+HP (Lv. 120): 4072
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 573
 P.Def (Lv. 120): 245
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Kain%C3%A9/Phys_Atk_Limit_Up.jpeg" alt="Kain%C3%A9/Phys_Atk_Limit_Up.jpeg" width="40px" /> **Bursting Madness (Power) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kain%C3%A9/Phys_Atk_Limit_Up.jpeg" alt="Kain%C3%A9/Phys_Atk_Limit_Up.jpeg" width="40px" /> **Bursting Madness (Power) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Phys. Atk. Up limit from battle skills and support skills and equipment effects to 50%.
 
 </aside>
@@ -137,7 +137,7 @@ When consuming 5 BP: Raise Damge Limit of this skill by 50,000.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Chop Your $#&!@ Off ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Chop Your $#&!@ Off ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Phys. Atk. Up 50% and raise BP recovery by 1 (turns: 3-8 based on Boost Lv.). [112 SP]
 
 </aside>
@@ -222,29 +222,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 29, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 4, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Atsuko Tanaka](https://myanimelist.net/people/100/Atsuko_Tanaka)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Atsuko Tanaka](https://myanimelist.net/people/100/Atsuko_Tanaka)
 
 </aside>
 

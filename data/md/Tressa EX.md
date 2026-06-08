@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Rippletide
-Attributes: Bow%2038.png, Fire%2071.png
-HP (Lv. 120): 3.900
+Attributes: Bow%204.png, Fire%2014.png
+HP (Lv. 120): 3900
 SP (Lv. 120): 437
 P.Atk (Lv. 120): 449
 P.Def (Lv. 120): 383
@@ -45,7 +45,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Tressa%20EX/Arrows_of_Wisdom.png" alt="Tressa%20EX/Arrows_of_Wisdom.png" width="40px" /> **Meticulous Set-Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tressa%20EX/Arrows_of_Wisdom.png" alt="Tressa%20EX/Arrows_of_Wisdom.png" width="40px" /> **Meticulous Set-Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, raise own Bow Trap points by 4.
 
 </aside>
@@ -202,7 +202,7 @@ Act faster during turn and deal Phys. Bow damage to Single Foe 3 time(s) (potenc
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Burning Trap (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Burning Trap (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cause All Foes to combust (turns: 2-5 based on Boost Lv.). [31 SP]
 
 <aside>
@@ -290,29 +290,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 8, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Aoki](https://myanimelist.net/people/23831/Ruriko_Aoki?q=Ruriko%20Aoki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Aoki](https://myanimelist.net/people/23831/Ruriko_Aoki?q=Ruriko%20Aoki&cat=person)
 
 </aside>
 

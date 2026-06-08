@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Tome%2028.png, Light%2043.png
-HP (Lv. 120): 4.056
+Attributes: Tome%2014.png, Light%2018.png
+HP (Lv. 120): 4056
 SP (Lv. 120): 712
 P.Atk (Lv. 120): 316
 P.Def (Lv. 120): 356
@@ -91,17 +91,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" alt="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" alt="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an ally breaks an enemy, lower Elem. Atk. and Elem. Def. of the broken enemy by 20% (turns: 3).
 
 <aside>
-<img src="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" alt="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" alt="https://img.game8.jp/7972189/1ca9707e4e18c37bd3d52cac46d0c9ea.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When an ally breaks an enemy, lower Elem. Atk. and Elem. Def. of the broken enemy by **30%** (turns: 3).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -189,11 +189,11 @@ Deal Elem. Light damage to Random Foe 5 time(s) (potency: 5x30). Exploits Tome w
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self an HP Barrier (potency: 20%-80% of user’s Max HP/Does not stack) and raise BP recovery amount by 1 (turns: 1). At Max Boost: Also restore uses of EX skill by 1. [60 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self an HP Barrier (potency: **25%-100%** of user’s Max HP/Does not stack) and raise BP recovery amount by **2** (turns: 1). At Max Boost: Also restore uses of EX skill by 1. [60 SP]
 
 </aside>
@@ -277,28 +277,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 4, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomoaki Maeno](https://myanimelist.net/people/1489/Tomoaki_Maeno)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomoaki Maeno](https://myanimelist.net/people/1489/Tomoaki_Maeno)
 
 </aside>
 

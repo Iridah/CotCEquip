@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Cathedral of Thytos
-Attributes: Tome%2047.png, Light%2064.png
-HP (Lv. 120): 3.686
+Attributes: Tome%2021.png, Light%2025.png
+HP (Lv. 120): 3686
 SP (Lv. 120): 592
 P.Atk (Lv. 120): 281
 P.Def (Lv. 120): 336
@@ -44,7 +44,7 @@ Raise own Light Resilience by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" alt="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" width="40px" /> **Tactical Genius ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" alt="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" width="40px" /> **Tactical Genius ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When broken enemy is present: Raise potency of battle skills by 30% and grant Self Damage Limit Up (effect: 50,000), but also increase SP consumption by 30%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Light damage to Single Foe 3 time(s) (potency: 3x65). Attack count be
 </aside>
 
 <aside>
-<img src="Varkyn/Light%204.png" alt="Varkyn/Light%204.png" width="40px" /> **Living Soulstone - Attack Type ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Varkyn/Light%204.png" alt="Varkyn/Light%204.png" width="40px" /> **Living Soulstone - Attack Type ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 From the turn after this skill is used, deal Elem. Light damage to Random Foe 3 time(s) before allies act (with exceptions) (potency: 3x55, turns: 2-5 based on Boost Lv.). [120 SP]
 
 </aside>
@@ -211,29 +211,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 8, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 2, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroki Yasumoto](https://myanimelist.net/people/25/Hiroki_Yasumoto?q=Hiroko%20Yasumoto&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroki Yasumoto](https://myanimelist.net/people/25/Hiroki_Yasumoto?q=Hiroko%20Yasumoto&cat=person)
 
 </aside>
 

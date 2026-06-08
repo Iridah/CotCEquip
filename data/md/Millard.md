@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Valore
-Attributes: Staff_Staves%2017.png, Light%2041.png
-HP (Lv. 120): 3.512
+Attributes: Staff_Staves%202.png, Light%207.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 500
 P.Atk (Lv. 120): 301
 P.Def (Lv. 120): 342
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Millard/HP_Restoration.png" alt="Millard/HP_Restoration.png" width="40px" /> **Vanguard HP Restoration (Front/Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Millard/HP_Restoration.png" alt="Millard/HP_Restoration.png" width="40px" /> **Vanguard HP Restoration (Front/Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Grant Paired Ally automatic HP recovery (potency: 100).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Light damage to All Foes (potency: 180). [46 SP]
 </aside>
 
 <aside>
-<img src="Millard/Light%202.png" alt="Millard/Light%202.png" width="40px" /> **Sustained Glow (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Millard/Light%202.png" alt="Millard/Light%202.png" width="40px" /> **Sustained Glow (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 From the turn after this skill is used, deal Elem. Light damage to All Foes once per turn (potency: 180, turns: 2-5 based on Boost Lv.). [84 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuya Hirose](https://myanimelist.net/people/36724/Yuuya_Hirose?q=Yuuya%20Hirose&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuya Hirose](https://myanimelist.net/people/36724/Yuuya_Hirose?q=Yuuya%20Hirose&cat=person)
 
 </aside>
 

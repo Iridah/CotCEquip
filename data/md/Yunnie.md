@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Grandport
-Attributes: Bow%2040.png, Sword%2064.png, Spear_Polearm%2039.png, Axe%2045.png, Fire%2076.png
-HP (Lv. 120): 3.862
+Attributes: Bow%2014.png, Sword%2030.png, Spear_Polearm%2017.png, Axe%2019.png, Fire%2033.png
+HP (Lv. 120): 3862
 SP (Lv. 120): 461
 P.Atk (Lv. 120): 472
 P.Def (Lv. 120): 268
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Evening Calm Suppression ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Evening Calm Suppression ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When there are 16 or more status effects on enemies, activate attack skills twice (additional activations do not consume SP).
 
 </aside>
@@ -130,7 +130,7 @@ Deal Phys. Sword, Polearm, Axe and Bow damage 1 time each to All Foes (potency: 
 </aside>
 
 <aside>
-<img src="Yunnie/Bow%205.png" alt="Yunnie/Bow%205.png" width="40px" /> **Dangerous Shot ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Yunnie/Bow%205.png" alt="Yunnie/Bow%205.png" width="40px" /> **Dangerous Shot ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 2 time(s) (potency: 2x75). Each attack inflicts one of the following status ailments: combust, frostbite and corrosion (turns: 1). [42 SP]
 
 <aside>
@@ -231,29 +231,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 21, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 15, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
 
 </aside>
 

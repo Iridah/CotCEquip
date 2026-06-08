@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Axe%2036.png, Lightning_Thunder%2040.png, Wind%2051.png
-HP (Lv. 120): 3.750
+Attributes: Axe.png, Lightning_Thunder%201.png, Wind%201.png
+HP (Lv. 120): 3750
 SP (Lv. 120): 650
 P.Atk (Lv. 120): 385
 P.Def (Lv. 120): 422
@@ -50,17 +50,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Shana Style SP Healing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Shana Style SP Healing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic SP recovery (amount: 5% of max SP). With SP Stock: Recovery amount doubles.
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Shana Style SP Healing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Shana Style SP Healing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self automatic SP recovery (amount: 5% of max SP). With SP Stock: Recovery amount doubles. When switching to back row: Impart Self with SP Stock (amount: 10% of user’s max Sp/Does not stack).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Axe and Elem. Lightning and Wind attacks of All Allies by 15,000.
 
 </aside>
@@ -141,11 +141,11 @@ Deal Phys. Axe damage to All Foes 3 time(s) (potency: 3x80). Exploits Lightning 
 </aside>
 
 <aside>
-<img src="Shana/Raise_Max_SP.png" alt="Shana/Raise_Max_SP.png" width="40px" /> **Plum Injection ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Shana/Raise_Max_SP.png" alt="Shana/Raise_Max_SP.png" width="40px" /> **Plum Injection ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Entire Front Row excluding Self  with SP Stock (amount: 50-150 based on Boost Lv./does not stack). [150 SP]
 
 <aside>
-<img src="Shana/Raise_Max_SP.png" alt="Shana/Raise_Max_SP.png" width="40px" /> **Plum Injection ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Shana/Raise_Max_SP.png" alt="Shana/Raise_Max_SP.png" width="40px" /> **Plum Injection ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Impart Entire Front Row excluding Self  with SP Stock (amount: 50-150 based on Boost Lv./does not stack). [**100 SP**]
 
 </aside>
@@ -238,29 +238,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 11, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 8, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shion Wakayama](https://myanimelist.net/people/35511/Shion_Wakayama)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shion Wakayama](https://myanimelist.net/people/35511/Shion_Wakayama)
 
 </aside>
 

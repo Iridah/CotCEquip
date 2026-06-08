@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Approval
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Staff%2010.png, Wind%2058.png, Lightning%2014.png
-HP (Lv. 120): 3.532
+Attributes: Staff.png, Wind%2014.png, Lightning%203.png
+HP (Lv. 120): 3532
 SP (Lv. 120): 510
 P.Atk (Lv. 120): 381
 P.Def (Lv. 120): 302
@@ -66,11 +66,11 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At the end of turn: Restore SP of Paired Allies (amount: 10% of max SP) and fill the Ultimate Technique gauge of Paired Allies to 100%.
 
 <aside>
-<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" alt="https://img.game8.jp/7660377/c49682623422de2b3cd635814bdf247c.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At the end of turn: Restore SP of Paired Allies (amount: 10% of max SP) and fill the Ultimate Technique gauge of Paired Allies to 100%. Also restore SP of Entire Front Row (amount: 5% of max SP) and fill their Ultimate Technique gauge by 50%.
 
 </aside>
@@ -185,7 +185,7 @@ Deal Elem. Wind damage to All Foes 2 time(s) (potency: 2x95) and lower Wind Res.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Single Ally (amount: 25%-100% based on Boost Lv.). Grant effects based on target’s HP. [41 SP]
 ·At 60% or more: Grant HP Barrier (potency: 20% of user’s max HP/Does not stack).
 ·At full HP: Additionally, restore 1 BP.
@@ -196,7 +196,7 @@ Restore HP of Single Ally (amount: 25%-100% based on Boost Lv.). Grant effects b
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Restore HP of Single Ally (amount: **70%-???%** based on Boost Lv.). Grant effects based on target’s HP. [41 SP]
 ·At 60% or more: Grant HP Barrier (potency: **30%** of user’s max HP/Does not stack).
 ·At full HP: Additionally, restore **2** BP.
@@ -301,28 +301,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
 
 </aside>
 

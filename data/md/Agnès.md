@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Luxendarc (BRAVELY DEFAULT)
 Location: Nameless Town
-Attributes: Staff_Staves.png, Wind%201.png, Light%202.png
-HP (Lv. 120): 3.517
+Attributes: Staff_Staves%2013.png, Wind%2030.png, Light%2037.png
+HP (Lv. 120): 3517
 SP (Lv. 120): 475
 P.Atk (Lv. 120): 306
 P.Def (Lv. 120): 337
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Agn%C3%A8s/BP_Recovery_Boost.png" alt="Agn%C3%A8s/BP_Recovery_Boost.png" width="40px" /> **Remaining Strength ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agn%C3%A8s/BP_Recovery_Boost.png" alt="Agn%C3%A8s/BP_Recovery_Boost.png" width="40px" /> **Remaining Strength ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When consuming 3 BP to use a skill, raise BP recover amount of Self by 1 (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Revive a fallen ally (recovery amount: 25%-100% of max HP based on Boost Lv.). *
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Shell ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Shell ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Entire Front Row with Elem. Def. Up 15% (turns: 2-5 based on Boost Lv.). At Max Boost: Grant the ability to completely block some elemental attacks and counter with Elem. Light damage (potency: 200). [36 SP]
 
 </aside>
@@ -203,29 +203,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 13, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 19, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEAFULT Crossover Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEAFULT Crossover Return Dates:**
 Apr 26, 2023
 Nov 1, 2023
 Oct 9, 2024
@@ -235,7 +235,7 @@ Oct 9, 2025
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ami Koshimizu](https://myanimelist.net/people/70/Ami_Koshimizu?q=Ami%20Koshimizu&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ami Koshimizu](https://myanimelist.net/people/70/Ami_Koshimizu?q=Ami%20Koshimizu&cat=person)
 
 </aside>
 

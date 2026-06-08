@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: Orsterra
 Location: Flamesgrace
-Attributes: Dagger%2014.png, Ice%2012.png
-HP (Lv. 120): 3.722
+Attributes: Dagger%204.png, Ice%202.png
+HP (Lv. 120): 3722
 SP (Lv. 120): 442
 P.Atk (Lv. 120): 413
 P.Def (Lv. 120): 320
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hawk’s Sharp Eye ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hawk’s Sharp Eye ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. of Self by 15% and grant Damage Limit Up (effect: 50,000) when broken enemy is present.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Dagger damage to Single Foe (potency: 170) and impart Phys. Atk. Down
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Once More ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Once More ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to trigger attack abilities 2 times (turns: 2/Cannot be extended/Additional instances do not cost SP). Also grant Dead Aim (guaranteed critical hits) (turns: 3-6 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -225,29 +225,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 26, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 8, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kohsuke Toriumi](https://myanimelist.net/people/97/Kousuke_Toriumi?q=Kohsuke%20Toriumi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kohsuke Toriumi](https://myanimelist.net/people/97/Kousuke_Toriumi?q=Kohsuke%20Toriumi&cat=person)
 
 </aside>
 

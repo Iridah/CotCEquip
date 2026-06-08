@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Emberglow
-Attributes: Bow%2012.png, Wind%2016.png
-HP (Lv. 120): 3.882
+Attributes: Bow%2041.png, Wind%2062.png
+HP (Lv. 120): 3882
 SP (Lv. 120): 451
 P.Atk (Lv. 120): 432
 P.Def (Lv. 120): 293
@@ -49,7 +49,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Guti/Phys_Atk_Boost.png" alt="Guti/Phys_Atk_Boost.png" width="40px" /> **Use Poison Arrows (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Guti/Phys_Atk_Boost.png" alt="Guti/Phys_Atk_Boost.png" width="40px" /> **Use Poison Arrows (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When there is a poisoned enemy: Impart Paired Allies with Phys. Atk. Up 5% and raise Bow damage by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Bow damage to Single Foe (potency: **210**) and have a moderate chanc
 </aside>
 
 <aside>
-<img src="Guti/Bow%202.png" alt="Guti/Bow%202.png" width="40px" /> **Wild Raging Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Guti/Bow%202.png" alt="Guti/Bow%202.png" width="40px" /> **Wild Raging Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe (potency: 140). When the target is poisoned, potency is multiplied by 2.5. [50 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouichi Souma](https://myanimelist.net/people/18545/Kouichi_Souma)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouichi Souma](https://myanimelist.net/people/18545/Kouichi_Souma)
 
 </aside>
 

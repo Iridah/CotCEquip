@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Emberglow
-Attributes: Tome%2041.png, Ice%2045.png
-HP (Lv. 120): 3.556
+Attributes: Tome%2010.png, Ice%2013.png
+HP (Lv. 120): 3556
 SP (Lv. 120): 652
 P.Atk (Lv. 120): 281
 P.Def (Lv. 120): 341
@@ -50,7 +50,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Sofia/Elem_atk_Boost.png" alt="Sofia/Elem_atk_Boost.png" width="40px" /> **Determined Pursuit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sofia/Elem_atk_Boost.png" alt="Sofia/Elem_atk_Boost.png" width="40px" /> **Determined Pursuit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Impart Self with Elem. Atk. Up 15% and grant Damage Limit Up (effect: 50,000).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Ice damage to Single Foe 3 time(s) (potency: 3x85). [52 SP]
 </aside>
 
 <aside>
-<img src="Sofia/Ice%206.png" alt="Sofia/Ice%206.png" width="40px" /> **Ultimate Arctica ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sofia/Ice%206.png" alt="Sofia/Ice%206.png" width="40px" /> **Ultimate Arctica ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to All Foes (potency: 530). [500 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?q=Aoi%20Yuuki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?q=Aoi%20Yuuki&cat=person)
 
 </aside>
 

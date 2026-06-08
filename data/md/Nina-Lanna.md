@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Berecain
-Attributes: Tome%2030.png, Dark%2033.png
-HP (Lv. 120): 3.466
+Attributes: Tome%2038.png, Dark%2042.png
+HP (Lv. 120): 3466
 SP (Lv. 120): 662
 P.Atk (Lv. 120): 266
 P.Def (Lv. 120): 326
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Nina-Lanna/Elem_atk_Boost.png" alt="Nina-Lanna/Elem_atk_Boost.png" width="40px" /> **Ancient Sorcery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nina-Lanna/Elem_atk_Boost.png" alt="Nina-Lanna/Elem_atk_Boost.png" width="40px" /> **Ancient Sorcery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Atk. of Self by 15% and grant Self Damage Limit Up (effect: 50,000).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 </aside>
 
 <aside>
-<img src="Nina-Lanna/Dark%202.png" alt="Nina-Lanna/Dark%202.png" width="40px" /> **Forbidden Duskfall (Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nina-Lanna/Dark%202.png" alt="Nina-Lanna/Dark%202.png" width="40px" /> **Forbidden Duskfall (Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to Single Foe (potency: 530). [300 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 9, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 6, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayumi Suzushiro](https://myanimelist.net/people/48122/Sayumi_Suzushiro?q=Sayumi%20Suzushiro&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayumi Suzushiro](https://myanimelist.net/people/48122/Sayumi_Suzushiro?q=Sayumi%20Suzushiro&cat=person)
 
 </aside>
 

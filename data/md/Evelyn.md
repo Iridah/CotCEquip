@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Fan%2010.png, Dark%2019.png
-HP (Lv. 120): 3.586
+Attributes: Fan%2039.png, Dark%2059.png
+HP (Lv. 120): 3586
 SP (Lv. 120): 559
 P.Atk (Lv. 120): 300
 P.Def (Lv. 120): 290
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Evelyn/Elem_atk_Boost.png" alt="Evelyn/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Evelyn/Elem_atk_Boost.png" alt="Evelyn/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Atk. of Paired Allies by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Elem. Dark damage to All Foes (potency: **170**). [26 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Four Beasts Parade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Four Beasts Parade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk., Phys. Def., Elem. Atk. and Elem. Def. of Entire Front Row by 10% (turns: 2-5 based on Boost Lv.). [54 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takako Tanaka](https://myanimelist.net/people/47440/Takako_Tanaka?q=Takako%20Tanaka&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takako Tanaka](https://myanimelist.net/people/47440/Takako_Tanaka?q=Takako%20Tanaka&cat=person)
 
 </aside>
 

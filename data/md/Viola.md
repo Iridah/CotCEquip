@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Sunshade
-Attributes: Dagger%2044.png, Fire%2072.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%202.png, Fire%202.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 438
 P.Def (Lv. 120): 300
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" alt="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" width="40px" /> **Defensive Drain on Break II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" alt="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" width="40px" /> **Defensive Drain on Break II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy: Lower Phys. Def. and Elem. Def. by 15% (turns: 3).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Dagger damage to All Foes **3** time(s) (potency: **3x65**). Lower Sh
 </aside>
 
 <aside>
-<img src="Viola/Dagger%202.png" alt="Viola/Dagger%202.png" width="40px" /> **Wall Breaker ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Viola/Dagger%202.png" alt="Viola/Dagger%202.png" width="40px" /> **Wall Breaker ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Random Foe 4 time(s) (potency: 4x45). Lower Shield Points even when not striking weak points. [58 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
 
 </aside>
 

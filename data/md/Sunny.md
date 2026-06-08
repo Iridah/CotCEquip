@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Valore
-Attributes: Bow%2037.png, Dark%2055.png
-HP (Lv. 120): 3.052
+Attributes: Bow%2035.png, Dark%2056.png
+HP (Lv. 120): 3052
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 372
 P.Def (Lv. 120): 226
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Critical Boost V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Critical Boost V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Critical of Self by 30%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Bow damage to All Foes (potency: **170**) [24 SP]
 </aside>
 
 <aside>
-<img src="Sunny/Bow%202.png" alt="Sunny/Bow%202.png" width="40px" /> **Sunny’s Burst ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sunny/Bow%202.png" alt="Sunny/Bow%202.png" width="40px" /> **Sunny’s Burst ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe. Attack count rises based on Boost Lv. (potency: 2x90/3x75/4x65/5x80). [38 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
 
 </aside>
 

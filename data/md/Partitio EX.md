@@ -6,8 +6,8 @@ Job: Thief
 Influence: Opulence
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Dagger%2031.png, Staff%206.png
-HP (Lv. 120): 3.742
+Attributes: Dagger%2016.png, Staff%205.png
+HP (Lv. 120): 3742
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 423
 P.Def (Lv. 120): 255
@@ -65,17 +65,17 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Partitio%20EX/Phys_Atk_Boost.png" alt="Partitio%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Partitio%20EX/Phys_Atk_Boost.png" alt="Partitio%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Phys. Atk. by 30%. At full HP: Add 30% of Crit to P.Atk (including equipment stats/Cannot be stacked).
 
 <aside>
-<img src="Partitio%20EX/Phys_Atk_Boost.png" alt="Partitio%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Partitio%20EX/Phys_Atk_Boost.png" alt="Partitio%20EX/Phys_Atk_Boost.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise own Phys. Atk. by 30%. At full HP: Raise the limit of Phys. Atk. augments from equipment and support skills to 50% and add 30% of Crit to P.Atk (including equipment stats/Cannot be stacked).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -189,11 +189,11 @@ Deal Phys. Dagger damage to Single Foe (potency: 290). Exploits Staff weakness (
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Dagger damage of Self by 30% and Damage Limit by 30,000 (turns: 3-6 based on Boost Lv.). [48 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Dagger damage of Self by 30%, Damage Limit Up by **100,000** and grant Fighting Spirit (turns: 3-6 based on Boost Lv.). [48 SP]
 Fighting Spirit: BP does not decrease (even during consumption/with some exceptions). *Effects that require BP will still be activated.
 
@@ -278,28 +278,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuya Nakai](https://myanimelist.net/people/123/Kazuya_Nakai)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuya Nakai](https://myanimelist.net/people/123/Kazuya_Nakai)
 
 </aside>
 

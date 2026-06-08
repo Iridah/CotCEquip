@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan%2029.png, Ice%2032.png, Dark%2031.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2034.png, Ice%2046.png, Dark%2047.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 639
 P.Atk (Lv. 120): 280
 P.Def (Lv. 120): 275
@@ -56,7 +56,7 @@ Raise own Light Res. by 20%
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Heat Reading ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Heat Reading ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic SP recovery (amount: 10% of max SP) when not using Aster’s Prayer or Silver Prayer.
 
 </aside>
@@ -150,7 +150,7 @@ Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Blessing of the Stars ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Blessing of the Stars ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore SP of Entire Front Row except Self (amount: 25-100 based on Boost Lv.). [100 SP]
 
 </aside>
@@ -232,29 +232,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Dual Fates
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Dual Fates
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 14, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 6, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Koga](https://myanimelist.net/people/41328/Aoi_Koga)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Koga](https://myanimelist.net/people/41328/Aoi_Koga)
 
 </aside>
 

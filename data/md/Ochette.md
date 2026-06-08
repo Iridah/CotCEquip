@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Bow%2028.png, Sword%2039.png, Spear_Polearm%2023.png, Axe%2026.png, Lightning_Thunder%2026.png, Wind%2037.png, Light%2045.png
-HP (Lv. 120): 3.682
+Attributes: Bow%2031.png, Sword%2053.png, Spear_Polearm%2027.png, Axe%2038.png, Lightning_Thunder%2035.png, Wind%2049.png, Light%2056.png
+HP (Lv. 120): 3682
 SP (Lv. 120): 456
 P.Atk (Lv. 120): 522
 P.Def (Lv. 120): 263
@@ -50,7 +50,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Animal Instincts ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Animal Instincts ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect of Animal Instincts (turns: 1).
 Animal Instincts: Skill configuration changes to the following.
 
@@ -168,7 +168,7 @@ Deal Phys. Bow damage to Random Foe 6 time(s) (potency: 6x40). [82 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Hunting Capture ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Hunting Capture ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. and Critical of Entire Front Row by 15% (turns: 2-5 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -274,7 +274,7 @@ Raise Phys. Attack and critical damage of Self by 15%.
 </aside>
 
 <aside>
-<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **底力：獣の力 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **底力：獣の力 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect Animal Instincts (turns: 1).
 Animal Instincts: Skill configuration changes to the following.
 
@@ -385,29 +385,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 20, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 30, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Hirano](https://myanimelist.net/people/4/Aya_Hirano)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Hirano](https://myanimelist.net/people/4/Aya_Hirano)
 
 </aside>
 

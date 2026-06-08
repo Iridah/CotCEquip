@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Power
 Continent: Orsterra
 Location: Clearbrook
-Attributes: Staff_Staves%2026.png, Ice%2039.png
-HP (Lv. 120): 3.872
+Attributes: Staff_Staves%2023.png, Ice%2040.png
+HP (Lv. 120): 3872
 SP (Lv. 120): 451
 P.Atk (Lv. 120): 290
 P.Def (Lv. 120): 278
@@ -49,7 +49,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. and Elem. Def. Boost (Joint) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. and Elem. Def. Boost (Joint) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Def. and Elem. Def. of Paired Allies by 15%.
 
 </aside>
@@ -125,7 +125,7 @@ Impart Entire Front Row with Elem. Def. Up 15% (turns: **3-6** based on Boost Lv
 </aside>
 
 <aside>
-<img src="Ramona/Ice%202.png" alt="Ramona/Ice%202.png" width="40px" /> **Ice Flash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ramona/Ice%202.png" alt="Ramona/Ice%202.png" width="40px" /> **Ice Flash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to Single Foe 3 time(s) (potency: 3x85). Subsequently move to the back row (action does not count as switching). [54 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ikumi Hasegawa](https://myanimelist.net/people/48048/Ikumi_Hasegawa?q=Ikumi%20Hasegawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ikumi Hasegawa](https://myanimelist.net/people/48048/Ikumi_Hasegawa?q=Ikumi%20Hasegawa&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Clearbrook
-Attributes: Fan%2026.png, Light%2037.png
-HP (Lv. 120): 3.606
+Attributes: Fan%2037.png, Light%2063.png
+HP (Lv. 120): 3606
 SP (Lv. 120): 563
 P.Atk (Lv. 120): 292
 P.Def (Lv. 120): 285
@@ -43,7 +43,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. Boost (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. Boost (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Entire Front Row with Phys. Def. Up 10%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Fan damage to Single Foe 2 time(s) (potency: **2x130**). [32 SP]
 </aside>
 
 <aside>
-<img src="Meena/Light%202.png" alt="Meena/Light%202.png" width="40px" /> **Sunlight Ballad IV ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Meena/Light%202.png" alt="Meena/Light%202.png" width="40px" /> **Sunlight Ballad IV ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe 3 time(s) (potency: 3x85). [54 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
 
 </aside>
 

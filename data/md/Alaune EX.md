@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Fan%201.png, Ice.png
-HP (Lv. 120): 3.566
+Attributes: Fan.png, Ice%201.png
+HP (Lv. 120): 3566
 SP (Lv. 120): 667
 P.Atk (Lv. 120): 251
 P.Def (Lv. 120): 366
@@ -50,17 +50,17 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of buff casted by Self by 1 turn.
 
 <aside>
-<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Extend duration of buff casted by Self by **2** turns.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Ice attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Deal Elem. Ice damage to Single Foe (potency: 260) and then swap to Back Row. [4
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Dragon Scale Parade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Dragon Scale Parade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Res. of Entire Front Row by 15% (turns: 2-5 based on Boost Lv.). [54 SP]
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Dragon Scale Parade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Dragon Scale Parade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Phys. and Elem. Res. of Entire Front Row by 15% (turns: 2-5 based on Boost Lv.). [54 SP]
 
 </aside>
@@ -227,29 +227,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Excillant (BRAVELY DEFAULT II)
 Location: Nameless Town
-Attributes: Dagger%201.png, Light.png
-HP (Lv. 120): 3.707
+Attributes: Dagger%2023.png, Light%2028.png
+HP (Lv. 120): 3707
 SP (Lv. 120): 407
 P.Atk (Lv. 120): 463
 P.Def (Lv. 120): 275
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245745/4e6eeab1301e8639139427bc84150d55.png/show" alt="https://img.game8.jp/8245745/4e6eeab1301e8639139427bc84150d55.png/show" width="40px" /> **Flowing Time (Posioned) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245745/4e6eeab1301e8639139427bc84150d55.png/show" alt="https://img.game8.jp/8245745/4e6eeab1301e8639139427bc84150d55.png/show" width="40px" /> **Flowing Time (Posioned) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self 30% chance of dodging some physical attacks and have a moderate chance to poison all enemies with a successful dodge from this skill’s effects (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Dagger damage to Single Foe (potency: 260). Guaranteed critical hit a
 </aside>
 
 <aside>
-<img src="Adelle/Dagger%205.png" alt="Adelle/Dagger%205.png" width="40px" /> **Swift Instant Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Adelle/Dagger%205.png" alt="Adelle/Dagger%205.png" width="40px" /> **Swift Instant Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe 5 time(s) (potency: 5x35). [58 SP]
 
 </aside>
@@ -203,29 +203,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 5, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover Return Dates:**
 Apr 26, 2023
 Nov 1, 2023
 Oct 9, 2024
@@ -235,7 +235,7 @@ Oct 9, 2025
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukana](https://myanimelist.net/people/140/Yukana?q=Yukana&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukana](https://myanimelist.net/people/140/Yukana?q=Yukana&cat=person)
 
 </aside>
 

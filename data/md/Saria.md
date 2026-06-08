@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Axe%2035.png, Ice%2043.png
-HP (Lv. 120): 4.030
+Attributes: Axe%2041.png, Ice%2047.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 463
 P.Atk (Lv. 120): 390
 P.Def (Lv. 120): 437
@@ -49,7 +49,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. Boost (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Phys. Def. Boost (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Def. of Paired Allies by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Grant Single Ally automatic HP recovery (potency: **150**, turns: 3-6 based on B
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Grace of Healing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Grace of Healing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 45) and grant automatic HP recovery (potency: 70, turns: 5). [55 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ikumi Hasegawa](https://myanimelist.net/people/48048/Ikumi_Hasegawa?q=Ikumi%20Hasegawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ikumi Hasegawa](https://myanimelist.net/people/48048/Ikumi_Hasegawa?q=Ikumi%20Hasegawa&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Bow%2019.png, Lightning_Thunder%2016.png
-HP (Lv. 120): 4.192
+Attributes: Bow%2011.png, Lightning_Thunder%2018.png
+HP (Lv. 120): 4192
 SP (Lv. 120): 451
 P.Atk (Lv. 120): 437
 P.Def (Lv. 120): 318
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Kilns/F91WDBFbMAAkW6s_copia.jpeg" alt="Kilns/F91WDBFbMAAkW6s_copia.jpeg" width="40px" /> **Flowing Breath ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kilns/F91WDBFbMAAkW6s_copia.jpeg" alt="Kilns/F91WDBFbMAAkW6s_copia.jpeg" width="40px" /> **Flowing Breath ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Recover 20% of damage taken as HP and 5% as SP when hit (With some exceptions/Does not stack with effects of the same type).
 
 </aside>
@@ -128,7 +128,7 @@ Deal Phys. Bow damage to Single Foe 2 time(s) (potency: 2x135). Exploits Lightni
 </aside>
 
 <aside>
-<img src="Kilns/BP_Recovery.png" alt="Kilns/BP_Recovery.png" width="40px" /> **Brutal Instructor’s Motivation ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kilns/BP_Recovery.png" alt="Kilns/BP_Recovery.png" width="40px" /> **Brutal Instructor’s Motivation ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise BP recovery amount of Entire Front Row by 1 (turns: 2-5 based on Boost Lv.). [100 SP]
 
 </aside>
@@ -299,29 +299,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 9, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 2, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Maeda](https://myanimelist.net/people/60086/Yuu_Maeda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Maeda](https://myanimelist.net/people/60086/Yuu_Maeda)
 
 </aside>
 

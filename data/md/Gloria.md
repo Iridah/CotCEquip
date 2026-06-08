@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Excillant (BRAVELY DEFAULT II)
 Location: Memoir
-Attributes: Staff_Staves%208.png, Ice%2014.png, Light%2025.png
-HP (Lv. 120): 3.522
+Attributes: Staff_Staves%2011.png, Ice%2021.png, Light%2027.png
+HP (Lv. 120): 3522
 SP (Lv. 120): 540
 P.Atk (Lv. 120): 281
 P.Def (Lv. 120): 352
@@ -52,7 +52,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Gloria/Hale_Damage_Reduction.png" alt="Gloria/Hale_Damage_Reduction.png" width="40px" /> **Defensive Offense (Front All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Gloria/Hale_Damage_Reduction.png" alt="Gloria/Hale_Damage_Reduction.png" width="40px" /> **Defensive Offense (Front All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When using attack skills (excluding counterattacks and special attacks), reduce damage by Entire Front Row taken from some attacks once by 30% (Does not stack with effects of the same type/Effect only triggers once).
 
 </aside>
@@ -129,7 +129,7 @@ Deal Elem. Light damage to Single Foe 3 time(s) (potency: 3x85). When Self has M
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **There in Spirit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **There in Spirit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Perform the following action at the end of every third turn: Restore HP of Entire Front Row (amount: 100% of max HP), restore SP (amount: 50% of max SP) and recover BP (amount: 3) (times: 1-4 based on Boost Lv.). [300 SP]
 *First application will be 2 turns after this skill is used.
 
@@ -198,35 +198,35 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 3, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
 Oct 9, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Shimamura](https://myanimelist.net/people/5295/Yuu_Shimamura)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Shimamura](https://myanimelist.net/people/5295/Yuu_Shimamura)
 
 </aside>
 

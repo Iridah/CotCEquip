@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Staff_Staves%2020.png, Fire%2041.png, Light%2042.png
-HP (Lv. 120): 3.602
+Attributes: Staff_Staves.png, Fire%209.png, Light%204.png
+HP (Lv. 120): 3602
 SP (Lv. 120): 500
 P.Atk (Lv. 120): 471
 P.Def (Lv. 120): 342
@@ -58,17 +58,17 @@ Raise own Fire and Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Mydia/Staff_Limit_Up.jpg" alt="Mydia/Staff_Limit_Up.jpg" width="40px" /> **Rod and Staff ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Mydia/Staff_Limit_Up.jpg" alt="Mydia/Staff_Limit_Up.jpg" width="40px" /> **Rod and Staff ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise the limit of Staff damage augments of Enitre Front Row from support skills and equipment effects to 50%. At full HP: Also raise their Staff damage by 20%.
 
 <aside>
-<img src="Mydia/Staff_Limit_Up.jpg" alt="Mydia/Staff_Limit_Up.jpg" width="40px" /> **Rod and Staff ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Mydia/Staff_Limit_Up.jpg" alt="Mydia/Staff_Limit_Up.jpg" width="40px" /> **Rod and Staff ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise the limit of Staff damage augments of Enitre Front Row from support skills and equipment effects to 50%. At full HP: Also raise their Staff damage by 20%. When in back row: Grant Self automatic SP recovery (amount: 20% of Max SP).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Staff skills of All Allies by 15,000.
 
 </aside>
@@ -151,7 +151,7 @@ Deal Phys. Staff damage to Single Foe 3 time(s) (potency: 3x110). Exploits Fire 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **Raging Flaring Bash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **Raging Flaring Bash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Staff damage to Random Foe 4 time(s) (potency: 4x45). Exploits Fire and Light weakness (damage calculation based on Phys. Staff attack). Grant Staff weakness with every attack (times: 2). [72 SP]
 
 <aside>
@@ -160,7 +160,7 @@ Deal Phys. Staff damage to Random Foe 4 time(s) (potency: 4x45). Exploits Fire a
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **Raging Flaring Bash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a6-92b0-007aef763765" width="40px" /> **Raging Flaring Bash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Staff damage to Random Foe **5** time(s) (potency: **5x45**). Exploits Fire and Light weakness (damage calculation based on Phys. Staff attack). Grant Staff weakness (times: 2) and lower Staff Res. by 15% (turns: 2) with every attack. [72 SP]
 
 <aside>
@@ -250,29 +250,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 7, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 1, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Wakui](https://myanimelist.net/people/35193/Yuu_Wakui)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Wakui](https://myanimelist.net/people/35193/Yuu_Wakui)
 
 </aside>
 

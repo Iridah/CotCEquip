@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Cragspear
-Attributes: Dagger%207.png, Light%207.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%2043.png, Light%2069.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 423
 P.Def (Lv. 120): 305
@@ -49,7 +49,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Billy/Phys_Atk_Drain.png" alt="Billy/Phys_Atk_Drain.png" width="40px" /> **Billy’s Break ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Billy/Phys_Atk_Drain.png" alt="Billy/Phys_Atk_Drain.png" width="40px" /> **Billy’s Break ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, lower Phys. Atk. and Phys. Def. by 5% (turns: 3).
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: **2x110**). [21 SP]
 </aside>
 
 <aside>
-<img src="Billy/Dagger%202.png" alt="Billy/Dagger%202.png" width="40px" /> **Billy’s Feint ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Billy/Dagger%202.png" alt="Billy/Dagger%202.png" width="40px" /> **Billy’s Feint ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: 2x75). Subsequently move to the back row (action does not count as a switching). Lower Shield Points even when not striking a weak point. [18 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
 
 </aside>
 

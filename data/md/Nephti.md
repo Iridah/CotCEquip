@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Axe%2024.png, Staff_Staves%2021.png, Tome%2029.png
-HP (Lv. 120): 4.020
+Attributes: Axe%2024.png, Staff_Staves%2016.png, Tome%2031.png
+HP (Lv. 120): 4020
 SP (Lv. 120): 418
 P.Atk (Lv. 120): 405
 P.Def (Lv. 120): 450
@@ -62,17 +62,17 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Nephti/Townfolks_Support.png" alt="Nephti/Townfolks_Support.png" width="40px" /> **Joyful Transformation ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nephti/Townfolks_Support.png" alt="Nephti/Townfolks_Support.png" width="40px" /> **Joyful Transformation ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching: Grant Self 1 Cheer On point.
 
 <aside>
-<img src="Nephti/Townfolks_Support.png" alt="Nephti/Townfolks_Support.png" width="40px" /> **Joyful Transformation ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Nephti/Townfolks_Support.png" alt="Nephti/Townfolks_Support.png" width="40px" /> **Joyful Transformation ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When switching: Grant Self **2** Cheer On point.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Axe, Staff and Tome attacks of All Allies by 15,000.
 
 </aside>
@@ -158,12 +158,12 @@ With 8+ Cheer On points: Also activate skill again (the follow-up attack will no
 </aside>
 
 <aside>
-<img src="Nephti/Axe%202.png" alt="Nephti/Axe%202.png" width="40px" /> **Scrap and Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nephti/Axe%202.png" alt="Nephti/Axe%202.png" width="40px" /> **Scrap and Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to All Foes 3 time(s) (potency: 3x55). Exploits Staff and Tome weaknesses (damage calculation based on Phys. Axe attack). [60 SP]
 With 9+ Cheer On points: Attack count becomes 6.
 
 <aside>
-<img src="Nephti/Axe%202.png" alt="Nephti/Axe%202.png" width="40px" /> **Scrap and Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Nephti/Axe%202.png" alt="Nephti/Axe%202.png" width="40px" /> **Scrap and Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Axe damage to All Foes **5** time(s) (potency: **5x55**). Exploits Staff and Tome weaknesses (damage calculation based on Phys. Axe attack). [60 SP]
 With 9+ Cheer On points: Attack count becomes **8**.
 
@@ -256,7 +256,7 @@ Uses: 2
 At end of turn: Fill the Ultimate Technique gauge of Self by 50%.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Frontier Axe**
 
@@ -280,7 +280,7 @@ Grant Entire Front Row effects based on own Cheer On points.
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Townfolk’s Support**
 
@@ -295,7 +295,7 @@ Grant Entire Front Row effects based on own Cheer On points.
 Deal Phys. Axe damage to All Foes (potency: 150). Exploits Staff and Tome weaknesses (damage calculation based on Phys. Axe attack). [36 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Cheerful Bash**
 
@@ -310,7 +310,7 @@ Deal Phys. Axe damage to **Random Foe** (potency: 45) and deal the same number o
 **Complete Side Story “Alpaca Paradise” |** SP Saver: 54→43
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Cheerful Tampting**
 
@@ -327,7 +327,7 @@ If 8 or more Cheer On Points: also grant immunity to some status ailments.
 **Complete Side Story “A Nutty Dream” |** **SP Saver: 55→45**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **HP Nuts**
 
@@ -343,7 +343,7 @@ With 5+ Cheer On points: Raise **Axe damage** of the same target by 15% (turns: 
 **Complete Side Story “Seen in a Dream” |** SP Saver: 70→56
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Issue Instructions**
 
@@ -360,7 +360,7 @@ With 4+ Cheer On points: Also activate skill again (the follow-up attack will no
 **Complete Side Story “The Wandering Blacksmith” |** SP Saver: 50→40
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Cheering Scrapping**
 
@@ -422,29 +422,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 19, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 21, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
 
 </aside>
 

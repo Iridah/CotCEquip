@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome%2023.png, Dagger%2022.png, Wind%2026.png, Lightning_Thunder%2020.png
-HP (Lv. 120): 3.536
+Attributes: Tome%2040.png, Dagger%2035.png, Wind%2051.png, Lightning_Thunder%2036.png
+HP (Lv. 120): 3536
 SP (Lv. 120): 612
 P.Atk (Lv. 120): 331
 P.Def (Lv. 120): 306
@@ -44,17 +44,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Levina/Critical_Elemental_Damage.png" alt="Levina/Critical_Elemental_Damage.png" width="40px" /> **Trickster ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Levina/Critical_Elemental_Damage.png" alt="Levina/Critical_Elemental_Damage.png" width="40px" /> **Trickster ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to trigger critical hits with elemental attacks and Damage Limit Up (effect: 70,000) when a broken enemy is present.
 
 <aside>
-<img src="Levina/Critical_Elemental_Damage.png" alt="Levina/Critical_Elemental_Damage.png" width="40px" /> **Trickster ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Levina/Critical_Elemental_Damage.png" alt="Levina/Critical_Elemental_Damage.png" width="40px" /> **Trickster ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self the ability to trigger critical hits with elemental attacks and Damage Limit Up (effect: **100,000**) when a broken enemy is present. Damage Limit of Forbidden Windbolt is increased by 400,000.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -138,11 +138,11 @@ Deal Elem. Wind damage to Single Foe (potency: **730**). Exploits Lightning weak
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Alluring Charm ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Alluring Charm ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart All Allies with Elem. Atk. Up 15% (turns: 2-5 based on Boost Lv.) and lower Elem. Def. of All Foes by 15% (turns: 2-5 based on Boost Lv.). [40 SP]
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Alluring Charm ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Alluring Charm ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Elem. Atk. and Wind damage of All Allies by 15% (turns: 2-5 based on Boost Lv.) and lower Elem. Def. of All Foes by 15% (turns: 2-5 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -226,29 +226,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 9, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 13, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara?q=Yumi%20Hara&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara?q=Yumi%20Hara&cat=person)
 
 </aside>
 

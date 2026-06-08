@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Rippletide
-Attributes: Fan%2012.png
-HP (Lv. 120): 4.042
+Attributes: Fan%2026.png
+HP (Lv. 120): 4042
 SP (Lv. 120): 356
 P.Atk (Lv. 120): 454
 P.Def (Lv. 120): 393
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Fiore%20EX/Phys_Atk_Boost.png" alt="Fiore%20EX/Phys_Atk_Boost.png" width="40px" /> **Dance: Scorching Sun ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Fiore%20EX/Phys_Atk_Boost.png" alt="Fiore%20EX/Phys_Atk_Boost.png" width="40px" /> **Dance: Scorching Sun ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. of Entire Front Row by 10% and grant Damage Limit Up (effect: 20,000) when a combusted enemy is present.
 
 </aside>
@@ -143,7 +143,7 @@ Deal Phys. Fan damage to Single Foe (potency: 230) and impart with Phys. Def. Do
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Burning Fan’s Elegy ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Burning Fan’s Elegy ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Fan Res. of Single Foe by 20% (turns: 2-5 based on Boost Lv.) and cause them to combust (turns: 2-5 based on Boost Lv.). [26 SP]
 
 <aside>
@@ -230,29 +230,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** The Marine Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** The Marine Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 8, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 9, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
 
 </aside>
 

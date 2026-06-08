@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: I'cirlo
-Attributes: Tome%2014.png, Ice%2015.png
-HP (Lv. 120): 3.416
+Attributes: Tome%2023.png, Ice%2023.png
+HP (Lv. 120): 3416
 SP (Lv. 120): 440
 P.Atk (Lv. 120): 451
 P.Def (Lv. 120): 306
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Hammy/Thief_Wrath.png" alt="Hammy/Thief_Wrath.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hammy/Thief_Wrath.png" alt="Hammy/Thief_Wrath.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Grant Paired Ally the ability to  trigger a follow-up attack when attacking (*Triggers once regardless the number of attacks).
 Follow-up attack: Damage to Single Foe based on Paired Ally’s job (potency: 100).
 Damage by Paired Ally’s job: Warrior→Wind, Merchant→Fire, Thief→Dagger, Apothecary→Axe, Hunter→Bow, Cleric→Staff, Scholar→Light, Dancer→Fan.
@@ -130,7 +130,7 @@ Deal Phys. Tome damage to Single Foe (potency: 230) and have a moderate chance t
 </aside>
 
 <aside>
-<img src="Hammy/Tome%202.png" alt="Hammy/Tome%202.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hammy/Tome%202.png" alt="Hammy/Tome%202.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Tome damage to All Foes (potency: 475). Subsequently move to back row (action does not count as switching). [350 SP]
 
 </aside>
@@ -213,29 +213,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 10, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 7, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayumi Suzushiro](https://myanimelist.net/people/48122/Sayumi_Suzushiro?q=Sayumi%20Suzushiro&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayumi Suzushiro](https://myanimelist.net/people/48122/Sayumi_Suzushiro?q=Sayumi%20Suzushiro&cat=person)
 
 </aside>
 

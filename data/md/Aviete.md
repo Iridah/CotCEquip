@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Staff.png, Sword%207.png, Polearm.png, Dagger%205.png, Tome%203.png, Fan%203.png, Fire%206.png, Ice%204.png, Lightning%202.png, Wind%204.png, Light%206.png, Dark%206.png
-HP (Lv. 120): 3.502
+Attributes: Staff%204.png, Sword%2020.png, Polearm%204.png, Dagger%2015.png, Tome%2015.png, Fan%2012.png, Fire%2023.png, Ice%2017.png, Lightning%205.png, Wind%2017.png, Light%2019.png, Dark%2019.png
+HP (Lv. 120): 3502
 SP (Lv. 120): 530
 P.Atk (Lv. 120): 266
 P.Def (Lv. 120): 352
@@ -75,7 +75,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Aviete/Bestow_Barrier.png" alt="Aviete/Bestow_Barrier.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Aviete/Bestow_Barrier.png" alt="Aviete/Bestow_Barrier.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Grant Self HP Barrier (potency: 50% of own max HP), fill the Ultimate Technique gauge of Self to 100% and increase arcanastone gauge by 5. Also lower preparation turns of Entire Front Row’s keepers by 3 turns.
 
 </aside>
@@ -161,7 +161,7 @@ Deal Elem. Ice damage to All Foes 3 time(s) (potency: 3x55). Exploits Tome weakn
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Single Foe 3 time(s) (potency: 3x100). Exploits Ice, Lightning, Wind, Light and Dark weakness (damage calculation based on Elem. Fire attack). [97 SP]
 
 </aside>
@@ -244,28 +244,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Lynn](https://myanimelist.net/people/10929/Lynn)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Lynn](https://myanimelist.net/people/10929/Lynn)
 
 </aside>
 

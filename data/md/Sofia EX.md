@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Wealth
 Continent: Orsterra
 Location: Emberglow
-Attributes: Axe%2039.png, Wind%2052.png
-HP (Lv. 120): 3.716
+Attributes: Axe%2026.png, Wind%2038.png
+HP (Lv. 120): 3716
 SP (Lv. 120): 632
 P.Atk (Lv. 120): 281
 P.Def (Lv. 120): 341
@@ -70,7 +70,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Sofia%20EX/Critical_Elemental_Damage.png" alt="Sofia%20EX/Critical_Elemental_Damage.png" width="40px" /> **AquamarineArcana ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sofia%20EX/Critical_Elemental_Damage.png" alt="Sofia%20EX/Critical_Elemental_Damage.png" width="40px" /> **AquamarineArcana ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 With Marine Wisdom I: Grant Self the ability to deal critical hits when using elemental attacks. With Marine Wisdom II: Grant Self Dead Aim (guaranteed critical hits).
 
 </aside>
@@ -188,7 +188,7 @@ Deal Elem. Wind damage to Single Foe (potency: 260). [42 SP]
 </aside>
 
 <aside>
-<img src="Sofia%20EX/Wind.png" alt="Sofia%20EX/Wind.png" width="40px" /> **Howling Storm ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sofia%20EX/Wind.png" alt="Sofia%20EX/Wind.png" width="40px" /> **Howling Storm ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to Random Foes 4 time(s) (potency: 4x45) and impart Self with Elem. Atk. Up 15% (turns: 2). [60 SP]
 
 <aside>
@@ -292,29 +292,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** The Marine Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** The Marine Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 8, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 9, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?q=Aoi%20Yuuki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?q=Aoi%20Yuuki&cat=person)
 
 </aside>
 

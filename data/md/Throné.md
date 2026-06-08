@@ -6,8 +6,8 @@ Job: Thief
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Dagger%2041.png, Dark%2058.png
-HP (Lv. 120): 3.612
+Attributes: Dagger%203.png, Dark%201.png
+HP (Lv. 120): 3612
 SP (Lv. 120): 407
 P.Atk (Lv. 120): 453
 P.Def (Lv. 120): 280
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Thron%C3%A9/Latent_Power_Throne.png" alt="Thron%C3%A9/Latent_Power_Throne.png" width="40px" /> **Latent Power: Leave No Trace ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Thron%C3%A9/Latent_Power_Throne.png" alt="Thron%C3%A9/Latent_Power_Throne.png" width="40px" /> **Latent Power: Leave No Trace ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect “Leave No Trace” (turns: 1).
 Leave No Trace: Activate the skill twice (additional activation does not consume SP).
 
@@ -150,7 +150,7 @@ Deal Phys. Dagger damage to All Foes 3 time(s) (potency: 3x80). When self action
 </aside>
 
 <aside>
-<img src="Thron%C3%A9/Dagger%205.png" alt="Thron%C3%A9/Dagger%205.png" width="40px" /> **Stealth Assault ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Thron%C3%A9/Dagger%205.png" alt="Thron%C3%A9/Dagger%205.png" width="40px" /> **Stealth Assault ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Random Foe 3 time(s) (potency: 3x30) and have a moderate chance to lower Dagger Res. by 15% with every attack (turns: 2). The earlier the action order, the more additional times you attack. Additional attack times: 1st place: +3 times/ 2nd place: +2 times/ 3rd place: +1 time/ 4th or later: No additional attacks. [55 SP]
 
 </aside>
@@ -223,29 +223,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 27, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Tanaka](https://myanimelist.net/people/60/Rie_Tanaka)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Tanaka](https://myanimelist.net/people/60/Rie_Tanaka)
 
 </aside>
 

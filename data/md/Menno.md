@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Rippletide
-Attributes: Staff_Staves%2016.png, Wind%2031.png
-HP (Lv. 120): 2.786
+Attributes: Staff_Staves%2028.png, Wind%2054.png
+HP (Lv. 120): 2786
 SP (Lv. 120): 406
 P.Atk (Lv. 120): 263
 P.Def (Lv. 120): 287
@@ -43,7 +43,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930260/71bb272db57e1b9749eddb1f05d49932.png/show" alt="https://img.game8.jp/6930260/71bb272db57e1b9749eddb1f05d49932.png/show" width="40px" /> **Wind Augment III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930260/71bb272db57e1b9749eddb1f05d49932.png/show" alt="https://img.game8.jp/6930260/71bb272db57e1b9749eddb1f05d49932.png/show" width="40px" /> **Wind Augment III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Wind damage of Self by 20%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Wind damage to Single Foe (potency: **220**). [20 SP]
 </aside>
 
 <aside>
-<img src="Menno/Wind%203.png" alt="Menno/Wind%203.png" width="40px" /> **Melody of the Tides ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Menno/Wind%203.png" alt="Menno/Wind%203.png" width="40px" /> **Melody of the Tides ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to Random Foe 3 time(s) (potency: 3x85) and lower Speed by 10% and Wind Res. by 10% with every attack (turns: 2). [66 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
 
 </aside>
 

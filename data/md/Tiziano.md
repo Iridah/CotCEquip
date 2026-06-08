@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Dagger%2042.png, Wind%2060.png
-HP (Lv. 120): 3.732
+Attributes: Dagger%2029.png, Wind%2031.png
+HP (Lv. 120): 3732
 SP (Lv. 120): 452
 P.Atk (Lv. 120): 463
 P.Def (Lv. 120): 290
@@ -47,17 +47,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Vanguard Limit Break (Front/All) V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Vanguard Limit Break (Front/All) V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Raise Damage Limit of Entire Front Row by 30,000.
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Vanguard Limit Break (Front/All) V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Vanguard Limit Break (Front/All) V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When in front row: Raise Damage Limit of Entire Front Row by 30,000 and further raise Damage Limit of Phys. Dagger attacks by 10,000.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Dagger and Elem. Wind attacks of All Allies by 15,000.
 
 </aside>
@@ -151,7 +151,7 @@ Impart Entire Front Row with Phys. Atk. Up 15% and raise Crit. by 15%, raise cri
 </aside>
 
 <aside>
-<img src="Tiziano/Dagger%205.png" alt="Tiziano/Dagger%205.png" width="40px" /> **Mortificare ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tiziano/Dagger%205.png" alt="Tiziano/Dagger%205.png" width="40px" /> **Mortificare ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn and deal Phys. Dagger damage to Single Foe (potency: 260) and grant Dagger weakness (times: 3-6 based on Boost Lv.). Lower Shield Points even when not striking weak points. [75 SP]
 
 <aside>
@@ -160,7 +160,7 @@ Act faster during turn and deal Phys. Dagger damage to Single Foe (potency: 260)
 </aside>
 
 <aside>
-<img src="Tiziano/Dagger%205.png" alt="Tiziano/Dagger%205.png" width="40px" /> **Mortificare ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Tiziano/Dagger%205.png" alt="Tiziano/Dagger%205.png" width="40px" /> **Mortificare ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Act faster during turn and deal Phys. Dagger damage to Single Foe (potency: 260), grant Dagger weakness (times: 3-6 based on Boost Lv.) and lower Dagger Res. by 15% (turns: 2-5 based on Boost Lv.). Lower Shield Points even when not striking weak points. [75 SP]
 
 <aside>
@@ -260,29 +260,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 18, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
 
 </aside>
 

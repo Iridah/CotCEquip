@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Staff_Staves%2027.png, Lightning_Thunder%2034.png
-HP (Lv. 120): 3.522
+Attributes: Staff_Staves%206.png, Lightning_Thunder%209.png
+HP (Lv. 120): 3522
 SP (Lv. 120): 480
 P.Atk (Lv. 120): 436
 P.Def (Lv. 120): 334
@@ -46,7 +46,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Relisha/Extended_AugmentEnfeeblement_Give.png" alt="Relisha/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Relisha/Extended_AugmentEnfeeblement_Give.png" alt="Relisha/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of augmenting and enfeebling effects (excluding status ailments) granted by Self by 1 turn (Does not stack).
 
 </aside>
@@ -128,7 +128,7 @@ Deal Phys. Staff damage to Single Foe 2 time(s) (potency: 2x90). Potency increas
 </aside>
 
 <aside>
-<img src="Relisha/Debuff%201.png" alt="Relisha/Debuff%201.png" width="40px" /> **Royal Reprimand ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Relisha/Debuff%201.png" alt="Relisha/Debuff%201.png" width="40px" /> **Royal Reprimand ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Inflict Staff weakening to Single Foe (times: 6-9 based on Boost Lv.). [32 SP]
 
 <aside>
@@ -214,29 +214,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Twin Worlds
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Twin Worlds
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Not yet
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Not yet
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 15, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 8, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Naoko Komatsu](https://myanimelist.net/people/48054/Naoko_Komatsu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Naoko Komatsu](https://myanimelist.net/people/48054/Naoko_Komatsu)
 
 </aside>
 

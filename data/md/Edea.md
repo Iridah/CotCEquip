@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Luxendarc (BRAVELY DEFAULT)
 Location: Nameless Town
-Attributes: Sword%2013.png, Fire%2017.png, Light%2017.png
-HP (Lv. 120): 4.062
+Attributes: Sword%2029.png, Fire%2032.png, Light%2030.png
+HP (Lv. 120): 4062
 SP (Lv. 120): 356
 P.Atk (Lv. 120): 454
 P.Def (Lv. 120): 448
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7049840/b966d78703d68826d14dd8db1f99b8db.png/show" alt="https://img.game8.jp/7049840/b966d78703d68826d14dd8db1f99b8db.png/show" width="40px" /> **SP Recovery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7049840/b966d78703d68826d14dd8db1f99b8db.png/show" alt="https://img.game8.jp/7049840/b966d78703d68826d14dd8db1f99b8db.png/show" width="40px" /> **SP Recovery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Recover 3% of SP when taking damage from enemies.
 
 </aside>
@@ -128,7 +128,7 @@ Deal Elem. Light damage to Random Foe. Attack count rises based on Boost Lv. (po
 </aside>
 
 <aside>
-<img src="Edea/Sword%205.png" alt="Edea/Sword%205.png" width="40px" /> **Downward Swing Slice ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Edea/Sword%205.png" alt="Edea/Sword%205.png" width="40px" /> **Downward Swing Slice ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe (potency: 260) and raise own max HP by 30% (turns: 2). [55 SP]
 
 </aside>
@@ -205,29 +205,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 6, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 12, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover Return Dates:**
 Apr 26, 2023
 Nov 1, 2023
 Oct 9, 2024
@@ -237,7 +237,7 @@ Oct 9, 2025
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mai Aizawa](https://myanimelist.net/people/581/Mai_Aizawa?q=Mai%20Aizawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mai Aizawa](https://myanimelist.net/people/581/Mai_Aizawa?q=Mai%20Aizawa&cat=person)
 
 </aside>
 

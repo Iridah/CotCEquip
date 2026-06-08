@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Axe%2032.png, Light%2054.png, Fire%2057.png, Ice%2041.png
-HP (Lv. 120): 3.442
+Attributes: Axe%2037.png, Light%2054.png, Fire%2060.png, Ice%2041.png
+HP (Lv. 120): 3442
 SP (Lv. 120): 565
 P.Atk (Lv. 120): 291
 P.Def (Lv. 120): 372
@@ -44,17 +44,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" alt="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" width="40px" /> **BP Restoration on Switch ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" alt="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" width="40px" /> **BP Restoration on Switch ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an ally switches to back row: Restore their BP by 1.
 
 <aside>
-<img src="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" alt="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" width="40px" /> **BP Restoration on Switch ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" alt="Rinyuu%20EX/BP_Restoration_on_Switch.jpg" width="40px" /> **BP Restoration on Switch ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When an ally switches to back row: Restore their BP by 1. When an ally switches to front/back rows: Also cure Terror and Death Sentence and raise their Light damage by 15% (turns: 2).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Fire, Ice and Light attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ From the turn after this skill is used, deal Elem. Light damage to Random Foe 3 
 </aside>
 
 <aside>
-<img src="Rinyuu%20EX/Light%202.png" alt="Rinyuu%20EX/Light%202.png" width="40px" /> **Guardian of Light’s Powder ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rinyuu%20EX/Light%202.png" alt="Rinyuu%20EX/Light%202.png" width="40px" /> **Guardian of Light’s Powder ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe (potency: 630). Exploits Fire and Ice weaknesses (damage calculation based on Elem. Light attack). [300 SP]
 
 <aside>
-<img src="Rinyuu%20EX/Light%202.png" alt="Rinyuu%20EX/Light%202.png" width="40px" /> **Guardian of Light’s Powder ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Rinyuu%20EX/Light%202.png" alt="Rinyuu%20EX/Light%202.png" width="40px" /> **Guardian of Light’s Powder ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Light damage to Single Foe (potency: 630). Exploits Fire and Ice weaknesses (damage calculation based on Elem. Light attack). Grant All Allies SP Stock (amount: 100% of user’s max SP/does not stack). [300 SP]
 
 </aside>
@@ -232,7 +232,7 @@ Uses: 2
 When an ally switches to front/back rows: Restore HP (amount: 20% of target’s max HP) and SP (amount: 3% of target’s max SP) of moving Paired Allies.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **HP/SP Restoration on Switch**
 
@@ -247,7 +247,7 @@ When an ally switches to front/back rows: Restore HP (amount: 20% of target’s 
 Restore HP of Entire Front Row (potency: 65) ~~and grant automatic HP recovery (potency: 100/turns: 2-5 based on Boost Lv.)~~. At Max Boost: Also raise their Phys. Atk., ~~Phys. Def.,~~ Elem. Atk. ~~and Elem. Def.~~ by 10% (turns: 2). [42 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Emergency Panacea (Front/All)**
 
@@ -260,7 +260,7 @@ Restore HP of Entire Front Row (potency: 65) ~~and grant automatic HP recovery (
 Raise ~~Elem. Atk. and~~ Fire, Ice and Light damage of Entire Front Row by 15% (turns: 2-5 based on Boost Lv.). [57 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Elemental Serum (Front/All) II**
 
@@ -273,7 +273,7 @@ Raise ~~Elem. Atk. and~~ Fire, Ice and Light damage of Entire Front Row by 15% (
 Act faster during turn, raise Phys. Atk. and Elem. Atk. of All Allies by 10% (turns: 2-5 based on Boost Lv.) and grant Damage Limit Up (effect: 20,000, turns: 2-5 based on Boost Lv.). Subsequently, switch all other front row allies to the back row. [52 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Crusader’s Serum**
 
@@ -288,7 +288,7 @@ Act faster during turn, grant All Allies HP Barrier (potency: 5%-20% of user’s
 **Lv.96 |** SP Saver: 104→83
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Gracious Serum**
 
@@ -363,29 +363,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 29, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 31, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
 
 </aside>
 

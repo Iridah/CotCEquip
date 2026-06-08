@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Orsterra
 Location: Atlasdam
-Attributes: Spear_Polearm%203.png, Ice%205.png
-HP (Lv. 120): 4.300
+Attributes: Spear_Polearm%2021.png, Ice%2028.png
+HP (Lv. 120): 4300
 SP (Lv. 120): 437
 P.Atk (Lv. 120): 439
 P.Def (Lv. 120): 393
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Cardona/HP_Restoration_on_Switch.png" alt="Cardona/HP_Restoration_on_Switch.png" width="40px" /> **HP Restoration on Switch (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cardona/HP_Restoration_on_Switch.png" alt="Cardona/HP_Restoration_on_Switch.png" width="40px" /> **HP Restoration on Switch (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching to front row: Restore HP of Entire Front Row (potency: 90).
 
 </aside>
@@ -127,7 +127,7 @@ Deal Phys. Polearm damage to All Foes 3 time(s) (potency: 3x80). [52 SP]
 </aside>
 
 <aside>
-<img src="Cardona/Counter.png" alt="Cardona/Counter.png" width="40px" /> **Elegant Thorn Armour ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cardona/Counter.png" alt="Cardona/Counter.png" width="40px" /> **Elegant Thorn Armour ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Single Ally counter to physical attacks (turns: 3-6 based on Boost, potency: 180). [48 SP]
 Counter: Phys. Polearm attack (potency: 180) and have a low chance to inflict Enchant (turns: 2).
 
@@ -200,29 +200,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 5, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 26, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa?q=Yui%20Ishikawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa?q=Yui%20Ishikawa&cat=person)
 
 </aside>
 

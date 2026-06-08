@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2020.png, Polearm%202.png, Fire%2020.png
-HP (Lv. 120): 4.432
+Attributes: Sword%2010.png, Polearm%201.png, Fire%2016.png
+HP (Lv. 120): 4432
 SP (Lv. 120): 466
 P.Atk (Lv. 120): 554
 P.Def (Lv. 120): 443
@@ -61,17 +61,17 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Grant Self Dead Aim (guaranteed critical hits). *Elemental attacks need to be granted the ability to trigger critical hits with elemental attacks.
 
 <aside>
-<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At full HP: Grant Self Dead Aim (guaranteed critical hits) and raise the critical damage multiplier (1.25→1.5). *Elemental attacks need to be granted the ability to trigger critical hits with elemental attacks.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword attacks of All Allies by 15,000.
 
 </aside>
@@ -150,11 +150,11 @@ Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x45). Exploits Polear
 </aside>
 
 <aside>
-<img src="Feintz/Sidestep_icon.png" alt="Feintz/Sidestep_icon.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Feintz/Sidestep_icon.png" alt="Feintz/Sidestep_icon.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self “Avoid Group Physical Attacks” (times: 1-4 based on Boost Lv.). [30 SP]
 
 <aside>
-<img src="Feintz/Sidestep_icon%201.png" alt="Feintz/Sidestep_icon%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Feintz/Sidestep_icon%201.png" alt="Feintz/Sidestep_icon%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self “Avoid Group Physical Attacks” (times: **3-6** based on Boost Lv.). [30 SP]
 
 </aside>
@@ -248,28 +248,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 6, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Naoko Komatsu](https://myanimelist.net/people/48054/Naoko_Komatsu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Naoko Komatsu](https://myanimelist.net/people/48054/Naoko_Komatsu)
 
 </aside>
 

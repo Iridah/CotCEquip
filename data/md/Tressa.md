@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Rippletide
-Attributes: Spear_Polearm%2037.png, Wind%2062.png
-HP (Lv. 120): 3.980
+Attributes: Spear_Polearm.png, Wind%205.png
+HP (Lv. 120): 3980
 SP (Lv. 120): 437
 P.Atk (Lv. 120): 449
 P.Def (Lv. 120): 383
@@ -44,17 +44,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Merchant’s Intuition ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Merchant’s Intuition ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self a 50% chance of dodging some physical attacks and raise BP recovery rate by 1 with a successful dodge from this skill’s effect (turns: 1).
 
 <aside>
-<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Merchant’s Intuition ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Merchant’s Intuition ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self a 50% chance of dodging some physical attacks and restore own HP (potency: 90) and raise BP recovery rate by 1 with a successful dodge from this skill’s effect (turns: 1).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Polearm and Elem. Wind attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Act faster during turn and deal Phys. Polearm damage to Single Foe **5** time(s)
 </aside>
 
 <aside>
-<img src="Tressa/Wind%202.png" alt="Tressa/Wind%202.png" width="40px" /> **Summon Tornado ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tressa/Wind%202.png" alt="Tressa/Wind%202.png" width="40px" /> **Summon Tornado ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn and deal Elem. Wind damage to Random Foe 4 time(s) (potency: 4x45). [66 SP]
 
 <aside>
-<img src="Tressa/Wind%202.png" alt="Tressa/Wind%202.png" width="40px" /> **Summon Tornado ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Tressa/Wind%202.png" alt="Tressa/Wind%202.png" width="40px" /> **Summon Tornado ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Act faster during turn and deal Elem. Wind damage to Random Foe 4 time(s) (potency: 4x45). At Max Boost: Also rant Self the ability to dodge physical attacks (times: 3). [66 SP]
 
 </aside>
@@ -225,29 +225,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Aoki](https://myanimelist.net/people/23831/Ruriko_Aoki?q=Ruriko%20Aoki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Aoki](https://myanimelist.net/people/23831/Ruriko_Aoki?q=Ruriko%20Aoki&cat=person)
 
 </aside>
 

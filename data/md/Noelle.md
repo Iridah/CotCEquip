@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Valore
-Attributes: Tome%2033.png, Wind%2036.png
-HP (Lv. 120): 3.555
+Attributes: Tome%2047.png, Wind%2059.png
+HP (Lv. 120): 3555
 SP (Lv. 120): 646
 P.Atk (Lv. 120): 294
 P.Def (Lv. 120): 337
@@ -43,7 +43,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Noelle/Elem_atk_Boost.png" alt="Noelle/Elem_atk_Boost.png" width="40px" /> **Active Exploration** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Noelle/Elem_atk_Boost.png" alt="Noelle/Elem_atk_Boost.png" width="40px" /> **Active Exploration** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching to front row: Impart Self with Elem. Atk. Up 30% (turns: 2).
 
 </aside>
@@ -130,7 +130,7 @@ Deal Elem. Wind damage to All Foes 2 time(s) (potency: **2x75**). [24 SP]
 </aside>
 
 <aside>
-<img src="Noelle/Wind%202.png" alt="Noelle/Wind%202.png" width="40px" /> **Lost Storm ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Noelle/Wind%202.png" alt="Noelle/Wind%202.png" width="40px" /> **Lost Storm ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 3 time(s) (potency: 3x65) and lower Wind Res. by 10% (turns: 2). [68 SP]
 
 </aside>
@@ -204,29 +204,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Light%2050.png, Ice%2038.png, Wind%2042.png
-HP (Lv. 120): 3.552
+Attributes: Light%202.png, Ice%204.png, Wind%207.png
+HP (Lv. 120): 3552
 SP (Lv. 120): 610
 P.Atk (Lv. 120): 246
 P.Def (Lv. 120): 312
@@ -56,17 +56,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" alt="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" alt="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of augmenting and enfeebling effects (excluding status ailments) granted by Self by 1 turn (Does not stack).
 
 <aside>
-<img src="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" alt="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" alt="Pardis%20III%20EX/Extended_AugmentEnfeeblement_Give.png" width="40px" /> **Extended Augment/Enfeeblement (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Extend duration of augmenting and enfeebling effects (excluding status ailments) granted by Self by 1 turn (Does not stack). Start of battle: Fill the Ultimate Technique gauge of Self to 200%.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -144,11 +144,11 @@ Deal Elem. Light damage to Single Foe (potency: 530). Ignores effects that compl
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe (potency: 65). At Max Boost, consume 50 SP each from Entire Back Row. Attack count increases up to 4 time(s) with each ally affected. [22 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a2-8cca-007a3350e512" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Light damage to Single Foe (potency: 65). Ignores effects that completely dodge or block attacks. Raise Damage Limit of this skill by 100,000. At Max Boost, consume 50 SP each from Entire Back Row. Attack count increases up to 4 time(s) with each ally affected. [22 SP]
 
 </aside>
@@ -233,28 +233,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Hearts Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Hearts Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 9, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tesshou Genda](https://myanimelist.net/people/761/Tesshou_Genda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tesshou Genda](https://myanimelist.net/people/761/Tesshou_Genda)
 
 </aside>
 

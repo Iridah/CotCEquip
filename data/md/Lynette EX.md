@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Dagger%2025.png, Fire%2037.png, Ice%2029.png, Lightning%208.png, Wind%2029.png, Light%2035.png, Dark%2028.png
-HP (Lv. 120): 3.721
+Attributes: Dagger.png, Fire.png, Ice.png, Lightning.png, Wind.png, Light.png, Dark.png
+HP (Lv. 120): 3721
 SP (Lv. 120): 546
 P.Atk (Lv. 120): 296
 P.Def (Lv. 120): 298
@@ -115,7 +115,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Lynette%20EX/Full-Bloom.png" alt="Lynette%20EX/Full-Bloom.png" width="40px" /> **Full Bloom ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lynette%20EX/Full-Bloom.png" alt="Lynette%20EX/Full-Bloom.png" width="40px" /> **Full Bloom ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 While any enemy has the required number of revealed weak points (including granted ones), grant effects to Entire Front Row.
 ·5+: Raise Elem. Atk. by 15%.
 ·6+: Raise elemental damage by 15%.
@@ -196,7 +196,7 @@ Deal Elem. Dark damage to Single Foe 5 time(s) (potency: 5x35) and lower their P
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Waves of Serenity ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Waves of Serenity ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cast a countdown on Self (count: 6-3 based on Boost Lv.). Once the countdown ends, raise Phys. Atk., Phys. Def., Elem. Atk., Elem. Def., Critical and Speed of All Allies by 30% (turns: 2) and restore their BP by 1. [50 SP]
 
 </aside>
@@ -288,29 +288,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Seaside Traveler (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Seaside Traveler (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 (Unreleased)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 25, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: NieR Universe (NieR series)
 Location: Memoir
-Attributes: Spear_Polearm%2021.png, Sword%2036.png, Dark%2032.png
-HP (Lv. 120): 4.170
+Attributes: Spear_Polearm%2013.png, Sword%2019.png, Dark%2018.png
+HP (Lv. 120): 4170
 SP (Lv. 120): 442
 P.Atk (Lv. 120): 509
 P.Def (Lv. 120): 343
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Dark Gluttony ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Dark Gluttony ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic SP recovery (amount: 20) and raise BP recovery by 1 when a broken enemy is present.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Polearm damage to All Foes 2 time(s) (potency: 2x95). Exploits Sword 
 </aside>
 
 <aside>
-<img src="NieR/Spear_Polearm%205.png" alt="NieR/Spear_Polearm%205.png" width="40px" /> **Dark Whirlwind ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="NieR/Spear_Polearm%205.png" alt="NieR/Spear_Polearm%205.png" width="40px" /> **Dark Whirlwind ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe (potency: 230). Attack count rises based on Boost Lv. (up to 6x70 at Max Boost). Exploits Dark weakness (damage calculation based on Phys. Polearm attack). [55 SP]
 
 </aside>
@@ -213,29 +213,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 29, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 4, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouji Yusa](https://myanimelist.net/people/68/Kouji_Yusa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouji Yusa](https://myanimelist.net/people/68/Kouji_Yusa)
 
 </aside>
 

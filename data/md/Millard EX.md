@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Orsterra
 Location: Valore
-Attributes: Spear_Polearm%2020.png, Ice%2030.png
-HP (Lv. 120): 3.672
+Attributes: Spear_Polearm%2012.png, Ice%2015.png
+HP (Lv. 120): 3672
 SP (Lv. 120): 500
 P.Atk (Lv. 120): 316
 P.Def (Lv. 120): 342
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930244/d0094a47a312ba7323d1dae65a5d83be.png/show" alt="https://img.game8.jp/6930244/d0094a47a312ba7323d1dae65a5d83be.png/show" width="40px" /> **Ice Augment V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930244/d0094a47a312ba7323d1dae65a5d83be.png/show" alt="https://img.game8.jp/6930244/d0094a47a312ba7323d1dae65a5d83be.png/show" width="40px" /> **Ice Augment V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Ice damage of Self by 30%.
 
 </aside>
@@ -126,11 +126,11 @@ Grant an ally excluding Self HP barrier (potency: 35% of user’s max HP/does no
 </aside>
 
 <aside>
-<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **Frost Blessing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **Frost Blessing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. and Elem. Atk. of All Allies by 15% (turns: 3). If target has an HP Barrier, also raise their damage by 15% (turns: 3). Then deal Elem. Ice damage to Single Foe 5 time(s) (potency: 5x75). [100 SP]
 
 <aside>
-<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **Frost Blessing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **Frost Blessing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 Raise Phys. Atk. and Elem. Atk. of All Allies by 15% (turns: 3). If target has an HP Barrier, also raise their damage by 15% (turns: 3). Then deal Elem. Ice damage to Single Foe **6** time(s) (potency: **6**x75). [100 SP]
 
 </aside>
@@ -220,7 +220,7 @@ Uses: 4
 When hit by an attack, restore SP equal to 4% of damage taken.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Bestow Barrier**
 
@@ -235,7 +235,7 @@ When hit by an attack, restore SP equal to 4% of damage taken.
 Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: 2x75). **[18 SP]**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Twofold Thrust**
 
@@ -248,7 +248,7 @@ Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: 2x75). **[18 SP]**
 Deal Elem. Ice damage to Single Foe 2 time(s) (potency: 2x75). **[20 SP]**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Chain Ice Blast**
 
@@ -261,7 +261,7 @@ Deal Elem. Ice damage to Single Foe 2 time(s) (potency: 2x75). **[20 SP]**
 Deal Phys. Polearm damage to Single Foe (potency: 170) and lower Phys. Atk. and Elem. Atk. by 15% (turns: 2). **[34 SP]**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Debilitating Thrust**
 
@@ -274,7 +274,7 @@ Deal Phys. Polearm damage to Single Foe (potency: 170) and lower Phys. Atk. and 
 Act faster during turn and grant an ally excluding Self HP barrier (potency: 10%-40% of user’s max HP based on Boost Lv./does not stack). [40 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Sacred Night’s Radiance**
 
@@ -287,7 +287,7 @@ Act faster during turn and grant an ally excluding Self HP barrier (potency: 10%
 Deal Elem. Ice damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Sacred Night’s Spirit**
 
@@ -300,7 +300,7 @@ Deal Elem. Ice damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 Deal Elem. Ice damage to All Foes (potency: 180) and restore HP of Entire Front Row (potency: 90). [60 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Healing Triple Icestorm**
 
@@ -315,7 +315,7 @@ Deal Elem. Ice damage to All Foes (potency: 180) and restore HP of Entire Front 
 Restore SP of an ally excluding Self (amount: 25-100 based on Boost Lv.), but delay actions during turn. Restore BP by 1 if target is granted HP barrier. [55 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Red Hat Apprentice’s Gift**
 
@@ -338,7 +338,7 @@ Grant an ally excluding Self HP barrier (potency: 30%-120% of user’s max HP ba
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Sacred Night’s Celebration**
 
@@ -347,17 +347,17 @@ Grant an ally excluding Self HP barrier (potency: 30%-120% of user’s max HP ba
 </aside>
 
 <aside>
-<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **五連白銀 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **五連白銀 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 ~~Raise Phys. Atk. and Elem. Atk. of All Allies by 15% (turns: 3). If target has an HP Barrier, also raise their damage by 15% (turns: 3). Then~~ deal Elem. Ice damage to Single Foe 5 time(s) (potency: 5x75). [100 SP]
 
 <aside>
-<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **六連白銀 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="Millard%20EX/Ice.png" alt="Millard%20EX/Ice.png" width="40px" /> **六連白銀 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 Raise Phys. Atk. and Elem. Atk. of All Allies by 15% (turns: 3). If target has an HP Barrier, also raise their damage by 15% (turns: 3). Then deal Elem. Ice damage to Single Foe **6** time(s) (potency: **6**x75). [100 SP]
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Frost Blessing**
 
@@ -430,29 +430,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Hallowed Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Hallowed Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 8, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 6, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuya Hirose](https://myanimelist.net/people/36724/Yuuya_Hirose?q=Yuuya%20Hirose&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuya Hirose](https://myanimelist.net/people/36724/Yuuya_Hirose?q=Yuuya%20Hirose&cat=person)
 
 </aside>
 

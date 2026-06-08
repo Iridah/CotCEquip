@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Approval
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Sword%2011.png, Fire%2012.png, Lightning%203.png, Wind%2010.png
-HP (Lv. 120): 3.872
+Attributes: Sword%2034.png, Fire%2034.png, Lightning%209.png, Wind%2025.png
+HP (Lv. 120): 3872
 SP (Lv. 120): 416
 P.Atk (Lv. 120): 499
 P.Def (Lv. 120): 363
@@ -67,17 +67,17 @@ Raise own Fire and Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Cyrus%20EX/HP_Restoration.png" alt="Cyrus%20EX/HP_Restoration.png" width="40px" /> **Hero’s Guard ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cyrus%20EX/HP_Restoration.png" alt="Cyrus%20EX/HP_Restoration.png" width="40px" /> **Hero’s Guard ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic HP recovery (potency: 90) and raise Phys. Def. and Elem. Def. by 15%. If 4+ allies have Soul Sigil, also gain automatic SP recovery (amount: 10% of max SP).
 
 <aside>
-<img src="Cyrus%20EX/HP_Restoration.png" alt="Cyrus%20EX/HP_Restoration.png" width="40px" /> **Hero’s Guard ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Cyrus%20EX/HP_Restoration.png" alt="Cyrus%20EX/HP_Restoration.png" width="40px" /> **Hero’s Guard ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self automatic HP recovery (potency: 90) and raise Phys. Def. and Elem. Def. by 15%. If 4+ allies have Soul Sigil, also gain automatic SP recovery (amount: 10% of max SP) and the ability to activate attacking elemental skills and Ultimate Technique twice in a row (Follow-up attack will not consume SP).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -195,11 +195,11 @@ Deal Elem. Lightning damage to All Foes 3 time(s) (potency: 3x80), lower thier L
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **Gust Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **Gust Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe 3 time(s) (potency: 3x85). Exploits Wind weakness (damage calculation based on Phys. Sword attack). At Max Boost: Guaranteed critical hits. [63 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **Gust Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **Gust Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Sword damage to Single Foe 3 time(s) (potency: 3x85). Exploits Wind weakness (damage calculation based on Phys. Sword attack). Grant Wind weakness to the same target (times: 2). At Max Boost: Guaranteed critical hits. [63 SP]
 
 <aside>
@@ -299,29 +299,29 @@ Follow-up attack: Deal Elem. Lightning damage to All Foes (potency: 100)
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 12, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichirou Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichirou Umehara](https://myanimelist.net/people/34209/Yuuichirou_Umehara)
 
 </aside>
 

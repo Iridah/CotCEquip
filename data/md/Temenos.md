@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Staff_Staves%2033.png, Light%2062.png
-HP (Lv. 120): 3.452
+Attributes: Staff_Staves%2015.png, Light%2040.png
+HP (Lv. 120): 3452
 SP (Lv. 120): 540
 P.Atk (Lv. 120): 311
 P.Def (Lv. 120): 347
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Temenos/Latent_Power_Temenos.png" alt="Temenos/Latent_Power_Temenos.png" width="40px" /> **Latent Power: Condemn ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Temenos/Latent_Power_Temenos.png" alt="Temenos/Latent_Power_Temenos.png" width="40px" /> **Latent Power: Condemn ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect Condemn (turns: 1).
 Condemn: When selecting an attack other than “Attack” (with some exceptions), can exploit all weaknesses (excluding non-elemental weaknesses/Damage calculation based on original attack).
 
@@ -71,7 +71,7 @@ Reuse Turns: 4
 </aside>
 
 <aside>
-<img src="Temenos/Latent_Power_Temenos.png" alt="Temenos/Latent_Power_Temenos.png" width="40px" /> **Latent Power: Condemn ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Temenos/Latent_Power_Temenos.png" alt="Temenos/Latent_Power_Temenos.png" width="40px" /> **Latent Power: Condemn ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When selecting a command, grant Self the special effect Condemn (turns: 1).
 Condemn: When selecting an attack other than “Attack” (with some exceptions), can exploit all weaknesses (excluding non-elemental weaknesses/Damage calculation based on original attack) and grant the ability to trigger critical hits with elemental attacks.
 
@@ -94,7 +94,7 @@ Reuse Turns: 4
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of All Allies by 15,000 when using Elem. Light skills.
 
 </aside>
@@ -177,11 +177,11 @@ Deal Elem. Light damage to All Foes 4 time(s) (potency: 4x45). Additionally lowe
 </aside>
 
 <aside>
-<img src="Temenos/Raise.png" alt="Temenos/Raise.png" width="40px" /> **Preservation (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Temenos/Raise.png" alt="Temenos/Raise.png" width="40px" /> **Preservation (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row automatic revival (recovery amount: 25%-100% of max HP based on Boost Lv.). Triggers immediately if incapacitated (count does not increase when stacked). *Can be used 2 times per battle. [120 SP]
 
 <aside>
-<img src="Temenos/Raise.png" alt="Temenos/Raise.png" width="40px" /> **Preservation (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Temenos/Raise.png" alt="Temenos/Raise.png" width="40px" /> **Preservation (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Entire Front Row automatic revival (recovery amount: 25%-100% of max HP based on Boost Lv.). Triggers immediately if incapacitated (count does not increase when stacked) and grant a HP barrier (amount: 20% of user’s max HP/Does not stack). *Can be used 2 times per battle. [120 SP]
 
 </aside>
@@ -265,29 +265,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 23, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akira Ishida](https://myanimelist.net/people/17/Akira_Ishida)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akira Ishida](https://myanimelist.net/people/17/Akira_Ishida)
 
 </aside>
 

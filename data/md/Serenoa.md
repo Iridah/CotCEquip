@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Norzelia (TRIANGLE STRATEGY)
 Location: Memoir
-Attributes: Sword%2053.png, Fire%2062.png
-HP (Lv. 120): 4.042
+Attributes: Sword%2036.png, Fire%2035.png
+HP (Lv. 120): 4042
 SP (Lv. 120): 371
 P.Atk (Lv. 120): 444
 P.Def (Lv. 120): 403
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Serenoa/Phys_Atk_Boost.png" alt="Serenoa/Phys_Atk_Boost.png" width="40px" /> **Enhanced Attributes in Crisis ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Serenoa/Phys_Atk_Boost.png" alt="Serenoa/Phys_Atk_Boost.png" width="40px" /> **Enhanced Attributes in Crisis ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% HP or less: Raise Phys. Atk., Phys. Def. and Elem. Def. of Self by 15%.
 
 </aside>
@@ -131,7 +131,7 @@ Deal Phys. Sword damage to Single Foe (potency: **260**). 20% more potent if tar
 </aside>
 
 <aside>
-<img src="Serenoa/BP_Recovery.png" alt="Serenoa/BP_Recovery.png" width="40px" /> **Our Path is Set ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Serenoa/BP_Recovery.png" alt="Serenoa/BP_Recovery.png" width="40px" /> **Our Path is Set ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise BP recovery amount of Self by 1 (turns: 2-5 based on Boost Lv.). [36 SP]
 
 </aside>
@@ -198,29 +198,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Free (TRIANGLE STRATEGY Crossover)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Free (TRIANGLE STRATEGY Crossover)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 20, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kensho Ono](https://myanimelist.net/people/819/Kensho_Ono?q=Kensho%20Ono&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kensho Ono](https://myanimelist.net/people/819/Kensho_Ono?q=Kensho%20Ono&cat=person)
 
 </aside>
 

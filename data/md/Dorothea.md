@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Spear_Polearm%209.png, Fire%2016.png
-HP (Lv. 120): 4.280
+Attributes: Spear_Polearm%2015.png, Fire%2030.png
+HP (Lv. 120): 4280
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 444
 P.Def (Lv. 120): 393
@@ -55,7 +55,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Second Transaction ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Second Transaction ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Activate a skill twice when consuming 3 BP (the follow-up attack will not consume SP). *If your remaining Luck points do not meet the Skill Change condition after using a changed skill, the follow-up attack will not be activated.
 
 </aside>
@@ -146,7 +146,7 @@ Deal Phys. Polearm damage to Single Foe (potency: 290), but take up to 20% of ma
 </aside>
 
 <aside>
-<img src="Dorothea/Spear_Polearm%202.png" alt="Dorothea/Spear_Polearm%202.png" width="40px" /> **Reversal Lance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dorothea/Spear_Polearm%202.png" alt="Dorothea/Spear_Polearm%202.png" width="40px" /> **Reversal Lance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe 1-2 time(s) (potency: 1-2x325). [180 SP]
 
 <aside>
@@ -223,7 +223,7 @@ Instead of **Lucky Recovery**
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **セカンドディール ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **セカンドディール ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 During action selection, 20% chance to activate a skill twice (turns: 1/Turns cannot be extended/Additional activations do not consume SP).
 
 </aside>
@@ -253,7 +253,7 @@ Instead of **Reckless Exchange**
 </aside>
 
 <aside>
-<img src="Dorothea/Spear_Polearm%202.png" alt="Dorothea/Spear_Polearm%202.png" width="40px" /> **インヴェルシオーネ ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dorothea/Spear_Polearm%202.png" alt="Dorothea/Spear_Polearm%202.png" width="40px" /> **インヴェルシオーネ ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe 1-2 time(s) (potency: 1-2x325). [180 SP]
 
 <aside>
@@ -341,29 +341,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 23, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 8, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eriko Nakamura](https://myanimelist.net/people/8983/Eriko_Nakamura?q=Eriko%20Nakamura&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eriko Nakamura](https://myanimelist.net/people/8983/Eriko_Nakamura?q=Eriko%20Nakamura&cat=person)
 
 </aside>
 

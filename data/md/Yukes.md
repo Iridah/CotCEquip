@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: Orsterra
 Location: Sunshade
-Attributes: Staff_Staves%2035.png, Fire%2075.png
-HP (Lv. 120): 3.512
+Attributes: Staff_Staves%2027.png, Fire%2065.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 495
 P.Atk (Lv. 120): 291
 P.Def (Lv. 120): 323
@@ -44,17 +44,17 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Unexpected Luck ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Unexpected Luck ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 During action selection, grant each member of Entire Front Row one of these effects: a 5% Up in Phys. Atk., Phys. Def., Elem. Atk., Elem. Def., Speed, Critical or Dead Aim (guaranteed critical hits) (turns: 2).
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Unexpected Luck ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Unexpected Luck ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 During action selection, grant each member of Entire Front Row **two** of these effects: a 5% Up in Phys. Atk., Phys. Def., Elem. Atk., Elem. Def., Speed, Critical or Dead Aim (guaranteed critical hits) (turns: 2). Also lower each foe of All Foes one of these effects: a 5% Down in Phys. Atk., Phys. Def., Elem. Atk., Elem. Def., Speed or Critical.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword and Staff and Elem. Fire attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Restore HP of Entire Front Row (potency: 205). 20% chance to raise BP recovery a
 </aside>
 
 <aside>
-<img src="Yukes/SP_Regen.png" alt="Yukes/SP_Regen.png" width="40px" /> **Healing of the Sacred Heart ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Yukes/SP_Regen.png" alt="Yukes/SP_Regen.png" width="40px" /> **Healing of the Sacred Heart ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row automatic SP recovery (amount: 5% of max SP, turns: 2-5 based on Boost Lv.) and have a 20% chance to grant the each member of the same target automatic HP recovery (potency: 110, turns: 2). [74 SP]
 
 <aside>
-<img src="Yukes/SP_Regen.png" alt="Yukes/SP_Regen.png" width="40px" /> **Healing of the Sacred Heart ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Yukes/SP_Regen.png" alt="Yukes/SP_Regen.png" width="40px" /> **Healing of the Sacred Heart ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Entire Front Row automatic SP recovery (amount: 5% of max SP, turns: 2-5 based on Boost Lv.) and have a 20% chance to grant the each member of the same target automatic HP recovery (potency: 110, turns: 2). Afterwards, impart Warriors in party with SP Stock (amount: 10% of user’s max SP). [74 SP]
 
 </aside>
@@ -227,29 +227,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 12, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 15, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mariya Ise](https://myanimelist.net/people/655/Mariya_Ise?q=Mariya%20Ise&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mariya Ise](https://myanimelist.net/people/655/Mariya_Ise?q=Mariya%20Ise&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2052.png, Fire%2060.png, Light%2057.png
-HP (Lv. 120): 3.932
+Attributes: Sword%2054.png, Fire%2062.png, Light%2058.png
+HP (Lv. 120): 3932
 SP (Lv. 120): 541
 P.Atk (Lv. 120): 489
 P.Def (Lv. 120): 393
@@ -51,7 +51,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Mission of the Guard Captain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Mission of the Guard Captain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Recover 2 BP and gain Great Flame’s Blessing (turns: 2).
 
 <aside>
@@ -60,13 +60,13 @@ Start of battle: Recover 2 BP and gain Great Flame’s Blessing (turns: 2).
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Mission of the Guard Captain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Mission of the Guard Captain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 (Enhancement is applied on an adjusted skill with respect to JP).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -151,7 +151,7 @@ When consuming 5 BP: Attack count becomes 6.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **Sacred Blaze Verse** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **Sacred Blaze Verse** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant All Allies HP Barrier (potency: 20%-100% of user’s max HP based on Boost Lv./Does not stack) and raise Phys. Atk. and Sword damage by 15% (turns: 5).
 When consuming 3+ BP: Also grant SP Stock (amount: 20% of user’s max SP/Does not stack).
 When consuming 5 BP: Also grant them Great Flame’s Blessing (turns: 1).
@@ -163,7 +163,7 @@ When consuming 5 BP: Also grant them Great Flame’s Blessing (turns: 1).
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **Sacred Blaze Verse** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8014-9f03-007a5f80e26e" width="40px" /> **Sacred Blaze Verse** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 (Enhancement is applied on an adjusted skill with respect to JP).
 
 </aside>
@@ -244,7 +244,7 @@ Uses: 2
 **Passive Skills**
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **守指長の使命 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **守指長の使命 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Recover 2 BP ~~and gain Great Flame’s Blessing (turns: 2)~~.
 
 <aside>
@@ -253,7 +253,7 @@ Start of battle: Recover 2 BP ~~and gain Great Flame’s Blessing (turns: 2)~~.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **守指長の使命 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **守指長の使命 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Start of battle: Recover 2 BP ~~and gain Great Flame’s Blessing (turns: 2)~~. Grant Self Sacred Flame’s Blessing when consuming 5 BP (turns: 1).
 
 <aside>
@@ -269,7 +269,7 @@ Start of battle: Recover 2 BP ~~and gain Great Flame’s Blessing (turns: 2)~~. 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -279,14 +279,14 @@ Raise Self’s Damage Limit by 50,000.
 **Battle Skills**
 
 <aside>
-<img src="Sazantos/Sword%203.png" alt="Sazantos/Sword%203.png" width="40px" /> **聖炎の爛剣 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sazantos/Sword%203.png" alt="Sazantos/Sword%203.png" width="40px" /> **聖炎の爛剣 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x45). Exploits Fire and Light weakness (damage calculation based on Phys. Sword attack). [74 SP]
 When consuming 3+ BP: Raise Sword damage of Self by 15% (turns: 5).
 When consuming 5 BP: Also raise Phys. Atk. of Self by 15% (turns: 5).
 Instead of **Sacred Blaze Verse**
 
 <aside>
-<img src="Sazantos/Sword%203.png" alt="Sazantos/Sword%203.png" width="40px" /> **聖炎の爛剣 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Sazantos/Sword%203.png" alt="Sazantos/Sword%203.png" width="40px" /> **聖炎の爛剣 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Sword damage to Random Foe **5** time(s) (potency: **5**x45). Exploits Fire and Light weakness (damage calculation based on Phys. Sword attack). [74 SP]
 When consuming 3+ BP: Raise Sword damage of Self by 15% (turns: 5).
 When consuming 5 BP: Also raise Phys. Atk. of Self by 15% (turns: **9**).
@@ -340,29 +340,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
 
 </aside>
 

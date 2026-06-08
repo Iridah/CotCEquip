@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Bow%2016.png
-HP (Lv. 120): 4.052
+Attributes: Bow%203.png
+HP (Lv. 120): 4052
 SP (Lv. 120): 496
 P.Atk (Lv. 120): 537
 P.Def (Lv. 120): 273
@@ -63,7 +63,7 @@ Raise own Dark Res. by 10%
 </aside>
 
 <aside>
-<img src="Hujheb/Follow-up_Bow.png" alt="Hujheb/Follow-up_Bow.png" width="40px" /> **Night Rain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hujheb/Follow-up_Bow.png" alt="Hujheb/Follow-up_Bow.png" width="40px" /> **Night Rain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row the ability to  trigger a follow-up strike when dealing Phys. Bow damage (only activates once per action).
 Follow-up attack: Phys. Bow damage to All Foes (potency: 100) and have a low chance to inflict corrosion (turns: 2).
 
@@ -173,7 +173,7 @@ Consume 1 Wisdom Arrow after using the skill.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Starless Void ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Starless Void ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise the potency of Self by 100% (turns: 2/turns cannot be extended/does not stack with effects of the same type). Also grant Self Damage Limit Up (effect: 50,000, turns: 2-5 based on Boost Lv.) and Dead Aim (guaranteed critical hits) (turns: 3-6 based on Boost Lv.), but reset own Wisdom Arrows to 0.
 
 </aside>
@@ -254,29 +254,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 1, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 22, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Makoto Furukawa](https://myanimelist.net/people/17635/Makoto_Furukawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Makoto Furukawa](https://myanimelist.net/people/17635/Makoto_Furukawa)
 
 </aside>
 

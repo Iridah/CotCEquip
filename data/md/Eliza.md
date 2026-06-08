@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Cathedral of Thytos
-Attributes: Sword%2014.png, Light%2019.png
-HP (Lv. 120): 3.912
+Attributes: Sword%2047.png, Light%2047.png
+HP (Lv. 120): 3912
 SP (Lv. 120): 438
 P.Atk (Lv. 120): 424
 P.Def (Lv. 120): 403
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **Hale SP Cost Down (Joint) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **Hale SP Cost Down (Joint) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Lower SP consumption of Paired Allies by 30% (Effects do not stack).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Light damage to Single Foe (potency: 260) and impart Self with Elem. 
 </aside>
 
 <aside>
-<img src="Eliza/Light%202.png" alt="Eliza/Light%202.png" width="40px" /> **Triple Light Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Eliza/Light%202.png" alt="Eliza/Light%202.png" width="40px" /> **Triple Light Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 
 </aside>
@@ -219,29 +219,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 25, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 14, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Ayase](https://myanimelist.net/people/43302/Yuu_Ayase)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Ayase](https://myanimelist.net/people/43302/Yuu_Ayase)
 
 </aside>
 

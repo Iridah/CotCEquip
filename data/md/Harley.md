@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Fan%2015.png, Wind%2017.png
-HP (Lv. 120): 3.651
+Attributes: Fan%2013.png, Wind%2018.png
+HP (Lv. 120): 3651
 SP (Lv. 120): 522
 P.Atk (Lv. 120): 307
 P.Def (Lv. 120): 289
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Preaching Laughter ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" alt="https://img.game8.jp/6930250/9a52777b74e410e30490fb7d4badbf3d.png/show" width="40px" /> **Preaching Laughter ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching to back row: Raise Phys. Def. and Elem. Def. of Entire Front Row by 10% (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Wind damage to All Foes 2 time(s) (potency: 2x100) and impart Phys. A
 </aside>
 
 <aside>
-<img src="Harley/Wind%203.png" alt="Harley/Wind%203.png" width="40px" /> **Clear Sky Ballad ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Harley/Wind%203.png" alt="Harley/Wind%203.png" width="40px" /> **Clear Sky Ballad ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 2 time(s) (potency: 2x100) and impart Elem. Atk. Down 15% (turns: 2). [57 SP]
 
 </aside>
@@ -214,7 +214,7 @@ Uses: 2
 Impart Single Ally with Phys. Def. Up 15% and Elem. Def. Up 15% (turns: 2-5 based on Boost Lv.). [21 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Stirring Saintly Step**
 
@@ -229,7 +229,7 @@ Deal Elem. Wind damage to Random Foe 3 time(s) (potency: 3x65). [40 SP]
 **Lv.96 |** SP Saver: 40→32
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Blustery Ballad**
 
@@ -280,29 +280,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 10, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mitsuhiro Ichiki](https://myanimelist.net/people/1527/Mitsuhiro_Ichiki?q=Mitsuhiro%20Ichiki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mitsuhiro Ichiki](https://myanimelist.net/people/1527/Mitsuhiro_Ichiki?q=Mitsuhiro%20Ichiki&cat=person)
 
 </aside>
 

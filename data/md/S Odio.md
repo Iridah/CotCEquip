@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Power
 Continent: Dominion of Hate (Live A Live)
 Location: Memoir
-Attributes: Staff_Staves%2029.png, Fire%2058.png, Dark%2049.png
-HP (Lv. 120): 3.462
+Attributes: Staff_Staves%2021.png, Fire%2057.png, Dark%2041.png
+HP (Lv. 120): 3462
 SP (Lv. 120): 605
 P.Atk (Lv. 120): 276
 P.Def (Lv. 120): 332
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **Rolling Disdain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **Rolling Disdain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an enemy with 8+ statuses is present: Lower Sword, Fire and Dark Res. of All Foes by 10%. When an enemy with 12+ statuses is present: Lower their Sword, Fire and Dark Res. of All Foes by 15% instead.
 
 </aside>
@@ -128,7 +128,7 @@ Restore HP of All Allies (amount: 10% of max HP) and revive target if incapacita
 </aside>
 
 <aside>
-<img src="S%20Odio/Dark%201.png" alt="S%20Odio/Dark%201.png" width="40px" /> **Glimpse of Madness ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="S%20Odio/Dark%201.png" alt="S%20Odio/Dark%201.png" width="40px" /> **Glimpse of Madness ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x65) and have a moderate chance to inflict blindness with every attack (turns: 2). Exploits Fire weakness (damage calculation based on Elem. Dark attack). At Max Boost: Attack count becomes 5. [49 SP]
 
 </aside>
@@ -216,7 +216,7 @@ Uses: 1
 Restore own SP (amount: 100% of max SP) when you use an Ultimate Technique.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Desperophobia**
 
@@ -225,11 +225,11 @@ Restore own SP (amount: 100% of max SP) when you use an Ultimate Technique.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **オートフォビア ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" alt="https://img.game8.jp/6523346/f4f1488d815a7e5ed01daed6217b6afb.jpeg/show" width="40px" /> **オートフォビア ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an enemy with 8+ statuses is present: Lower Sword, Fire and Dark Res. of All Foes by 10%. ~~When an enemy with 12+ statuses is present: Lower their Sword, Fire and Dark Res. of All Foes by 15% instead.~~
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Rolling Disdain**
 
@@ -244,7 +244,7 @@ When an enemy with 8+ statuses is present: Lower Sword, Fire and Dark Res. of Al
 Deal Elem. Dark damage to All Foes 5 time(s) (potency: **3x55**). Exploits Fire weakness (damage calculation based on Elem. Dark attack). ~~At Max Boost: Have a high chance to inflict poison, bleeding and paralysis (turns: 2/each ailment is calculated separately).~~ [59 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Torment’s Draught**
 
@@ -257,7 +257,7 @@ Deal Elem. Dark damage to All Foes 5 time(s) (potency: **3x55**). Exploits Fire 
 Deal Elem. Dark damage to Random Foe 3 time(s) (potency: 3x65). Exploits Fire weakness (damage calculation based on Elem. Dark attack). Lower their Dark Res. by 15% with every attack (turns: 2). ~~At Max Boost: Attack count becomes 5.~~ [54 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Searing Madness**
 
@@ -272,7 +272,7 @@ Deal Elem. Dark damage to Random Foe 3 time(s) (potency: 3x65). Exploits Fire we
 ·With **20%** HP or less: Also raise damage by 15%, restore HP (potency: 65-155 based on Boost Lv.) ~~and grant automatic HP recovery (potency: 100/turns: 2-5 based on Boost Lv.)~~.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Fetters of Despair**
 
@@ -287,7 +287,7 @@ Deal Elem. Dark damage to Single Foe 3 time(s) (potency: **3x65**) and restore H
 **Lv.99 |** Potency Up: **3x65**→**3x85**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Expunge**
 
@@ -296,11 +296,11 @@ Deal Elem. Dark damage to Single Foe 3 time(s) (potency: **3x65**) and restore H
 </aside>
 
 <aside>
-<img src="S%20Odio/Dark%201.png" alt="S%20Odio/Dark%201.png" width="40px" /> **重圧の爛炎 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="S%20Odio/Dark%201.png" alt="S%20Odio/Dark%201.png" width="40px" /> **重圧の爛炎 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to Random Foe 3 time(s) (potency: 3x65) and have a low chance to inflict blindness with every attack (turns: 2). Exploits Fire weakness (damage calculation based on Elem. Dark attack). At Max Boost: Attack count becomes 5. [49 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Glimpse of Madness**
 
@@ -385,29 +385,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Lord of Dark (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Lord of Dark (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 30, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 10, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
 
 </aside>
 

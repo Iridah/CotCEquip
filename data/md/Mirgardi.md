@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan%2027.png, Axe%2021.png, Fire%2038.png, Wind%2032.png
-HP (Lv. 120): 3.706
+Attributes: Fan%2024.png, Axe%2027.png, Fire%2047.png, Wind%2039.png
+HP (Lv. 120): 3706
 SP (Lv. 120): 504
 P.Atk (Lv. 120): 465
 P.Def (Lv. 120): 317
@@ -62,7 +62,7 @@ Raise own Fire Res. by 10%
 </aside>
 
 <aside>
-<img src="Mirgardi/Phys_Atk_Boost.png" alt="Mirgardi/Phys_Atk_Boost.png" width="40px" /> **Scale Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Mirgardi/Phys_Atk_Boost.png" alt="Mirgardi/Phys_Atk_Boost.png" width="40px" /> **Scale Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant effects to Self based on the number of own Dragon Tail Points:
 ·2 or more: Raise Phys. and Elem Res. by 15%.
 ·4 or more: Addiotionally, raise Phys. Atk. by 20%.
@@ -152,7 +152,7 @@ Deal Phys. Fan damage to Single Foe (potency: 175). Exploits Axe weakness (damag
 </aside>
 
 <aside>
-<img src="Mirgardi/Fan%205.png" alt="Mirgardi/Fan%205.png" width="40px" /> **Dragon Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Mirgardi/Fan%205.png" alt="Mirgardi/Fan%205.png" width="40px" /> **Dragon Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Fan damage to Single Foe (potency: 140). Exploits Axe weakness (damage calculation based on Phys. Fan attack). Delay actions during turn at Max Boost. [53 SP]
 ·With 9 or more Dragon Tail Points: Reactivate the effect (additional activations do not consume SP nor Dragon Tail Points).
 
@@ -232,29 +232,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 21, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 1, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Koga](https://myanimelist.net/people/41328/Aoi_Koga)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Koga](https://myanimelist.net/people/41328/Aoi_Koga)
 
 </aside>
 

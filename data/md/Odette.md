@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Sunshade
-Attributes: Tome%2035.png, Wind%2038.png, Light%2046.png
-HP (Lv. 120): 3.571
+Attributes: Tome%201.png, Wind%202.png, Light%201.png
+HP (Lv. 120): 3571
 SP (Lv. 120): 657
 P.Atk (Lv. 120): 276
 P.Def (Lv. 120): 331
@@ -56,7 +56,7 @@ Raise own Wind and Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Break Repeated Aria ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Break Repeated Aria ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy or broken enemy is present, Self’s elemental battle skills activate 2 times. (Effects of the same type cannot be repeated/Additional activations do not consume SP).
 
 </aside>
@@ -132,7 +132,7 @@ Deal Elem. Light damage to Single Foe (potency: 260). [42 SP]
 </aside>
 
 <aside>
-<img src="Odette/Wind%203.png" alt="Odette/Wind%203.png" width="40px" /> **Light Ventus Saltare (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Odette/Wind%203.png" alt="Odette/Wind%203.png" width="40px" /> **Light Ventus Saltare (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 4 time(s) (potency: 4x35). Exploits Light weakness (damage calculation based on Elem. Wind attack). [75 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 1, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 21, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Asami Yoshida](https://myanimelist.net/people/41193/Asami_Yoshida?q=Asami%20Yoshida&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Asami Yoshida](https://myanimelist.net/people/41193/Asami_Yoshida?q=Asami%20Yoshida&cat=person)
 
 </aside>
 

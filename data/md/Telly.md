@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: Orsterra
 Location: Emberglow
-Attributes: Staff_Staves%2032.png, Ice%2047.png
-HP (Lv. 120): 3.512
+Attributes: Staff_Staves%2029.png, Ice%2049.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 500
 P.Atk (Lv. 120): 321
 P.Def (Lv. 120): 332
@@ -49,7 +49,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Restoration (Front/Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Rearguard SP Restoration (Front/Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Grant Paired Ally automatic SP recovery (amount: 10).
 
 </aside>
@@ -108,7 +108,7 @@ Deal Elem. Ice damage to Single Foe 2 time(s) (potency: **2x110**). [22 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Divine Ethereal Healing (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Divine Ethereal Healing (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 130). Each ally has a 20% chance to receive automatic HP recovery (potency: 80) and SP recovery (amount: 5% of max SP) (turns: 2). [59 SP]
 
 </aside>
@@ -183,29 +183,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
 
 </aside>
 

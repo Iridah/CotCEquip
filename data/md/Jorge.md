@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Sunshade
-Attributes: Axe%2017.png, Fire%2030.png
-HP (Lv. 120): 4.070
+Attributes: Axe%2043.png, Fire%2071.png
+HP (Lv. 120): 4070
 SP (Lv. 120): 453
 P.Atk (Lv. 120): 400
 P.Def (Lv. 120): 447
@@ -50,17 +50,17 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" alt="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" width="40px" /> **Initial Speed Boost (Joint) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" alt="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" width="40px" /> **Initial Speed Boost (Joint) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Raise Speed of Paired Allies by 20% (turns: 3).
 
 <aside>
-<img src="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" alt="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" width="40px" /> **Initial Speed Boost (Joint) V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" alt="https://img.game8.jp/6930261/22597c59e9ca6f8d541a246cc5a849c5.png/show" width="40px" /> **Initial Speed Boost (Joint) V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Start of battle: Raise Speed of Paired Allies by **30%** (turns: 3).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Axe attacks of All Allies by 6,000.
 
 </aside>
@@ -122,11 +122,11 @@ Deal Phys. Axe damage to All Foes (potency: **170**). [24 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Disposal ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Disposal ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn, restore HP of Entire Front Row (potency: 65) and raise Ice. Res. by 15% (turns: 2). [50 SP]
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Disposal ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Disposal ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Act faster during turn, restore HP of Entire Front Row (potency: 65) and raise Ice. Res. by 15% (turns: 2). At Max Boost: Also cure Comatose. [50 SP]
 
 </aside>
@@ -206,29 +206,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
 
 </aside>
 

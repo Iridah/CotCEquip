@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Sword%2042.png, Spear_Polearm%2025.png, Lightning_Thunder%2027.png
-HP (Lv. 120): 4.272
+Attributes: Sword%2014.png, Spear_Polearm%2011.png, Lightning_Thunder%2013.png
+HP (Lv. 120): 4272
 SP (Lv. 120): 361
 P.Atk (Lv. 120): 499
 P.Def (Lv. 120): 443
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Olberic/Phys_Atk_Boost.png" alt="Olberic/Phys_Atk_Boost.png" width="40px" /> **Unbending Blade Knight ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Olberic/Phys_Atk_Boost.png" alt="Olberic/Phys_Atk_Boost.png" width="40px" /> **Unbending Blade Knight ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When there’s a broken enemy, raise Phys. Atk. of Self by 15% and grant Damage Limit Up (effect: 50,000).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Single Foe (potency: 290) [56 SP]
 </aside>
 
 <aside>
-<img src="Olberic/Sword%202.png" alt="Olberic/Sword%202.png" width="40px" /> **Swift Sword ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Olberic/Sword%202.png" alt="Olberic/Sword%202.png" width="40px" /> **Swift Sword ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe (potency: 170). At Max Boost: Reactivate the effect. [20 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 25, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Katsuyuki Konishi](https://myanimelist.net/people/20/Katsuyuki_Konishi?q=Katsuyuki%20Konishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Katsuyuki Konishi](https://myanimelist.net/people/20/Katsuyuki_Konishi?q=Katsuyuki%20Konishi&cat=person)
 
 </aside>
 

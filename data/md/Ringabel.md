@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Wealth
 Continent: Luxendarc (BRAVELY DEFAULT)
 Location: Memoir
-Attributes: Sword%2048.png, Dark%2045.png
-HP (Lv. 120): 4.052
+Attributes: Sword%2021.png, Dark%2020.png
+HP (Lv. 120): 4052
 SP (Lv. 120): 366
 P.Atk (Lv. 120): 499
 P.Def (Lv. 120): 413
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%
 </aside>
 
 <aside>
-<img src="Ringabel/F_IH9-qaYAASSDU_copia.jpeg" alt="Ringabel/F_IH9-qaYAASSDU_copia.jpeg" width="40px" /> **Max HP Boost V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ringabel/F_IH9-qaYAASSDU_copia.jpeg" alt="Ringabel/F_IH9-qaYAASSDU_copia.jpeg" width="40px" /> **Max HP Boost V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise max HP of Self by 30%.
 
 </aside>
@@ -126,7 +126,7 @@ At more than 50% HP, consume 50% of own max HP and deal Phys. Sword damage to Si
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Life from Death ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Life from Death ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Unsinkable (turns: 3-6 based on Boost Lv.) and raise BP recovery amount by 3 (turns: 3-6 based on Boost Lv.). *Can only be used once per battle. [74 SP]
 
 <aside>
@@ -198,35 +198,35 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 3, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
 Oct 9, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ryouta Takeuchi](https://myanimelist.net/people/12615/Ryouta_Takeuchi)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ryouta Takeuchi](https://myanimelist.net/people/12615/Ryouta_Takeuchi)
 
 </aside>
 

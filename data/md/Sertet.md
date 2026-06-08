@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Bow%2035.png, Wind%2049.png
-HP (Lv. 120): 3.902
+Attributes: Bow%208.png, Wind%2016.png
+HP (Lv. 120): 3902
 SP (Lv. 120): 536
 P.Atk (Lv. 120): 487
 P.Def (Lv. 120): 263
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7690075/6559557a83dd32b402a090dfd6f4d227.png/show" alt="https://img.game8.jp/7690075/6559557a83dd32b402a090dfd6f4d227.png/show" width="40px" /> **Extended Ailment (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7690075/6559557a83dd32b402a090dfd6f4d227.png/show" alt="https://img.game8.jp/7690075/6559557a83dd32b402a090dfd6f4d227.png/show" width="40px" /> **Extended Ailment (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of some status ailments inflicted by Self by 1 turn (Does not stack).
 
 </aside>
@@ -141,7 +141,7 @@ Deal Phys. Bow damage to Single Foe (potency: 530). 50% more potent and lowers P
 </aside>
 
 <aside>
-<img src="Sertet/Bow%205.png" alt="Sertet/Bow%205.png" width="40px" /> **Gravel Arrow ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sertet/Bow%205.png" alt="Sertet/Bow%205.png" width="40px" /> **Gravel Arrow ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe 3 time(s) (potency: 3x85) and inflict corrosion (turns: 2). [66 SP]
 
 <aside>
@@ -214,29 +214,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 8, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 19, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Endou](https://myanimelist.net/people/54/Aya_Endou)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Endou](https://myanimelist.net/people/54/Aya_Endou)
 
 </aside>
 

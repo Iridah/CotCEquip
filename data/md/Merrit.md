@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Wealth
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Axe%2020.png, Light%2039.png
-HP (Lv. 120): 4.030
+Attributes: Axe%2035.png, Light%2052.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 473
 P.Atk (Lv. 120): 388
 P.Def (Lv. 120): 432
@@ -43,7 +43,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Merrit/Dark_Resilience%201.png" alt="Merrit/Dark_Resilience%201.png" width="40px" /> **Rearguard Dark Res. Boost (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Merrit/Dark_Resilience%201.png" alt="Merrit/Dark_Resilience%201.png" width="40px" /> **Rearguard Dark Res. Boost (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Raise Dark Res. of Entire Front Row by 15%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Light damage of Single Foe (potency: **250**). [27 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Jab Bath ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Swift Jab Bath ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 205) and cure some status ailments (with some exceptions). Also raise Dark Res. by 15% (turns: 2). [71 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami?q=Manaka%20Iwami&cat=person)
 
 </aside>
 

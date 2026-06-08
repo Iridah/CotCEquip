@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Opulence
 Continent: Overworld (Dragon Quest III)
 Location: Memoir
-Attributes: Tome%2048.png, Fire%2073.png, Ice%2049.png, Light%2065.png
-HP (Lv. 120): 3.556
+Attributes: Tome%2028.png, Fire%2041.png, Ice%2030.png, Light%2039.png
+HP (Lv. 120): 3556
 SP (Lv. 120): 662
 P.Atk (Lv. 120): 271
 P.Def (Lv. 120): 296
@@ -67,17 +67,17 @@ Raise own Dark Res. by 20%.
 </aside>
 
 <aside>
-<img src="Viola%20EX/Elem-Damage-Limit-Up.png" alt="Viola%20EX/Elem-Damage-Limit-Up.png" width="40px" /> **Moon Sigil ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Viola%20EX/Elem-Damage-Limit-Up.png" alt="Viola%20EX/Elem-Damage-Limit-Up.png" width="40px" /> **Moon Sigil ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise the limits of elemental damage augments from battle skills and from support skills and equipment effects of Self to 50%.
 
 <aside>
-<img src="Viola%20EX/Elem-Damage-Limit-Up%201.png" alt="Viola%20EX/Elem-Damage-Limit-Up%201.png" width="40px" /> **Moon Sigil ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Viola%20EX/Elem-Damage-Limit-Up%201.png" alt="Viola%20EX/Elem-Damage-Limit-Up%201.png" width="40px" /> **Moon Sigil ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise the limits of elemental damage augments from battle skills and from support skills and equipment effects of Self to 50%. When consuming 2 gauges to activate the Ultimate Technique, restore 1 use of EX skill.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -191,11 +191,11 @@ When consuming 5 BP: Potency increases by 1.4x and the Damage Limit of this skil
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **Kafrizz ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **Kafrizz ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Single Foe 2 time(s) (potency: 2x135). When consuming 3+ BP: Activate the skill twice (the follow-up attack will not consume SP). [62 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **Kafrizz ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **Kafrizz ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 Deal Elem. Fire damage to Single Foe 2 time(s) (potency: 2x135). Damage Limit of this skill is increased by 50,000. When consuming 3+ BP: Activate the skill twice (the follow-up attack will not consume SP). When consuming 5 BP: Activate the skill 3 times instead. [62 SP]
 
 </aside>
@@ -289,29 +289,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Dragon Quest III Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 12, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
 
 </aside>
 

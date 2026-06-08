@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Norzelia (TRIANGLE STRATEGY)
 Location: Memoir
-Attributes: Spear_Polearm%2032.png, Lightning_Thunder%2038.png
-HP (Lv. 120): 3.920
+Attributes: Spear_Polearm%2025.png, Lightning_Thunder%2031.png
+HP (Lv. 120): 3920
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 459
 P.Def (Lv. 120): 378
@@ -45,7 +45,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Roland/Critical_Force.png" alt="Roland/Critical_Force.png" width="40px" /> **Gallop ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Roland/Critical_Force.png" alt="Roland/Critical_Force.png" width="40px" /> **Gallop ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 With Opportune Attack: Grant Dead Aim (guaranteed critical hits) to Self and raise Damage Limit by 30,000.
 
 </aside>
@@ -132,7 +132,7 @@ With Opportune Attack: Raise attack count by **3**.
 </aside>
 
 <aside>
-<img src="Roland/Spear_Polearm%204.png" alt="Roland/Spear_Polearm%204.png" width="40px" /> **Fury Rush ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Roland/Spear_Polearm%204.png" alt="Roland/Spear_Polearm%204.png" width="40px" /> **Fury Rush ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 4 time(s) (potency: 4x45). Afterwards, move to the Back Row (action does not count as switching). [48 SP]
 With Opportune Attack: Raise attack count by 1.
 
@@ -208,7 +208,7 @@ Uses: 2
 **Stats Change**
 
 <aside>
-<img src="https://www.notion.so/icons/boot_gray.svg" alt="https://www.notion.so/icons/boot_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/boot_gray.svg" alt="https://app.notion.com/icons/boot_gray.svg" width="40px" />
 
 **Spd** at Lv. 100 is 300 (and 350 at Lv. 120) in JP.
 
@@ -345,29 +345,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** TRIANGLE STRATEGY Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** TRIANGLE STRATEGY Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 20, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **TRIANGLE STRATEGY Crossover Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **TRIANGLE STRATEGY Crossover Return Dates:**
 Apr 17, 2024
 May 29, 2025
 Oct 16, 2025
@@ -375,7 +375,7 @@ Oct 16, 2025
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
 
 </aside>
 

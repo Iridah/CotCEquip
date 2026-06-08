@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan%2040.png, Sword%2062.png, Ice%2052.png, Light%2068.png
-HP (Lv. 120): 4.096
+Attributes: Fan%2011.png, Sword%2018.png, Ice%2016.png, Light%2017.png
+HP (Lv. 120): 4096
 SP (Lv. 120): 624
 P.Atk (Lv. 120): 345
 P.Def (Lv. 120): 355
@@ -66,17 +66,17 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Yomi/SP_Recovery.png" alt="Yomi/SP_Recovery.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Yomi/SP_Recovery.png" alt="Yomi/SP_Recovery.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At the end of turn, restore SP (amount: 5% of target’s Max SP) and extend duration of augmenting effects by 1 turn of allies who have not acted during turn.
 
 <aside>
-<img src="Yomi/SP_Recovery%201.png" alt="Yomi/SP_Recovery%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Yomi/SP_Recovery%201.png" alt="Yomi/SP_Recovery%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At the end of turn, restore SP (amount: 5% of target’s Max SP), grant HP Barrier (amount: 1000 HP) and extend duration of augmenting effects by 1 turn of allies who have not acted during turn.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Ice attacks of All Allies by 15,000.
 
 </aside>
@@ -169,7 +169,7 @@ Lower Shield Points of All Foes by 4 regardless of the weakness and inflict Fros
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Shield Points of Single Foe by 3-6 based on Boost Lv. regardless of the weakness. Subsequently move to the back row (action does not count as switching). At Max Boost: Also inflict Miss Phys. Attacks and Miss Elem. Attacks (times each: 1).
 
 <aside>
@@ -183,7 +183,7 @@ Lower Shield Points of Single Foe by 3-6 based on Boost Lv. regardless of the we
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Lower Shield Points of Single Foe by 3-6 based on Boost Lv. regardless of the weakness. Subsequently move to the back row (action does not count as switching). At Max Boost: Also inflict Miss Phys. Attacks and Miss Elem. Attacks (times each: **2**).
 
 <aside>
@@ -287,28 +287,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 20, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sakie Takada](https://myanimelist.net/people/63707/Sakie_Takada)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sakie Takada](https://myanimelist.net/people/63707/Sakie_Takada)
 
 </aside>
 

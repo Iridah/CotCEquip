@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Orsterra
 Location: Atlasdam
-Attributes: Spear_Polearm%2017.png, Bow%2020.png, Fire%2033.png, Lightning_Thunder%2017.png
-HP (Lv. 120): 4.160
+Attributes: Spear_Polearm%2024.png, Bow%2026.png, Fire%2045.png, Lightning_Thunder%2029.png
+HP (Lv. 120): 4160
 SP (Lv. 120): 427
 P.Atk (Lv. 120): 376
 P.Def (Lv. 120): 376
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Largo/BP_Recovery_Boost.png" alt="Largo/BP_Recovery_Boost.png" width="40px" /> **Remaining Strength ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Largo/BP_Recovery_Boost.png" alt="Largo/BP_Recovery_Boost.png" width="40px" /> **Remaining Strength ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When consuming 3 BP to use a skill, raise BP recovery amount of Self by 1 (turns: 2).
 
 </aside>
@@ -154,7 +154,7 @@ Deal Elem. Lightning damage to Random Foe (potency: 290) and have a moderate cha
 </aside>
 
 <aside>
-<img src="Largo/Lightning_Thunder.png" alt="Largo/Lightning_Thunder.png" width="40px" /> **Lightning and Fire Diffusion Spirit Stone (XL) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Largo/Lightning_Thunder.png" alt="Largo/Lightning_Thunder.png" width="40px" /> **Lightning and Fire Diffusion Spirit Stone (XL) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to All Foes (potency: 3x95). Exploits Fire weakness (damage calculation based on Elem. Lightning attack). [81 SP]
 
 </aside>
@@ -240,29 +240,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **General Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **General Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 23, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 19, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Kugimiya](https://myanimelist.net/people/8/Rie_Kugimiya?q=Rie%20Kugimiya&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Kugimiya](https://myanimelist.net/people/8/Rie_Kugimiya?q=Rie%20Kugimiya&cat=person)
 
 </aside>
 

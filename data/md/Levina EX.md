@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Dagger%2023.png, Lightning%206.png, Wind%2027.png
-HP (Lv. 120): 4.072
+Attributes: Dagger%2024.png, Lightning%207.png, Wind%2024.png
+HP (Lv. 120): 4072
 SP (Lv. 120): 582
 P.Atk (Lv. 120): 523
 P.Def (Lv. 120): 275
@@ -57,7 +57,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Grant Entire Front Row the special effect “Misfortune Ward” (turns: 3/shorter turn counts overwritten).
 
 <aside>
@@ -68,7 +68,7 @@ Start of battle: Grant Entire Front Row the special effect “Misfortune Ward”
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/2e3ebbc6-5396-80df-bbde-007ae158ef9a" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Start of battle: Grant Entire Front Row the special effect “Misfortune Ward” (turns: **4**/shorter turn counts overwritten).
 
 <aside>
@@ -81,7 +81,7 @@ Start of battle: Grant Entire Front Row the special effect “Misfortune Ward”
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -164,11 +164,11 @@ Deal Phys. Dagger damage to Single Foe 5 time(s) (potency: 5x30). Exploits Light
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to All Foes 4 time(s) (potency: 4x35). Exploits Lightning and Wind weaknesses (damage calculation based on Phys. Dagger attack). Also lower Phys. Def. and Dagger Res. by 20% (turns: 2). [98 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Dagger damage to All Foes 4 time(s) (potency: 4x35). Exploits Lightning and Wind weaknesses (damage calculation based on Phys. Dagger attack). Also lower Phys. Def. and Dagger Res. by 20% (turns: 2-5 based on Boost Lv.). At Max Boost: Restore SP of All Allies (amount: 30). [98 SP]
 
 </aside>
@@ -261,28 +261,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** “Glaze Travelers” (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** “Glaze Travelers” (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara?q=Yumi%20Hara&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara?q=Yumi%20Hara&cat=person)
 
 </aside>
 

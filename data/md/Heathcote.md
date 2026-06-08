@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Dagger%2017.png, Wind%2018.png
-HP (Lv. 120): 3.642
+Attributes: Dagger%2010.png, Wind%2013.png
+HP (Lv. 120): 3642
 SP (Lv. 120): 422
 P.Atk (Lv. 120): 413
 P.Def (Lv. 120): 300
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Crafty Butler ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Crafty Butler ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Grant Self an effect that activates attack skills twice (turns: 3/turns cannot be extended/follow-up attack will not consume SP).
 
 </aside>
@@ -126,7 +126,7 @@ Act faster during turn and deal Phys. Dagger damage to Single Foe (potency: 260)
 </aside>
 
 <aside>
-<img src="Heathcote/Dagger%205.png" alt="Heathcote/Dagger%205.png" width="40px" /> **Nayuta ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Heathcote/Dagger%205.png" alt="Heathcote/Dagger%205.png" width="40px" /> **Nayuta ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe 3 time(s) (potency: 3x55). The faster you act during turn, the greater the potency. Potency doubles when acting first.
 
 </aside>
@@ -207,29 +207,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 12, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 3, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shouzou Sasaki](https://myanimelist.net/people/10186/Shouzou_Sasaki)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shouzou Sasaki](https://myanimelist.net/people/10186/Shouzou_Sasaki)
 
 </aside>
 

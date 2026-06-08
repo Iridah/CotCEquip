@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Axe%2041.png, Light%2061.png, Dark%2052.png
-HP (Lv. 120): 4.020
+Attributes: Axe%2032.png, Light%2046.png, Dark%2039.png
+HP (Lv. 120): 4020
 SP (Lv. 120): 463
 P.Atk (Lv. 120): 470
 P.Def (Lv. 120): 322
@@ -108,7 +108,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Sowan/HP_Restoration.png" alt="Sowan/HP_Restoration.png" width="40px" /> **Resolute Axe ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sowan/HP_Restoration.png" alt="Sowan/HP_Restoration.png" width="40px" /> **Resolute Axe ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic HP recovery after consuming 3 BP to use a battle skill (potency: 150, turns: 2).
 
 <aside>
@@ -280,7 +280,7 @@ Deal Phys. Axe damage to Single Foe 2 time(s) (potency: **2x150**). [56 SP]
 </aside>
 
 <aside>
-<img src="Sowan/Axe%205.png" alt="Sowan/Axe%205.png" width="40px" /> **Dawnbreaker ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sowan/Axe%205.png" alt="Sowan/Axe%205.png" width="40px" /> **Dawnbreaker ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to All Foes 2 time(s) (potency: 2x95) and lower Phys. Def. and Elem. Def. by 15% (turns: 2). [70 SP]
 
 <aside>
@@ -476,7 +476,7 @@ Instead of **Dawn’s Fury**
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" alt="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" width="40px" /> **前衛時物理耐性強化(前全) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" alt="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" width="40px" /> **前衛時物理耐性強化(前全) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Raise Phys. Res. of Entire Front Row by 10%.
 
 <aside>
@@ -585,7 +585,7 @@ Deal Phys. Axe damage to Single Foe 2 time(s) (potency: **2x150**). [56 SP]
 </aside>
 
 <aside>
-<img src="Sowan/Axe%205.png" alt="Sowan/Axe%205.png" width="40px" /> **破防双伐 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sowan/Axe%205.png" alt="Sowan/Axe%205.png" width="40px" /> **破防双伐 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to All Foes 2 time(s) (potency: 2x95) and lower Phys. Def. and Elem. Def. by 15% (turns: 2). [70 SP]
 
 <aside>
@@ -677,29 +677,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 1, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 2, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Makoto Furukawa](https://myanimelist.net/people/17635/Makoto_Furukawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Makoto Furukawa](https://myanimelist.net/people/17635/Makoto_Furukawa)
 
 </aside>
 

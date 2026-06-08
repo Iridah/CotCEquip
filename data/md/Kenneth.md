@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Clearbrook
-Attributes: Tome%2020.png, Ice%2022.png
-HP (Lv. 120): 2.896
+Attributes: Tome%2049.png, Ice%2052.png
+HP (Lv. 120): 2896
 SP (Lv. 120): 552
 P.Atk (Lv. 120): 246
 P.Def (Lv. 120): 296
@@ -43,7 +43,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Kenneth/Elem_atk_Boost.png" alt="Kenneth/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kenneth/Elem_atk_Boost.png" alt="Kenneth/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Elem. Atk. by 20%.
 
 </aside>
@@ -130,7 +130,7 @@ Deal Elem. Ice damage to All Foes 2 time(s) (potency: 2x90) and inflict frostbit
 </aside>
 
 <aside>
-<img src="Kenneth/Ice%203.png" alt="Kenneth/Ice%203.png" width="40px" /> **Icewind (Single) IV ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kenneth/Ice%203.png" alt="Kenneth/Ice%203.png" width="40px" /> **Icewind (Single) IV ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to SingleFoe (potency: 260). [42 SP]
 
 </aside>
@@ -209,29 +209,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 25, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 29, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroki Gotou](https://myanimelist.net/people/11158/Hiroki_Gotou)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroki Gotou](https://myanimelist.net/people/11158/Hiroki_Gotou)
 
 </aside>
 

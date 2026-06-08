@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Cathedral of Thytos
-Attributes: Staff_Staves%2013.png, Ice%2025.png
-HP (Lv. 120): 3.502
+Attributes: Staff_Staves%2014.png, Ice%2029.png
+HP (Lv. 120): 3502
 SP (Lv. 120): 430
 P.Atk (Lv. 120): 306
 P.Def (Lv. 120): 362
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" alt="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" width="40px" /> **Extended Enfeeblement (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" alt="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" width="40px" /> **Extended Enfeeblement (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of enfeebling effects (excluding status ailments) inflicted by Self by 1 turn (Does not stack).
 
 </aside>
@@ -126,7 +126,7 @@ Revive a fallen ally (recovery amount: 25%-100% of max HP based on Boost). *Can 
 </aside>
 
 <aside>
-<img src="Lianna/Vim_and_Vigor.png" alt="Lianna/Vim_and_Vigor.png" width="40px" /> **Healing Blessing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lianna/Vim_and_Vigor.png" alt="Lianna/Vim_and_Vigor.png" width="40px" /> **Healing Blessing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row automatic HP recovery (potency: 110) and automatic SP recovery (amount: 5% of max SP) (turns: 2-5 based on Boost Lv.). [76 SP]
 
 </aside>
@@ -203,29 +203,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 1, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 24, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayumi Tsunematsu](https://myanimelist.net/people/1504/Ayumi_Tsunematsu?q=Ayumi%20Tsunematsu&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayumi Tsunematsu](https://myanimelist.net/people/1504/Ayumi_Tsunematsu?q=Ayumi%20Tsunematsu&cat=person)
 
 </aside>
 

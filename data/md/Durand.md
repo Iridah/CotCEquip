@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Orsterra
 Location: Rippletide
-Attributes: Dagger%2011.png, Light%2016.png
-HP (Lv. 120): 3.607
+Attributes: Dagger%2042.png, Light%2068.png
+HP (Lv. 120): 3607
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 433
 P.Def (Lv. 120): 300
@@ -49,7 +49,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Initial Critical Boost III (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Initial Critical Boost III (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Raise Critical of Paired Allies by 20% (turns: 3).
 
 </aside>
@@ -127,7 +127,7 @@ Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: **2x85**) and absorb 
 </aside>
 
 <aside>
-<img src="Durand/Dagger%204.png" alt="Durand/Dagger%204.png" width="40px" /> **Magic Thief Dagger ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Durand/Dagger%204.png" alt="Durand/Dagger%204.png" width="40px" /> **Magic Thief Dagger ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: 2x90) and absorb 2% of damage dealt as SP. [36 SP]
 
 </aside>
@@ -201,29 +201,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 26, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 13, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Toshinari Fukamachi](https://myanimelist.net/people/41739/Toshinari_Fukamachi?q=Toshinari%20Fukamachi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Toshinari Fukamachi](https://myanimelist.net/people/41739/Toshinari_Fukamachi?q=Toshinari%20Fukamachi&cat=person)
 
 </aside>
 

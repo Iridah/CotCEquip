@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Bow%204.png, Fire%208.png
-HP (Lv. 120): 3.892
+Attributes: Bow%2039.png, Fire%2073.png
+HP (Lv. 120): 3892
 SP (Lv. 120): 451
 P.Atk (Lv. 120): 415
 P.Def (Lv. 120): 288
@@ -49,7 +49,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Rearguard Critical Force (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Rearguard Critical Force (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Raise critical damage of Entire Front Row by 10%.
 
 </aside>
@@ -125,7 +125,7 @@ Restore HP of Single Ally (potency: **225**). [19 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Luck Recovery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Luck Recovery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Entire Front Row (potency: 205) and raise their Critical by 20% (turns: 2). [75 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
 
 </aside>
 

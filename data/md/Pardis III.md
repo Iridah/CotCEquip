@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2043.png, Dagger%2030.png, Bow%2030.png, Fire%2051.png, Lightning_Thunder%2030.png, Dark%2038.png
-HP (Lv. 120): 3.866
+Attributes: Sword%201.png, Dagger%206.png, Bow%201.png, Fire%207.png, Lightning_Thunder%203.png, Dark%202.png
+HP (Lv. 120): 3866
 SP (Lv. 120): 580
 P.Atk (Lv. 120): 630
 P.Def (Lv. 120): 401
@@ -44,7 +44,7 @@ Raise own Dark Res. by 30%.
 </aside>
 
 <aside>
-<img src="Pardis%20III/Phys_Atk_Limit_Up.png" alt="Pardis%20III/Phys_Atk_Limit_Up.png" width="40px" /> **Master of All ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pardis%20III/Phys_Atk_Limit_Up.png" alt="Pardis%20III/Phys_Atk_Limit_Up.png" width="40px" /> **Master of All ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise the limit of Phys. Atk. augments from battle skills and support skills and equipment effects to 50%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Single Foe (potency: 630). Exploits Fire, Lightning a
 </aside>
 
 <aside>
-<img src="Pardis%20III/Buff%201.png" alt="Pardis%20III/Buff%201.png" width="40px" /> **Barrier of the Absolute ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pardis%20III/Buff%201.png" alt="Pardis%20III/Buff%201.png" width="40px" /> **Barrier of the Absolute ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to completely block some attacks (turns: 2) and counter with Phys. Sword damage (potency: 230). Exploits Fire, Lightning and Dark weakness (damage calculation based on Phys. Sword attack). *Can be used twice per battle. [55 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 10, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 30, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tesshou Genda](https://myanimelist.net/people/761/Tesshou_Genda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tesshou Genda](https://myanimelist.net/people/761/Tesshou_Genda)
 
 </aside>
 

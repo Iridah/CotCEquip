@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Fan%2032.png, Dark%2039.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2040.png, Dark%2060.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 559
 P.Atk (Lv. 120): 295
 P.Def (Lv. 120): 295
@@ -43,7 +43,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Paula/SP_Restoration_on_Switch.png" alt="Paula/SP_Restoration_on_Switch.png" width="40px" /> **SP Recovery on Switch (Back/All)** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Paula/SP_Restoration_on_Switch.png" alt="Paula/SP_Restoration_on_Switch.png" width="40px" /> **SP Recovery on Switch (Back/All)** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching to front: Restore SP of Entire Back Row (amount: 3% of max SP).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Dark damage to All Foes (potency: 205) and lower Dark Res. by 15% (tu
 </aside>
 
 <aside>
-<img src="Paula/Dark%201.png" alt="Paula/Dark%201.png" width="40px" /> **Dark Blossom ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Paula/Dark%201.png" alt="Paula/Dark%201.png" width="40px" /> **Dark Blossom ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes (potency: 260). Subsequently move ot the back row (action does not count as a switch). [42 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 28, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 25, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
 
 </aside>
 

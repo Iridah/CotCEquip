@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Wealth
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Sword%2032.png, Light%2038.png
-HP (Lv. 120): 3.032
+Attributes: Sword%2060.png, Light%2062.png
+HP (Lv. 120): 3032
 SP (Lv. 120): 356
 P.Atk (Lv. 120): 459
 P.Def (Lv. 120): 403
@@ -50,17 +50,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hale Phys. Atk. Boost V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Hale Phys. Atk. Boost V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise Phys. Atk. by 30%.
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Phys. Atk. Boost V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Phys. Atk. Boost V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Phys. Atk. by 30%.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword attacks of All Allies by 6,000.
 
 </aside>
@@ -122,11 +122,11 @@ Deal Phys. Sword damage to All Foes (potency: **170**). [24 SP]
 </aside>
 
 <aside>
-<img src="Menny/Sword%204.png" alt="Menny/Sword%204.png" width="40px" /> **Dual Sword Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Menny/Sword%204.png" alt="Menny/Sword%204.png" width="40px" /> **Dual Sword Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x120) and impart Phys. Def. Down 10% (turns: 2). [30 SP]
 
 <aside>
-<img src="Menny/Sword%204.png" alt="Menny/Sword%204.png" width="40px" /> **Dual Sword Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Menny/Sword%204.png" alt="Menny/Sword%204.png" width="40px" /> **Dual Sword Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x120) and impart Phys. Def. Down 10% (turns: 2). At Max Boost: Reaches All Foes. [30 SP]
 
 </aside>
@@ -206,29 +206,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
 
 </aside>
 

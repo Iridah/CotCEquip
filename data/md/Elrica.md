@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2015.png, Fire%2019.png, Lightning_Thunder%207.png, Light%2020.png, Dark%2016.png
-HP (Lv. 120): 4.052
+Attributes: Sword%2017.png, Fire%2022.png, Lightning_Thunder%2014.png, Light%2016.png, Dark%2017.png
+HP (Lv. 120): 4052
 SP (Lv. 120): 416
 P.Atk (Lv. 120): 494
 P.Def (Lv. 120): 403
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" alt="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" width="40px" /> **The Lion’s Legacy ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" alt="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" width="40px" /> **The Lion’s Legacy ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Gain 3 Tenacity points.
 
 <aside>
@@ -59,7 +59,7 @@ Start of battle: Gain 3 Tenacity points.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" alt="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" width="40px" /> **The Lion’s Legacy ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" alt="https://img.game8.jp/7623366/0ff7d4d9b022062718202449a1574ed8.png/show" width="40px" /> **The Lion’s Legacy ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Start of battle: Gain 3 Tenacity points and 2 BP. At the end of turn: If Tenacity Points are 0, gain 6 Tenacity Points. *Once per battle.
 
 <aside>
@@ -70,7 +70,7 @@ Start of battle: Gain 3 Tenacity points and 2 BP. At the end of turn: If Tenacit
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -171,11 +171,11 @@ Warrior: Also exploits **Fire**, **Lightning** and Dark weakness (damage calcula
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Tranquil Focus ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Tranquil Focus ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic SP recovery (amount: 10% of user’s max SP, turns: 3-6 based on Boost Lv.) and gain 1-4 Tenacity point(s) (based on Boost Lv.). [22 SP]
 
 <aside>
-<img src="Elrica/Potency_Up_Original.png" alt="Elrica/Potency_Up_Original.png" width="40px" /> **Tranquil Focus ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Elrica/Potency_Up_Original.png" alt="Elrica/Potency_Up_Original.png" width="40px" /> **Tranquil Focus ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise potency of Self by 100% (turns: 2) (Turns cannot be extended/Does not stack with effects of the same type), grant Self automatic SP recovery (amount: 10% of user’s max SP, turns: 3-6 based on Boost Lv.) and gain **2-5** Tenacity point(s) (based on Boost Lv.). [22 SP]
 
 </aside>
@@ -262,29 +262,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
 
 </aside>
 

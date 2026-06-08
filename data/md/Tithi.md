@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Fan%2039.png, Lightning_Thunder%2045.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2015.png, Lightning_Thunder%2017.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 564
 P.Atk (Lv. 120): 280
 P.Def (Lv. 120): 277
@@ -50,7 +50,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" alt="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" width="40px" /> **Full Speed Ahead ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" alt="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" width="40px" /> **Full Speed Ahead ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster when consuming 3 BP and grant Self the ability to deal critical hits with elemental attacks.
 
 </aside>
@@ -126,7 +126,7 @@ Raise Phys. Atk., Elem. Atk. and Critical of Entire Front Row by 20% (turns: 2-5
 </aside>
 
 <aside>
-<img src="Tithi/Lightning_Thunder%203.png" alt="Tithi/Lightning_Thunder%203.png" width="40px" /> **Ode to Lightning III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tithi/Lightning_Thunder%203.png" alt="Tithi/Lightning_Thunder%203.png" width="40px" /> **Ode to Lightning III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to Single Foe (potency: 230). At Max Boost: Attack count is increased by one. [34 SP]
 
 </aside>
@@ -216,29 +216,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 1, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 5, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:**  [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami?q=Shizuka%20Ishigami&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:**  [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami?q=Shizuka%20Ishigami&cat=person)
 
 </aside>
 

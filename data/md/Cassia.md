@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Bow%205.png, Wind%207.png, Light%208.png, Dark%207.png
-HP (Lv. 120): 3.842
+Attributes: Bow%202.png, Wind%2010.png, Light%205.png, Dark%204.png
+HP (Lv. 120): 3842
 SP (Lv. 120): 486
 P.Atk (Lv. 120): 492
 P.Def (Lv. 120): 263
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Cassia/Latent_Power_Partitio.png" alt="Cassia/Latent_Power_Partitio.png" width="40px" /> **Latent Power: “Evil Eye Unleashed” ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cassia/Latent_Power_Partitio.png" alt="Cassia/Latent_Power_Partitio.png" width="40px" /> **Latent Power: “Evil Eye Unleashed” ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self the special effect “Evil Eye Unleashed” (turns: 1).
 “Evil Eye Unleashed”: Grant Self Dead Aim (guaranteed critical hits) and raise potency of Self by 100% (Does not stack with effects of the same type). Additionally, grant Self the ability to ignore effects that completely avoids or blocks attacks and exploiting Wind and Dark weakness when dealing some physical attacks other than “Attack” (damage calculation based on each attack).
 
@@ -142,7 +142,7 @@ Deal Phys. Bow damage to Single Foe 2 time(s) (potency: 2x150). Exploits Light w
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Increase the uses of EX skill by 1 and grant Self “Fighting Spirit” (turns: 3-6 based on Boost Lv./cannot be extended). *Can be used 3 times per battle.
 
 <aside>
@@ -231,28 +231,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 30, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Sasahara](https://myanimelist.net/people/47327/Yuu_Sasahara/1000)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuu Sasahara](https://myanimelist.net/people/47327/Yuu_Sasahara/1000)
 
 </aside>
 

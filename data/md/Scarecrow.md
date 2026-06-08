@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Bow%2034.png, Wind%2048.png
-HP (Lv. 120): 3.892
+Attributes: Bow%2017.png, Wind%2029.png
+HP (Lv. 120): 3892
 SP (Lv. 120): 456
 P.Atk (Lv. 120): 442
 P.Def (Lv. 120): 273
@@ -50,11 +50,11 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Mind’s Eye on Break ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Mind’s Eye on Break ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, grant Self Dead Aim (guaranteed critical hits) (turns: 2).
 
 <aside>
-<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Mind’s Eye on Break ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Mind’s Eye on Break ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When **an ally** breaks an enemy, grant Self Dead Aim (guaranteed critical hits) and raise the critical damage multiplier (1.25→1.4) (turns: 2).
 
 </aside>
@@ -138,11 +138,11 @@ Deal Phys. Bow damage to All Foes 4 time(s) (potency: 4x35). [60 SP]
 </aside>
 
 <aside>
-<img src="Scarecrow/Bow%203.png" alt="Scarecrow/Bow%203.png" width="40px" /> **Rat Catching ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Scarecrow/Bow%203.png" alt="Scarecrow/Bow%203.png" width="40px" /> **Rat Catching ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 6 time(s) (potency: 6x25). [54 SP]
 
 <aside>
-<img src="Scarecrow/Bow%203.png" alt="Scarecrow/Bow%203.png" width="40px" /> **Rat Catching ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Scarecrow/Bow%203.png" alt="Scarecrow/Bow%203.png" width="40px" /> **Rat Catching ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Bow damage to Random Foe **8** time(s) (potency: **8x25**). [54 SP]
 
 </aside>
@@ -226,29 +226,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Tome%2031.png, Lightning_Thunder%2025.png, Fire%2042.png
-HP (Lv. 120): 3.421
+Attributes: Tome.png, Lightning_Thunder.png, Fire%203.png
+HP (Lv. 120): 3421
 SP (Lv. 120): 667
 P.Atk (Lv. 120): 251
 P.Def (Lv. 120): 286
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%
 </aside>
 
 <aside>
-<img src="Nivelle/Critical_Elemental_Damage.png" alt="Nivelle/Critical_Elemental_Damage.png" width="40px" /> **Electrocution Flame Art ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nivelle/Critical_Elemental_Damage.png" alt="Nivelle/Critical_Elemental_Damage.png" width="40px" /> **Electrocution Flame Art ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Lightning damage of Self by 30% and grant the ability to trigger critical hits when using elemental attacks. When breaking a shocked enemy, inflict Fire and Lightning weakening (times: 3).
 
 <aside>
@@ -147,7 +147,7 @@ Deal Elem. Lightning damage to Single Foe **3** time(s) (potency: **3x110**) and
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Lightning Augment Magic (All) V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Lightning Augment Magic (All) V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Lightning damage of Entire Front Row by 30% (turns: 2-5 based on Boost Lv.). [56 SP]
 
 </aside>
@@ -250,7 +250,7 @@ Impart Entire Front Row with Elem. Atk. Up **20%** when shocked enemy is present
 </aside>
 
 <aside>
-<img src="Nivelle/Critical_Elemental_Damage.png" alt="Nivelle/Critical_Elemental_Damage.png" width="40px" /> **雷撃の禁術 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nivelle/Critical_Elemental_Damage.png" alt="Nivelle/Critical_Elemental_Damage.png" width="40px" /> **雷撃の禁術 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Elem. Atk. Up 10%, raise Lightning damage by 30% and grant the ability to trigger critical hits when using elemental attacks.
 
 </aside>
@@ -356,29 +356,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 31, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 7, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Satoshi Hino](https://myanimelist.net/people/245/Satoshi_Hino)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Satoshi Hino](https://myanimelist.net/people/245/Satoshi_Hino)
 
 </aside>
 

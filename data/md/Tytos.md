@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2061.png, Lightning_Thunder%2046.png
-HP (Lv. 120): 4.072
+Attributes: Sword%2035.png, Lightning_Thunder%2023.png
+HP (Lv. 120): 4072
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 514
 P.Def (Lv. 120): 423
@@ -50,7 +50,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" alt="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" alt="https://img.game8.jp/6930259/b048c4041f8f82634b3892418bfc02fd.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Lower Phys. Def. and Elem. Def. of All Foes by 5% when an intimidated enemy is present.
 
 </aside>
@@ -131,7 +131,7 @@ Deal Phys. Sword damage to Single Foe (potency: 260). 20% more potent if target 
 </aside>
 
 <aside>
-<img src="Tytos/Sword%203.png" alt="Tytos/Sword%203.png" width="40px" /> **Rule by Fear ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tytos/Sword%203.png" alt="Tytos/Sword%203.png" width="40px" /> **Rule by Fear ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x65) and intimidate the target with every attack (turns: 2). Attack count becomes 8 at Max Boost. [62 SP]
 
 <aside>
@@ -224,7 +224,7 @@ When an intimidated enemy is present, raise own Phys. Atk. by 20% and Damage Lim
 **Battle Skills**
 
 <aside>
-<img src="Tytos/Sword%203.png" alt="Tytos/Sword%203.png" width="40px" /> **威圧の暴剣 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tytos/Sword%203.png" alt="Tytos/Sword%203.png" width="40px" /> **威圧の暴剣 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe **3** time(s) (potency: **3x85**) and intimidate the target with every attack (turns: 2). ~~Attack count becomes 8 at Max Boost.~~ [62 SP]
 
 <aside>
@@ -270,29 +270,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 26, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rikiya Koyama](https://myanimelist.net/people/113/Rikiya_Koyama?q=Rikiya%20Koyama&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rikiya Koyama](https://myanimelist.net/people/113/Rikiya_Koyama?q=Rikiya%20Koyama&cat=person)
 
 </aside>
 

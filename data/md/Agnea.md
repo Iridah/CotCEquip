@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan.png, Wind.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2025.png, Wind%2040.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 614
 P.Atk (Lv. 120): 285
 P.Def (Lv. 120): 285
@@ -61,7 +61,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Agnea/Latent_Power_Agnea.png" alt="Agnea/Latent_Power_Agnea.png" width="40px" /> **Latent Power: All Together Now ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agnea/Latent_Power_Agnea.png" alt="Agnea/Latent_Power_Agnea.png" width="40px" /> **Latent Power: All Together Now ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect All Together Now (turns: 1).
 All Together Now: The target of Self’s battle skills will change:
 ·Self, Single Ally → Entire Front Row
@@ -228,7 +228,7 @@ Deal Elem. Wind damage to Single Foe **4** time(s) (potency: **4x45**). Exploits
 </aside>
 
 <aside>
-<img src="Agnea/Wind%201.png" alt="Agnea/Wind%201.png" width="40px" /> **Windy Refrain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Agnea/Wind%201.png" alt="Agnea/Wind%201.png" width="40px" /> **Windy Refrain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 3 time(s) (potency: 3x95). Exploits Fan weakness (damage calculation based on Elem. Wind attack). When consuming 1 BP or more: Allow Entire Front Row to act faster during next turn. [90 SP]
 
 </aside>
@@ -309,29 +309,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 23, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase)
 
 </aside>
 

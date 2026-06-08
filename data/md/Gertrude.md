@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Wealth
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Axe%2013.png, Dark%2022.png
-HP (Lv. 120): 4.055
+Attributes: Axe%203.png, Dark%209.png
+HP (Lv. 120): 4055
 SP (Lv. 120): 458
 P.Atk (Lv. 120): 454
 P.Def (Lv. 120): 371
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Gertrude/Phys_Atk_Boost%201.png" alt="Gertrude/Phys_Atk_Boost%201.png" width="40px" /> **Skilled Apothecary ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Gertrude/Phys_Atk_Boost%201.png" alt="Gertrude/Phys_Atk_Boost%201.png" width="40px" /> **Skilled Apothecary ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Phys. Atk. by 20% when there’s an enemy with Speed Down.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Axe damage to Random Foe 3 time(s) (potency: 3x85). [52 SP]
 </aside>
 
 <aside>
-<img src="Gertrude/Axe%204.png" alt="Gertrude/Axe%204.png" width="40px" /> **Grand Axe Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Gertrude/Axe%204.png" alt="Gertrude/Axe%204.png" width="40px" /> **Grand Axe Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to All Foes (potency: 150) and lower Phys. Def by 15% and Axe Res. by 15% (turns: 2). [52 SP]
 
 </aside>
@@ -212,29 +212,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 10, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 11, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroko Kiso](https://myanimelist.net/people/53923/Hiroko_Kiso?q=Hiroko%20Kiso&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroko Kiso](https://myanimelist.net/people/53923/Hiroko_Kiso?q=Hiroko%20Kiso&cat=person)
 
 </aside>
 

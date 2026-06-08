@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Spear_Polearm%2027.png, Fire%2049.png
-HP (Lv. 120): 4.390
+Attributes: Spear_Polearm%205.png, Fire%2015.png
+HP (Lv. 120): 4390
 SP (Lv. 120): 492
 P.Atk (Lv. 120): 459
 P.Def (Lv. 120): 403
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Hüysenov’s Fortune ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Hüysenov’s Fortune ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Polearm damage by 15%, grant Self Damage Limit Up (effect: 50,000) and raise Polearm damage limit of support skills and equipment effects of Self to 50%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: 2x150). Exploits Fir
 </aside>
 
 <aside>
-<img src="Oskha/Buff.png" alt="Oskha/Buff.png" width="40px" /> **Contempt for Wealth ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Oskha/Buff.png" alt="Oskha/Buff.png" width="40px" /> **Contempt for Wealth ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. and Polearm damage of Self by 30% and grant Self Dead Aim (guranteed critical hits) (turns: 3-8). Impart Self with the special effect BP Prohibition (turns: 3/turns cannot be extended). [67 SP]
 
 <aside>
@@ -226,7 +226,7 @@ If BP is 0 at the start of attack (Boost mode consumption is nullified), raise s
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **富業の鎗 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **富業の鎗 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Polearm damage by 15% and grant Self Damage Limit Up (effect: 50,000).
 
 </aside>
@@ -351,29 +351,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 23, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 12, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
 
 </aside>
 

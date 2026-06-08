@@ -6,8 +6,8 @@ Job: Thief
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Dagger%2032.png, Dark%2040.png
-HP (Lv. 120): 3.752
+Attributes: Dagger%209.png, Dark%208.png
+HP (Lv. 120): 3752
 SP (Lv. 120): 442
 P.Atk (Lv. 120): 509
 P.Def (Lv. 120): 290
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Determination ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **Determination ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. of Self by 15%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Dagger damage to Single Foe 5 time(s) (potency: 5x35). 20% more poten
 </aside>
 
 <aside>
-<img src="Pirro/Dagger.png" alt="Pirro/Dagger.png" width="40px" /> **Heart Piercer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pirro/Dagger.png" alt="Pirro/Dagger.png" width="40px" /> **Heart Piercer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe (potency: 530). [300 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 6, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 6, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Rippletide
-Attributes: Spear_Polearm%207.png, Lightning_Thunder%203.png
-HP (Lv. 120): 4.360
+Attributes: Spear_Polearm%2032.png, Lightning_Thunder%2040.png
+HP (Lv. 120): 4360
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 416
 P.Def (Lv. 120): 398
@@ -49,17 +49,17 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Conny/Hale_Incite_(All).png" alt="Conny/Hale_Incite_(All).png" width="40px" /> **Provoke on Switch (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Conny/Hale_Incite_(All).png" alt="Conny/Hale_Incite_(All).png" width="40px" /> **Provoke on Switch (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching to front row: Provoke all enemies (turns: 1).
 
 <aside>
-<img src="Conny/Hale_Incite_(All).png" alt="Conny/Hale_Incite_(All).png" width="40px" /> **Provoke on Switch (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Conny/Hale_Incite_(All).png" alt="Conny/Hale_Incite_(All).png" width="40px" /> **Provoke on Switch (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When switching to front row: Provoke all enemies (turns: 1) and grant Self automatic HP recovery (potency: 90, turns: 2).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Polearm attacks of All Allies by 6,000.
 
 </aside>
@@ -121,11 +121,11 @@ Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: **2x110**). [21 SP]
 </aside>
 
 <aside>
-<img src="Conny/Cover.png" alt="Conny/Cover.png" width="40px" /> **Defense ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Conny/Cover.png" alt="Conny/Cover.png" width="40px" /> **Defense ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 During the turn of use, reduce damage taken by Self by 20%-50% based on Boost Lv. (with some exceptions). [18 SP]
 
 <aside>
-<img src="Conny/Cover.png" alt="Conny/Cover.png" width="40px" /> **Defense ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Conny/Cover.png" alt="Conny/Cover.png" width="40px" /> **Defense ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 During the turn of use, reduce damage taken by Self by 20%-50% based on Boost Lv. (with some exceptions) and raise Phys. Def. and Elem. Def. of Entire Front Row by 10% (turns: 1). [18 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayaka Suwa](https://myanimelist.net/people/20106/Ayaka_Suwa?q=Ayaka%20Suwa&cat=person)
 
 </aside>
 

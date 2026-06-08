@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Dagger%2021.png, Wind%2023.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%2039.png, Wind%2058.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 397
 P.Atk (Lv. 120): 418
 P.Def (Lv. 120): 308
@@ -44,17 +44,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Kurtz/Elem_atk_Boost.png" alt="Kurtz/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kurtz/Elem_atk_Boost.png" alt="Kurtz/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Elem. Atk. Up 20%.
 
 <aside>
-<img src="Kurtz/Elem_atk_Boost.png" alt="Kurtz/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Kurtz/Elem_atk_Boost.png" alt="Kurtz/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Impart Self with Elem. Atk. Up 20%. When consuming 3 BP: Gain the ability to deal critical hits with elemental attacks and gain Dead Aim (guaranteed critical hits).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Wind attacks of All Allies by 8,000.
 
 </aside>
@@ -138,11 +138,11 @@ Deal Phys. Dagger damage to All Foes (potency: **175**) and lower Spd by 15% (tu
 </aside>
 
 <aside>
-<img src="Kurtz/Wind%202.png" alt="Kurtz/Wind%202.png" width="40px" /> **Gale Fang ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kurtz/Wind%202.png" alt="Kurtz/Wind%202.png" width="40px" /> **Gale Fang ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to Single Foe (potency: 260) and lower Wind Res. by 15% (turns: 2). [50 SP]
 
 <aside>
-<img src="Kurtz/Wind%202.png" alt="Kurtz/Wind%202.png" width="40px" /> **Gale Fang ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Kurtz/Wind%202.png" alt="Kurtz/Wind%202.png" width="40px" /> **Gale Fang ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Wind damage to Single Foe (potency: 260) and lower Wind Res. by 15% (turns: 2). At Max Boost: Activate the skill twice. [50 SP]
 
 </aside>
@@ -221,29 +221,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
 
 </aside>
 

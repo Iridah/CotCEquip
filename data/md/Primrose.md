@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Sunshade
-Attributes: Fan%2033.png, Dark%2041.png
-HP (Lv. 120): 3.526
+Attributes: Fan%206.png, Dark%2012.png
+HP (Lv. 120): 3526
 SP (Lv. 120): 574
 P.Atk (Lv. 120): 290
 P.Def (Lv. 120): 280
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Primrose/Phys_Def_Drain.png" alt="Primrose/Phys_Def_Drain.png" width="40px" /> **Thorn Steps ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Primrose/Phys_Def_Drain.png" alt="Primrose/Phys_Def_Drain.png" width="40px" /> **Thorn Steps ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, impart with Phys. Def. Down 15% and lower Fan Res. by 15% (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Raise Entire Front Row Phys. Atk, Elem. Atk. and Spd by 20%(turns: 2-5 based on 
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **War-Torn Elegy ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **War-Torn Elegy ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Phys. Atk. and Elem. Atk. of All Foes by 15% (turns: 2-5 based on Boost Lv.). [26 SP]
 
 </aside>
@@ -207,29 +207,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 13, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 10, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima?q=Houko%20Kuwashima&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima?q=Houko%20Kuwashima&cat=person)
 
 </aside>
 

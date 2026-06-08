@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Orsterra
 Location: Emberglow
-Attributes: Dagger%2027.png, Light%2044.png
-HP (Lv. 120): 3.697
+Attributes: Dagger%207.png, Light%208.png
+HP (Lv. 120): 3697
 SP (Lv. 120): 427
 P.Atk (Lv. 120): 418
 P.Def (Lv. 120): 295
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Red Hat’s Vigor ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Red Hat’s Vigor ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At the start of action phase, if SP is full: grant Self the effect of activating abilities twice (additional activations do not consume SP).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Dagger damage to Random Foe 4 time(s) (potency: 4x45). [48 SP]
 </aside>
 
 <aside>
-<img src="Nicola/Light.png" alt="Nicola/Light.png" width="40px" /> **Hymn of the Shining Star ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Nicola/Light.png" alt="Nicola/Light.png" width="40px" /> **Hymn of the Shining Star ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Random Foe 4 time(s) (potency: 4x35). [37 SP]
 
 </aside>
@@ -235,29 +235,29 @@ Instead of **Triple Burst**
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 11, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 14, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase?q=Inori%20Minase&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase?q=Inori%20Minase&cat=person)
 
 </aside>
 

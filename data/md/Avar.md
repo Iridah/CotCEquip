@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Axe%204.png, Sword%206.png, Fire%205.png, Dark%205.png
-HP (Lv. 120): 4.040
+Attributes: Axe%2017.png, Sword%2026.png, Fire%2029.png, Dark%2025.png
+HP (Lv. 120): 4040
 SP (Lv. 120): 438
 P.Atk (Lv. 120): 525
 P.Def (Lv. 120): 452
@@ -92,7 +92,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Avar/Jump_Follow-up_Attack.png" alt="Avar/Jump_Follow-up_Attack.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Avar/Jump_Follow-up_Attack.png" alt="Avar/Jump_Follow-up_Attack.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in “Savage” state: Grant Self the ability to  trigger a follow-up strike when allies in front row (excluding Self) attack (*Triggers once even during a Boost).
 Follow-up attack: Phys. Axe damage to All Foes (potency: 230).
 
@@ -174,7 +174,7 @@ Deal Phys. Axe damage to All Foes 3 time(s) (potency: 3x80). [68 SP]
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe (potency: 530). Grant Self Damage Limit Up when using this skill (effect: 100,000). [300 SP]
 
 </aside>
@@ -256,28 +256,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 10, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Nobuhiko Okamoto](https://myanimelist.net/people/270/Nobuhiko_Okamoto)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Nobuhiko Okamoto](https://myanimelist.net/people/270/Nobuhiko_Okamoto)
 
 </aside>
 

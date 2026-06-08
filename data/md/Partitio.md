@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Spear_Polearm%2028.png, Bow%2031.png
-HP (Lv. 120): 4.300
+Attributes: Spear_Polearm%2020.png, Bow%2021.png
+HP (Lv. 120): 4300
 SP (Lv. 120): 482
 P.Atk (Lv. 120): 449
 P.Def (Lv. 120): 408
@@ -47,7 +47,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Cassia/Latent_Power_Partitio.png" alt="Cassia/Latent_Power_Partitio.png" width="40px" /> **Latent Power: Hoot and Holler ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cassia/Latent_Power_Partitio.png" alt="Cassia/Latent_Power_Partitio.png" width="40px" /> **Latent Power: Hoot and Holler ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, to all front row and back row Merchants, grant the special effect Hoot and Holler (turns: 1).
 Hoot and Holler: BP does not decrease (including during consumption/with some exceptions).
 *But sufficient BP must be stored for boosts. Effects that consume BP will be activated.
@@ -147,7 +147,7 @@ Deal Phys. Polearm damage to All Foes 2 time(s) (potency: 2x105) and lower their
 </aside>
 
 <aside>
-<img src="Magnolia/Spear_Polearm%209.png" alt="Magnolia/Spear_Polearm%209.png" width="40px" /> **Rage Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Magnolia/Spear_Polearm%209.png" alt="Magnolia/Spear_Polearm%209.png" width="40px" /> **Rage Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Attack Random Foe 4 time(s), dealing Phys. Polearm damage (potency: 4x65). Each attack has a small chance to inflict Polearm Res. Down 15% (turns: 2). [73 SP]
 
 </aside>
@@ -286,29 +286,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 12, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 16, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuya Nakai](https://myanimelist.net/people/123/Kazuya_Nakai)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuya Nakai](https://myanimelist.net/people/123/Kazuya_Nakai)
 
 </aside>
 

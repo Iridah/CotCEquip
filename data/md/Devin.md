@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Valore
-Attributes: Spear_Polearm%208.png, Wind%2011.png
-HP (Lv. 120): 4.360
+Attributes: Spear_Polearm%2036.png, Wind%2061.png
+HP (Lv. 120): 4360
 SP (Lv. 120): 406
 P.Atk (Lv. 120): 416
 P.Def (Lv. 120): 393
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7513395/c1597d032111d1c24f731c595a3c295c.png/show" alt="https://img.game8.jp/7513395/c1597d032111d1c24f731c595a3c295c.png/show" width="40px" /> **Merchant’s Magnanimity ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7513395/c1597d032111d1c24f731c595a3c295c.png/show" alt="https://img.game8.jp/7513395/c1597d032111d1c24f731c595a3c295c.png/show" width="40px" /> **Merchant’s Magnanimity ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self Max HP Up 15% when provoked enemy is present.
 
 </aside>
@@ -126,7 +126,7 @@ Provoke All Foes and raise Phys. Def. and Elem. Def. of Self by 15% (turns: **3-
 </aside>
 
 <aside>
-<img src="Devin/Spear_Polearm.png" alt="Devin/Spear_Polearm.png" width="40px" /> **Wooden Spear ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Devin/Spear_Polearm.png" alt="Devin/Spear_Polearm.png" width="40px" /> **Wooden Spear ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe (potency: 260) and provoke the target (turns: 2). [44 SP]
 
 </aside>
@@ -203,29 +203,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mitsuhiro Ichiki](https://myanimelist.net/people/1527/Mitsuhiro_Ichiki?q=Mitsuhiro%20Ichiki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mitsuhiro Ichiki](https://myanimelist.net/people/1527/Mitsuhiro_Ichiki?q=Mitsuhiro%20Ichiki&cat=person)
 
 </aside>
 

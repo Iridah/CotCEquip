@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome.png, Fire%203.png, Light%203.png
-HP (Lv. 120): 3.566
+Attributes: Tome%2011.png, Fire%2018.png, Light%2014.png
+HP (Lv. 120): 3566
 SP (Lv. 120): 667
 P.Atk (Lv. 120): 251
 P.Def (Lv. 120): 366
@@ -56,7 +56,7 @@ Raise own Fire and Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Alaune/Elem_atk_Boost.png" alt="Alaune/Elem_atk_Boost.png" width="40px" /> **Vanguard Elem. Attack Boost (Front/All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Alaune/Elem_atk_Boost.png" alt="Alaune/Elem_atk_Boost.png" width="40px" /> **Vanguard Elem. Attack Boost (Front/All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Atk. of Entire Front Row by 15%.
 
 </aside>
@@ -134,7 +134,7 @@ Deal Elem. Fire damage to All Foes 3 time(s) (potency: 3x80). [70 SP]
 </aside>
 
 <aside>
-<img src="Alaune/Light%202.png" alt="Alaune/Light%202.png" width="40px" /> **Chaos Light Flame Magic III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Alaune/Light%202.png" alt="Alaune/Light%202.png" width="40px" /> **Chaos Light Flame Magic III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Random Foes 3 time(s) (potency: 3x85) and lower Fire and Light Res. by 15% with every attack (turns: 2). Exploits Fire weakness (damage calculation based on Elem. Light attack). [79 SP]
 
 </aside>
@@ -202,29 +202,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 31, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 28, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
 
 </aside>
 

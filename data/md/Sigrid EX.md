@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Spear_Polearm%2034.png, Sword%2056.png, Fire%2065.png
-HP (Lv. 120): 4.030
+Attributes: Spear_Polearm%203.png, Sword%202.png, Fire%2010.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 366
 P.Atk (Lv. 120): 449
 P.Def (Lv. 120): 385
@@ -43,7 +43,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Sigrid%20EX/Polearm_Res_Drain.png" alt="Sigrid%20EX/Polearm_Res_Drain.png" width="40px" /> **Searing Spear Stance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sigrid%20EX/Polearm_Res_Drain.png" alt="Sigrid%20EX/Polearm_Res_Drain.png" width="40px" /> **Searing Spear Stance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an ally Merchant breaks an enemy, lower the foe’s Polearm Res. by 15% (turns: 2) and cause them to combust (turns: 4).
 
 <aside>
@@ -135,13 +135,13 @@ Deal Phys. Polearm damage to Single Foe 3 time(s) (potency: 3x65) and cause them
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **Volatile Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **Volatile Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 6 time(s) (potency: 6x45). When a combusted enemy is present, exploits Sword and Fire weaknesses (damage calculation is based on Phys. Polearm attack). [48 SP]
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **Volatile Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **Volatile Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 4 time(s) (potency: 4x45). [48 SP]
 
 </aside>
@@ -224,11 +224,11 @@ Uses: 2
 **Passive Skills**
 
 <aside>
-<img src="Sigrid%20EX/SP_Recovery.png" alt="Sigrid%20EX/SP_Recovery.png" width="40px" /> **魔力還元 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sigrid%20EX/SP_Recovery.png" alt="Sigrid%20EX/SP_Recovery.png" width="40px" /> **魔力還元 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Recover 3% of damage received as SP.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Searing Spear Stance**
 
@@ -243,7 +243,7 @@ Recover 3% of damage received as SP.
 Act faster during turn and deal Phys. Polearm damage to All Foes (potency: 180). Exploits Sword weakness (damage calculation based on Phys. Polearm attack). **[63 SP]**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Slashing Thrust**
 
@@ -256,7 +256,7 @@ Act faster during turn and deal Phys. Polearm damage to All Foes (potency: 180).
 Act faster during turn and deal Phys. Polearm damage to All Foes (potency: 180). Exploits Fire weakness (damage calculation based on Phys. Polearm attack). **[63 SP]**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Blazing Rush**
 
@@ -277,7 +277,7 @@ Deal Phys. Polearm damage to Single Foe (potency: **260**) ~~and absorb 1% of da
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Scarlet Bloom**
 
@@ -286,11 +286,11 @@ Deal Phys. Polearm damage to Single Foe (potency: **260**) ~~and absorb 1% of da
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **刺突乱撃 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **刺突乱撃 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe **4** time(s) (potency: **4**x45). ~~When a combusted enemy is present, exploits Sword and Fire weaknesses (damage calculation is based on Phys. Polearm attack).~~ [48 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Volatile Thrust**
 
@@ -334,29 +334,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Free (New Year Distribution)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Free (New Year Distribution)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 1, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
 
 </aside>
 

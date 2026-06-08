@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Empire of Avalon (Romancing SaGa 2)
 Location: Memoir
-Attributes: Fan%2036.png, Lightning%2012.png, Wind%2046.png, Dark%2046.png
-HP (Lv. 120): 4.086
+Attributes: Fan%2030.png, Lightning%2014.png, Wind%2047.png, Dark%2043.png
+HP (Lv. 120): 4086
 SP (Lv. 120): 614
 P.Atk (Lv. 120): 320
 P.Def (Lv. 120): 370
@@ -62,17 +62,17 @@ Raise own Wind and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rocbouquet/Elem-Res-Down-Limit-Up.jpg" alt="Rocbouquet/Elem-Res-Down-Limit-Up.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rocbouquet/Elem-Res-Down-Limit-Up.jpg" alt="Rocbouquet/Elem-Res-Down-Limit-Up.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When a broken enemy is present, lower Elem. Res. of All Foes by 10%.
 
 <aside>
-<img src="Rocbouquet/Elem-Res-Down-Limit-Up%201.jpg" alt="Rocbouquet/Elem-Res-Down-Limit-Up%201.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Rocbouquet/Elem-Res-Down-Limit-Up%201.jpg" alt="Rocbouquet/Elem-Res-Down-Limit-Up%201.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When a broken enemy is present, lower Elem. Res. of All Foes by **20%** and raise the limits of Elem. Res. reductions from support skills and equipment effects on All Foes to 50%.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Lightning, Wind and Dark attacks of All Allies by 15,000.
 
 </aside>
@@ -165,7 +165,7 @@ Deal Elem. Wind damage to Single Foe 5 time(s) (potency: 5x30). Exploits Fan and
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Reduce Shield Points of All Foes by 2 regardless of weaknesses, lower their Phys. Atk. and Elem. Atk. by 20% (turns: 2-5 based on Boost Lv.). When there’s an enemy marked with Rancor, inflict Miss Phys. Attacks (times: 1) and Miss Elem. Attacks (times: 1).
 
 <aside>
@@ -184,7 +184,7 @@ Reduce Shield Points of All Foes by 2 regardless of weaknesses, lower their Phys
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Reduce Shield Points of All Foes by 2 regardless of weaknesses, lower their Phys. Atk. and Elem. Atk. by 20% (turns: 2-5 based on Boost Lv.) and stun them (turns: 2-5 based on Boost Lv.). When there’s an enemy marked with Rancor, inflict Miss Phys. Attacks (times: 1) and Miss Elem. Attacks (times: 1).
 
 <aside>
@@ -300,28 +300,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 19, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Hayami](https://myanimelist.net/people/869/Saori_Hayami)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Hayami](https://myanimelist.net/people/869/Saori_Hayami)
 
 </aside>
 

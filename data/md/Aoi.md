@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%205.png, Lightning%201.png, Wind%203.png
-HP (Lv. 120): 4.032
+Attributes: Sword%2040.png, Lightning%2011.png, Wind%2034.png
+HP (Lv. 120): 4032
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 504
 P.Def (Lv. 120): 358
@@ -78,7 +78,7 @@ Raise own Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="H%E2%80%99aanit%20EX/Evasive_Form.png" alt="H%E2%80%99aanit%20EX/Evasive_Form.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="H%E2%80%99aanit%20EX/Evasive_Form.png" alt="H%E2%80%99aanit%20EX/Evasive_Form.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in “Ryuuten Stance”, grant Self 50% chance of dodging some attacks. Raise BP recovery rate by 1 with a successful dodge from this skill’s effect or Miss Phys. Attack enfeeblement (turns: 1).
 
 </aside>
@@ -254,7 +254,7 @@ Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x135). Exploits Light
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 From the turn after this skill is used, deal Phys. Sword damage to All Foes once per turn before some allies act (potency: 180, turns: 2-5 based on Boost Lv.). [82 SP]
 
 </aside>
@@ -338,28 +338,28 @@ Uses: ?
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 19, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eri Yukumura](https://myanimelist.net/people/48325/Eri_Yukimura)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eri Yukumura](https://myanimelist.net/people/48325/Eri_Yukimura)
 
 </aside>
 

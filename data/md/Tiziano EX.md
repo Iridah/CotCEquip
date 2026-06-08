@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Polearm%209.png, Dagger%2043.png, Wind%2061.png
-HP (Lv. 120): 4.930
+Attributes: Polearm%205.png, Dagger%2019.png, Wind%2020.png
+HP (Lv. 120): 4930
 SP (Lv. 120): 442
 P.Atk (Lv. 120): 549
 P.Def (Lv. 120): 398
@@ -50,17 +50,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Tiziano%20EX/Phys_Atk_Boost%201.png" alt="Tiziano%20EX/Phys_Atk_Boost%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tiziano%20EX/Phys_Atk_Boost%201.png" alt="Tiziano%20EX/Phys_Atk_Boost%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 After using a battle skill, raise Phys. Atk. and Elem. Atk. of Entire Front Row by 15% and their Damage Limit by 100,000 (turns: 2/Granted as a battle ability).
 
 <aside>
-<img src="Tiziano%20EX/Phys_Atk_Boost%202.png" alt="Tiziano%20EX/Phys_Atk_Boost%202.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Tiziano%20EX/Phys_Atk_Boost%202.png" alt="Tiziano%20EX/Phys_Atk_Boost%202.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 After using a battle skill, raise Phys. Atk. and Elem. Atk. of Entire Front Row by 15% and their Damage Limit by 100,000 (turns: 2/Granted as a battle ability). Also grant them an HP Barrier (potency: 25% of user’s max HP).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Physical Polearm, Physical Dagger and Elemental Wind skills of All Allies by 15,000.
 
 </aside>
@@ -145,11 +145,11 @@ Deal Phys. Polearm damage to Single Foe (potency: 110). Exploits Dagger and Wind
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to All Foes 4 time(s) (potency: 4x35). Exploits Dagger and Wind weaknesses (damage calculation based on Phys. Polearm attack). Also raise Polearm and Dagger damage of Entire Front Row (turns: 2). [110 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Polearm damage to All Foes 4 time(s) (potency: 4x35). Exploits Dagger and Wind weaknesses (damage calculation based on Phys. Polearm attack). Also raise Phys. Atk. and Polearm and Dagger damage of Entire Front Row (turns: 2). [110 SP]
 
 </aside>
@@ -248,28 +248,28 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** “Glaze Travelers” (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** “Glaze Travelers” (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Daisuke Hirakawa](https://myanimelist.net/people/183/Daisuke_Hirakawa)
 
 </aside>
 

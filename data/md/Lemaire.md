@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Fan%2021.png, Fire%2034.png, Ice%2024.png, Lightning_Thunder%2019.png, Wind%2025.png, Light%2032.png, Dark%2027.png
-HP (Lv. 120): 3.591
+Attributes: Fan%203.png, Fire%208.png, Ice%205.png, Lightning_Thunder%204.png, Wind%209.png, Light%203.png, Dark%203.png
+HP (Lv. 120): 3591
 SP (Lv. 120): 559
 P.Atk (Lv. 120): 280
 P.Def (Lv. 120): 285
@@ -50,7 +50,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Dancing Colours ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" alt="https://img.game8.jp/6936448/39b8fea11c6e0fc1f670bfbfb62d93f7.png/show" width="40px" /> **Dancing Colours ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When Self has 16 or more status effect icons, grant Entire Front Row automatic SP recovery (amount: 5% of max SP).
 
 </aside>
@@ -132,7 +132,7 @@ Deal Elem. Fire, Ice, Lightning, Wind, Light and Dark damage 1 time each to Sing
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Rainbow Palette ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Rainbow Palette ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Fire, Ice, Lightning, Wind, Light and Dark damage. of Self by 30% (turns: 3-6 based on Boost Lv.). [64 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 24, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 10, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroko Kiso](https://myanimelist.net/people/53923/Hiroko_Kiso?q=Hiroko%20Kiso&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hiroko Kiso](https://myanimelist.net/people/53923/Hiroko_Kiso?q=Hiroko%20Kiso&cat=person)
 
 </aside>
 

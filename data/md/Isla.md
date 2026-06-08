@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Approval
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome%2017.png, Fire%2029.png, Lightning_Thunder%2015.png
-HP (Lv. 120): 3.406
+Attributes: Tome%205.png, Fire%2013.png, Lightning_Thunder%206.png
+HP (Lv. 120): 3406
 SP (Lv. 120): 672
 P.Atk (Lv. 120): 261
 P.Def (Lv. 120): 331
@@ -56,7 +56,7 @@ Raise own Fire and Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Isla/Elem_atk_Boost%201.png" alt="Isla/Elem_atk_Boost%201.png" width="40px" /> **Fiel Investigation ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Isla/Elem_atk_Boost%201.png" alt="Isla/Elem_atk_Boost%201.png" width="40px" /> **Fiel Investigation ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching: Grant Paired Allies Elem. Atk. Up 10% (turns: 1). When the target is a Scholar, the effect amount becomes 20%.
 
 </aside>
@@ -132,7 +132,7 @@ Deal Elem. Fire damage to All Foes 4 time(s) (potency: 4x60). If Paired Ally is 
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Scholar Cait’s Greeting Card ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Scholar Cait’s Greeting Card ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Apply a countdown effect to Self (count: 8-5 based on Boost Lv.). When the countdown ends, restore 3 BP to the Entire Front Row. [50 SP]
 
 </aside>
@@ -270,29 +270,29 @@ Gauge Increase: 20%→25%/BP
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 12, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 28, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa)
 
 </aside>
 

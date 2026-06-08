@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%2010.png, Staff_Staves%204.png, Light%2013.png
-HP (Lv. 120): 4.282
+Attributes: Sword%2044.png, Staff_Staves%2018.png, Light%2044.png
+HP (Lv. 120): 4282
 SP (Lv. 120): 406
 P.Atk (Lv. 120): 419
 P.Def (Lv. 120): 463
@@ -57,7 +57,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Crick/Sword-Staff-Damage-Up.png" alt="Crick/Sword-Staff-Damage-Up.png" width="40px" /> **Blameless Blade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Crick/Sword-Staff-Damage-Up.png" alt="Crick/Sword-Staff-Damage-Up.png" width="40px" /> **Blameless Blade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Sword and Staff damage of Self by 15%. With an HP Barrier: Also raise Damage Limit by 70,000.
 
 </aside>
@@ -133,7 +133,7 @@ Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x120). Exploits Staff
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Sanctifying Oracle (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Sanctifying Oracle (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Phys. Res. and Elem. Res. of All Foes by 15% (turns: 2-5 based on Boost Lv.). [72 SP]
 
 </aside>
@@ -334,29 +334,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 21, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 27, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junya Enoki](https://myanimelist.net/people/30853/Junya_Enoki)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junya Enoki](https://myanimelist.net/people/30853/Junya_Enoki)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Tome%2027.png, Staff_Staves%2019.png, Wind%2034.png
-HP (Lv. 120): 3.546
+Attributes: Tome%203.png, Staff_Staves%203.png, Wind%2011.png
+HP (Lv. 120): 3546
 SP (Lv. 120): 642
 P.Atk (Lv. 120): 351
 P.Def (Lv. 120): 336
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Morena/Phys_Atk_Drain.png" alt="Morena/Phys_Atk_Drain.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Morena/Phys_Atk_Drain.png" alt="Morena/Phys_Atk_Drain.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an ally breaks an enemy: Lower Phys. Atk., Phys. Def., Elem. Atk. and Elem. Def. by 10% and lower Staff, Tome and Wind Res. by 10% (turns: 2).
 
 </aside>
@@ -131,7 +131,7 @@ Deal Phys. Tome damage to Single Foe (potency: **260**). Exploits Staff and Wind
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Staff, Tome and Wind Res. of Single Foe by 20% (turns: 2-5 based on Boost Lv.). Also inflict Staff/Tome/Wind weakening (times: 2).
 
 <aside>
@@ -226,28 +226,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Twin Worlds
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of the Twin Worlds
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Not yet
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Not yet
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 5, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Ishigami](https://myanimelist.net/people/28755/Shizuka_Ishigami)
 
 </aside>
 

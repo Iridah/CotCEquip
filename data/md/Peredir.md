@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Valore
-Attributes: Tome%2038.png, Fire%2053.png
-HP (Lv. 120): 3.546
+Attributes: Tome%2044.png, Fire%2067.png
+HP (Lv. 120): 3546
 SP (Lv. 120): 647
 P.Atk (Lv. 120): 291
 P.Def (Lv. 120): 355
@@ -43,17 +43,17 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Peredir/Elem_atk_Boost.png" alt="Peredir/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Peredir/Elem_atk_Boost.png" alt="Peredir/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Elem. Atk. by 20%.
 
 <aside>
-<img src="Peredir/Elem_atk_Boost.png" alt="Peredir/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Peredir/Elem_atk_Boost.png" alt="Peredir/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise own Elem. Atk. by **30%** and Fire damage by 10%. When there’s a combusted enemy, grant Self the ability to trigger critical hits with elemental attacks.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of All Allies when using Elem. Fire attacks by 8,000.
 
 </aside>
@@ -142,7 +142,7 @@ Deal Elem. Fire damage to Single Foe 2 time(s) (potency: 2x85) and cause them to
 </aside>
 
 <aside>
-<img src="Peredir/Fire%203.png" alt="Peredir/Fire%203.png" width="40px" /> **Great Flame Magic (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Peredir/Fire%203.png" alt="Peredir/Fire%203.png" width="40px" /> **Great Flame Magic (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to All Foes 2 time(s) (potency: 2x95) and cause them to combust (turns: 2). [66 SP]
 
 <aside>
@@ -151,7 +151,7 @@ Deal Elem. Fire damage to All Foes 2 time(s) (potency: 2x95) and cause them to c
 </aside>
 
 <aside>
-<img src="Peredir/Fire%203.png" alt="Peredir/Fire%203.png" width="40px" /> **Great Flame Magic (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Peredir/Fire%203.png" alt="Peredir/Fire%203.png" width="40px" /> **Great Flame Magic (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Fire damage to All Foes **4** time(s) (potency: **4x95**) and cause them to combust (turns: **3**). Raise Damage Limit of this skill by 25,000. [66 SP]
 
 <aside>
@@ -232,29 +232,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouji Takeda](https://myanimelist.net/people/14157/Kouji_Takeda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kouji Takeda](https://myanimelist.net/people/14157/Kouji_Takeda)
 
 </aside>
 

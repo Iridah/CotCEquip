@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2012.png, Dark%2011.png
-HP (Lv. 120): 4.052
+Attributes: Sword%2057.png, Dark%2048.png
+HP (Lv. 120): 4052
 SP (Lv. 120): 386
 P.Atk (Lv. 120): 534
 P.Def (Lv. 120): 418
@@ -71,7 +71,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Dark%20Knight/True-Accurst-Flame.png" alt="Dark%20Knight/True-Accurst-Flame.png" width="40px" /> **True Accurst Flame ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dark%20Knight/True-Accurst-Flame.png" alt="Dark%20Knight/True-Accurst-Flame.png" width="40px" /> **True Accurst Flame ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self effects based on the number of allies in Cursed Puppet state:
 ·1+: Raise Phys. Atk. and Sword damage by 30%.
 ·3+: Also raise Damage Limit by 100,000.
@@ -164,7 +164,7 @@ Deal Phys. Sword damage to Single Foe (potency: 260). Exploits Dark weakness (da
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Blessings of the Damned ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Blessings of the Damned ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of All Allies (amount: 10%-40% of max HP based on Boost Lv.). Additionally, if the target is in “Cursed” status raise their Phys. Atk., Phys. Def., Elem. Atk. and Elem. Def. by 30% (turns: 3). [143 SP]
 
 </aside>
@@ -247,29 +247,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 16, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 18, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
 
 </aside>
 

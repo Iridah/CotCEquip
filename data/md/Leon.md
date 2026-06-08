@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Grandport
-Attributes: Spear_Polearm%2018.png, Staff_Staves%2012.png
-HP (Lv. 120): 4.180
+Attributes: Spear_Polearm%2034.png, Staff_Staves%2033.png
+HP (Lv. 120): 4180
 SP (Lv. 120): 462
 P.Atk (Lv. 120): 509
 P.Def (Lv. 120): 398
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Leon/Phys_Atk_Boost.png" alt="Leon/Phys_Atk_Boost.png" width="40px" /> **Sea Serpent’s Gaze ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Leon/Phys_Atk_Boost.png" alt="Leon/Phys_Atk_Boost.png" width="40px" /> **Sea Serpent’s Gaze ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Phys. Atk. by 20% and BP recovery amount of Self by 1 when a broken enemy is present.
 
 </aside>
@@ -138,7 +138,7 @@ Multi-strike: Activate some skills twice (the follow-up attack will not consume 
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Command of the Great Pirate ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Command of the Great Pirate ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Polearm damage of Entire Front Row by 30% (turns: 2-5 based on Boost Lv.). [69 SP]
 With Multi-strike: Also raise Phys. Atk. of the same target by 30% (turns: 2-5 based on Boost Lv.). *Does not terminate Multi-strike effect.
 
@@ -217,29 +217,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 29, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 27, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Inoue](https://myanimelist.net/people/47810/Jun_Inoue?q=Jun%20Inoue&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Inoue](https://myanimelist.net/people/47810/Jun_Inoue?q=Jun%20Inoue&cat=person)
 
 </aside>
 

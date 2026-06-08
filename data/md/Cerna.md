@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Donescu
-Attributes: Spear_Polearm%206.png, Dark%2010.png
-HP (Lv. 120): 3.381
+Attributes: Spear_Polearm%2033.png, Dark%2058.png
+HP (Lv. 120): 3381
 SP (Lv. 120): 319
 P.Atk (Lv. 120): 366
 P.Def (Lv. 120): 357
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" alt="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" width="40px" /> **Extended Enfeeblement (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" alt="https://img.game8.jp/7217336/57608b3899d6789553779c14b3801788.png/show" width="40px" /> **Extended Enfeeblement (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of enfeebling effects (excluding status ailments) inflicted by Self by 1 turn (Does not stack).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Polearm damage to Single Foe (potency: **250**). [26 SP]
 </aside>
 
 <aside>
-<img src="Cerna/Spear_Polearm%204.png" alt="Cerna/Spear_Polearm%204.png" width="40px" /> **The Big Haul ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cerna/Spear_Polearm%204.png" alt="Cerna/Spear_Polearm%204.png" width="40px" /> **The Big Haul ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 3-5 time(s) (potency: 3-5x65). [60 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 30, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase?q=Inori%20Minase&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase?q=Inori%20Minase&cat=person)
 
 </aside>
 

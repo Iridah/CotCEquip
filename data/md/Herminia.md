@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Bow%2014.png, Fan%2018.png, Light%2027.png
-HP (Lv. 120): 3.882
+Attributes: Bow%2020.png, Fan%2022.png, Light%2036.png
+HP (Lv. 120): 3882
 SP (Lv. 120): 476
 P.Atk (Lv. 120): 492
 P.Def (Lv. 120): 273
@@ -50,7 +50,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Phys. Atk. by 30% when bleeding enemy is present.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Bow damage to Single Foe (potency: 260) and absorb 10% of damage deal
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Ruinous Powder ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Ruinous Powder ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Bow, Fan and Light Res. of All Foes by 15% (turns: 2-5 based on Boost Lv.) and cause them to miss some physical attacks (times: 2/Does not stack with effects of the same type). [28 SP]
 
 <aside>
@@ -219,7 +219,7 @@ When using a battle skill, have a **50%** chance to summon a lady-in-waiting to 
 **Battle Skills**
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **微醺の粉 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **微醺の粉 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Bow, Fan and Light Res. of All Foes by 15% (turns: 2-5 based on Boost Lv.) ~~and cause them to miss some physical attacks (times: 2/Does not stack with effects of the same type)~~. [28 SP]
 
 <aside>
@@ -266,29 +266,29 @@ Uses: **2**
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 26, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Atsuko Tanaka](https://myanimelist.net/people/100/Atsuko_Tanaka?q=Atsuko%20Tanaka&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Atsuko Tanaka](https://myanimelist.net/people/100/Atsuko_Tanaka?q=Atsuko%20Tanaka&cat=person)
 
 </aside>
 

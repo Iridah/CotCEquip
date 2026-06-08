@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Wealth
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Sword%2059.png, Wind%2059.png
-HP (Lv. 120): 3.882
+Attributes: Sword%2042.png, Wind%2036.png
+HP (Lv. 120): 3882
 SP (Lv. 120): 371
 P.Atk (Lv. 120): 389
 P.Def (Lv. 120): 388
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="H%E2%80%99aanit%20EX/Evasive_Form.png" alt="H%E2%80%99aanit%20EX/Evasive_Form.png" width="40px" /> **One Last Chance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="H%E2%80%99aanit%20EX/Evasive_Form.png" alt="H%E2%80%99aanit%20EX/Evasive_Form.png" width="40px" /> **One Last Chance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% HP or less: Grant Self 50% chance of dodging some attacks.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Wind damage to Random Foe 4 time(s) (potency: 4x55). [44 SP]
 </aside>
 
 <aside>
-<img src="Tikilen/Wind%201.png" alt="Tikilen/Wind%201.png" width="40px" /> **Swift Blade Storm ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tikilen/Wind%201.png" alt="Tikilen/Wind%201.png" width="40px" /> **Swift Blade Storm ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 3 time(s) (potency: 3x65). Exploits Sword weakness (damage calculation based on Elem. Wind attack). Also lower Wind Res. by 15% (turns: 2). [73 SP]
 
 </aside>
@@ -212,29 +212,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 10, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 7, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Juri Nagatsuma](https://myanimelist.net/people/12737/Juri_Nagatsuma?q=Juri%20Nagatsuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Juri Nagatsuma](https://myanimelist.net/people/12737/Juri_Nagatsuma?q=Juri%20Nagatsuma&cat=person)
 
 </aside>
 

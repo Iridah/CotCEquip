@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Kingdom of Lucrece (Live A Live)
 Location: Memoir
-Attributes: Sword%2041.png, Spear_Polearm%2024.png, Staff_Staves%2022.png, Fire%2047.png, Wind%2039.png, Dark%2035.png
-HP (Lv. 120): 4.052
+Attributes: Sword%2041.png, Spear_Polearm%2023.png, Staff_Staves%2017.png, Fire%2044.png, Wind%2035.png, Dark%2034.png
+HP (Lv. 120): 4052
 SP (Lv. 120): 386
 P.Atk (Lv. 120): 474
 P.Def (Lv. 120): 403
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Oersted/F_IH9-qaYAASSDU_copia.jpeg" alt="Oersted/F_IH9-qaYAASSDU_copia.jpeg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Oersted/F_IH9-qaYAASSDU_copia.jpeg" alt="Oersted/F_IH9-qaYAASSDU_copia.jpeg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self effects based on  Valor Points.
 ·With 4+: Raise max HP by 10%.
 ·With 6+: Raise Phys. Atk. by 10%.
@@ -135,7 +135,7 @@ Deal Phys. Sword damage to Single Foe (potency: 230). Exploits Polearm weakness 
 </aside>
 
 <aside>
-<img src="Oersted/Buff_Vim_and_Vigor.png" alt="Oersted/Buff_Vim_and_Vigor.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Oersted/Buff_Vim_and_Vigor.png" alt="Oersted/Buff_Vim_and_Vigor.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic HP recovery (potency: 140, turns: 3-6 based on Boost Lv.) and SP recovery (amount: 5% of max SP, turns: 3-6 based on Boost Lv.). [76 SP]
 With 3- Valor Points: Gain 3 Valor Points.
 With 4+ Valor Points: Restore Phys. Atk. and Critical.
@@ -210,30 +210,30 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Union of Life (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Union of Life (Limited)
 *Guaranteed in a Free 10-guide
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 16, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 26, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: G'roha
 Location: Memoir
-Attributes: Dagger%2039.png, Dark%2056.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%208.png, Dark%206.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 502
 P.Atk (Lv. 120): 318
 P.Def (Lv. 120): 303
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Tatloch%20EX/Elem_atk_Boost.png" alt="Tatloch%20EX/Elem_atk_Boost.png" width="40px" /> **Hell’s Afflatus ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tatloch%20EX/Elem_atk_Boost.png" alt="Tatloch%20EX/Elem_atk_Boost.png" width="40px" /> **Hell’s Afflatus ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Elem. Atk. Up 15%, raise Dark damage by 15% and grant ability to trigger critical hits when using elemental attacks.
 
 </aside>
@@ -141,7 +141,7 @@ Grant Dark weakness to Single Foe (times: 3) and deal Elem. Dark damage 3 time(s
 </aside>
 
 <aside>
-<img src="Tatloch%20EX/Debuff%202.png" alt="Tatloch%20EX/Debuff%202.png" width="40px" /> **Calculated Corruption ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Tatloch%20EX/Debuff%202.png" alt="Tatloch%20EX/Debuff%202.png" width="40px" /> **Calculated Corruption ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Dark weakness to All Foes (times: 2-5 based on Boost Lv.), allow All Allies to act faster during next turn and subsequently switch to the back row. [42 SP]
 
 <aside>
@@ -238,29 +238,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Nautical Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Nautical Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 18, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 7, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro?q=Miyuki%20Sawashiro&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro?q=Miyuki%20Sawashiro&cat=person)
 
 </aside>
 

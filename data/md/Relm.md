@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Approval
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Fan%2034.png, Dagger%2033.png, Fire%2056.png, Ice%2040.png, Lightning%2011.png, Wind%2043.png, Light%2053.png, Dark%2044.png
-HP (Lv. 120): 3.496
+Attributes: Fan%2031.png, Dagger%2034.png, Fire%2061.png, Ice%2042.png, Lightning%2015.png, Wind%2050.png, Light%2057.png, Dark%2044.png
+HP (Lv. 120): 3496
 SP (Lv. 120): 584
 P.Atk (Lv. 120): 280
 P.Def (Lv. 120): 260
@@ -75,7 +75,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Relm/Paint%202.png" alt="Relm/Paint%202.png" width="40px" /> **Latent Power: Rainbow Brush ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Relm/Paint%202.png" alt="Relm/Paint%202.png" width="40px" /> **Latent Power: Rainbow Brush ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self “Rainbow Brush” (turns: 1).
 “Rainbow Brush”: Skill configuration changes to the following.
 
@@ -230,7 +230,7 @@ Deal Elem. Non-elemental damage to Single Foe 1-8 time(s) (potency: 1-8x25/1-8x3
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/277ebbc6-5396-801b-bdd5-007ae3c57606" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/277ebbc6-5396-801b-bdd5-007ae3c57606" width="40px" /> **Sketch: Tonberry ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/277ebbc6-5396-801b-bdd5-007ae3c57606" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/277ebbc6-5396-801b-bdd5-007ae3c57606" width="40px" /> **Sketch: Tonberry ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cast countdown on Self (count: 3). Once the countdown ends, deal Elem. Non-elemental damage to Random Foe (potency: 530). Exploits Dagger weakness (damage calculation based on Elem. Non-elemental attack). [200 SP]
 
 </aside>
@@ -322,28 +322,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 25, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?null=)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aoi Yuuki](https://myanimelist.net/people/6686/Aoi_Yuuki?null=)
 
 </aside>
 

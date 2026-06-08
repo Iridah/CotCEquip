@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Orsterra
 Location: Emberglow
-Attributes: Dagger%209.png, Lightning_Thunder%202.png
-HP (Lv. 120): 3.752
+Attributes: Dagger%2041.png, Lightning_Thunder%2044.png
+HP (Lv. 120): 3752
 SP (Lv. 120): 398
 P.Atk (Lv. 120): 433
 P.Def (Lv. 120): 303
@@ -49,7 +49,7 @@ Raise own LIghtning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Desperate Critical Shot ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" alt="https://img.game8.jp/6975233/bdd1d15e43fb32e36c1062a539b23b75.png/show" width="40px" /> **Desperate Critical Shot ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% HP or less: Grant Dead Aim to Self (guaranteed critical hits).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: **2x85**). Lower Shie
 </aside>
 
 <aside>
-<img src="Cless/Dagger%202.png" alt="Cless/Dagger%202.png" width="40px" /> **Wail of Dawn ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cless/Dagger%202.png" alt="Cless/Dagger%202.png" width="40px" /> **Wail of Dawn ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Take 60% of max HP as damage and deal Phys. Dagger damage to Single Foe 4 time(s) (potency: 4x65). Lower Shield Points even when not striking weak points. [56 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eiji Takeuchi](https://myanimelist.net/people/22419/Eiji_Takeuchi?q=Eiji%20Takeuchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eiji Takeuchi](https://myanimelist.net/people/22419/Eiji_Takeuchi?q=Eiji%20Takeuchi&cat=person)
 
 </aside>
 

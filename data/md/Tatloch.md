@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: G'roha
 Location: Memoir
-Attributes: Fan%2038.png, Sword%2058.png, Spear_Polearm%2036.png, Axe%2043.png, Staff_Staves%2031.png, Wind%2056.png
-HP (Lv. 120): 4.056
+Attributes: Fan%2041.png, Sword%2063.png, Spear_Polearm%2039.png, Axe%2044.png, Staff_Staves%2035.png, Wind%2063.png
+HP (Lv. 120): 4056
 SP (Lv. 120): 494
 P.Atk (Lv. 120): 465
 P.Def (Lv. 120): 275
@@ -52,7 +52,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" alt="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" width="40px" /> **G’roha’s Way ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" alt="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" width="40px" /> **G’roha’s Way ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy: Lower Fan Res. by 15% (turns: 2) and receive 1 Life Point.
 
 <aside>
@@ -154,7 +154,7 @@ Deal Phys. Fan damage to All Foes 3 time(s) (potency: 3x95), lower Fan Res. by 1
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Fan damage of Entire Front Row by 30% (turns: 2-5 based on Boost Lv.). [56 SP]
 
 </aside>
@@ -273,7 +273,7 @@ Grant Entire Front Row effects based on own Life points.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" alt="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" width="40px" /> **ガ・ロハの流儀 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" alt="https://img.game8.jp/8245624/708a4fdee66ae89dfbaab68908297ee9.png/show" width="40px" /> **ガ・ロハの流儀 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy: Lower Fan Res. by 10% (turns: 2) and receive 1 Life Point.
 
 <aside>
@@ -396,29 +396,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 13, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 10, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro?q=Miyuki%20Sawashiro&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro?q=Miyuki%20Sawashiro&cat=person)
 
 </aside>
 

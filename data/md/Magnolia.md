@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Luxendarc (BRAVELY DEFAULT)
 Location: Memoir
-Attributes: Spear_Polearm%2019.png, Lightning_Thunder%2024.png
-HP (Lv. 120): 4.260
+Attributes: Spear_Polearm%2016.png, Lightning_Thunder%2022.png
+HP (Lv. 120): 4260
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 519
 P.Def (Lv. 120): 398
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Magnolia/Bravely_Second.png" alt="Magnolia/Bravely_Second.png" width="40px" /> **Bravely Second ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Magnolia/Bravely_Second.png" alt="Magnolia/Bravely_Second.png" width="40px" /> **Bravely Second ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When selecting a command, grant Self the special effect Bravely Second (turns: 1).
 Bravely Second: Raise Polearm damage by 30% and grant Damage Limit Up (effect: 50,000) and Dead Aim (guaranteed critical hits).
 
@@ -153,7 +153,7 @@ Leap high into the air and gain Jumping (count: 2). Act faster next turn and dea
 </aside>
 
 <aside>
-<img src="Magnolia/Lightning_Thunder%201.png" alt="Magnolia/Lightning_Thunder%201.png" width="40px" /> **Lightning Rain ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Magnolia/Lightning_Thunder%201.png" alt="Magnolia/Lightning_Thunder%201.png" width="40px" /> **Lightning Rain ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to All Foes 3 time(s) (potency: 3x80). If the target has Speed Down, have a moderate chance to inflict paralysis (turns: 2). [78 SP]
 
 </aside>
@@ -221,35 +221,35 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** BRAVELY DEFAULT Crossover Guidance II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 7, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **BRAVELY DEFAULT Crossover II Return Dates:**
 Oct 9, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayumi Tsunematsu](https://myanimelist.net/people/1504/Ayumi_Tsunematsu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayumi Tsunematsu](https://myanimelist.net/people/1504/Ayumi_Tsunematsu)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan%205.png, Ice%206.png, Wind%208.png
-HP (Lv. 120): 3.796
+Attributes: Fan%201.png, Ice%203.png, Wind%204.png
+HP (Lv. 120): 3796
 SP (Lv. 120): 574
 P.Atk (Lv. 120): 270
 P.Def (Lv. 120): 250
@@ -56,7 +56,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Castti%20EX/Weakness_Follow-up.png" alt="Castti%20EX/Weakness_Follow-up.png" width="40px" /> **Ice Pursuit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Castti%20EX/Weakness_Follow-up.png" alt="Castti%20EX/Weakness_Follow-up.png" width="40px" /> **Ice Pursuit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Gain the ability to trigger a follow-up attack when any other ally in front row exploits an enemy weakness (only activates once per action).
 Follow-up attack: Deal Elem. Ice damage to All Foes (potency: 100) and restore 1 BP to Self. Exploits Fan and Wind weakness (damage calculation based on Elem. Ice attack).
 *If the attack breaks an enemy, only the ally who initiated the attack will qualify for the break.
@@ -144,7 +144,7 @@ Deal Elem. Ice damage to Single Foe 2 time(s) (potency: 2x135). Exploits Fan and
 </aside>
 
 <aside>
-<img src="Castti%20EX/BP_Recovery.png" alt="Castti%20EX/BP_Recovery.png" width="40px" /> **Concoct: Pomegranate Powder ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Castti%20EX/BP_Recovery.png" alt="Castti%20EX/BP_Recovery.png" width="40px" /> **Concoct: Pomegranate Powder ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise BP recovery of Entire Front Row by 1 (turns: 1-6 based on Boost Lv.), but delay actions during turn. When consuming 3+ BP: Also cure and grant immunity to some status ailments (turns: 1-6 based on Boost Lv.). When consuming 5 BP: Reaches All Allies. [110 SP]
 
 </aside>
@@ -233,29 +233,29 @@ Follow-up attack: Elem. Ice damage to Random Foe (potency: 50) and recover 1 BP.
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 8, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 26, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Michiko Neya](https://myanimelist.net/people/176/Michiko_Neya)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Michiko Neya](https://myanimelist.net/people/176/Michiko_Neya)
 
 </aside>
 

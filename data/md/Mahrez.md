@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2031.png, Polearm%204.png, Dagger%2026.png, Axe%2019.png, Bow%2025.png, Staff%202.png, Tome%2024.png, Fan%2024.png, Lightning%209.png, Light%2036.png
-HP (Lv. 120): 4.080
+Attributes: Sword%2028.png, Polearm%206.png, Dagger%2025.png, Axe%2018.png, Bow%2013.png, Staff%206.png, Tome%2022.png, Fan%2018.png, Lightning%208.png, Light%2029.png
+HP (Lv. 120): 4080
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 539
 P.Def (Lv. 120): 403
@@ -126,7 +126,7 @@ Raise own Lightning Res. by 10%
 </aside>
 
 <aside>
-<img src="Mahrez/Swordsman_Formation.jpg" alt="Mahrez/Swordsman_Formation.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Mahrez/Swordsman_Formation.jpg" alt="Mahrez/Swordsman_Formation.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant All Allies effects based on the number of Warriors in party.
 ·2 or more: Raise Phys. Atk. and Sword damage by 15%.
 ·3 or more: Also lower SP consumption by 30%.
@@ -217,7 +217,7 @@ Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x135). Exploits Light
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x45). Exploits Lightning and Light weakness (damage calculation based on Phys. Sword attack). Additionally, grant “Lion” to Entire Front Row (turns: 2/Granted as a support skill/Does not stack with effects of the same type). When there are 6 or more allies with “Lion”, attack count becomes 6. [75 SP]
 
 <aside>
@@ -308,28 +308,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 29, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagida](https://myanimelist.net/people/19639/Junichi_Yanagita)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagida](https://myanimelist.net/people/19639/Junichi_Yanagita)
 
 </aside>
 

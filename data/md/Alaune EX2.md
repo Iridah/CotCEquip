@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%203.png, Fire%204.png, Ice%201.png, Lightning.png, Wind%202.png, Light%204.png, Dark%202.png
-HP (Lv. 120): 4.262
+Attributes: Sword%205.png, Fire%2011.png, Ice%208.png, Lightning%202.png, Wind%2012.png, Light%209.png, Dark%2010.png
+HP (Lv. 120): 4262
 SP (Lv. 120): 496
 P.Atk (Lv. 120): 419
 P.Def (Lv. 120): 433
@@ -102,17 +102,17 @@ Raise own Light and Dark Res. by 15%.
 </aside>
 
 <aside>
-<img src="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" alt="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" alt="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When using a battle skill or an Ultimate Technique that exploits two or more elemental weaknesses, each element exploited raises final damage by 20% (up to 120%) and lower SP consumption by 5% (up to 30%).
 
 <aside>
-<img src="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" alt="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" alt="Alaune%20EX2/G3wHKEAXkAAnXPt.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When using a battle skill or an Ultimate Technique that exploits two or more elemental weaknesses, each element exploited raises final damage by **30%** (up to **180%**) and lower SP consumption by **10%** (up to **60%**).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Entire Front Row by 15,000 when using Elem. Fire, Ice, Lightning, Wind, Light and Dark skills.
 
 </aside>
@@ -195,11 +195,11 @@ Deal Phys. Sword damage to Single Foe (potency: 2x30) and Elem. Light damage (po
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" alt="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" alt="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cure some status ailments of Self and grant immunity to some status ailments and raise Phys. Res. and Elem. Res. by 10% (turns: 3-6 based on Boost Lv.). Also reduce damage taken from some attacks by Self once by 10%-40% based on Boost Lv. (Does not stack with effects of the same type/Effect only triggers once). [48 SP]
 
 <aside>
-<img src="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" alt="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
+<img src="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" alt="https://img.game8.jp/7303144/5fed5fa01e0fcab91756da480b60ce7f.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv. 2**
 Cure some status ailments of Self and grant immunity to some status ailments and raise Phys. Res. and Elem. Res. by **15%** (turns: 3-6 based on Boost Lv.). Also reduce damage taken from some attacks by Self once by **20%-50%** based on Boost Lv. (Does not stack with effects of the same type/Effect only triggers once). [48 SP]
 
 </aside>
@@ -284,28 +284,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 23, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Clearbrook
-Attributes: Axe%202.png, Ice%202.png
-HP (Lv. 120): 4.055
+Attributes: Axe%2031.png, Ice%2036.png
+HP (Lv. 120): 4055
 SP (Lv. 120): 453
 P.Atk (Lv. 120): 430
 P.Def (Lv. 120): 442
@@ -50,7 +50,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" alt="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" width="40px" /> **Axe Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" alt="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" width="40px" /> **Axe Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Axe damage by 20%.
 
 </aside>
@@ -126,7 +126,7 @@ Revive a fallen ally (recovery amount: 25%-100% of max HP based on Boost Lv.). *
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Brave Axe Elixir (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Brave Axe Elixir (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. of Entire Front Row by 15% and raise Axe damage by 15% (turns: 2-5 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 17, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 30, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomokazu Seki](https://myanimelist.net/people/1/Tomokazu_Seki?q=Tomokazu%20Seki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomokazu Seki](https://myanimelist.net/people/1/Tomokazu_Seki?q=Tomokazu%20Seki&cat=person)
 
 </aside>
 

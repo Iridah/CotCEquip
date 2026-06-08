@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Fan%2037.png, Fire%2064.png, Light%2059.png
-HP (Lv. 120): 3.496
+Attributes: Fan%2032.png, Fire%2063.png, Light%2059.png
+HP (Lv. 120): 3496
 SP (Lv. 120): 574
 P.Atk (Lv. 120): 295
 P.Def (Lv. 120): 305
@@ -44,17 +44,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" alt="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" width="40px" /> **Diminishing Reduction ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" alt="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" width="40px" /> **Diminishing Reduction ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% SP or more: Lower Speed and Critical of All Foes by 5%.
 
 <aside>
-<img src="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" alt="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" width="40px" /> **Diminishing Reduction ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" alt="https://img.game8.jp/8245628/78ca9af5ca5c3376544f6b8cbdea0711.png/show" width="40px" /> **Diminishing Reduction ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At 50% SP or more: Lower Speed and Critical of All Foes by 5%. At 50% HP or more: Lower Light Res. of All Foes by 10%.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword and Elem. Light attacks of All Allies by 15,000.
 
 </aside>
@@ -147,13 +147,13 @@ Deal Elem. Light damage to Single Foe (potency: 260). Exploits Fire weakness (da
 </aside>
 
 <aside>
-<img src="Signa/Light%203.png" alt="Signa/Light%203.png" width="40px" /> **Sacred Blaze Ode: Finale ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Signa/Light%203.png" alt="Signa/Light%203.png" width="40px" /> **Sacred Blaze Ode: Finale ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe 4 time(s) (potency: 4x65). Exploits Fire weakness (damage calculation based on Elem. Light attack). Inflict status ailments based on the number of target’s status effect icons. [67 SP]
 ·6 or more: Moderate chance to inflict blindness (turns: 2).
 ·12 or more: Additionally, moderate chance to inflict paralysis (turns: 2).
 
 <aside>
-<img src="Signa/Light%203.png" alt="Signa/Light%203.png" width="40px" /> **Sacred Blaze Ode: Finale ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Signa/Light%203.png" alt="Signa/Light%203.png" width="40px" /> **Sacred Blaze Ode: Finale ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Light damage to Single Foe 4 time(s) (potency: 4x65). Exploits Fire weakness (damage calculation based on Elem. Light attack). Inflict status ailments based on the number of target’s status effect icons. [67 SP]
 ·6 or more: Moderate chance to inflict blindness and poison (turns: 2).
 ·12 or more: Additionally, moderate chance to inflict paralysis and stun them (turns: 2).
@@ -245,29 +245,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
 
 </aside>
 

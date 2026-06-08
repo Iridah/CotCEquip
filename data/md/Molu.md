@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Sufrataljah
-Attributes: Tome%2026.png, Fire%2040.png
-HP (Lv. 120): 3.491
+Attributes: Tome%202.png, Fire%204.png
+HP (Lv. 120): 3491
 SP (Lv. 120): 652
 P.Atk (Lv. 120): 291
 P.Def (Lv. 120): 311
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Molu/BP_Recovery_Boost.png" alt="Molu/BP_Recovery_Boost.png" width="40px" /> **Fluffy Time ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Molu/BP_Recovery_Boost.png" alt="Molu/BP_Recovery_Boost.png" width="40px" /> **Fluffy Time ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, raise BP recovery amount by 1 (turns: 2).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Fire damage to Single Foe (potency: 260). [42 SP]
 </aside>
 
 <aside>
-<img src="Molu/Fire%204.png" alt="Molu/Fire%204.png" width="40px" /> **Forbidden Fireball (Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Molu/Fire%204.png" alt="Molu/Fire%204.png" width="40px" /> **Forbidden Fireball (Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Single Foe (potency: 530). [300 SP]
 
 </aside>
@@ -228,29 +228,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 27, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 11, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
 
 </aside>
 

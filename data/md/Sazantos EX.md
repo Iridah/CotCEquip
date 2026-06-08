@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Spear_Polearm%2033.png, Fire%2061.png, Wind%2047.png
-HP (Lv. 120): 4.120
+Attributes: Spear_Polearm%2022.png, Fire%2043.png, Wind%2033.png
+HP (Lv. 120): 4120
 SP (Lv. 120): 422
 P.Atk (Lv. 120): 544
 P.Def (Lv. 120): 338
@@ -51,7 +51,7 @@ Raise own Fire and Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Sazantos%20EX/Sky_Rave.png" alt="Sazantos%20EX/Sky_Rave.png" width="40px" /> **Sky Rave ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sazantos%20EX/Sky_Rave.png" alt="Sazantos%20EX/Sky_Rave.png" width="40px" /> **Sky Rave ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 While Jumping: Grant Entire Front Row the ability to trigger a follow-up strike after acting (*Triggers once only regardless of action).
 Follow-up attack: Deal Phys. Polearm damage to All Foes (potency: 200).
 *Cannot break enemies before they can act again.
@@ -150,7 +150,7 @@ Leap high into the air and gain Jumping. Act much faster during next turn and de
 </aside>
 
 <aside>
-<img src="Sazantos%20EX/Spear_Polearm%207.png" alt="Sazantos%20EX/Spear_Polearm%207.png" width="40px" /> **Fang and Claw ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sazantos%20EX/Spear_Polearm%207.png" alt="Sazantos%20EX/Spear_Polearm%207.png" width="40px" /> **Fang and Claw ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe. Attack count rises based on Boost Lv. (potency: 3x85/4x75/5x75/6x70). Also lower Phys. Def. and Polearm Res. by 10% with every attack (turns: 2). Guaranteed critical hit at Max Boost. [70 SP]
 
 </aside>
@@ -255,7 +255,7 @@ Instead of **Double Jump**
 </aside>
 
 <aside>
-<img src="Sazantos%20EX/Spear_Polearm%207.png" alt="Sazantos%20EX/Spear_Polearm%207.png" width="40px" /> **竜牙竜爪 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sazantos%20EX/Spear_Polearm%207.png" alt="Sazantos%20EX/Spear_Polearm%207.png" width="40px" /> **竜牙竜爪 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Staff damage to Single Foe. Attack count rises based on Boost Lv. (potency: 3x85/4x75/5x75/6x70). ~~Also lower Phys. Def. and Polearm Res. by 10% with every attack (turns: 2).~~ Guaranteed critical hit at Max Boost. [70 SP]
 Instead of **Fang and Claw**
 
@@ -343,29 +343,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 20, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima)
 
 </aside>
 

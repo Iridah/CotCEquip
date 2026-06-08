@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Dagger%2045.png, Dark%2060.png
-HP (Lv. 120): 2.882
+Attributes: Dagger%2040.png, Dark%2061.png
+HP (Lv. 120): 2882
 SP (Lv. 120): 322
 P.Atk (Lv. 120): 355
 P.Def (Lv. 120): 280
@@ -49,17 +49,17 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" alt="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" width="40px" /> **Phantom Night Blade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" alt="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" width="40px" /> **Phantom Night Blade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, lower their Dagger Res. by 15% (turns: 3).
 
 <aside>
-<img src="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" alt="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" width="40px" /> **Phantom Night Blade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" alt="https://img.game8.jp/8245629/97c7b489be3da1ef1cbbc51214055d64.png/show" width="40px" /> **Phantom Night Blade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When **Paired Allies** break an enemy, lower their Dagger Res. by 15% (turns: 3) and lower own SP consumption by 30%.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Dagger attacks of All Allies by 15,000.
 
 </aside>
@@ -137,11 +137,11 @@ Deal Elem. Dark damage to All Foes 2 time(s) (potency: **2x90**). [30 SP]
 </aside>
 
 <aside>
-<img src="Wingate/Dagger%201.png" alt="Wingate/Dagger%201.png" width="40px" /> **Knight’s Dagger ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Wingate/Dagger%201.png" alt="Wingate/Dagger%201.png" width="40px" /> **Knight’s Dagger ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe 3 time(s) (potency: 3x95). Lower Shield Points even when not striking weak points. [74 SP]
 
 <aside>
-<img src="Wingate/Dagger%201.png" alt="Wingate/Dagger%201.png" width="40px" /> **Knight’s Dagger ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Wingate/Dagger%201.png" alt="Wingate/Dagger%201.png" width="40px" /> **Knight’s Dagger ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Dagger damage to **All Foes** 3 time(s) (potency: 3x95). Lower Shield Points even when not striking weak points. [74 SP]
 
 </aside>
@@ -217,29 +217,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shinya Takahashi](https://myanimelist.net/people/10148/Shinya_Takahashi?q=Shinya%20Takahashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shinya Takahashi](https://myanimelist.net/people/10148/Shinya_Takahashi?q=Shinya%20Takahashi&cat=person)
 
 </aside>
 

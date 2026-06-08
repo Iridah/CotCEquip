@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Kingdom of Lucrece (Live A Live)
 Location: Memoir
-Attributes: Tome%2044.png, Fire%2067.png, Ice%2046.png, Lightning_Thunder%2042.png, Wind%2055.png, Dark%2054.png
-HP (Lv. 120): 3.656
+Attributes: Tome%2033.png, Fire%2046.png, Ice%2032.png, Lightning_Thunder%2030.png, Wind%2037.png, Dark%2036.png
+HP (Lv. 120): 3656
 SP (Lv. 120): 657
 P.Atk (Lv. 120): 266
 P.Def (Lv. 120): 326
@@ -60,7 +60,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Streibough/Critical_Elemental_Damage.png" alt="Streibough/Critical_Elemental_Damage.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Streibough/Critical_Elemental_Damage.png" alt="Streibough/Critical_Elemental_Damage.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Critical by 30% and grant Self ability to trigger critical hits when using elemental attacks.
 
 </aside>
@@ -146,7 +146,7 @@ Deal Elem. Lightning damage to All Foes (potency: 180) and raise potency with ev
 </aside>
 
 <aside>
-<img src="Streibough/Dark%201.png" alt="Streibough/Dark%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Streibough/Dark%201.png" alt="Streibough/Dark%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80) and grant Self 1 Magic Point. [70 SP]
 
 </aside>
@@ -219,29 +219,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Union of Life (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Union of Life (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 16, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 26, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
 
 </aside>
 

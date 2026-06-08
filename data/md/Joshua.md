@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Orsterra
 Location: Cathedral of Thytos
-Attributes: Sword%2027.png, Ice%2019.png
-HP (Lv. 120): 4.037
+Attributes: Sword%2031.png, Ice%2022.png
+HP (Lv. 120): 4037
 SP (Lv. 120): 361
 P.Atk (Lv. 120): 439
 P.Def (Lv. 120): 363
@@ -50,7 +50,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Critical Force V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Critical Force V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise critical damage of Self by 30%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Single Foe (potency: 260) and have a moderate chance 
 </aside>
 
 <aside>
-<img src="Joshua/Sword%202.png" alt="Joshua/Sword%202.png" width="40px" /> **Passionate Screech ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Joshua/Sword%202.png" alt="Joshua/Sword%202.png" width="40px" /> **Passionate Screech ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe (potency: 260). At Max Boost: Guaranteed critical hit. [48 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 23, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 19, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kengo Kawanishi](https://myanimelist.net/people/15877/Kengo_Kawanishi?q=Kengo%20Kawanishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kengo Kawanishi](https://myanimelist.net/people/15877/Kengo_Kawanishi?q=Kengo%20Kawanishi&cat=person)
 
 </aside>
 

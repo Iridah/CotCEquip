@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Tome%2037.png, Fire%2050.png, Ice%2037.png, Lightning_Thunder%2029.png
-HP (Lv. 120): 3.396
+Attributes: Tome%2030.png, Fire%2042.png, Ice%2031.png, Lightning_Thunder%2028.png
+HP (Lv. 120): 3396
 SP (Lv. 120): 682
 P.Atk (Lv. 120): 261
 P.Def (Lv. 120): 316
@@ -59,7 +59,7 @@ Raise own Wind Res. by 20%.
 </aside>
 
 <aside>
-<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **Latent Power: Concentration ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **Latent Power: Concentration ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self the special effect Concentration (turns: 1).
 Concentration: Change target of some spells to a single foe. Also apply bonus effects to certain spells.
 
@@ -80,7 +80,7 @@ Reuse Turns: 2
 </aside>
 
 <aside>
-<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **Latent Power: Concentration ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **Latent Power: Concentration ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Upon activation, grant Self the special effect Concentration (turns: 1).
 Concentration: Change target of some spells to a single foe and add 30% of P.Atk to E.Atk. Also apply bonus effects to certain spells.
 
@@ -103,7 +103,7 @@ Reuse Turns: 2
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -215,12 +215,12 @@ During Concentration: Targets a single foe instead with 50% more potency. Also i
 </aside>
 
 <aside>
-<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **Elemental Barrage ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **Elemental Barrage ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire, Ice and Lightning damage to Random Foe once each (potency: 3x60) and repeat the same attack (1 time). [84 SP]
 During Concentration: Target a single foe instead with increased potency (potency: 75/85/95/120 based on Boost Lv.).
 
 <aside>
-<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **Elemental Barrage ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **Elemental Barrage ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Fire, Ice and Lightning damage to Random Foe once each (potency: 3x60) and repeat the same attack (**2 times**). At Max Boost: Guaranteed critical hits. [84 SP]
 During Concentration: Target a single foe instead with increased potency (potency: 75/85/95/120 based on Boost Lv.).
 
@@ -323,7 +323,7 @@ Raise Fire, Ice and Lightning damage of Self by **30%**, ~~raise Damage Limit by
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Magic Formula**
 
@@ -339,7 +339,7 @@ Follow-up (Fire/Ice/Lightning): Deal Fire/Ice/Lightning damage to Random Foe (po
 **Lv.88 |** Potency Up: 200→**230**
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Elem. Chain Reaction**
 
@@ -348,7 +348,7 @@ Follow-up (Fire/Ice/Lightning): Deal Fire/Ice/Lightning damage to Random Foe (po
 </aside>
 
 <aside>
-<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **底力：収束化 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **底力：収束化 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self the special effect Concentration (turns: 1).
 Concentration: Change target of some spells to a single foe. Also apply bonus effects to certain spells.
 
@@ -369,7 +369,7 @@ Reuse Turns: 2
 </aside>
 
 <aside>
-<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **底力：収束化 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Osvald/Latent_Power_Osvald.png" alt="Osvald/Latent_Power_Osvald.png" width="40px" /> **底力：収束化 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Upon activation, grant Self the special effect Concentration (turns: 1).
 Concentration: Change target of some spells to a single foe and add 30% of P.Atk to E.Atk. Also apply bonus effects to certain spells.
 
@@ -392,13 +392,13 @@ Reuse Turns: 2
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Concentration**
 
@@ -409,19 +409,19 @@ Raise Self’s Damage Limit by 50,000.
 **Battle Skills**
 
 <aside>
-<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **属性の順列 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **属性の順列 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire, Ice and Lightning damage to Random Foe once each (potency: 3x60) and repeat the same attack (1 time). [84 SP]
 During Concentration: Target a single foe instead ~~with increased potency (potency: 75/85/95/120 based on Boost Lv.)~~.
 
 <aside>
-<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **属性の順列 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Osvald/Chainspell.jpeg" alt="Osvald/Chainspell.jpeg" width="40px" /> **属性の順列 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Fire, Ice and Lightning damage to Random Foe once each (potency: 3x60) and repeat the same attack (**2 times**). At Max Boost: Guaranteed critical hits. [84 SP]
 During Concentration: Target a single foe instead ~~with increased potency (potency: 75/85/95/120 based on Boost Lv.)~~.
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Elemental Barrage**
 
@@ -472,29 +472,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 18, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 24, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jouji Nakata](https://myanimelist.net/people/91/Jouji_Nakata)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jouji Nakata](https://myanimelist.net/people/91/Jouji_Nakata)
 
 </aside>
 

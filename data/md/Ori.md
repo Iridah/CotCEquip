@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Spear_Polearm%2026.png, Wind%2041.png
-HP (Lv. 120): 3.970
+Attributes: Spear_Polearm%2028.png, Wind%2052.png
+HP (Lv. 120): 3970
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 459
 P.Def (Lv. 120): 363
@@ -57,7 +57,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Investigative Journalism ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **Investigative Journalism ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When enemy with 6 or more revealed weak points (including granted ones) is present, raise Polearm damage of Entire Front Row by 15% and reduce damage taken from some attacks by 15% (Effects of the same type do not stack).
 
 </aside>
@@ -165,7 +165,7 @@ Deal Phys. Polearm damage to Random Foe 3 time(s) (potency: 3x85). Exploits Wind
 </aside>
 
 <aside>
-<img src="Ori/Debuff.png" alt="Ori/Debuff.png" width="40px" /> **Field Report ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ori/Debuff.png" alt="Ori/Debuff.png" width="40px" /> **Field Report ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn, lower Polearm and Wind Res. of Single Foe by 15% (turns: 2-5 based on Boost Lv.) and gain 1-4 Article Points based on Boost Lv.. [32 SP]
 
 </aside>
@@ -262,7 +262,7 @@ Instead of **Hot off the Press**
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **情報通 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" alt="https://img.game8.jp/6930256/d6ebf9e2ba6e29d1a169f688af77ffe2.png/show" width="40px" /> **情報通 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When enemy with **9** or more revealed weak points (including granted ones) is present, raise Polearm damage of Entire Front Row by 15% and reduce damage taken from some attacks by 15% (Effects of the same type do not stack).
 Instead of **Investigative Journalism**
 
@@ -399,29 +399,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 26, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 16, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Fairouz_Ai)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Fairouz_Ai)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Fan%204.png
-HP (Lv. 120): 3.716
+Attributes: Fan%202.png
+HP (Lv. 120): 3716
 SP (Lv. 120): 564
 P.Atk (Lv. 120): 485
 P.Def (Lv. 120): 295
@@ -56,7 +56,7 @@ Raise own Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Bargello%20EX/Latent_Power_Bargello_EX.png" alt="Bargello%20EX/Latent_Power_Bargello_EX.png" width="40px" /> **Latent Power: Stile Marino ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bargello%20EX/Latent_Power_Bargello_EX.png" alt="Bargello%20EX/Latent_Power_Bargello_EX.png" width="40px" /> **Latent Power: Stile Marino ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self the special effect Stile Marino (turns: 2).
 Stile Marino: Gain the ability to exploit all weaknesses with some attack skills (damage calculation based on original attack).
 
@@ -149,7 +149,7 @@ Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: 2x45). At Max Boost, 
 </aside>
 
 <aside>
-<img src="Bargello%20EX/Fan%206.png" alt="Bargello%20EX/Fan%206.png" width="40px" /> **Manifíco Valore ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bargello%20EX/Fan%206.png" alt="Bargello%20EX/Fan%206.png" width="40px" /> **Manifíco Valore ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Fan damage to Random Foe 5 time(s) (potency: 5x35) and have a low chance to lower Fan Res. by 15% with every attack (turns: 2). [69 SP]
 
 </aside>
@@ -231,29 +231,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Nautical Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Nautical Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 18, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 7, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
 
 </aside>
 

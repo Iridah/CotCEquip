@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Rippletide
-Attributes: Spear_Polearm%204.png, Wind%206.png
-HP (Lv. 120): 4.350
+Attributes: Spear_Polearm%2030.png, Wind%2056.png
+HP (Lv. 120): 4350
 SP (Lv. 120): 407
 P.Atk (Lv. 120): 414
 P.Def (Lv. 120): 393
@@ -49,7 +49,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Carroll/HP_Restoration.png" alt="Carroll/HP_Restoration.png" width="40px" /> **Calm Insight ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Carroll/HP_Restoration.png" alt="Carroll/HP_Restoration.png" width="40px" /> **Calm Insight ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When provoked enemy is present, grant Self automatic HP recovery (potency: 90) and raise Phys. Def. and Elem. Def. by 15%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: **2x80**) and provok
 </aside>
 
 <aside>
-<img src="Carroll/Spear_Polearm%202.png" alt="Carroll/Spear_Polearm%202.png" width="40px" /> **Ambush Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Carroll/Spear_Polearm%202.png" alt="Carroll/Spear_Polearm%202.png" width="40px" /> **Ambush Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Single Foe (potency: 140). When the target is provoked, potency is multiplied by 2.5. [50 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Fairouz](https://myanimelist.net/people/49011/Ai_Fairouz?q=Ai%20Fairouz&cat=person)
 
 </aside>
 

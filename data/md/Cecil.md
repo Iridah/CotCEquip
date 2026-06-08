@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Earth (Final Fantasy IV)
 Location: Memoir
-Attributes: Sword%208.png, Light%209.png, Dark%208.png
-HP (Lv. 120): 4.072
+Attributes: Sword%2033.png, Light%2031.png, Dark%2028.png
+HP (Lv. 120): 4072
 SP (Lv. 120): 366
 P.Atk (Lv. 120): 464
 P.Def (Lv. 120): 423
@@ -65,7 +65,7 @@ Raise own Light Res. by 20%
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6981364/0be5a22687066ba94b4afe97fd1b101f.png/show" alt="https://img.game8.jp/6981364/0be5a22687066ba94b4afe97fd1b101f.png/show" width="40px" /> **Saintly Wall ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6981364/0be5a22687066ba94b4afe97fd1b101f.png/show" alt="https://img.game8.jp/6981364/0be5a22687066ba94b4afe97fd1b101f.png/show" width="40px" /> **Saintly Wall ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row at 50% HP or more: Take damage for single-target attack in place of allies in the front row.
 
 </aside>
@@ -161,7 +161,7 @@ Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x65). Exploits Light 
 </aside>
 
 <aside>
-<img src="Cecil/Sword%206.png" alt="Cecil/Sword%206.png" width="40px" /> **Luminous Blast ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Cecil/Sword%206.png" alt="Cecil/Sword%206.png" width="40px" /> **Luminous Blast ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to All Foes 3 time(s) (potency: 3x85). Exploits Light weakness (damage calculation based on Phys. Sword attack). [63 SP]
 
 <aside>
@@ -254,29 +254,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Free (Collab Traveler Story)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Free (Collab Traveler Story)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 20, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuma Hodoshima](https://myanimelist.net/people/19970/Shizuma_Hodoshima)
 
 </aside>
 

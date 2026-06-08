@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Dagger%2024.png, Bow%2021.png, Fire%2035.png, Ice%2027.png, Lightning%207.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%2032.png, Bow%2027.png, Fire%2050.png, Ice%2034.png, Lightning%2012.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 432
 P.Atk (Lv. 120): 528
 P.Def (Lv. 120): 285
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Proof of Mastery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Proof of Mastery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When consuming 3 BP, activate attacking skills twice (the follow-up will not consume SP). Additionally, when consuming 3 BP and with Dead Aim at start of turn, gain the ability to exploit Fire, Ice and Lightning weaknesses with physical attacks except for “Attack” action (with some exceptions/damage calculation based on corresponding attack).
 
 </aside>
@@ -131,7 +131,7 @@ Repeatedly consume 10% of max HP (up to 5 times or until health is below 10% HP)
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **Eternal Shining Magicite ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **Eternal Shining Magicite ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to All Foes 3 time(s) (potency: 3x80). Exploits Fire weakness (damage calculation based on Phys. Dagger attack). Also raise Phys. Atk. and Elem. Atk. of Entire Front Row by 15% and gran Damage Limit Up (effect: 20,000) (turns: 2). Raise Damage Limit of this skill by 20,000. [105 SP]
 
 </aside>
@@ -218,28 +218,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 28, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Ono](https://myanimelist.net/people/1154/Yuuki_Ono)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Ono](https://myanimelist.net/people/1154/Yuuki_Ono)
 
 </aside>
 

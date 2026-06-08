@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Tome%2045.png, Fire%2069.png, Ice%2048.png, Lightning%2013.png, Wind%2057.png, Light%2063.png, Dark%2057.png
-HP (Lv. 120): 3.506
+Attributes: Tome%2025.png, Fire%2039.png, Ice%2027.png, Lightning%2010.png, Wind%2028.png, Light%2035.png, Dark%2031.png
+HP (Lv. 120): 3506
 SP (Lv. 120): 692
 P.Atk (Lv. 120): 246
 P.Def (Lv. 120): 301
@@ -72,7 +72,7 @@ Raise own Fire and Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Terra/FireWind_Augment.png" alt="Terra/FireWind_Augment.png" width="40px" /> **Heart to Love ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Terra/FireWind_Augment.png" alt="Terra/FireWind_Augment.png" width="40px" /> **Heart to Love ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Raise Fire and Wind damage of Entire Front Row by 15% and raise Damage Limit of Elem. Fire and Wind battle skills by 50,000.
 
 </aside>
@@ -168,7 +168,7 @@ Deal Elem. Fire damage to All Foes 3 time(s) (potency: 3x95). Exploits Wind weak
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Summon: Seraphim ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Summon: Seraphim ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of All Allies (potency: 65-155 based on Boost Lv.). Restore own SP (amount: 25%-100% of max SP based on Boost Lv.), increase the uses of Self’s Ultimate Technique and EX skill by 1 and fill the Ultimate Technique gauge by 25%-100% based on Boost Lv. *Can be used 3 times per battle. [99 SP]
 
 </aside>
@@ -255,28 +255,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 28, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukari Fukui](https://myanimelist.net/people/359/Yukari_Fukui)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukari Fukui](https://myanimelist.net/people/359/Yukari_Fukui)
 
 </aside>
 

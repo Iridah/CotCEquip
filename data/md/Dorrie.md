@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Tome%207.png, Dark%2015.png
-HP (Lv. 120): 3.556
+Attributes: Tome%2043.png, Dark%2046.png
+HP (Lv. 120): 3556
 SP (Lv. 120): 642
 P.Atk (Lv. 120): 301
 P.Def (Lv. 120): 356
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930247/a8f027e1af39db5cd4d12342ed8cf54b.png/show" alt="https://img.game8.jp/6930247/a8f027e1af39db5cd4d12342ed8cf54b.png/show" width="40px" /> **Dark Augment (Joint) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930247/a8f027e1af39db5cd4d12342ed8cf54b.png/show" alt="https://img.game8.jp/6930247/a8f027e1af39db5cd4d12342ed8cf54b.png/show" width="40px" /> **Dark Augment (Joint) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Dark damage of Paired Allies by 15%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Tome damage to Single Foe 2 time(s) (potency: **2x110**). [22 SP]
 </aside>
 
 <aside>
-<img src="Dorrie/Dark%202.png" alt="Dorrie/Dark%202.png" width="40px" /> **Lost Darkness (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dorrie/Dark%202.png" alt="Dorrie/Dark%202.png" width="40px" /> **Lost Darkness (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes (potency: 180) and lower Dark Res. by 10% (turns: 2). [52 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shun Horie](https://myanimelist.net/people/39133/Shun_Horie?q=Shun%20Horie&cat=person)
 
 </aside>
 

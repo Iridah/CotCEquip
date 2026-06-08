@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Dagger%2037.png, Fire%2059.png
-HP (Lv. 120): 3.702
+Attributes: Dagger%201.png, Fire%201.png
+HP (Lv. 120): 3702
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 433
 P.Def (Lv. 120): 255
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930253/55902f882e7936c2fc2fe56ca8d07e7f.png/show" alt="https://img.game8.jp/6930253/55902f882e7936c2fc2fe56ca8d07e7f.png/show" width="40px" /> **Rearguard Augmented Break (Front/Single) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930253/55902f882e7936c2fc2fe56ca8d07e7f.png/show" alt="https://img.game8.jp/6930253/55902f882e7936c2fc2fe56ca8d07e7f.png/show" width="40px" /> **Rearguard Augmented Break (Front/Single) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Raise damage dealt to broken foes by Paired Ally by 15%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Dagger damage to Random Foe 4 time(s) (potency: 4x45). Subsequently m
 </aside>
 
 <aside>
-<img src="Sarisa/Rehabilitate.png" alt="Sarisa/Rehabilitate.png" width="40px" /> **Maid’s Universal Healing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sarisa/Rehabilitate.png" alt="Sarisa/Rehabilitate.png" width="40px" /> **Maid’s Universal Healing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cure status ailments of Paired Allies and grant immunity to some status ailments (turns: 1-4 based on Boost Lv.). Subsequently move to the back row (action does not count as switching). [25 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 23, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 15, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukana](https://myanimelist.net/people/140/Yukana?q=Yukana&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yukana](https://myanimelist.net/people/140/Yukana?q=Yukana&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Tome%2046.png, Lightning_Thunder%2044.png
-HP (Lv. 120): 3.536
+Attributes: Tome%2018.png, Lightning_Thunder%2019.png
+HP (Lv. 120): 3536
 SP (Lv. 120): 657
 P.Atk (Lv. 120): 276
 P.Def (Lv. 120): 331
@@ -50,7 +50,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" alt="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" width="40px" /> **Full Speed Ahead ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" alt="https://img.game8.jp/6930238/9679633cc0a9363d1edd222b4a276aba.png/show" width="40px" /> **Full Speed Ahead ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster when consuming 3 BP and grant Self the ability to deal critical hits when using elemental attacks.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Lightning damage to All Foes 3 time(s) (potency: 3x55). [56 SP]
 </aside>
 
 <aside>
-<img src="Therese/Lightning_Thunder%202.png" alt="Therese/Lightning_Thunder%202.png" width="40px" /> **Massive Lightning Blast (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Therese/Lightning_Thunder%202.png" alt="Therese/Lightning_Thunder%202.png" width="40px" /> **Massive Lightning Blast (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to All Foes 4 time(s) (potency: 4x35). At Max Boost: Attack count becomes 5. [72 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 26, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 17, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Arisa Sakuraba](https://myanimelist.net/people/41096/Arisa_Sakuraba?q=Arisa%20Sakuraba&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Spear_Polearm%2013.png, Ice%2016.png
-HP (Lv. 120): 4.364
+Attributes: Spear_Polearm%2035.png, Ice%2051.png
+HP (Lv. 120): 4364
 SP (Lv. 120): 397
 P.Atk (Lv. 120): 417
 P.Def (Lv. 120): 400
@@ -43,7 +43,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Helga/Angelic_Ward.png" alt="Helga/Angelic_Ward.png" width="40px" /> **Unclenched Fist ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Helga/Angelic_Ward.png" alt="Helga/Angelic_Ward.png" width="40px" /> **Unclenched Fist ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 50% chance to recover HP equal to 25% of damage taken when hit (with some exceptions/Does not stack with effects of the same type).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Ice damage to Single Foe 2 time(s) (**2x115**). [22 SP]
 </aside>
 
 <aside>
-<img src="Helga/Spear_Polearm%202.png" alt="Helga/Spear_Polearm%202.png" width="40px" /> **Unmatched Arm-Crippling Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Helga/Spear_Polearm%202.png" alt="Helga/Spear_Polearm%202.png" width="40px" /> **Unmatched Arm-Crippling Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 2 time(s) (potency: 2x120) and lower Polearm Res. by 15% with every attack (turns: 2). [50 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Fujita](https://myanimelist.net/people/40523/Yoko_Fujita)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Fujita](https://myanimelist.net/people/40523/Yoko_Fujita)
 
 </aside>
 

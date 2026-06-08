@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Dark%2012.png
-HP (Lv. 120): 3.496
+Attributes: Dark%2053.png
+HP (Lv. 120): 3496
 SP (Lv. 120): 584
 P.Atk (Lv. 120): 275
 P.Def (Lv. 120): 285
@@ -65,7 +65,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Dark%20Priestess/Throne_Potential.jpg" alt="Dark%20Priestess/Throne_Potential.jpg" width="40px" /> **Latent Power: Dark Curse ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dark%20Priestess/Throne_Potential.jpg" alt="Dark%20Priestess/Throne_Potential.jpg" width="40px" /> **Latent Power: Dark Curse ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, gain Dark Curse (turns: 1).
 Dark Curse: Skill configuration changes to the following:
 
@@ -192,7 +192,7 @@ Act faster during turn and raise the limits of Phys. Def. and Elem. Def. reducti
 </aside>
 
 <aside>
-<img src="Dark%20Priestess/Lower_Damage.jpg.png" alt="Dark%20Priestess/Lower_Damage.jpg.png" width="40px" /> **Darkshield ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dark%20Priestess/Lower_Damage.jpg.png" alt="Dark%20Priestess/Lower_Damage.jpg.png" width="40px" /> **Darkshield ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn and grant Single Ally the effect Darkshield (turns: 1/Does not stack with effects of the same type), which reduces their damage taken from some attacks by 20%-50% based on Boost Lv. (at least 1 damage). If the bearer is a Warrior, the damage reduction doubles. [38 SP]
 
 </aside>
@@ -285,29 +285,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 16, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 18, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Rie Takahashi](https://myanimelist.net/people/34785/Rie_Takahashi?q=Rie%20Takahashi&cat=person)
 
 </aside>
 

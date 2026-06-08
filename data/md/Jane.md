@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Opulence
 Continent: Solistia
 Location: Memoir
-Attributes: Axe%2016.png
-HP (Lv. 120): 3.895
+Attributes: Axe%2036.png
+HP (Lv. 120): 3895
 SP (Lv. 120): 478
 P.Atk (Lv. 120): 470
 P.Def (Lv. 120): 402
@@ -49,7 +49,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Jane/Hikari_Potential.png" alt="Jane/Hikari_Potential.png" width="40px" /> **Latent Power: More, Please! ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Jane/Hikari_Potential.png" alt="Jane/Hikari_Potential.png" width="40px" /> **Latent Power: More, Please! ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation,grant Self the special effect “More, Please!” (turns: 1).
 More, Please!: Activate attack skills twice (the follow-up attack will not consume SP).
 
@@ -163,7 +163,7 @@ Deal Phys. Axe damage to Single Foe 2 time(s) (potency: 2x120). **100%** more po
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Delightful Snack ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Delightful Snack ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self Dead Aim (guaranteed critical hits) and Damage Limit Up (effect: 50,000) (turns: 3-6 based on Boost Lv.). [30 SP]
 
 </aside>
@@ -257,29 +257,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 28, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 1, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayane Sakura](https://myanimelist.net/people/11622/Ayane_Sakura)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ayane Sakura](https://myanimelist.net/people/11622/Ayane_Sakura)
 
 </aside>
 

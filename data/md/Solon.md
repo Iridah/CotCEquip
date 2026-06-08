@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome%2042.png, Spear_Polearm%2035.png, Fire%2066.png
-HP (Lv. 120): 3.736
+Attributes: Tome%2034.png, Spear_Polearm%2026.png, Fire%2048.png
+HP (Lv. 120): 3736
 SP (Lv. 120): 682
 P.Atk (Lv. 120): 321
 P.Def (Lv. 120): 371
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930239/9164ed2c7efac1706313a108479f755e.png/show" alt="https://img.game8.jp/6930239/9164ed2c7efac1706313a108479f755e.png/show" width="40px" /> **Flame Spear Formation ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930239/9164ed2c7efac1706313a108479f755e.png/show" alt="https://img.game8.jp/6930239/9164ed2c7efac1706313a108479f755e.png/show" width="40px" /> **Flame Spear Formation ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Fire and Polearm damage of Entire Front Row by 15% and grant Damage Limit Up (effect: 20,000) when broken enemy is present.
 
 </aside>
@@ -137,7 +137,7 @@ Deal Elem. Fire damage to Single Foe (potency: 260). Exploits Polearm weakness (
 </aside>
 
 <aside>
-<img src="Solon/Fire.png" alt="Solon/Fire.png" width="40px" /> **Blazing Inferno Strategy ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Solon/Fire.png" alt="Solon/Fire.png" width="40px" /> **Blazing Inferno Strategy ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Random Foe 3 time(s) (potency: 3x85) and have a moderate chance to cause them to combust with every attack (turns: 2). [60 SP]
 
 <aside>
@@ -229,29 +229,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 16, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 21, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Itaru Yamamoto](https://myanimelist.net/people/16959/Itaru_Yamamoto?q=Itaru%20Yamamoto&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Itaru Yamamoto](https://myanimelist.net/people/16959/Itaru_Yamamoto?q=Itaru%20Yamamoto&cat=person)
 
 </aside>
 

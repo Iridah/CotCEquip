@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Approval
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Fan%206.png, Fire%2015.png, Wind%2013.png
-HP (Lv. 120): 3.586
+Attributes: Fan%2016.png, Fire%2028.png, Wind%2023.png
+HP (Lv. 120): 3586
 SP (Lv. 120): 564
 P.Atk (Lv. 120): 290
 P.Def (Lv. 120): 275
@@ -53,7 +53,7 @@ Raise own Fire and Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Dolcinaea/FireWind_Augment%201.png" alt="Dolcinaea/FireWind_Augment%201.png" width="40px" /> **Global Superstar ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dolcinaea/FireWind_Augment%201.png" alt="Dolcinaea/FireWind_Augment%201.png" width="40px" /> **Global Superstar ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Fire and Wind damage of Self by 15% and raise the limit of Elem. Atk. from support skills and equipment effects to 50%.
 As Dancer: Grant Self automatic SP recovery (amount: 5% of max SP).
 As Diva: Raise Elem. Atk of Self by 20% and Damage Limit by 50,000.
@@ -164,7 +164,7 @@ Diva: Guaranteed critical hit. Grant Damage Limit Up while using this skill (eff
 </aside>
 
 <aside>
-<img src="Dolcinaea/Wind%204.png" alt="Dolcinaea/Wind%204.png" width="40px" /> **Love’s Marionette ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Dolcinaea/Wind%204.png" alt="Dolcinaea/Wind%204.png" width="40px" /> **Love’s Marionette ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes (potency: 210). Exploits Fire weakness (damage calculation based on Elem. Wind attack). Have a high chance to inflict enchant (turns: 2). [67 SP]
 
 <aside>
@@ -253,29 +253,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 18, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Satomi Arai](https://myanimelist.net/people/124/Satomi_Arai)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Satomi Arai](https://myanimelist.net/people/124/Satomi_Arai)
 
 </aside>
 

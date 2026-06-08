@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Excillant (BRAVELY DEFAULT II)
 Location: Theatropolis
-Attributes: Tome%209.png, Lightning_Thunder%209.png
-HP (Lv. 120): 3.796
+Attributes: Tome%2016.png, Lightning_Thunder%2015.png
+HP (Lv. 120): 3796
 SP (Lv. 120): 592
 P.Atk (Lv. 120): 296
 P.Def (Lv. 120): 326
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Elvis/Elem_atk_Boost.png" alt="Elvis/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Elvis/Elem_atk_Boost.png" alt="Elvis/Elem_atk_Boost.png" width="40px" /> **Elem. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Atk. of Self by 20%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Lightning damage to Single Foe (potency: 260). [42 SP]
 </aside>
 
 <aside>
-<img src="Elvis/Lightning_Thunder%202.png" alt="Elvis/Lightning_Thunder%202.png" width="40px" /> **Charged Particles ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Elvis/Lightning_Thunder%202.png" alt="Elvis/Lightning_Thunder%202.png" width="40px" /> **Charged Particles ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to Single Foe (potency: 230), lower Elem. Def. and Lightning Res. by 15% (turns: 2) and have a moderate chance to inflict paralysis (turns: 2). [42 SP]
 
 </aside>
@@ -203,29 +203,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Free - Traveler Story (BRAVELY DEFAULT Crossover)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Free - Traveler Story (BRAVELY DEFAULT Crossover)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 28, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 5, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuhiko Inoue](https://myanimelist.net/people/21/Kazuhiko_Inoue?q=Kazuhiko%20Inoue&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuhiko Inoue](https://myanimelist.net/people/21/Kazuhiko_Inoue?q=Kazuhiko%20Inoue&cat=person)
 
 </aside>
 

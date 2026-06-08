@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Theatropolis
-Attributes: Axe%2044.png, Lightning_Thunder%2043.png
-HP (Lv. 120): 4.050
+Attributes: Axe%2014.png, Lightning_Thunder%2016.png
+HP (Lv. 120): 4050
 SP (Lv. 120): 488
 P.Atk (Lv. 120): 400
 P.Def (Lv. 120): 447
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of augmenting effect granted by self by 2 turns (Does not stack).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Axe damage to All Foes 2 time(s) (potency: 2x95). [48 SP]
 </aside>
 
 <aside>
-<img src="Theo/Axe%202.png" alt="Theo/Axe%202.png" width="40px" /> **Extra Harvest ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Theo/Axe%202.png" alt="Theo/Axe%202.png" width="40px" /> **Extra Harvest ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe 4 time(s) (potency: 4x85). Reaches all enemies at Max Boost. [80 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jun Fukushima](https://myanimelist.net/people/10094/Jun_Fukushima?q=Jun%20Fukushima&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome%2049.png, Fire%2074.png, Ice%2050.png, Lightning%2015.png, Wind%2064.png, Light%2067.png, Dark%2061.png
-HP (Lv. 120): 3.421
+Attributes: Tome%2019.png, Fire%2025.png, Ice%2018.png, Lightning%206.png, Wind%2019.png, Light%2023.png, Dark%2023.png
+HP (Lv. 120): 3421
 SP (Lv. 120): 662
 P.Atk (Lv. 120): 241
 P.Def (Lv. 120): 321
@@ -50,7 +50,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Xerc/IMG_1328.jpeg" alt="Xerc/IMG_1328.jpeg" width="40px" /> **Soulstone Expertise Vol. II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Xerc/IMG_1328.jpeg" alt="Xerc/IMG_1328.jpeg" width="40px" /> **Soulstone Expertise Vol. II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Augment Self based on the number of active Soulstone Resonances from the following: Wind/Light/Dark.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Fire, Ice, Lightning, Wind, Light and Dark damage to Random Foe 1 tim
 </aside>
 
 <aside>
-<img src="Xerc/Rainbow_Collage%201.png" alt="Xerc/Rainbow_Collage%201.png" width="40px" /> **Calculated Compound ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Xerc/Rainbow_Collage%201.png" alt="Xerc/Rainbow_Collage%201.png" width="40px" /> **Calculated Compound ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Cast countdown on Self (count: 3). Once the countdown ends, deal Elem. Fire, Ice, Lightning, Wind, Light and Dark damage to All Foes 1 time each (potency: 6x95-6x150 based on Boost Lv.). [120 SP]
 
 </aside>
@@ -210,28 +210,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 29, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:**
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:**
 
 </aside>
 

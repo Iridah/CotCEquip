@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Staff_Staves%2010.png, Fire%2028.png, Ice%2017.png, Lightning_Thunder%2014.png, Wind%2019.png, Light%2028.png
-HP (Lv. 120): 3.552
+Attributes: Staff_Staves%2020.png, Fire%2055.png, Ice%2038.png, Lightning_Thunder%2033.png, Wind%2044.png, Light%2051.png
+HP (Lv. 120): 3552
 SP (Lv. 120): 540
 P.Atk (Lv. 120): 296
 P.Def (Lv. 120): 317
@@ -69,17 +69,17 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Proof of the Conjurer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **Proof of the Conjurer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise own Critical by 15%, Light damage by 15% and Damage Limit by 100,000.
 
 <aside>
-<img src="Hikari%20EX/Elem_atk_Boost.png" alt="Hikari%20EX/Elem_atk_Boost.png" width="40px" /> **Proof of the Conjurer ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Hikari%20EX/Elem_atk_Boost.png" alt="Hikari%20EX/Elem_atk_Boost.png" width="40px" /> **Proof of the Conjurer ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At full HP: Raise Elem. Atk. of Self by 20%, Critical by 15%, Light damage by 15% and Damage Limit by 100,000.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Light attacks of All Allies by 15,000.
 
 </aside>
@@ -212,7 +212,7 @@ Deal Elem. Light damage to Single Foe 2 time(s) (potency: 2x135). [62 SP]
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Divine Blessing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Divine Blessing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore own SP (amount: 50-125 based on Boost Lv.) and gain 1-4 Conjuration Points based on Boost Lv.. [35 SP]
 
 <aside>
@@ -226,7 +226,7 @@ Restore own SP (amount: 50-125 based on Boost Lv.) and gain 1-4 Conjuration Poin
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Divine Blessing ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Divine Blessing ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Restore own SP (amount: **100-250** based on Boost Lv.) and gain **2-5** Conjuration Points based on Boost Lv.. [35 SP]
 
 <aside>
@@ -365,17 +365,17 @@ Grant Self effects based on own Conjuration Points.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **光天の霊験 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" alt="https://img.game8.jp/6930267/03b99ed068930e0f043961e0f7614e00.png/show" width="40px" /> **光天の霊験 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise own Critical by 15%, Light damage by 15% ~~and Damage Limit by 100,000~~.
 
 <aside>
-<img src="Hikari%20EX/Elem_atk_Boost.png" alt="Hikari%20EX/Elem_atk_Boost.png" width="40px" /> **光天の霊験 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Hikari%20EX/Elem_atk_Boost.png" alt="Hikari%20EX/Elem_atk_Boost.png" width="40px" /> **光天の霊験 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 At full HP: Raise Elem. Atk. of Self by 20%, Critical by 15%, Light damage by 15% ~~and Damage Limit by 100,000~~.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Light attacks of All Allies by 15,000.
 
 </aside>
@@ -469,29 +469,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 4, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youji Matsuda](https://myanimelist.net/people/951/Youji_Matsuda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youji Matsuda](https://myanimelist.net/people/951/Youji_Matsuda)
 
 </aside>
 

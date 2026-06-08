@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%2023.png, Fire%2024.png
-HP (Lv. 120): 4.222
+Attributes: Sword%2015.png, Fire%2021.png
+HP (Lv. 120): 4222
 SP (Lv. 120): 366
 P.Atk (Lv. 120): 489
 P.Def (Lv. 120): 448
@@ -53,7 +53,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8245735/1f0a10cae919ccf33ab846ea3ed56a3f.png/show" alt="https://img.game8.jp/8245735/1f0a10cae919ccf33ab846ea3ed56a3f.png/show" width="40px" /> **Initial Incite (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8245735/1f0a10cae919ccf33ab846ea3ed56a3f.png/show" alt="https://img.game8.jp/8245735/1f0a10cae919ccf33ab846ea3ed56a3f.png/show" width="40px" /> **Initial Incite (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Provoke all foes (turns: 3).
 
 </aside>
@@ -141,7 +141,7 @@ Deal Phys. Sword damage to Single Foe (potency: 260). Increase potency based on 
 </aside>
 
 <aside>
-<img src="Grieg/Raise.png" alt="Grieg/Raise.png" width="40px" /> **Unyielding Spirit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Grieg/Raise.png" alt="Grieg/Raise.png" width="40px" /> **Unyielding Spirit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic revival (recovery amount: 20%-50% of max HP and 20%-50% of max SP based on Boost Lv.). Triggers immediately if incapacitated (count does not increase when stacked). *Can be used 3 times per battle [60 SP]
 
 </aside>
@@ -228,29 +228,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Dual Fates
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 3, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Mar 20, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu)
 
 </aside>
 

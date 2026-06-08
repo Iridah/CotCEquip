@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2050.png, Dagger%2036.png, Tome%2040.png, Ice%2042.png, Light%2056.png, Dark%2048.png
-HP (Lv. 120): 3.596
+Attributes: Sword%2024.png, Dagger%2022.png, Tome%2020.png, Ice%2020.png, Light%2024.png, Dark%2024.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 662
 P.Atk (Lv. 120): 251
 P.Def (Lv. 120): 296
@@ -71,7 +71,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rondo%20EX/Critical_Ice_Up.jpg" alt="Rondo%20EX/Critical_Ice_Up.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rondo%20EX/Critical_Ice_Up.jpg" alt="Rondo%20EX/Critical_Ice_Up.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Increase the damage multiplier of critical hits of Entire Front Row to 1.6 (instead of 1.25). When the target is at full HP additionally grant the ability to trigger critical hits with elemental attacks.
 
 </aside>
@@ -201,7 +201,7 @@ With “Icy Waves”: HP Barrier potency becomes 50% of user’s Max HP.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn, inflict Single Foe with the effect of always receiving critical damage (turns: 1-4 based on Boost Lv.) and deal Elem. Ice damage 2 time(s) (potency: 2x265-450 based on Boost Lv.). [300 SP]
 
 </aside>
@@ -289,28 +289,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Summer Guidance (Eltrix EX & Rondo EX)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Summer Guidance (Eltrix EX & Rondo EX)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 31, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Kaji](https://myanimelist.net/people/672/Yuuki_Kaji?q=Yuki%20Kaji&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Kaji](https://myanimelist.net/people/672/Yuuki_Kaji?q=Yuki%20Kaji&cat=person)
 
 </aside>
 

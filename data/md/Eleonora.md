@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Fame
 Continent: Orsterra
 Location: Atlasdam
-Attributes: Fan%207.png, Ice%2010.png
-HP (Lv. 120): 3.606
+Attributes: Fan%205.png, Ice%2012.png
+HP (Lv. 120): 3606
 SP (Lv. 120): 574
 P.Atk (Lv. 120): 303
 P.Def (Lv. 120): 264
@@ -50,7 +50,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Physical Evasion on Switch ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" alt="https://img.game8.jp/8426630/df9d015f17aeb6f6c8085c59e42cc131.png/show" width="40px" /> **Physical Evasion on Switch ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When switching: Grant Self the ability to dodge physical attacks (times: 1).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Ice damage to Random Foe 4 time(s) (potency: 4x85) and have a low cha
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Ice Augment Magic (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Ice Augment Magic (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Ice damage dealt of All Allies by 20% (turns: 2-5 based on Boost Lv.). Subsequently move to the back row (action does not count as switching). [30 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 3, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 31, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yumi Hara](https://myanimelist.net/people/12016/Yumi_Hara)
 
 </aside>
 

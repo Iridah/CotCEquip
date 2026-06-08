@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Dominion of Hate (Live A Live)
 Location: Memoir
-Attributes: Sword%2038.png, Fire%2045.png, Dark%2034.png
-HP (Lv. 120): 3.912
+Attributes: Sword%2051.png, Fire%2056.png, Dark%2040.png
+HP (Lv. 120): 3912
 SP (Lv. 120): 401
 P.Atk (Lv. 120): 534
 P.Def (Lv. 120): 388
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="O%20Odio/Critical-multiplier-up.png" alt="O%20Odio/Critical-multiplier-up.png" width="40px" /> **Shadow of Despair ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="O%20Odio/Critical-multiplier-up.png" alt="O%20Odio/Critical-multiplier-up.png" width="40px" /> **Shadow of Despair ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an enemy with 8+ statuses is present: Raise the critical damage multiplier (1.25→1.4). When an enemy with 12+ statuses is present: Raise BP recovery by 1.
 
 </aside>
@@ -130,7 +130,7 @@ Deal damage to Entire Front Row (effect: 30% of target’s max HP) and then deal
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **Righteous Fervor ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **Righteous Fervor ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Gain Unsinkable and raise Phys. Atk. and damage by 30% (turns: 2-5 based on Boost Lv.). *Can only be used once per battle. [30 SP]
 
 <aside>
@@ -223,7 +223,7 @@ Uses: 2
 At 75% HP or less: Raise Phys. Atk. of Self by 15%, Sword damage by 15% and gain Dead Aim (guaranteed critical hits).
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Agression**
 
@@ -232,11 +232,11 @@ At 75% HP or less: Raise Phys. Atk. of Self by 15%, Sword damage by 15% and gain
 </aside>
 
 <aside>
-<img src="O%20Odio/Critical-multiplier-up.png" alt="O%20Odio/Critical-multiplier-up.png" width="40px" /> **アンスロポフォビア ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="O%20Odio/Critical-multiplier-up.png" alt="O%20Odio/Critical-multiplier-up.png" width="40px" /> **アンスロポフォビア ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When Paired Ally is incapacitated: Raise the critical damage multiplier (1.25→1.4).
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Shadow of Despair**
 
@@ -251,7 +251,7 @@ When Paired Ally is incapacitated: Raise the critical damage multiplier (1.25→
 Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x90) ~~and raise Phys. Atk. of Self by 10% (turns: 2)~~. Exploits Dark weakness (damage calculation based on Phys. Sword attack). [29 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Valorous Dark Slash**
 
@@ -264,7 +264,7 @@ Deal Phys. Sword damage to Single Foe 2 time(s) (potency: 2x90) ~~and raise Phys
 Deal Phys. Sword damage to Single Foe (potency: 170) and raise Phys. Atk. of Self by 10% (turns: 2). Exploits Dark weakness (damage calculation based on Phys. Sword attack). [29 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Armageddon**
 
@@ -283,7 +283,7 @@ Deal Phys. Sword damage to All Foes 2 time(s) (potency: 2x80) and have a moderat
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Shardfall**
 
@@ -298,7 +298,7 @@ Deal Phys. Sword damage to Single Foe 3 time(s) (potency: 3x85). Exploits Dark w
 **Lv.99 |** SP Saver: 55→44
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Death Bargain**
 
@@ -313,7 +313,7 @@ Deal damage to Entire Front Row (effect: 30% of target’s max HP) and then deal
 **Lv.100 |** SP Saver: 82→66
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Hatred’s Fury**
 
@@ -322,11 +322,11 @@ Deal damage to Entire Front Row (effect: 30% of target’s max HP) and then deal
 </aside>
 
 <aside>
-<img src="O%20Odio/Sword%201.png" alt="O%20Odio/Sword%201.png" width="40px" /> **ハルマゲドン ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="O%20Odio/Sword%201.png" alt="O%20Odio/Sword%201.png" width="40px" /> **ハルマゲドン ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to All Foes (potency: 120). Exploits Dark weakness (damage calculation based on Phys. Sword attack). Consume 80% of max HP from All Allies with more than 80% HP to increase potency with each ally affected up to 5x (with 8 travelers). Damage Limit of this skill is increased by 100,000.  [29 SP]
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Righteous Fervor**
 
@@ -421,29 +421,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Lord of Dark (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** LIVE A LIVE Crossover Guidance - Lord of Dark (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 30, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 10, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuichi Nakamura](https://myanimelist.net/people/513/Yuuichi_Nakamura?q=Yuichi%20Nakamura&cat=person)
 
 </aside>
 

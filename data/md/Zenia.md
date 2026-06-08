@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Grandport
-Attributes: Axe%2046.png, Dark%2062.png
-HP (Lv. 120): 3.910
+Attributes: Axe%2029.png, Dark%2037.png
+HP (Lv. 120): 3910
 SP (Lv. 120): 568
 P.Atk (Lv. 120): 345
 P.Def (Lv. 120): 392
@@ -44,7 +44,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Zenia/Critical_Elemental_Damage.png" alt="Zenia/Critical_Elemental_Damage.png" width="40px" /> **Deathwish Interaction ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Zenia/Critical_Elemental_Damage.png" alt="Zenia/Critical_Elemental_Damage.png" width="40px" /> **Deathwish Interaction ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row effects based on amount of allies in Deathwish state.
 ·With 1+: Grant ability to trigger critical hits with elemental attacks.
 ·With 4+: Also raise BP recovery amount by 1.
@@ -133,7 +133,7 @@ Deal Elem. Dark damage to Single Foe (potency: 260). **50%** more potent if targ
 </aside>
 
 <aside>
-<img src="Zenia/Dark%202.png" alt="Zenia/Dark%202.png" width="40px" /> **Overdose ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Zenia/Dark%202.png" alt="Zenia/Dark%202.png" width="40px" /> **Overdose ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to Single Foe (potency: 230). Potency increases based on amount of allies in Deathwish state (potency triples with 8 allies). [44 SP]
 
 </aside>
@@ -216,29 +216,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 1, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 11, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?q=Miho%20Okasaki&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?q=Miho%20Okasaki&cat=person)
 
 </aside>
 

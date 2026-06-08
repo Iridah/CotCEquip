@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Staff_Staves%2028.png, Bow%2033.png, Lightning_Thunder%2037.png
-HP (Lv. 120): 3.442
+Attributes: Staff_Staves%2019.png, Bow%2029.png, Lightning_Thunder%2032.png
+HP (Lv. 120): 3442
 SP (Lv. 120): 565
 P.Atk (Lv. 120): 291
 P.Def (Lv. 120): 372
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rinyuu/Hale_Damage_Reduction.png" alt="Rinyuu/Hale_Damage_Reduction.png" width="40px" /> **Initial Damage Reduction II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rinyuu/Hale_Damage_Reduction.png" alt="Rinyuu/Hale_Damage_Reduction.png" width="40px" /> **Initial Damage Reduction II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Reduce own damage taken from some attacks by 50% once. (Does not stack with effects of the same type).
 
 </aside>
@@ -126,7 +126,7 @@ Raise Phys. Atk. and Elem. Atk. of All Allies by 15%, damage dealt by 10% and gr
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Transfer SP & BP ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Transfer SP & BP ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore SP (amount: 25-100 based on Boost Lv.) and BP (amount: 1-4 based on Boost Lv.) of Single Ally, but delay actions during turn. [110 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 30, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 18, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
 
 </aside>
 

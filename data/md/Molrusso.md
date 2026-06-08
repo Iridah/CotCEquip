@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Staff_Staves%2018.png, Wind%2033.png
-HP (Lv. 120): 3.512
+Attributes: Staff_Staves%2024.png, Wind%2048.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 505
 P.Atk (Lv. 120): 311
 P.Def (Lv. 120): 332
@@ -44,17 +44,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" alt="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" width="40px" /> **Vanguard All Augment (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" alt="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" width="40px" /> **Vanguard All Augment (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in front row: Raise physical and elemental Res. of Entire Front Row by 10%.
 
 <aside>
-<img src="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" alt="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" width="40px" /> **Vanguard All Augment (Front/All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" alt="https://img.game8.jp/7258182/9406cf0e102b680781e44f1d333ed5c3.png/show" width="40px" /> **Vanguard All Augment (Front/All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When in front row: Raise physical and elemental Res. of Entire Front Row by **15%**.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Wind attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Restore HP of Single Ally (potency: 230), grant automatic HP recovery (potency: 
 </aside>
 
 <aside>
-<img src="Molrusso/Wind%201.png" alt="Molrusso/Wind%201.png" width="40px" /> **Starwind of Hope ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Molrusso/Wind%201.png" alt="Molrusso/Wind%201.png" width="40px" /> **Starwind of Hope ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to All Foes 3 time(s) (potency: 3x55) and restore HP of Entire Front Row (potency: 90). [70 SP]
 
 <aside>
-<img src="Molrusso/Wind%201.png" alt="Molrusso/Wind%201.png" width="40px" /> **Starwind of Hope ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Molrusso/Wind%201.png" alt="Molrusso/Wind%201.png" width="40px" /> **Starwind of Hope ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Wind damage to All Foes 3 time(s) (potency: **4**x55) and restore HP of Entire Front Row (potency: **150**). [70 SP]
 
 </aside>
@@ -249,29 +249,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 25, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 7, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayaka Senbongi](https://myanimelist.net/people/25167/Sayaka_Senbongi?q=Sayaka%20Senbongi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Sayaka Senbongi](https://myanimelist.net/people/25167/Sayaka_Senbongi?q=Sayaka%20Senbongi&cat=person)
 
 </aside>
 

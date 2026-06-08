@@ -5,8 +5,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Axe%2042.png, Staff%209.png, Tome%2043.png, Wind%2054.png
-HP (Lv. 120): 4.540
+Attributes: Axe%2023.png, Staff%207.png, Tome%2029.png, Wind%2032.png
+HP (Lv. 120): 4540
 SP (Lv. 120): 478
 P.Atk (Lv. 120): 535
 P.Def (Lv. 120): 467
@@ -58,11 +58,11 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" alt="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" alt="https://img.game8.jp/6930263/00d52a6aa50661c4f49896de0e77ab60.png/show" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Raise Axe damage of All Allies by 20% (turns: 6).
 
 <aside>
-<img src="Stia/Sword-Damage-Up.png" alt="Stia/Sword-Damage-Up.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Stia/Sword-Damage-Up.png" alt="Stia/Sword-Damage-Up.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Start of battle: Raise Sword, Axe, Bow and Staff damage of All Allies by **30%** (turns: 6), raise their Damage Limit by 10,000 (turns: 6) and grant them Fightning Spirit (turns: 2).
 
 <aside>
@@ -73,7 +73,7 @@ Start of battle: Raise Sword, Axe, Bow and Staff damage of All Allies by **30%**
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword, Axe, Bow and Staff attacks of All Allies by 15,000.
 
 </aside>
@@ -159,11 +159,11 @@ Act faster during turn and restore HP of Entire Front Row (potency: 205). At Max
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe 3 time(s) (potency: 3x160). Exploits Staff, Tome and Wind weaknesses (damage calculation based on Phys. Axe attack). With 6 or more Cheer On Points: Attack count becomes 5. [200 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8016-bb7e-007a50a4fe13" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Axe damage to Single Foe 3 time(s) (potency: 3x160). Exploits Staff, Tome and Wind weaknesses (damage calculation based on Phys. Axe attack). With 6 or more Cheer On Points: Attack count becomes **8**. With 6 or more Cheer On Points: Damage Limit of this skill is increased by 500,000. [200 SP]
 
 </aside>
@@ -246,28 +246,28 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 22, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu)
 
 </aside>
 

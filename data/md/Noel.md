@@ -6,8 +6,8 @@ Job: Thief
 Influence: Fame
 Continent: Empire of Avalon (Romancing SaGa 2)
 Location: Memoir
-Attributes: Dagger%2028.png, Sword%2037.png, Polearm%205.png, Axe%2025.png, Bow%2027.png, Staff%204.png, Tome%2032.png, Fan%2030.png, Fire%2043.png, Ice%2033.png, Wind%2035.png
-HP (Lv. 120): 4.282
+Attributes: Dagger%2036.png, Sword%2055.png, Polearm%209.png, Axe%2039.png, Bow%2032.png, Staff%2010.png, Tome%2041.png, Fan%2033.png, Fire%2064.png, Ice%2043.png, Wind%2053.png
+HP (Lv. 120): 4282
 SP (Lv. 120): 482
 P.Atk (Lv. 120): 658
 P.Def (Lv. 120): 405
@@ -83,17 +83,17 @@ Raise own Phys. Res. by 15%.
 </aside>
 
 <aside>
-<img src="Noel/Potency-Up-Dagger.jpg" alt="Noel/Potency-Up-Dagger.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Noel/Potency-Up-Dagger.jpg" alt="Noel/Potency-Up-Dagger.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 With “Absorption Effect”: Raise potency of Phys. Dagger attacks of Self by 100% (Effects of the same type do not stack). Without “Absorption Effect”: Raise Phys. Def. and Phys. Res. of Entire Front Row by 15%.
 
 <aside>
-<img src="Noel/Potency-Up-Dagger%201.jpg" alt="Noel/Potency-Up-Dagger%201.jpg" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Noel/Potency-Up-Dagger%201.jpg" alt="Noel/Potency-Up-Dagger%201.jpg" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 With “Absorption Effect”: Raise potency of Phys. Dagger attacks of Self by **150%** (Effects of the same type do not stack) and raise Damage Limit by 750,000. Without “Absorption Effect”: Raise Phys. Def. and Phys. Res. of Entire Front Row by **20%**.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -176,11 +176,11 @@ Deal Phys. Sword damage to All Foes 5 time(s) (potency: 5x35) and lower Dagger R
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Act faster during turn and deal Phys. Sword damage to All Foes 6 time(s) (potency: 6x25) and raise physical damage of Self by 15% (turns: 3). Exploits Ice weakness (damage calculation based on Phys. Sword attack). [119 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-809a-94f6-007af4b7dcdf" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Act faster during turn and deal Phys. Sword damage to All Foes **8** time(s) (potency: **8x25**) and raise physical damage of Self by **30%** (turns: 3). Exploits Ice weakness (damage calculation based on Phys. Sword attack). [119 SP]
 
 </aside>
@@ -269,28 +269,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 19, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shunsuke Takeuchi](https://myanimelist.net/people/36471/Shunsuke_Takeuchi)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shunsuke Takeuchi](https://myanimelist.net/people/36471/Shunsuke_Takeuchi)
 
 </aside>
 

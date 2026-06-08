@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%2025.png, Spear_Polearm%2014.png, Dagger%2018.png, Axe%2015.png, Bow%2015.png, Staff_Staves%209.png, Tome%2016.png, Fan%2019.png
-HP (Lv. 120): 4.062
+Attributes: Sword%2022.png, Spear_Polearm%2014.png, Dagger%2017.png, Axe%2013.png, Bow%2010.png, Staff_Staves%2010.png, Tome%2017.png, Fan%2014.png
+HP (Lv. 120): 4062
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 494
 P.Def (Lv. 120): 423
@@ -54,7 +54,7 @@ Raise own Light Res. by 20%.
 </aside>
 
 <aside>
-<img src="Hikari/Latent_Power_Hikari.png" alt="Hikari/Latent_Power_Hikari.png" width="40px" /> **Latent Power: Shadow’s Hold ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hikari/Latent_Power_Hikari.png" alt="Hikari/Latent_Power_Hikari.png" width="40px" /> **Latent Power: Shadow’s Hold ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant Self the special effect Shadow’s Hold (turns: 1).
 Shadow’s Hold: Skill configuration changes to the following.
 
@@ -103,7 +103,7 @@ Deal Phys. Sword damage (potency: 105) and Phys. Polearm damage (potency: 105) t
 </aside>
 
 <aside>
-<img src="Hikari/Latent_Power_Hikari.png" alt="Hikari/Latent_Power_Hikari.png" width="40px" /> **Latent Power: Shadow’s Hold ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Hikari/Latent_Power_Hikari.png" alt="Hikari/Latent_Power_Hikari.png" width="40px" /> **Latent Power: Shadow’s Hold ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Upon activation, grant Self the special effect Shadow’s Hold (turns: 1). When an ally breaks an enemy, reduce reuse turns by 4.
 Shadow’s Hold: Skill configuration changes to the following.
 
@@ -154,7 +154,7 @@ Deal Phys. Sword damage (potency: 105) and Phys. Polearm damage (potency: 105) t
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -250,11 +250,11 @@ Deal Phys. Sword damage to Single Foe (potency: 260). Guaranteed critical hit at
 </aside>
 
 <aside>
-<img src="Hikari/SP_Regen.png" alt="Hikari/SP_Regen.png" width="40px" /> **Elixir of Ku ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hikari/SP_Regen.png" alt="Hikari/SP_Regen.png" width="40px" /> **Elixir of Ku ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic SP recovery (amount: 10% of Max SP) and raise BP recovery by 1 (turns: 3-6 based on Boost Lv.). [38 SP]
 
 <aside>
-<img src="Hikari/SP_Regen.png" alt="Hikari/SP_Regen.png" width="40px" /> **Elixir of Ku ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Hikari/SP_Regen.png" alt="Hikari/SP_Regen.png" width="40px" /> **Elixir of Ku ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self automatic SP recovery (amount: **15%** of Max SP), raise BP recovery by 1 and raise Phys. Atk. and Sword damage by 10% (turns: 3-6 based on Boost Lv.). At Max Boost: Also restore 2 BP to Self. [38 SP]
 
 </aside>
@@ -350,29 +350,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 26, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youji Matsuda](https://myanimelist.net/people/951/Youji_Matsuda)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youji Matsuda](https://myanimelist.net/people/951/Youji_Matsuda)
 
 </aside>
 

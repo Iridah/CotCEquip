@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Spear_Polearm%201.png, Sword%204.png, Dagger%202.png, Axe%203.png, Bow%201.png, Staff_Staves%201.png, Tome%201.png, Fan%202.png, Light%205.png
-HP (Lv. 120): 4.100
+Attributes: Spear_Polearm%207.png, Sword%207.png, Dagger%2011.png, Axe%205.png, Bow%206.png, Staff_Staves%205.png, Tome%206.png, Fan%207.png, Light%2011.png
+HP (Lv. 120): 4100
 SP (Lv. 120): 542
 P.Atk (Lv. 120): 409
 P.Def (Lv. 120): 398
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Alrond/HP_Restoration.png" alt="Alrond/HP_Restoration.png" width="40px" /> **Royal Apothecary ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Alrond/HP_Restoration.png" alt="Alrond/HP_Restoration.png" width="40px" /> **Royal Apothecary ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant automatic  HP recovery (amount: 20% of max HP), raise Phys. damage by 20% and grant immunity to certain status ailments.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Staff damage to All Foes 5 time(s) (potency: 5x45). Exploits Tome and
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Supreme Olive Potion (All) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Supreme Olive Potion (All) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of All Allies (amount: 10% of max HP) and revive incapacitated allies (recovery amount: 25% of max HP ). *Can be used 3 times per battle. [200 SP]
 
 </aside>
@@ -298,29 +298,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 12, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 21, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Souta Arai](https://myanimelist.net/people/13807/Souta_Arai)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Souta Arai](https://myanimelist.net/people/13807/Souta_Arai)
 
 </aside>
 

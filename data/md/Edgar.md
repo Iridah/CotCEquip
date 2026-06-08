@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Polearm%201.png, Axe%208.png, Bow%208.png, Light%2018.png
-HP (Lv. 120): 4.340
+Attributes: Polearm%207.png, Axe%2025.png, Bow%2024.png, Light%2041.png
+HP (Lv. 120): 4340
 SP (Lv. 120): 462
 P.Atk (Lv. 120): 479
 P.Def (Lv. 120): 408
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Edgar/Chance-Maker.jpg" alt="Edgar/Chance-Maker.jpg" width="40px" /> **Chance Maker ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Edgar/Chance-Maker.jpg" alt="Edgar/Chance-Maker.jpg" width="40px" /> **Chance Maker ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When an ally breaks an enemy: Grant Entire Front Row the special effect “Chance Maker” (turns: 2) and restore 2 BP.
 
 <aside>
@@ -146,7 +146,7 @@ Deal Phys. Polearm damage to All Foes 4 time(s) (potency: 4x45). Exploits Axe an
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Air Anchor ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Air Anchor ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Reduce Shield Points of Random Foe by 1 regardless of weaknesses and lower Polearm and Light Res. (turns: 1) twice. From the turn after this skill is used, reactivate this effect once per turn before some allies act (turns: 2-5 based on Boost Lv.). [93 SP]
 
 </aside>
@@ -228,28 +228,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Aug 28, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shinichiro Miki](https://myanimelist.net/people/22/Shinichiro_Miki)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shinichiro Miki](https://myanimelist.net/people/22/Shinichiro_Miki)
 
 </aside>
 

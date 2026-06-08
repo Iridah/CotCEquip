@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2046.png, Lightning_Thunder%2036.png
-HP (Lv. 120): 4.067
+Attributes: Sword%208.png, Lightning_Thunder%208.png
+HP (Lv. 120): 4067
 SP (Lv. 120): 376
 P.Atk (Lv. 120): 474
 P.Def (Lv. 120): 418
@@ -44,7 +44,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Richard/Physical_Damage_Up.png" alt="Richard/Physical_Damage_Up.png" width="40px" /> **Initial Phys. Atk. Boost (Front/All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Richard/Physical_Damage_Up.png" alt="Richard/Physical_Damage_Up.png" width="40px" /> **Initial Phys. Atk. Boost (Front/All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Raise physical damage of Entire Front Row by 15% (turns: 3).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x85) and have a **mod
 </aside>
 
 <aside>
-<img src="Richard/Sword%204.png" alt="Richard/Sword%204.png" width="40px" /> **Flowing Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Richard/Sword%204.png" alt="Richard/Sword%204.png" width="40px" /> **Flowing Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Single Foe 4 time(s) (potency: 4x85) and lower Phys. Def. by 15% (turns: 2). [56 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 10, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 7, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
 
 </aside>
 

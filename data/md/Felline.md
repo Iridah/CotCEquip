@@ -6,8 +6,8 @@ Job: Thief
 Influence: Power
 Continent: Orsterra
 Location: Emberglow
-Attributes: Dagger%2015.png, Lightning_Thunder%2010.png
-HP (Lv. 120): 3.702
+Attributes: Dagger%2044.png, Lightning_Thunder%2046.png
+HP (Lv. 120): 3702
 SP (Lv. 120): 407
 P.Atk (Lv. 120): 428
 P.Def (Lv. 120): 300
@@ -49,7 +49,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Adaptability ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Adaptability ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When there are enemies with Phys. Atk. Down, raise critical damage of Entire Front Row by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Dagger damage to All Foes potency: **170**). [24 SP]
 </aside>
 
 <aside>
-<img src="Felline/Dagger.png" alt="Felline/Dagger.png" width="40px" /> **Double Strike Assault ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Felline/Dagger.png" alt="Felline/Dagger.png" width="40px" /> **Double Strike Assault ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to All Foes 2 time(s) (potency: 2x80) and impart with Phys. Atk. Down 10% (turns: 2). [41 SP]
 
 </aside>
@@ -174,29 +174,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
 
 </aside>
 

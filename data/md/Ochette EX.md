@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Opulence
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%2040.png, Polearm%206.png, Dagger%2029.png, Axe%2027.png, Bow%2029.png, Staff%205.png, Tome%2034.png, Fan%2031.png, Fire%2046.png, Ice%2034.png, Lightning%2010.png
-HP (Lv. 120): 3.902
+Attributes: Sword%2012.png, Polearm%202.png, Dagger%2013.png, Axe%2010.png, Bow%209.png, Staff%202.png, Tome%2012.png, Fan%2010.png, Fire%2019.png, Ice%2014.png, Lightning%204.png
+HP (Lv. 120): 3902
 SP (Lv. 120): 466
 P.Atk (Lv. 120): 494
 P.Def (Lv. 120): 413
@@ -64,7 +64,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Remodeling ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Remodeling ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, grant All Allies the special effect Remodelling (turns: 1).
 Remodeling: Raise the potency of Phys. Sword, Polearm and Axe attacks by 75% (Does not stack with effects of the same type).
 
@@ -85,7 +85,7 @@ Reuse Turns: 6
 </aside>
 
 <aside>
-<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Remodeling ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Ochette/Ochette_Latent_Power.png" alt="Ochette/Ochette_Latent_Power.png" width="40px" /> **Latent Power: Remodeling ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Upon activation, grant All Allies the special effect Remodelling (turns: 1).
 Remodeling: Raise the potency of Phys. Sword, Polearm and Axe attacks by **100%** (Does not stack with effects of the same type).
 
@@ -108,7 +108,7 @@ Reuse Turns: **3**
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Sword, Polearm and Axe attacks of All Allies by 15,000.
 
 </aside>
@@ -191,11 +191,11 @@ Deal Phys. Sword damage to Single Foe 4 time(s) (potency: 4x65). Exploits Polear
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Arkar’s Coil ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Arkar’s Coil ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore HP of Single Ally (amount: 40%-100% of max HP based on Boost Lv./Back row allies can be selected) or revive the target if incapacitated (amount: 40%-100% of max HP based on Boost Lv.). Afterwards, restore 25%-100% of their max SP and 1-4 BP based on Boost Lv. *Can be used 3 times per battle. [129 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Arkar’s Coil ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8043-803a-007ae9e1eaea" width="40px" /> **Arkar’s Coil ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Restore HP of Single Ally (amount: 40%-100% of max HP based on Boost Lv./Back row allies can be selected) or revive the target if incapacitated (amount: 40%-100% of max HP based on Boost Lv.). Afterwards, restore 25%-100% of their max SP and 1-4 BP based on Boost Lv and raise their Damage Limit by 100,000 (turns: 3). *Can be used 3 times per battle. [129 SP]
 
 </aside>
@@ -284,29 +284,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 24, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 15, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Hirano](https://myanimelist.net/people/4/Aya_Hirano)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Aya Hirano](https://myanimelist.net/people/4/Aya_Hirano)
 
 </aside>
 

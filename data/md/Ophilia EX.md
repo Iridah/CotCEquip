@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Tome%2036.png, Fire%2048.png, Ice%2036.png, Lightning_Thunder%2028.png, Wind%2040.png, Light%2048.png, Dark%2036.png
-HP (Lv. 120): 3.416
+Attributes: Tome%2024.png, Fire%2038.png, Ice%2026.png, Lightning_Thunder%2025.png, Wind%2027.png, Light%2034.png, Dark%2030.png
+HP (Lv. 120): 3416
 SP (Lv. 120): 702
 P.Atk (Lv. 120): 276
 P.Def (Lv. 120): 336
@@ -56,7 +56,7 @@ Raise own Light and Dark Res. by 10%
 </aside>
 
 <aside>
-<img src="Ophilia%20EX/Summon.png" alt="Ophilia%20EX/Summon.png" width="40px" /> **Latent Power: Summon ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ophilia%20EX/Summon.png" alt="Ophilia%20EX/Summon.png" width="40px" /> **Latent Power: Summon ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, skill configuration changes to the following (turns: 1).
 
 ---
@@ -166,7 +166,7 @@ Deal Elem. Light damage to Random Foe 6 time(s) (potency: 6x45). At Max Boost: A
 </aside>
 
 <aside>
-<img src="Ophilia%20EX/Neutral_Element.png" alt="Ophilia%20EX/Neutral_Element.png" width="40px" /> **Summon: Leviathan ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ophilia%20EX/Neutral_Element.png" alt="Ophilia%20EX/Neutral_Element.png" width="40px" /> **Summon: Leviathan ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Non-elemental damage to All Foes 2 time(s) (potency: 2x630). Lower Shield Points even when not striking weak points. Ignores effects that completely dodge or block attacks. Raise Damage Limit of this skill by 100,000. [500 SP]
 
 </aside>
@@ -261,7 +261,7 @@ Instead of **Meteor**
 </aside>
 
 <aside>
-<img src="Ophilia%20EX/Neutral_Element.png" alt="Ophilia%20EX/Neutral_Element.png" width="40px" /> **しょうかん：リヴァイア ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ophilia%20EX/Neutral_Element.png" alt="Ophilia%20EX/Neutral_Element.png" width="40px" /> **しょうかん：リヴァイア ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. non-elemental damage to All Foes 2 time(s) (potency: 2x630). Lower Shield Points even when not striking weak points. Ignores effects that completely dodge or block attacks. ~~Raise Damage Limit of this skill by 100,000.~~ [500 SP]
 Instead of **Summon:Leviathan**
 
@@ -346,29 +346,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy IV Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 20, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 17, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kayano](https://myanimelist.net/people/10765/Ai_Kayano)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kayano](https://myanimelist.net/people/10765/Ai_Kayano)
 
 </aside>
 

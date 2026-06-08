@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Orsterra
 Location: Valore
-Attributes: Tome%206.png, Light%2014.png, Dark%2013.png
-HP (Lv. 120): 3.386
+Attributes: Tome%209.png, Light%2013.png, Dark%2013.png
+HP (Lv. 120): 3386
 SP (Lv. 120): 640
 P.Atk (Lv. 120): 271
 P.Def (Lv. 120): 296
@@ -55,7 +55,7 @@ Raise own Dark Res. by 20%.
 </aside>
 
 <aside>
-<img src="Ditraina/Infinite_Light_and_Dark%201.jpeg" alt="Ditraina/Infinite_Light_and_Dark%201.jpeg" width="40px" /> **Inherited Wisdom ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ditraina/Infinite_Light_and_Dark%201.jpeg" alt="Ditraina/Infinite_Light_and_Dark%201.jpeg" width="40px" /> **Inherited Wisdom ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Start of battle: Grant Self the special effects of Infinite Light and Infinite Darkness (turns: 2).
 Infinite Light/Darkness: Grant Damage Limit Up (effect: 30,000).
 
@@ -140,7 +140,7 @@ Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x55). [64 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Slumbering Oracle ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" alt="https://img.game8.jp/6909196/ce50237128dbdac99dd75aad5895bba1.png/show" width="40px" /> **Slumbering Oracle ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Elem. Atk. and Elem. Def. of Single Foe by 15% (turns: 2-5 based on Boost Lv.). [34 SP]
 ·While Infinite Light and Infinite Darkness are active: Additionally, restore 3 BP to Self.
 
@@ -219,29 +219,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Sacred Blaze Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 1, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jun 5, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Power
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Staff_Staves%2025.png, Fire%2054.png
-HP (Lv. 120): 3.637
+Attributes: Staff_Staves%208.png, Fire%2024.png
+HP (Lv. 120): 3637
 SP (Lv. 120): 470
 P.Atk (Lv. 120): 326
 P.Def (Lv. 120): 327
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="Promme/Elem_atk_Boost.png" alt="Promme/Elem_atk_Boost.png" width="40px" /> **Blaze’s Guidance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Promme/Elem_atk_Boost.png" alt="Promme/Elem_atk_Boost.png" width="40px" /> **Blaze’s Guidance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Elem. Atk. of Self by 30% when a combusted enemy is present.
 
 </aside>
@@ -128,7 +128,7 @@ Reduce damage taken from some attacks by Entire Front Row once by **20%-100%** b
 </aside>
 
 <aside>
-<img src="Promme/Fire.png" alt="Promme/Fire.png" width="40px" /> **Wedge’s Incineration ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Promme/Fire.png" alt="Promme/Fire.png" width="40px" /> **Wedge’s Incineration ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to All Foes 3 time(s) (potency: 3x80) and cause them to combust (turns: 2). [86 SP]
 
 <aside>
@@ -206,29 +206,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 10, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 20, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuusuke Kobayashi](https://myanimelist.net/people/26705/Yuusuke_Kobayashi?q=Yuusuke%20Kobayashi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuusuke Kobayashi](https://myanimelist.net/people/26705/Yuusuke_Kobayashi?q=Yuusuke%20Kobayashi&cat=person)
 
 </aside>
 

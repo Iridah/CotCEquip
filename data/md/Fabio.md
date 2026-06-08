@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Wealth
 Continent: Orsterra
 Location: Rippletide
-Attributes: Fan%2011.png, Wind%2014.png
-HP (Lv. 120): 3.596
+Attributes: Fan%2027.png, Wind%2046.png
+HP (Lv. 120): 3596
 SP (Lv. 120): 550
 P.Atk (Lv. 120): 300
 P.Def (Lv. 120): 305
@@ -49,7 +49,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Fabio/HP_Restoration.png" alt="Fabio/HP_Restoration.png" width="40px" /> **HP Restoration ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Fabio/HP_Restoration.png" alt="Fabio/HP_Restoration.png" width="40px" /> **HP Restoration ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self automatic HP recovery (potency: 110)
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Wind damage to All Foes (potency: **205**). [37 SP]
 </aside>
 
 <aside>
-<img src="Fabio/Wind%203.png" alt="Fabio/Wind%203.png" width="40px" /> **Stormy Ballad ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Fabio/Wind%203.png" alt="Fabio/Wind%203.png" width="40px" /> **Stormy Ballad ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to Single Foe (potency: 290) and lower Wind Res. by 10% (turns: 2). [64 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Power
 Continent: Orsterra
 Location: Clearbrook
-Attributes: Spear_Polearm%2011.png, Lightning_Thunder%2011.png
-HP (Lv. 120): 4.428
+Attributes: Spear_Polearm%2010.png, Lightning_Thunder%2012.png
+HP (Lv. 120): 4428
 SP (Lv. 120): 402
 P.Atk (Lv. 120): 419
 P.Def (Lv. 120): 413
@@ -50,7 +50,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" alt="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" width="40px" /> **Iron Body ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" alt="https://img.game8.jp/8442884/cf6718c771a7d00a20a577f3be269156.png/show" width="40px" /> **Iron Body ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Physical Res. of Self by 20%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Polearm damage to Single Foe (potency: 230) and restore own HP (poten
 </aside>
 
 <aside>
-<img src="Gilderoy/Spear_Polearm%202.png" alt="Gilderoy/Spear_Polearm%202.png" width="40px" /> **Raging Spear ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Gilderoy/Spear_Polearm%202.png" alt="Gilderoy/Spear_Polearm%202.png" width="40px" /> **Raging Spear ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foe 3 time(s) (potency: 3x85) and provoke with every attack (turns: 2). [56 SP]
 
 </aside>
@@ -209,29 +209,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagita](https://myanimelist.net/people/19639/Junichi_Yanagita?q=Junichi%20Yanagita&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Junichi Yanagita](https://myanimelist.net/people/19639/Junichi_Yanagita?q=Junichi%20Yanagita&cat=person)
 
 </aside>
 

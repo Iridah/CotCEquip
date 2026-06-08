@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Power
 Continent: Orsterra
 Location: Cragspear
-Attributes: Axe%2014.png, Fire%2027.png
-HP (Lv. 120): 3.990
+Attributes: Axe%2016.png, Fire%2027.png
+HP (Lv. 120): 3990
 SP (Lv. 120): 418
 P.Atk (Lv. 120): 470
 P.Def (Lv. 120): 390
@@ -44,7 +44,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" alt="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" width="40px" /> **Blood Tide ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" alt="https://img.game8.jp/8555995/288551ccf0604a2544262e1e3ed4bdff.png/show" width="40px" /> **Blood Tide ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise potency of damaging skills by 30% when bleeding enemy is present.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Axe damage (potency: **180**) and Elem. Fire damage (potency: **180**
 </aside>
 
 <aside>
-<img src="Hayes/Axe%201.png" alt="Hayes/Axe%201.png" width="40px" /> **Admonition ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hayes/Axe%201.png" alt="Hayes/Axe%201.png" width="40px" /> **Admonition ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to All Foes 4 time(s) (potency: 4x45) and have a high chance to inflict bleeding with every attack (turns: 2). [85 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 25, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Apr 12, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka?q=Tasuku%20Hatanaka&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka?q=Tasuku%20Hatanaka&cat=person)
 
 </aside>
 

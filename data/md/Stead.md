@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: Orsterra
 Location: Donescu
-Attributes: Staff_Staves%2030.png, Dark%2053.png
-HP (Lv. 120): 3.547
+Attributes: Staff_Staves%204.png, Dark%2011.png
+HP (Lv. 120): 3547
 SP (Lv. 120): 465
 P.Atk (Lv. 120): 316
 P.Def (Lv. 120): 337
@@ -50,17 +50,17 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Stead/Elem_atk_Boost.png" alt="Stead/Elem_atk_Boost.png" width="40px" /> **Execution ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Stead/Elem_atk_Boost.png" alt="Stead/Elem_atk_Boost.png" width="40px" /> **Execution ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Impart Self with Elem. Atk. Up 30% when a bleeding enemy is present.
 
 <aside>
-<img src="Stead/Elem_atk_Boost.png" alt="Stead/Elem_atk_Boost.png" width="40px" /> **Execution ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Stead/Elem_atk_Boost.png" alt="Stead/Elem_atk_Boost.png" width="40px" /> **Execution ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Impart Self with Elem. Atk. Up 30% and gain the ability to activate attacking skills twice when a bleeding enemy is present.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Elem. Dark attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Deal Elem. Dark damage to Single Foe (potency: 260). [42 SP]
 </aside>
 
 <aside>
-<img src="Stead/Dark.png" alt="Stead/Dark.png" width="40px" /> **Dark Mockery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Stead/Dark.png" alt="Stead/Dark.png" width="40px" /> **Dark Mockery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80) and have a high chance to inflict bleeding (turns: 2). [80 SP]
 
 <aside>
-<img src="Stead/Dark.png" alt="Stead/Dark.png" width="40px" /> **Dark Mockery ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Stead/Dark.png" alt="Stead/Dark.png" width="40px" /> **Dark Mockery ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80) and ~~have a high chance to~~ inflict bleeding (turns: 2/Ignores resistance to status ailments). [80 SP]
 
 </aside>
@@ -227,29 +227,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Mar 11, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Kaji](https://myanimelist.net/people/672/Yuuki_Kaji?q=Yuki%20Kaji&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yuuki Kaji](https://myanimelist.net/people/672/Yuuki_Kaji?q=Yuki%20Kaji&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Cragspear
-Attributes: Bow%203.png, Lightning_Thunder%201.png
-HP (Lv. 120): 3.872
+Attributes: Bow%2036.png, Lightning_Thunder%2042.png
+HP (Lv. 120): 3872
 SP (Lv. 120): 463
 P.Atk (Lv. 120): 429
 P.Def (Lv. 120): 268
@@ -43,7 +43,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Bertrand/Critical_Elemental_Damage.png" alt="Bertrand/Critical_Elemental_Damage.png" width="40px" /> **Paralysis Lock ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bertrand/Critical_Elemental_Damage.png" alt="Bertrand/Critical_Elemental_Damage.png" width="40px" /> **Paralysis Lock ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When paralyzed enemy is present, grant Self the ability to trigger critical hits when using elemental attacks and Dead Aim (guaranteed critical hits).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Lightning damage to Single Foe (potency: 250). 50% more potent if tar
 </aside>
 
 <aside>
-<img src="Bertrand/Lightning_Thunder%202.png" alt="Bertrand/Lightning_Thunder%202.png" width="40px" /> **Hundred Thunder ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bertrand/Lightning_Thunder%202.png" alt="Bertrand/Lightning_Thunder%202.png" width="40px" /> **Hundred Thunder ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Lightning damage to All Foes 3 time(s) (potency: 3x65) and have a low chance to inflict paralysis (turns: 2). [68 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 1
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youhei Hamada](https://myanimelist.net/people/38439/Youhei_Hamada?q=Youhei%20Hamada&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youhei Hamada](https://myanimelist.net/people/38439/Youhei_Hamada?q=Youhei%20Hamada&cat=person)
 
 </aside>
 

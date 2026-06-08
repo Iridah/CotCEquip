@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Power
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Sword%2055.png, Lightning_Thunder%2041.png
-HP (Lv. 120): 4.030
+Attributes: Sword%2059.png, Lightning_Thunder%2039.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 366
 P.Atk (Lv. 120): 459
 P.Def (Lv. 120): 395
@@ -49,7 +49,7 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **SP Cost Down II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **SP Cost Down II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower own SP consumption by 20% (Does not stack).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Lightning damage to Single Foe 2 time(s) (potency: **2x115**). [22 SP
 </aside>
 
 <aside>
-<img src="Sigrid/Sword%204.png" alt="Sigrid/Sword%204.png" width="40px" /> **Swift Falcon ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sigrid/Sword%204.png" alt="Sigrid/Sword%204.png" width="40px" /> **Swift Falcon ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe 4 time(s) (potency: 4x65). [62 SP]
 
 </aside>
@@ -201,29 +201,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
 
 </aside>
 

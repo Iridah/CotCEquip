@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Wealth
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Tome%2022.png, Light%2033.png
-HP (Lv. 120): 3.526
+Attributes: Tome%2039.png, Light%2053.png
+HP (Lv. 120): 3526
 SP (Lv. 120): 637
 P.Atk (Lv. 120): 296
 P.Def (Lv. 120): 336
@@ -49,7 +49,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" alt="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" width="40px" /> **Light Augment (Joint) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" alt="https://img.game8.jp/6930252/b8605ccc9a2baa2a02593cd9f40329de.png/show" width="40px" /> **Light Augment (Joint) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Light damage of Paired Allies by 15%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Elem. Light damage to All Foes (potency: **175**). [26 SP]
 </aside>
 
 <aside>
-<img src="Levan/Light%201.png" alt="Levan/Light%201.png" width="40px" /> **Lux Congerere (Single) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Levan/Light%201.png" alt="Levan/Light%201.png" width="40px" /> **Lux Congerere (Single) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe 3 time(s) (potency: 3x85). [54 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 10, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 17, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ruriko Noguchi](https://myanimelist.net/people/41974/Ruriko_Noguchi?q=Ruriko%20Noguchi&cat=person)
 
 </aside>
 

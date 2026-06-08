@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Donescu
-Attributes: Axe%2018.png, Wind%2028.png
-HP (Lv. 120): 3.985
+Attributes: Axe%201.png, Wind%208.png
+HP (Lv. 120): 3985
 SP (Lv. 120): 449
 P.Atk (Lv. 120): 415
 P.Def (Lv. 120): 406
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Hale Critical Force III (Joint) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Hale Critical Force III (Joint) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise critical damage of Paired Allies by 20%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Axe damage to Random Foe **5** time(s) (potency: **5x55**). [38 SP]
 </aside>
 
 <aside>
-<img src="Lumis/Axe%201.png" alt="Lumis/Axe%201.png" width="40px" /> **Double Rage Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lumis/Axe%201.png" alt="Lumis/Axe%201.png" width="40px" /> **Double Rage Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Axe damage to Single Foe 2 time(s) (potency: 2x135). When the user has Critical Up, potency is multiplied by 1.2. [64 SP]
 
 </aside>
@@ -194,29 +194,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 25, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu?q=Haruka%20Tomatsu&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu?q=Haruka%20Tomatsu&cat=person)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Wealth
 Continent: Orsterra
 Location: Grandport
-Attributes: Sword%2028.png, Light%2031.png
-HP (Lv. 120): 4.042
+Attributes: Sword%2025.png, Light%2026.png
+HP (Lv. 120): 4042
 SP (Lv. 120): 361
 P.Atk (Lv. 120): 449
 P.Def (Lv. 120): 363
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" alt="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" width="40px" /> **Hale Sword Atk. Boost V ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" alt="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" width="40px" /> **Hale Sword Atk. Boost V ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise Sword damage of Self by 30%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to Single Foe (potency: 290). Results 20% more potent if
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Counter Blade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Counter Blade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to trigger battle skills 2 times (turns: 2/Cannot be extended/Additional instances do not cost SP). Also, grant Dead Aim (guaranteed critical hits) (turns: 3-6 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -207,29 +207,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 21, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 24, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka?q=Tasuku%20Hatanaka&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tasuku Hatanaka](https://myanimelist.net/people/12018/Tasuku_Hatanaka?q=Tasuku%20Hatanaka&cat=person)
 
 </aside>
 

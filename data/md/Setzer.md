@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Opulence
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Bow%2036.png, Fire%2063.png, Wind%2050.png, Light%2058.png, Dark%2051.png
-HP (Lv. 120): 3.912
+Attributes: Bow%2033.png, Fire%2068.png, Wind%2055.png, Light%2061.png, Dark%2049.png
+HP (Lv. 120): 3912
 SP (Lv. 120): 466
 P.Atk (Lv. 120): 502
 P.Def (Lv. 120): 288
@@ -72,7 +72,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Setzer/G1NRz4la0AAZOQs%201.jpg" alt="Setzer/G1NRz4la0AAZOQs%201.jpg" width="40px" /> **Chasing the Fastest ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Setzer/G1NRz4la0AAZOQs%201.jpg" alt="Setzer/G1NRz4la0AAZOQs%201.jpg" width="40px" /> **Chasing the Fastest ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At the start of turn, grant Entire Front Row effects based on number of remaining times of granted Fire and Dark weaknesses to an enemy (even if there are multiple enemies that meet the conditions, effects are granted once only).
 ·5+ times: Raise Phys. Atk. by 15% (turns: 1).
 ·7+ times: Also grant Damage Limit Up (effect: 10,000, turns: 1).
@@ -181,7 +181,7 @@ Deal Phys. Bow damage to All Foes 5 time(s) (potency: 5x35) and lower Elem. Res.
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8049-96f4-007adb86b280" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8049-96f4-007adb86b280" width="40px" /> **Trick King ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8049-96f4-007adb86b280" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8049-96f4-007adb86b280" width="40px" /> **Trick King ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Fire and Dark weaknesses to Single Foe (times each: 4-7 based on Boost Lv.). Also raise the number of times when granting elemental weaknesses by 2 (turns: 4-7 based on Boost Lv.). *The higher number of times the effect is applied will be overwritten. [39 SP]
 
 <aside>
@@ -286,28 +286,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 25, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ryoutarou Okiayu](https://myanimelist.net/people/177/Ryoutarou_Okiayu)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ryoutarou Okiayu](https://myanimelist.net/people/177/Ryoutarou_Okiayu)
 
 </aside>
 

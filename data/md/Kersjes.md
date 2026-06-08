@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Victors Hollow
-Attributes: Bow%2018.png, Ice%2023.png
-HP (Lv. 120): 3.912
+Attributes: Bow%205.png, Ice%2011.png
+HP (Lv. 120): 3912
 SP (Lv. 120): 386
 P.Atk (Lv. 120): 497
 P.Def (Lv. 120): 273
@@ -44,7 +44,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Kersjes/Potency_Up.png" alt="Kersjes/Potency_Up.png" width="40px" /> **Relax Strength ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kersjes/Potency_Up.png" alt="Kersjes/Potency_Up.png" width="40px" /> **Relax Strength ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise potency of Self by 100% when starting the turn with 0 BP.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Bow damage to Single Foe (potency: 290). Reactivate the effect (witho
 </aside>
 
 <aside>
-<img src="Kersjes/Bow%202.png" alt="Kersjes/Bow%202.png" width="40px" /> **Flowing Arrow ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kersjes/Bow%202.png" alt="Kersjes/Bow%202.png" width="40px" /> **Flowing Arrow ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe (potency: 230) and impart with Phys. Def. Down 15% (turns: 2). [40 SP]
 
 </aside>
@@ -232,29 +232,29 @@ Instead of **Sturdy Peerless Shot**
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 8, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 18, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kenjirou Tsuda](https://myanimelist.net/people/591/Kenjirou_Tsuda?q=Kenjirou%20Tsuda&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kenjirou Tsuda](https://myanimelist.net/people/591/Kenjirou_Tsuda?q=Kenjirou%20Tsuda&cat=person)
 
 </aside>
 

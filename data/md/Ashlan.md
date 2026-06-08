@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Sheperd's Rock
-Attributes: Bow%202.png, Dark%203.png
-HP (Lv. 120): 3.905
+Attributes: Bow%2037.png, Dark%2057.png
+HP (Lv. 120): 3905
 SP (Lv. 120): 452
 P.Atk (Lv. 120): 422
 P.Def (Lv. 120): 271
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Ashlan/Phys_Atk_Boost.png" alt="Ashlan/Phys_Atk_Boost.png" width="40px" /> **Phys. Atk. Boost III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ashlan/Phys_Atk_Boost.png" alt="Ashlan/Phys_Atk_Boost.png" width="40px" /> **Phys. Atk. Boost III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. by 20%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Bow damage to All Foes (potency: **175**). Guaranteed critical hit. [
 </aside>
 
 <aside>
-<img src="Ashlan/Bow%203.png" alt="Ashlan/Bow%203.png" width="40px" /> **Mindless Wild Shot ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ashlan/Bow%203.png" alt="Ashlan/Bow%203.png" width="40px" /> **Mindless Wild Shot ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 3 time(s) (potency: 3x85). Guaranteed critical hit. [58 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hisafumi Oda](https://myanimelist.net/people/10446/Hisafumi_Oda?q=Hisafumi%20Oda&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Hisafumi Oda](https://myanimelist.net/people/10446/Hisafumi_Oda?q=Hisafumi%20Oda&cat=person)
 
 </aside>
 

@@ -6,7 +6,7 @@ Job: Warrior
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Sword%2051.png, Lightning_Thunder%2039.png, Dark%2050.png
+Attributes: Sword%2027.png, Lightning_Thunder%2021.png, Dark%2026.png
 Adjusted Character: No
 
 ## Passive Skills
@@ -120,7 +120,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" alt="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" width="40px" /> **Sword Atk. Boost II & Limit Break IV ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" alt="https://img.game8.jp/6930266/9ef4013c2fd6d1186affdaf752e9e693.png/show" width="40px" /> **Sword Atk. Boost II & Limit Break IV ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Sword damage of Self by 15% and grant Damage Limit Up (effect: 25,000).
 
 </aside>
@@ -238,7 +238,7 @@ Revive a fallen ally (recovery amount: 25%-100% of max HP based on Boost Lv.) an
 </aside>
 
 <aside>
-<img src="Sail/Sword%206.png" alt="Sail/Sword%206.png" width="40px" /> **Wave Slash ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Sail/Sword%206.png" alt="Sail/Sword%206.png" width="40px" /> **Wave Slash ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Sword damage to Random Foe. Attack count rises based on Boost Lv. (potency: 2x120/3x95/4x85/5x100). [52 SP]
 
 </aside>
@@ -345,29 +345,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Free (Solistia)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Free (Solistia)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 22, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 16, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Natsuki Hanae](https://myanimelist.net/people/16635/Natsuki_Hanae)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Natsuki Hanae](https://myanimelist.net/people/16635/Natsuki_Hanae)
 
 </aside>
 

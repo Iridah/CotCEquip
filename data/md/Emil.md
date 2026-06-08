@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: NieR Universe (NieR series)
 Location: Memoir
-Attributes: Staff_Staves%207.png, Tome%2010.png, Dark%2018.png
-HP (Lv. 120): 3.502
+Attributes: Staff_Staves%207.png, Tome%2013.png, Dark%2015.png
+HP (Lv. 120): 3502
 SP (Lv. 120): 670
 P.Atk (Lv. 120): 276
 P.Def (Lv. 120): 307
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Emil/Elem_Atk_Limit_Up.jpeg" alt="Emil/Elem_Atk_Limit_Up.jpeg" width="40px" /> **Bursting Madness (Magic) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Emil/Elem_Atk_Limit_Up.jpeg" alt="Emil/Elem_Atk_Limit_Up.jpeg" width="40px" /> **Bursting Madness (Magic) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise own Elem. Atk. Up limit from battle skills and support skills and equipment effects to 50%.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Dark damage to Single Foe (potency: 260) and then attempt to consume 
 </aside>
 
 <aside>
-<img src="Emil/Vim_and_Vigor.png" alt="Emil/Vim_and_Vigor.png" width="40px" /> **Emil’s Regen ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Emil/Vim_and_Vigor.png" alt="Emil/Vim_and_Vigor.png" width="40px" /> **Emil’s Regen ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row automatic HP recovery (potency: 140, turns: 2) and cure some status ailments. [52 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** NieR Replicant Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 29, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 4, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mai Kadowaki](https://myanimelist.net/people/117/Mai_Kadowaki)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mai Kadowaki](https://myanimelist.net/people/117/Mai_Kadowaki)
 
 </aside>
 

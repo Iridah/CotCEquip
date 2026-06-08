@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Atlasdam
-Attributes: Axe%2028.png, Ice%2035.png
-HP (Lv. 120): 4.030
+Attributes: Axe%202.png, Ice%206.png
+HP (Lv. 120): 4030
 SP (Lv. 120): 468
 P.Atk (Lv. 120): 395
 P.Def (Lv. 120): 382
@@ -50,7 +50,7 @@ Raise own Ice Res. by 10%
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930246/2fa4ccbe0b4deace4bfec585fc84cb54.png/show" alt="https://img.game8.jp/6930246/2fa4ccbe0b4deace4bfec585fc84cb54.png/show" width="40px" /> **Hang Tough ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930246/2fa4ccbe0b4deace4bfec585fc84cb54.png/show" alt="https://img.game8.jp/6930246/2fa4ccbe0b4deace4bfec585fc84cb54.png/show" width="40px" /> **Hang Tough ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Survive an otherwise lethal attack with 1 HP remaining once per battle.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Ice damage to All Foes 3 time(s) (potency: 3x65). When near death: Ac
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Chilling Axe Elixir (All) II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80fa-8d81-007a9ef1d9b2" width="40px" /> **Chilling Axe Elixir (All) II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower Axe and Ice Res. of All Foes by 15% (turns: 2-5 based on Boost Lv.). [20 SP]
 
 </aside>
@@ -216,29 +216,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 May 11, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 8, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eiji Takeuchi](https://myanimelist.net/people/22419/Eiji_Takeuchi?q=Eiji%20Takeuchi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Eiji Takeuchi](https://myanimelist.net/people/22419/Eiji_Takeuchi?q=Eiji%20Takeuchi&cat=person)
 
 </aside>
 

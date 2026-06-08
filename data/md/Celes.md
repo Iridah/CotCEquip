@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Domination
 Continent: World of Balance (Final Fantasy VI)
 Location: Memoir
-Attributes: Sword%209.png, Ice%207.png, Light%2011.png
-HP (Lv. 120): 3.892
+Attributes: Sword%2049.png, Ice%2037.png, Light%2049.png
+HP (Lv. 120): 3892
 SP (Lv. 120): 406
 P.Atk (Lv. 120): 349
 P.Def (Lv. 120): 398
@@ -76,7 +76,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **Save the Queen ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **Save the Queen ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower own SP consumption by 30% and raise the critical damage multiplier for Elem. Ice attacks (1.25→1.6). Also add 20% of P.Atk to E.Atk (including equipment stats/Cannot be stacked).
 
 <aside>
@@ -172,7 +172,7 @@ Deal Elem. Ice damage to Single Foe 4 time(s) (potency: 4x35). Exploits Sword an
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **Cold Sacred Warblade ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **Cold Sacred Warblade ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to Single Foe (potency: 140). Exploits Sword and Light weaknesses (damage calculation based on Elem. Ice attack). Also grant Ice weakness (times: 4). Raise Damage Limit of this skill by 100,000. At Max Boost: Attack count becomes 2. With SP Stock and at Max Boost: Attack count becomes 3 instead. [56 SP]
 
 <aside>
@@ -260,28 +260,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Final Fantasy VI Crossover Guidance - Part II (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 25, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Houko Kuwashima](https://myanimelist.net/people/57/Houko_Kuwashima)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Wealth
 Continent: Orsterra
 Location: Cathedral of Thytos
-Attributes: Staff_Staves%202.png
-HP (Lv. 120): 3.512
+Attributes: Staff_Staves%2034.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 490
 P.Atk (Lv. 120): 306
 P.Def (Lv. 120): 324
@@ -43,7 +43,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" alt="https://img.game8.jp/7010695/c694ad4e39916a3a3f06a853b81efb0f.png/show" width="40px" /> **Extended Augment (Give) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Extend duration of augmenting effect granted by self by 1 turn (Does not stack).
 
 </aside>
@@ -125,7 +125,7 @@ Shortens duration of some enfeebling effects and status ailments on **All Allies
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **Endurance Aura II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80f9-b38d-007a8e50835c" width="40px" /> **Endurance Aura II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row Max HP Up 15% (turns: 2-5 based on Boost Lv.). [42 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 8, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 29, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou?q=Akari%20Kitou&cat=person)
 
 </aside>
 

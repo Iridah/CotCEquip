@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Valore
-Attributes: Bow%2026.png, Dark%2030.png
-HP (Lv. 120): 3.512
+Attributes: Bow%2034.png, Dark%2050.png
+HP (Lv. 120): 3512
 SP (Lv. 120): 502
 P.Atk (Lv. 120): 316
 P.Def (Lv. 120): 332
@@ -49,7 +49,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Narr/Phys_Atk_Boost.png" alt="Narr/Phys_Atk_Boost.png" width="40px" /> **Dark Assault ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Narr/Phys_Atk_Boost.png" alt="Narr/Phys_Atk_Boost.png" width="40px" /> **Dark Assault ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When blind enemy is present, impart Self with Phys. Atk. Up 30%.
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Bow damage to Single Foe (potency: **250**). [26 SP]
 </aside>
 
 <aside>
-<img src="Narr/Bow%202.png" alt="Narr/Bow%202.png" width="40px" /> **Arrow of Ignorance ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Narr/Bow%202.png" alt="Narr/Bow%202.png" width="40px" /> **Arrow of Ignorance ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe (potency: 290) and have a high chance to inflict blindness (turns: 2). [64 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Exchange Elite Fragments
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Nov 12, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 14, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruki Ishiya](https://myanimelist.net/people/29667/Haruki_Ishiya?q=Haruki%20Ishiya&cat=person)
 
 </aside>
 

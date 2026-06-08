@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: Valore
-Attributes: Bow%2039.png, Light%2066.png
-HP (Lv. 120): 3.862
+Attributes: Bow%2040.png, Light%2066.png
+HP (Lv. 120): 3862
 SP (Lv. 120): 471
 P.Atk (Lv. 120): 422
 P.Def (Lv. 120): 273
@@ -49,7 +49,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Critical Boost (Joint)** **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" alt="https://img.game8.jp/6930257/1bcbb0ec737a21a5e4284b699932d3c3.png/show" width="40px" /> **Critical Boost (Joint)** **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise critical damage of Paired Allies by 10%.
 
 </aside>
@@ -109,7 +109,7 @@ Deal Phys. Bow damage to Random Foe 3 time(s) (potency: **3x75**). [30 SP]
 </aside>
 
 <aside>
-<img src="Vivian/Bow%203.png" alt="Vivian/Bow%203.png" width="40px" /> **Arrow to the Mark ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Vivian/Bow%203.png" alt="Vivian/Bow%203.png" width="40px" /> **Arrow to the Mark ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe (potency: 230). Guaranteed critical hit [38 SP]
 
 </aside>
@@ -184,29 +184,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Fujita](https://myanimelist.net/people/40523/Yoko_Fujita?q=Yoko%20Fujita&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoko Fujita](https://myanimelist.net/people/40523/Yoko_Fujita?q=Yoko%20Fujita&cat=person)
 
 </aside>
 

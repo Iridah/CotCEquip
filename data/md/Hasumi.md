@@ -6,8 +6,8 @@ Job: Dancer
 Influence: Power
 Continent: Orsterra
 Location: Grandport
-Attributes: Fan%2017.png, Light%2026.png
-HP (Lv. 120): 3.576
+Attributes: Fan%2020.png, Light%2033.png
+HP (Lv. 120): 3576
 SP (Lv. 120): 572
 P.Atk (Lv. 120): 280
 P.Def (Lv. 120): 315
@@ -44,7 +44,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Hasumi/HP_Restoration.png" alt="Hasumi/HP_Restoration.png" width="40px" /> **Rearguard HP & SP Restoration (Front/Single) ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hasumi/HP_Restoration.png" alt="Hasumi/HP_Restoration.png" width="40px" /> **Rearguard HP & SP Restoration (Front/Single) ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When in back row: Grant Paired Ally automatic HP recovery (potency: 50) and SP recovery (amount: 5% of max SP).
 
 </aside>
@@ -126,7 +126,7 @@ Grant Entire Front Row automatic SP recovery (potency: 5, turns: 2-5 based on Bo
 </aside>
 
 <aside>
-<img src="Hasumi/Light%202.png" alt="Hasumi/Light%202.png" width="40px" /> **Divine Poetry ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Hasumi/Light%202.png" alt="Hasumi/Light%202.png" width="40px" /> **Divine Poetry ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Random Foe 4 time(s) (potency: 4x65) and act faster during next turn. [70 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 22, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Aug 31, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** Rie Takahashi
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** Rie Takahashi
 
 </aside>
 

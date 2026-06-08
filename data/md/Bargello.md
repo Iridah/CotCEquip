@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Dagger%206.png, Wind%205.png
-HP (Lv. 120): 3.752
+Attributes: Dagger%2045.png, Wind%2064.png
+HP (Lv. 120): 3752
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 488
 P.Def (Lv. 120): 295
@@ -50,17 +50,17 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Bargello/BP_Recovery_Boost.png" alt="Bargello/BP_Recovery_Boost.png" width="40px" /> **BP Recovery Boost during Break ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bargello/BP_Recovery_Boost.png" alt="Bargello/BP_Recovery_Boost.png" width="40px" /> **BP Recovery Boost during Break ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise BP recovery amount of Self by 1 when a broken enemy is present.
 
 <aside>
-<img src="Bargello/BP_Recovery_Boost.png" alt="Bargello/BP_Recovery_Boost.png" width="40px" /> **BP Recovery Boost during Break ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Bargello/BP_Recovery_Boost.png" alt="Bargello/BP_Recovery_Boost.png" width="40px" /> **BP Recovery Boost during Break ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise BP recovery amount of **Paired Allies** by 1 and grant automatic SP recovery (amount: 10% of max SP) when a broken enemy is present.
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Damage Limit of Phys. Dagger and Elem. Wind attacks of All Allies by 15,000.
 
 </aside>
@@ -138,11 +138,11 @@ Deal Phys. Dagger damage to Single Foe 3 time(s) (potency: 3x85). 30% more poten
 </aside>
 
 <aside>
-<img src="Bargello/Dagger%201.png" alt="Bargello/Dagger%201.png" width="40px" /> **Ardito ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Bargello/Dagger%201.png" alt="Bargello/Dagger%201.png" width="40px" /> **Ardito ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to Single Foe (potency: 40). At Max Boost, consume 100 SP of each ally. Attack count increases with each ally affected (up to 8 time(s) with 8 travelers). [12 SP]
 
 <aside>
-<img src="Bargello/Dagger%201.png" alt="Bargello/Dagger%201.png" width="40px" /> **Ardito ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Bargello/Dagger%201.png" alt="Bargello/Dagger%201.png" width="40px" /> **Ardito ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Dagger damage to Single Foe (potency: **45**). At Max Boost, consume **80** SP of each ally. Attack count increases with each ally affected (up to 8 time(s) with 8 travelers). [12 SP]
 
 </aside>
@@ -227,29 +227,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kaito Ishikawa](https://myanimelist.net/people/20156/Kaito_Ishikawa?q=Kaito%20Ishikawa&cat=person)
 
 </aside>
 

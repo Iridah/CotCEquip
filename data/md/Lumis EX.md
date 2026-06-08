@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Fame
 Continent: Orsterra
 Location: Donescu
-Attributes: Bow%2024.png, Lightning_Thunder%2021.png
-HP (Lv. 120): 3.985
+Attributes: Bow%2012.png, Lightning_Thunder%2020.png
+HP (Lv. 120): 3985
 SP (Lv. 120): 459
 P.Atk (Lv. 120): 430
 P.Def (Lv. 120): 406
@@ -44,11 +44,11 @@ Raise own Lightning Res. by 10%.
 </aside>
 
 <aside>
-<img src="Lumis%20EX/BP_Recovery_Boost.png" alt="Lumis%20EX/BP_Recovery_Boost.png" width="40px" /> **Sacred Night’s Gift ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lumis%20EX/BP_Recovery_Boost.png" alt="Lumis%20EX/BP_Recovery_Boost.png" width="40px" /> **Sacred Night’s Gift ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, restore 2 BP of All Allies.
 
 <aside>
-<img src="Lumis%20EX/BP_Recovery_Boost.png" alt="Lumis%20EX/BP_Recovery_Boost.png" width="40px" /> **Sacred Night’s Gift ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Lumis%20EX/BP_Recovery_Boost.png" alt="Lumis%20EX/BP_Recovery_Boost.png" width="40px" /> **Sacred Night’s Gift ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 (Enhancement is applied on an adjusted skill with respect to JP).
 
 </aside>
@@ -133,11 +133,11 @@ Deal Phys. Bow damage to Random Foe 4 time(s) (potency: 4x65). Exploits Lightnin
 </aside>
 
 <aside>
-<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **Thundering Arrows ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **Thundering Arrows ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe 5 time(s) (potency: 5x30). Exploits Lightning weakness (damage calculation based on Phys. Bow attack). Attack 5 more times if the target has o more than 5 Shield Points afterwards.
 
 <aside>
-<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **Thundering Arrows ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **Thundering Arrows ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 (Enhancement is applied on an adjusted skill with respect to JP).
 
 </aside>
@@ -217,7 +217,7 @@ Uses: 2
 Raise ~~Phys. Atk.,~~ Critical~~, Bow damage~~ and critical damage of Paired Allies by 15%.
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Sacred Night’s Blessing (Joint)**
 
@@ -226,17 +226,17 @@ Raise ~~Phys. Atk.,~~ Critical~~, Bow damage~~ and critical damage of Paired All
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **月冴ゆる祝聖 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **月冴ゆる祝聖 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise Phys. Atk. and Bow damage of Self by 15%.
 
 <aside>
-<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **月冴ゆる祝聖 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" alt="https://img.game8.jp/6930264/24b55d7577091c0cb934eef83b75b2c5.png/show" width="40px" /> **月冴ゆる祝聖 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Phys. Atk. and Bow damage of Self by 15% and BP recovery by 1.
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Sacred Night’s Gift**
 
@@ -259,7 +259,7 @@ Deal Phys. Bow damage to Random Foe 4 time(s) (potency: 4x65). Exploits Lightnin
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Wild Levin Arrows**
 
@@ -268,17 +268,17 @@ Deal Phys. Bow damage to Random Foe 4 time(s) (potency: 4x65). Exploits Lightnin
 </aside>
 
 <aside>
-<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **多重雷矢 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **多重雷矢 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 From the turn after this skill is used, deal Phys. Bow damage to All Foes once before some allies act (potency: 180, turns: 2-5 based on Boost Lv.) and have a moderate chance to lower Bow and Lightning Res. by 15% (turns: 2). Exploits Lightning weakness (damage calculation based on Phys. Bow attack). [101 SP]
 
 <aside>
-<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **多重雷矢 ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Lumis%20EX/Bow%205.png" alt="Lumis%20EX/Bow%205.png" width="40px" /> **多重雷矢 ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 From the turn after this skill is used, deal Phys. Bow damage to All Foes once before some allies act (potency: 180, turns: **3-6** based on Boost Lv.) and have a moderate chance to lower Bow and Lightning Res. by 15% (turns: **3**). Exploits Lightning weakness (damage calculation based on Phys. Bow attack). [101 SP]
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/swap-horizontally_gray.svg" alt="https://www.notion.so/icons/swap-horizontally_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/swap-horizontally_gray.svg" alt="https://app.notion.com/icons/swap-horizontally_gray.svg" width="40px" />
 
 **Thundering Arrows**
 
@@ -322,29 +322,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Hallowed Travelers (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Hallowed Travelers (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 15, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Dec 6, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu?q=Haruka%20Tomatsu&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Haruka Tomatsu](https://myanimelist.net/people/890/Haruka_Tomatsu?q=Haruka%20Tomatsu&cat=person)
 
 </aside>
 

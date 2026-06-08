@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Orsterra
 Location: Sunshade
-Attributes: Spear_Polearm%2029.png, Light%2051.png
-HP (Lv. 120): 4.350
+Attributes: Spear_Polearm%2037.png, Light%2067.png
+HP (Lv. 120): 4350
 SP (Lv. 120): 421
 P.Atk (Lv. 120): 414
 P.Def (Lv. 120): 398
@@ -43,7 +43,7 @@ Raise own Light Res. by 10%.
 </aside>
 
 <aside>
-<img src="Pia/HP_Restoration.png" alt="Pia/HP_Restoration.png" width="40px" /> **Automatic HP Recovery with 50% HP or less ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pia/HP_Restoration.png" alt="Pia/HP_Restoration.png" width="40px" /> **Automatic HP Recovery with 50% HP or less ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At 50% HP or less: Grant automatic HP recovery (potency: 90).
 
 </aside>
@@ -125,7 +125,7 @@ Deal Phys. Polearm damage to Single Foe 2 time(s) (potency: **2x115**). [21 SP]
 </aside>
 
 <aside>
-<img src="Pia/Spear_Polearm%201.png" alt="Pia/Spear_Polearm%201.png" width="40px" /> **Triple Thrust ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Pia/Spear_Polearm%201.png" alt="Pia/Spear_Polearm%201.png" width="40px" /> **Triple Thrust ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage to Random Foes 3 time(s) (potency: 3x85). 20% more potent if the target is provoked. [62 SP]
 
 </aside>
@@ -199,29 +199,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Ai Kakuma](https://myanimelist.net/people/18511/Ai_Kakuma?q=Ai%20Kakuma&cat=person)
 
 </aside>
 

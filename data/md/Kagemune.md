@@ -6,8 +6,8 @@ Job: Thief
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Dagger%2019.png, Fire%2031.png, Ice%2021.png, Wind%2020.png
-HP (Lv. 120): 3.682
+Attributes: Dagger%2020.png, Fire%2026.png, Ice%2019.png, Wind%2021.png
+HP (Lv. 120): 3682
 SP (Lv. 120): 432
 P.Atk (Lv. 120): 488
 P.Def (Lv. 120): 225
@@ -61,7 +61,7 @@ Raise own Lightning Res. by 20%.
 </aside>
 
 <aside>
-<img src="Kagemune/Thief_Wrath.png" alt="Kagemune/Thief_Wrath.png" width="40px" /> **Plague Pursuit ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kagemune/Thief_Wrath.png" alt="Kagemune/Thief_Wrath.png" width="40px" /> **Plague Pursuit ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Trigger a follow-up effect after performing some attacks (excluding counters and Ultimate Techniques/only activates once per action).
 Follow-up effect: Inflict either combust, frostbite or corrosion on Random Foe (turns: 1).
 
@@ -153,7 +153,7 @@ Deal Phys. Dagger damage to Single Foe 2 time(s) (potency: 2x90). The faster you
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **Blighted Moon ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8028-a021-007a2193e010" width="40px" /> **Blighted Moon ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger damage to All Foes (potency: 120). Lower Shield Points even when not striking weak points. At Max Boost: Cause them to combust and inflict frostbite and corrosion (turns: 6), but own HP will drop to 1 if Midnight Shadow is not active. [62 SP]
 
 <aside>
@@ -280,29 +280,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Tourney (Solistia)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Dec 19, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 6, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuhiko Inoue](https://myanimelist.net/people/21/Kazuhiko_Inoue)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Kazuhiko Inoue](https://myanimelist.net/people/21/Kazuhiko_Inoue)
 
 </aside>
 

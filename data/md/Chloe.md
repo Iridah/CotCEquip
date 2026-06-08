@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: Grandport
-Attributes: Bow%206.png, Wind%209.png
-HP (Lv. 120): 3.802
+Attributes: Bow.png, Wind%203.png
+HP (Lv. 120): 3802
 SP (Lv. 120): 491
 P.Atk (Lv. 120): 427
 P.Def (Lv. 120): 243
@@ -50,7 +50,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **SP Cost Down II ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" alt="https://img.game8.jp/7217332/b01417a0bfe8a3ecc2e6ac60df45fb5b.png/show" width="40px" /> **SP Cost Down II ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Lower SP consumption by 20% (Does not stack).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Bow damage to Single Foe (potency: 260) and restore HP of Entire Fron
 </aside>
 
 <aside>
-<img src="Chloe/Bow%204.png" alt="Chloe/Bow%204.png" width="40px" /> **Charm Arrow ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Chloe/Bow%204.png" alt="Chloe/Bow%204.png" width="40px" /> **Charm Arrow ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe 4 time(s) (potency: 4x45) and have a moderate chance to inflict charm (turns: 2). [54 SP]
 
 <aside>
@@ -213,29 +213,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 6, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 May 10, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mariya Ise](https://myanimelist.net/people/655/Mariya_Ise?q=Mariya%20Ise&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Mariya Ise](https://myanimelist.net/people/655/Mariya_Ise?q=Mariya%20Ise&cat=person)
 
 </aside>
 

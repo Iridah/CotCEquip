@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Fame
 Continent: Norzelia (TRIANGLE STRATEGY)
 Location: Memoir
-Attributes: Tome%2013.png, Fire%2023.png
-HP (Lv. 120): 3.636
+Attributes: Tome%2027.png, Fire%2040.png
+HP (Lv. 120): 3636
 SP (Lv. 120): 652
 P.Atk (Lv. 120): 271
 P.Def (Lv. 120): 331
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Break Repeated Aria ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" alt="https://img.game8.jp/6974757/32d91e4cab8447d366e20e2ffc44e560.png/show" width="40px" /> **Break Repeated Aria ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy or broken enemy is present, own elemental battle skills activate twice. (Does not stack with effects of the same type/Additional activations do not consume SP).
 
 </aside>
@@ -141,7 +141,7 @@ Deal Elem. Fire damage to All Foes 3 time(s) (potency: 3x80) and cause them to c
 </aside>
 
 <aside>
-<img src="Frederica/Fire%203.png" alt="Frederica/Fire%203.png" width="40px" /> **Pillars of Chaotic Fire ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Frederica/Fire%203.png" alt="Frederica/Fire%203.png" width="40px" /> **Pillars of Chaotic Fire ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Random Foe 5 time(s) (potency: 5x35) and cause them to combust with every attack (turns: 2). [76 SP]
 
 <aside>
@@ -342,29 +342,29 @@ Gauge Increase:
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** TRIANGLE STRATEGY Crossover Guidance (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** TRIANGLE STRATEGY Crossover Guidance (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 28, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 20, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/history_gray.svg" alt="https://www.notion.so/icons/history_gray.svg" width="40px" /> **TRIANGLE STRATEGY Crossover Return Dates:**
+<img src="https://app.notion.com/icons/history_gray.svg" alt="https://app.notion.com/icons/history_gray.svg" width="40px" /> **TRIANGLE STRATEGY Crossover Return Dates:**
 Apr 17, 2024
 May 29, 2025
 Oct 16, 2025
@@ -372,7 +372,7 @@ Oct 16, 2025
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Minami Tsuda](https://myanimelist.net/people/11492/Minami_Tsuda?q=Minami%20Tsuda&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Minami Tsuda](https://myanimelist.net/people/11492/Minami_Tsuda?q=Minami%20Tsuda&cat=person)
 
 </aside>
 

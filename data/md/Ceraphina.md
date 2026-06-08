@@ -6,8 +6,8 @@ Job: Apothecary
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Dark%209.png, Light%2012.png
-HP (Lv. 120): 4.000
+Attributes: Dark%2016.png, Light%2015.png
+HP (Lv. 120): 4000
 SP (Lv. 120): 488
 P.Atk (Lv. 120): 285
 P.Def (Lv. 120): 382
@@ -56,7 +56,7 @@ Raise own Dark Res. by 20%.
 </aside>
 
 <aside>
-<img src="Ceraphina/Elem_atk_Boost.png" alt="Ceraphina/Elem_atk_Boost.png" width="40px" /> **Depravity of the New God ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ceraphina/Elem_atk_Boost.png" alt="Ceraphina/Elem_atk_Boost.png" width="40px" /> **Depravity of the New God ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When enemy with Curse Brand is present: Raise own Elem. Atk. by 30% and Light and Dark damage by 30%.
 
 </aside>
@@ -143,7 +143,7 @@ Deal Elem. Light damage to All Foes **4** time(s) (potency: **4x95**). Exploits 
 </aside>
 
 <aside>
-<img src="Ceraphina/Light%203.png" alt="Ceraphina/Light%203.png" width="40px" /> **Accursed Judgement ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ceraphina/Light%203.png" alt="Ceraphina/Light%203.png" width="40px" /> **Accursed Judgement ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Light damage to Single Foe 4 time(s) (potency: 4x100). Exploits Dark weakness (damage calculation based on Elem. Light attack). When an enemy with Curse Brand is present: Guaranteed critical hits. [99 SP]
 
 </aside>
@@ -231,29 +231,29 @@ Follow-up Light/Dark: Deal Elem. Light/Dark to All Foes (potency: 100).
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Champion of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 10, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Oct 30, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Manaka Iwami](https://myanimelist.net/people/44317/Manaka_Iwami)
 
 </aside>
 

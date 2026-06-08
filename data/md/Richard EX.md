@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Fame
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2047.png, Polearm%207.png, Dagger%2035.png, Axe%2031.png, Bow%2032.png, Staff%207.png, Tome%2039.png, Fan%2035.png
-HP (Lv. 120): 4.650
+Attributes: Sword%209.png, Polearm.png, Dagger%2012.png, Axe%206.png, Bow%207.png, Staff%201.png, Tome%207.png, Fan%209.png
+HP (Lv. 120): 4650
 SP (Lv. 120): 472
 P.Atk (Lv. 120): 614
 P.Def (Lv. 120): 448
@@ -51,17 +51,17 @@ Raise own Phys. Res. by 15%.
 </aside>
 
 <aside>
-<img src="Richard%20EX/Potency_Up.png" alt="Richard%20EX/Potency_Up.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Richard%20EX/Potency_Up.png" alt="Richard%20EX/Potency_Up.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise potency of Self by 100% (Does not stack with effects of the same type).
 
 <aside>
-<img src="Richard%20EX/Potency_Up.png" alt="Richard%20EX/Potency_Up.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Richard%20EX/Potency_Up.png" alt="Richard%20EX/Potency_Up.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Potency Up effects of Self by 50% (Does not stack). At full HP: Raise potency of Self by 100% (Does not stack with effects of the same type) and grant Damage Limit Up (effect: 100,000).
 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Raise Self’s Damage Limit by 50,000.
 
 </aside>
@@ -139,11 +139,11 @@ Deal Phys. Polearm damage (potency: 230) and Phys. Sword damage (potency: 230) t
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Polearm damage (potency: 260) and Phys. Axe damage (potency: 260) to Single Foe. Raise Damage Limit of this skill by 300,000. At Max Boost: Activate this skill twice. [300 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8074-b60b-007a21dcce2e" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Phys. Polearm damage (potency: 260), Phys. Bow damage (potency: 260) and Phys. Axe damage (potency: 260) to Single Foe. Raise Damage Limit of this skill by 300,000. At Max Boost: Activate this skill twice. [300 SP]
 
 </aside>
@@ -228,28 +228,28 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 23, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Takamasa Mogi](https://myanimelist.net/people/45843/Takamasa_Mogi?q=Takamasa%20Mogi&cat=person)
 
 </aside>
 

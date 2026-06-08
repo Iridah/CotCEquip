@@ -6,8 +6,8 @@ Job: Merchant
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Spear_Polearm%2031.png, Wind%2044.png
-HP (Lv. 120): 3.990
+Attributes: Spear_Polearm%206.png, Wind%2015.png
+HP (Lv. 120): 3990
 SP (Lv. 120): 432
 P.Atk (Lv. 120): 454
 P.Def (Lv. 120): 388
@@ -49,7 +49,7 @@ Raise own Wind Res. by 10%.
 </aside>
 
 <aside>
-<img src="Rique/Critical_Elemental_Damage.png" alt="Rique/Critical_Elemental_Damage.png" width="40px" /> **Cait Merchant’s Thriftiness ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Rique/Critical_Elemental_Damage.png" alt="Rique/Critical_Elemental_Damage.png" width="40px" /> **Cait Merchant’s Thriftiness ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Entire Front Row effects based on own consumed BP on that turn (turns: 1).
 · 1 BP or more: Grant the ability to deal critical hits with elemental attacks.
 · 2 BP or more: Also raise Phys. Atk. and Elem. Atk. by 10%.
@@ -134,7 +134,7 @@ Act faster during turn and deal Elem. Wind damage to All Foes 4 time(s) (potency
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Cait Merchant’s Health Drink ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" alt="https://img.game8.jp/6909197/4eaa54be6aac9c9c4a1b006531ef1771.png/show" width="40px" /> **Cait Merchant’s Health Drink ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Restore own SP (amount: 50-125 based on Boost Lv.). Grant additional effects when consuming BP. [41 SP]
 · 1 BP or more: Grant the same target the ability to dodge physical attacks (times: 1)
 · 2 BP or more: Additionally, restore HP of the same target (potency: 100)
@@ -338,29 +338,29 @@ Gauge Increase: 15%/BP→20%/BP→30%/BP
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Cait of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 15, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Sep 11, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshiko Shibao](https://www.behindthevoiceactors.com/Yoshiko-Shibao/)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshiko Shibao](https://www.behindthevoiceactors.com/Yoshiko-Shibao/)
 
 </aside>
 

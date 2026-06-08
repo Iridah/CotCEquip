@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: I'cirlo
-Attributes: Bow%2017.png, Dark%2024.png
-HP (Lv. 120): 3.722
+Attributes: Bow%2023.png, Dark%2033.png
+HP (Lv. 120): 3722
 SP (Lv. 120): 455
 P.Atk (Lv. 120): 468
 P.Def (Lv. 120): 276
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Jillmeila/Potency_Up.png" alt="Jillmeila/Potency_Up.png" width="40px" /> **Blood Tide ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Jillmeila/Potency_Up.png" alt="Jillmeila/Potency_Up.png" width="40px" /> **Blood Tide ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Raise potency of Self by 30% when bleeding enemy is present (Effects of the same type do not stack).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Bow damage to Single Foe (potency: 260). 20% more potent if target is
 </aside>
 
 <aside>
-<img src="Jillmeila/Bow%202.png" alt="Jillmeila/Bow%202.png" width="40px" /> **Crimson Rage Strike ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Jillmeila/Bow%202.png" alt="Jillmeila/Bow%202.png" width="40px" /> **Crimson Rage Strike ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Random Foe 4 time(s) (potency: 4x45) and inflict bleeding with every attack (turns: 2). [56 SP]
 
 </aside>
@@ -213,29 +213,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Sep 9, 2021
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Feb 15, 2023
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Itou](https://myanimelist.net/people/93/Shizuka_Itou)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Shizuka Itou](https://myanimelist.net/people/93/Shizuka_Itou)
 
 </aside>
 

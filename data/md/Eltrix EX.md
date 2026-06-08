@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Wealth
 Continent: Orsterra
 Location: Memoir
-Attributes: Sword%2019.png, Axe%2011.png, Bow%2010.png, Ice%2011.png
-HP (Lv. 120): 4.022
+Attributes: Sword%2037.png, Axe%2021.png, Bow%2015.png, Ice%2024.png
+HP (Lv. 120): 4022
 SP (Lv. 120): 466
 P.Atk (Lv. 120): 357
 P.Def (Lv. 120): 278
@@ -60,7 +60,7 @@ Raise own Ice Res. by 10%.
 </aside>
 
 <aside>
-<img src="Eltrix%20EX/Elem_atk_Boost%201.png" alt="Eltrix%20EX/Elem_atk_Boost%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Eltrix%20EX/Elem_atk_Boost%201.png" alt="Eltrix%20EX/Elem_atk_Boost%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 With HP Barrier: Raise the Elem. Atk. limit from support and equipment effects of Self to 50% and own Elem. Atk. by 20%. Also reduce damage taken from some attacks by 15% (Does not stack with effects of the same type) and lower SP consumption by 50%.
 
 </aside>
@@ -161,7 +161,7 @@ Deal Elem. Ice damage to Random Foe 3 time(s) (potency: 3x65). Exploits Bow weak
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8068-94ab-007ad209dd4f" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Ice damage to All Foes (potency: 530). Exploits Sword weakness (damage calculation based on Elem. Ice attack). Also grant Self HP Barrier (potency: 100% of user’s Max HP/Does not stack). [500 SP]
 
 <aside>
@@ -259,28 +259,28 @@ Uses: 5
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Summer Guidance (Eltrix EX & Rondo EX)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Summer Guidance (Eltrix EX & Rondo EX)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jul 31, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Youko Hikasa](https://myanimelist.net/people/7263/Youko_Hikasa?q=Youko%20Hikasa&cat=person)
 
 </aside>
 

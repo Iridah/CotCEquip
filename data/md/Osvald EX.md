@@ -6,8 +6,8 @@ Job: Cleric
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Dark%2037.png, Light%2049.png
-HP (Lv. 120): 3.452
+Attributes: Dark%2021.png, Light%2021.png
+HP (Lv. 120): 3452
 SP (Lv. 120): 550
 P.Atk (Lv. 120): 281
 P.Def (Lv. 120): 282
@@ -56,7 +56,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Thron%C3%A9/Latent_Power_Throne.png" alt="Thron%C3%A9/Latent_Power_Throne.png" width="40px" /> **Latent Power: Last Rites ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Thron%C3%A9/Latent_Power_Throne.png" alt="Thron%C3%A9/Latent_Power_Throne.png" width="40px" /> **Latent Power: Last Rites ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, gain Last Rites (turns: 1).
 Last Rites: Skill configuration changes to the following.
 
@@ -170,7 +170,7 @@ Deal Elem. Dark damage to Single Foe (potency: 290). Exploits Light weakness (da
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80d1-80c7-007a29a110de" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80d1-80c7-007a29a110de" width="40px" /> **Odium (All) III ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80d1-80c7-007a29a110de" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80d1-80c7-007a29a110de" width="40px" /> **Odium (All) III ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Dark damage to All Foes 3 time(s) (potency: 3x80) and lower their Elem. Def. by 15% (turns: 2). Exploits Light weakness (damage calculation based on Elem. Dark attack). [81 SP]
 
 </aside>
@@ -257,29 +257,29 @@ Uses: 2
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Apr 24, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jan 15, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jouji Nakata](https://myanimelist.net/people/91/Jouji_Nakata)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Jouji Nakata](https://myanimelist.net/people/91/Jouji_Nakata)
 
 </aside>
 

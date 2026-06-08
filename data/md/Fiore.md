@@ -6,8 +6,8 @@ Job: Warrior
 Influence: Fame
 Continent: Orsterra
 Location: Rippletide
-Attributes: Sword%2022.png, Dark%2021.png
-HP (Lv. 120): 4.042
+Attributes: Sword%203.png, Dark%205.png
+HP (Lv. 120): 4042
 SP (Lv. 120): 356
 P.Atk (Lv. 120): 469
 P.Def (Lv. 120): 408
@@ -50,7 +50,7 @@ Raise own Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="Fiore/Phys_Atk_Boost%202.png" alt="Fiore/Phys_Atk_Boost%202.png" width="40px" /> **Aspiration for Knighthood ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Fiore/Phys_Atk_Boost%202.png" alt="Fiore/Phys_Atk_Boost%202.png" width="40px" /> **Aspiration for Knighthood ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When broken enemy is present, raise own Phys. Atk. by 10% and Sword damage by 10% and grant Self Damage Limit Up (effect: 50,000).
 
 </aside>
@@ -126,7 +126,7 @@ Deal Phys. Sword damage to All Foes 2 time(s) (potency: 2x95). [56 SP]
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Once More ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" alt="https://img.game8.jp/6909195/fb1af3b553f4112d4403e0f7452fd2a2.png/show" width="40px" /> **Once More ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to trigger battle skills 2 times (turns: 2/Cannot be extended/Additional instances do not cost SP). Also, grant Dead Aim (guaranteed critical hits) (turns: 3-6 based on Boost Lv.). [40 SP]
 
 </aside>
@@ -208,29 +208,29 @@ Uses: 4
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 28, 2020
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Jul 27, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi?q=Saori%20Oonishi&cat=person)
 
 </aside>
 

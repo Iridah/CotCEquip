@@ -6,8 +6,8 @@ Job: Hunter
 Influence: Power
 Continent: Orsterra
 Location: Memoir
-Attributes: Bow%207.png, Fire%2014.png, Ice%209.png, Lightning_Thunder%206.png, Wind%2012.png, Light%2015.png, Dark%2014.png
-HP (Lv. 120): 3.747
+Attributes: Bow%2016.png, Fire%2036.png, Ice%2025.png, Lightning_Thunder%2024.png, Wind%2026.png, Light%2032.png, Dark%2029.png
+HP (Lv. 120): 3747
 SP (Lv. 120): 506
 P.Atk (Lv. 120): 517
 P.Def (Lv. 120): 278
@@ -58,7 +58,7 @@ Raise own Light and Dark Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" alt="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" width="40px" /> **Salvific Wisdom ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" alt="https://img.game8.jp/6930255/17bbb3a57e1f99256daf824e99d41a44.png/show" width="40px" /> **Salvific Wisdom ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 At full HP: Raise Bow damage of Entire Front Row by 10%, the limit of Bow damage augments from support skills and equipment effects to 50% and Damage Limit by 30,000.
 
 </aside>
@@ -140,7 +140,7 @@ Deal Phys. Bow damage to All Foes (potency: 4x45). Exploits Light and Dark weakn
 </aside>
 
 <aside>
-<img src="Ditraina%20EX/Bow%207.png" alt="Ditraina%20EX/Bow%207.png" width="40px" /> **Cycles of Time ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Ditraina%20EX/Bow%207.png" alt="Ditraina%20EX/Bow%207.png" width="40px" /> **Cycles of Time ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Bow damage to Single Foe 4 time(s) (potency: 4x100). Exploits Light and Dark weakness (damage calculation based on Phys. Bow attack). Damage Limit of this skill is increased by 50,000. When selecting this action with 9+ Intuition Points: 200% more potent, but own Intuition Points resets to 0. [104 SP]
 
 </aside>
@@ -275,29 +275,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Traveler of Memories (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Oct 24, 2024
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 13, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Miho Okasaki](https://myanimelist.net/people/47918/Miho_Okasaki?cat=person)
 
 </aside>
 

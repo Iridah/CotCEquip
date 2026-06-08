@@ -6,8 +6,8 @@ Job: Thief
 Influence: Wealth
 Continent: Orsterra
 Location: Cragspear
-Attributes: Dagger%2040.png, Fire%2070.png
-HP (Lv. 120): 3.712
+Attributes: Dagger%2031.png, Fire%2049.png
+HP (Lv. 120): 3712
 SP (Lv. 120): 412
 P.Atk (Lv. 120): 443
 P.Def (Lv. 120): 275
@@ -50,7 +50,7 @@ Raise own Fire Res. by 10%.
 </aside>
 
 <aside>
-<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Opportunity ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" alt="https://img.game8.jp/6930245/12bd23b54944d9ffb9fcef8b04c3ee5f.png/show" width="40px" /> **Opportunity ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 When breaking an enemy, restore 1 BP.
 
 </aside>
@@ -126,7 +126,7 @@ Deal Elem. Fire damage to All Foes 2 time(s) (potency: 2x95). Lower Shield Point
 </aside>
 
 <aside>
-<img src="Therion/Dagger%204.png" alt="Therion/Dagger%204.png" width="40px" /> **Mirage Assault ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Therion/Dagger%204.png" alt="Therion/Dagger%204.png" width="40px" /> **Mirage Assault ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Phys. Dagger Damage to All Foes 3 time(s) (potency: 3x80). [68 SP]
 
 </aside>
@@ -213,29 +213,29 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Chance Encounters
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Yes
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jan 1, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 Nov 24, 2022
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshitsugu Matsuoka](https://myanimelist.net/people/11817/Yoshitsugu_Matsuoka?q=Yoshitsugu%20Matsuoka&cat=person)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Yoshitsugu Matsuoka](https://myanimelist.net/people/11817/Yoshitsugu_Matsuoka?q=Yoshitsugu%20Matsuoka&cat=person)
 
 </aside>
 

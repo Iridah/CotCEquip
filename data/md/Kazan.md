@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Domination
 Continent: Solistia
 Location: Memoir Logs
-Attributes: Tome%2019.png, Fire%2032.png, Wind%2021.png
-HP (Lv. 120): 3.486
+Attributes: Tome%2036.png, Fire%2054.png, Wind%2042.png
+HP (Lv. 120): 3486
 SP (Lv. 120): 672
 P.Atk (Lv. 120): 266
 P.Def (Lv. 120): 306
@@ -44,7 +44,7 @@ Raise own Wind Res. by 10%
 </aside>
 
 <aside>
-<img src="Kazan/Stormy_Plan.jpg" alt="Kazan/Stormy_Plan.jpg" width="40px" /> **Latent Power: “The Stormy Plan” ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Kazan/Stormy_Plan.jpg" alt="Kazan/Stormy_Plan.jpg" width="40px" /> **Latent Power: “The Stormy Plan” ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Upon activation, cast countdown on Self (count: 3). Once the countdown ends, deal Elem. Wind damage to All Foes (potency: 410). Exploits Fire weakness (damage calculation based on Elem. Wind attack). Potency doubles when the target is broken.
 *If activated again while the countdown is still active, countdown is cancelled.
 *This attack cannot be casted multiple times by the support skill “Sake Testing”.
@@ -168,7 +168,7 @@ Deal Elem. Wind damage to Single Foe 5 time(s) (potency: 5x55) and lower Elem. D
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8015-8194-007ab3cc8faa" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8015-8194-007ab3cc8faa" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8015-8194-007ab3cc8faa" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-8015-8194-007ab3cc8faa" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Wind damage to Single Foe (potency: 530). Exploits Tome and Fire weakness (damage calculation based on Elem. Wind attack). Additionally, have a 50% chance to recover 3 BP and a 30% chance to restore own SP (amount: 100). 10% more potent when the target is broken. [300 SP]
 
 </aside>
@@ -260,28 +260,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Memoirs of Solistia (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Jun 19, 2025
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomokazu Sugita](https://myanimelist.net/people/2/Tomokazu_Sugita)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Tomokazu Sugita](https://myanimelist.net/people/2/Tomokazu_Sugita)
 
 </aside>
 

@@ -6,8 +6,8 @@ Job: Scholar
 Influence: Power
 Continent: Empire of Avalon (Romancing SaGa 2)
 Location: Memoir
-Attributes: Tome%2012.png, Fire%2022.png, Wind%2015.png, Light%2024.png
-HP (Lv. 120): 3.936
+Attributes: Tome%2035.png, Fire%2053.png, Wind%2041.png, Light%2050.png
+HP (Lv. 120): 3936
 SP (Lv. 120): 752
 P.Atk (Lv. 120): 301
 P.Def (Lv. 120): 386
@@ -88,14 +88,14 @@ Raise own Light Res. by 15%.
 </aside>
 
 <aside>
-<img src="Final%20Empress/Weak-point-follow-up.png" alt="Final%20Empress/Weak-point-follow-up.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="Final%20Empress/Weak-point-follow-up.png" alt="Final%20Empress/Weak-point-follow-up.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Grant Self the ability to trigger a follow-up attack when an ally in the Entire Front Row exploits an enemy weakness (only activates once per action).
 Follow-up attack: Deal Elem. Non-Elemental damage to Single Foe (potency: 100). Augment this follow-up attack based on number of allies with at least 1 “Technique”.
 ·4+: Potency is increased by 1.5x.
 ·6+: Ignores Phys. Def. Up, Elem. Def. Up and damage reductions.
 
 <aside>
-<img src="Final%20Empress/Weak-point-follow-up%201.png" alt="Final%20Empress/Weak-point-follow-up%201.png" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="Final%20Empress/Weak-point-follow-up%201.png" alt="Final%20Empress/Weak-point-follow-up%201.png" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Grant Self the ability to trigger a follow-up attack when an ally in the Entire Front Row exploits an enemy weakness (only activates once per action).
 Follow-up attack: Deal Elem. Non-Elemental damage to Single Foe **2** time(s) (potency: **2x100**). Augment this follow-up attack based on number of allies with at least 1 “Technique”.
 ·4+: Potency is increased by 1.5x.
@@ -104,7 +104,7 @@ Follow-up attack: Deal Elem. Non-Elemental damage to Single Foe **2** time(s) (p
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/17debbc6-5396-80a6-933a-007af3a7f551" width="40px" /> **Damage Limit Up ([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 When the potency of an attack is higher than 100, raise Self’s Damage Limit gradually based on potency value (Damage Limit Up is multiplied by 2x at 500 potency, by 3x at 900).
 
 </aside>
@@ -207,11 +207,11 @@ Deal Elem. Light damage to All Foes 4 time(s) (potency: 4x45) and cause them to 
 </aside>
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21))**
 Deal Elem. Fire damage to Single Foe 3 time(s) (potency: 3x180) and lower Elem. Res. by 30% (turns: 2). [300 SP]
 
 <aside>
-<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://www.notion.so/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
+<img src="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" alt="notion://custom_emoji/2482af5e-3bb7-4af8-a110-df4150e44521/12bebbc6-5396-80a5-8180-007adf6a9ea5" width="40px" /> **([✦](https://app.notion.com/p/08a0c77714a940fa8ce8712b1582502d?pvs=21)) Lv.2**
 Deal Elem. Fire damage to Single Foe 3 time(s) (potency: 3x180), raise the limit of Elem. Res. reductions from battle skills on All Foes to 50% and lower Elem. Res. by 30% (turns: 2). Damage Limit of this skill is increased by 500,000. [300 SP]
 
 </aside>
@@ -295,28 +295,28 @@ Uses: 3
 ## Misc.
 
 <aside>
-<img src="https://www.notion.so/icons/gift_gray.svg" alt="https://www.notion.so/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part I (Limited)
+<img src="https://app.notion.com/icons/gift_gray.svg" alt="https://app.notion.com/icons/gift_gray.svg" width="40px" /> **Availability:** Romancing SaGa 2 Crossover Guidance - Part I (Limited)
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/globe_gray.svg" alt="https://www.notion.so/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
+<img src="https://app.notion.com/icons/globe_gray.svg" alt="https://app.notion.com/icons/globe_gray.svg" width="40px" /> **Global Pool:** Never
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_red.svg" alt="https://www.notion.so/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
+<img src="https://app.notion.com/icons/calendar_red.svg" alt="https://app.notion.com/icons/calendar_red.svg" width="40px" /> **JP Release Date:**
 Feb 5, 2026
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/calendar_blue.svg" alt="https://www.notion.so/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
+<img src="https://app.notion.com/icons/calendar_blue.svg" alt="https://app.notion.com/icons/calendar_blue.svg" width="40px" /> **GL Release Date:**
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/microphone_gray.svg" alt="https://www.notion.so/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Lynn](https://myanimelist.net/people/10929/Lynn)
+<img src="https://app.notion.com/icons/microphone_gray.svg" alt="https://app.notion.com/icons/microphone_gray.svg" width="40px" /> **V.A.:** [Lynn](https://myanimelist.net/people/10929/Lynn)
 
 </aside>
 
