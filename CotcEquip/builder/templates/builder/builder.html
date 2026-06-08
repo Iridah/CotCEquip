@@ -60,15 +60,15 @@
                     style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
                         border:1px solid var(--octo-border); background:transparent;
                         color:var(--octo-muted); cursor:pointer;">Todos</button>
-                <button type="button" class="arc-btn" data-arc="orsterra"
+                <button type="button" class="arc-btn" data-arc="Osterra"
                     style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
                         border:1px solid var(--octo-border); background:transparent;
                         color:var(--octo-muted); cursor:pointer;">Orsterra</button>
-                <button type="button" class="arc-btn" data-arc="solistia"
+                <button type="button" class="arc-btn" data-arc="Solistia"
                     style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
                         border:1px solid var(--octo-border); background:transparent;
                         color:var(--octo-muted); cursor:pointer;">Solistia</button>
-                <button type="button" class="arc-btn" data-arc="unchosen"
+                <button type="button" class="arc-btn" data-arc="Unchosen"
                     style="font-size:0.68rem; padding:2px 8px; border-radius:3px;
                         border:1px solid var(--octo-border); background:transparent;
                         color:var(--octo-muted); cursor:pointer;">Unchosen</button>
@@ -155,79 +155,84 @@
 
 {% block extra_js %}
 <script>
-// Búsqueda de traveler
-document.getElementById('traveler-search').addEventListener('input', function() {
-    const q = this.value.toLowerCase().replace(/['\u2019]/g, '');
-    document.querySelectorAll('#traveler-select option').forEach(opt => {
-        const name = opt.dataset.name.toLowerCase().replace(/['\u2019]/g, '');
-        opt.style.display = name.includes(q) ? '' : 'none';
-    });
-});
-
-// Selección de traveler
-document.getElementById('traveler-select').addEventListener('change', function() {
-    const opt = this.options[this.selectedIndex];
-    if (!opt) return;
-
-    document.getElementById('traveler-id-input').value = opt.value;
-    document.getElementById('btn-optimize').disabled = false;
-
-    // Stats
-    document.getElementById('st-hp').textContent   = opt.dataset.hp;
-    document.getElementById('st-sp').textContent   = opt.dataset.sp;
-    document.getElementById('st-patk').textContent = opt.dataset.patk;
-    document.getElementById('st-pdef').textContent = opt.dataset.pdef;
-    document.getElementById('st-eatk').textContent = opt.dataset.eatk;
-    document.getElementById('st-edef').textContent = opt.dataset.edef;
-    document.getElementById('st-crit').textContent = opt.dataset.crit;
-    document.getElementById('st-spd').textContent  = opt.dataset.spd;
-    document.getElementById('traveler-stats').style.display = 'block';
-
-    // Sprite
-    const spriteWrap = document.getElementById('traveler-sprite-wrap');
-    const spriteImg  = document.getElementById('traveler-sprite');
-    if (opt.dataset.sprite) {
-        spriteImg.src = opt.dataset.sprite;
-        spriteImg.alt = opt.dataset.name;
-        spriteWrap.style.display = 'block';
-    } else {
-        spriteWrap.style.display = 'none';
-    }
-});
-
-// Objetivo
-document.querySelectorAll('.objective-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
-        document.querySelectorAll('.objective-btn').forEach(b => {
-            b.classList.remove('btn-octo-primary');
-            b.classList.add('btn-octo-secondary');
+document.addEventListener('DOMContentLoaded', function() {
+    // Búsqueda de traveler
+    document.getElementById('traveler-search').addEventListener('input', function() {
+        const q = this.value.toLowerCase().replace(/['\u2019]/g, '');
+        const select = document.getElementById('traveler-select');
+        Array.from(select.options).forEach(opt => {
+            const name = opt.dataset.name.toLowerCase().replace(/['\u2019]/g, '');
+            opt.style.display = name.includes(q) ? '' : 'none';
+            opt.hidden = !name.includes(q);
         });
-        this.classList.remove('btn-octo-secondary');
-        this.classList.add('btn-octo-primary');
-        document.getElementById('objective-input').value = this.dataset.objective;
     });
-});
 
-// CSRF para HTMX
-document.body.addEventListener('htmx:configRequest', function(evt) {
-    evt.detail.headers['X-CSRFToken'] = '{{ csrf_token }}';
-});
+    // Selección de traveler
+    document.getElementById('traveler-select').addEventListener('change', function() {
+        const opt = this.options[this.selectedIndex];
+        if (!opt) return;
 
-// Toggle slide fuente de datos
-document.getElementById('ds-toggle').addEventListener('change', function() {
-    document.getElementById('data-source-input').value = this.checked ? 'all' : 'roster';
-});
+        document.getElementById('traveler-id-input').value = opt.value;
+        document.getElementById('btn-optimize').disabled = false;
 
-// Filtro de arco
-document.querySelectorAll('.arc-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
-        document.querySelectorAll('.arc-btn').forEach(b => {
-            b.style.color = 'var(--octo-muted)';
-            b.style.borderColor = 'var(--octo-border)';
+        // Stats
+        document.getElementById('st-hp').textContent   = opt.dataset.hp;
+        document.getElementById('st-sp').textContent   = opt.dataset.sp;
+        document.getElementById('st-patk').textContent = opt.dataset.patk;
+        document.getElementById('st-pdef').textContent = opt.dataset.pdef;
+        document.getElementById('st-eatk').textContent = opt.dataset.eatk;
+        document.getElementById('st-edef').textContent = opt.dataset.edef;
+        document.getElementById('st-crit').textContent = opt.dataset.crit;
+        document.getElementById('st-spd').textContent  = opt.dataset.spd;
+        document.getElementById('traveler-stats').style.display = 'block';
+
+        // Sprite
+        const spriteWrap = document.getElementById('traveler-sprite-wrap');
+        const spriteImg  = document.getElementById('traveler-sprite');
+        if (opt.dataset.sprite) {
+            spriteImg.src = opt.dataset.sprite;
+            spriteImg.alt = opt.dataset.name;
+            spriteWrap.style.display = 'block';
+        } else {
+            spriteWrap.style.display = 'none';
+        }
+    });
+
+    // Objetivo
+    document.querySelectorAll('.objective-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            document.querySelectorAll('.objective-btn').forEach(b => {
+                b.classList.remove('btn-octo-primary');
+                b.classList.add('btn-octo-secondary');
+            });
+            this.classList.remove('btn-octo-secondary');
+            this.classList.add('btn-octo-primary');
+            document.getElementById('objective-input').value = this.dataset.objective;
         });
-        this.style.color = 'var(--octo-gold)';
-        this.style.borderColor = 'var(--octo-gold)';
-        document.getElementById('arc-input').value = this.dataset.arc;
+    });
+
+    // CSRF para HTMX
+    document.body.addEventListener('htmx:configRequest', function(evt) {
+        evt.detail.headers['X-CSRFToken'] = '{{ csrf_token }}';
+    });
+
+    // Toggle slide fuente de datos
+    document.getElementById('ds-toggle').addEventListener('change', function() {
+        document.getElementById('data-source-input').value = this.checked ? 'all' : 'roster';
+    });
+
+    // Filtro de arco
+    document.querySelectorAll('.arc-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            document.querySelectorAll('.arc-btn').forEach(b => {
+                b.style.color = 'var(--octo-muted)';
+                b.style.borderColor = 'var(--octo-border)';
+            });
+            this.style.color = 'var(--octo-gold)';
+            this.style.borderColor = 'var(--octo-gold)';
+            document.getElementById('arc-input').value = this.dataset.arc;
+        });
     });
 });
+</script>
 {% endblock %}

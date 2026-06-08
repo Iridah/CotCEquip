@@ -183,6 +183,7 @@ def optimize_view(request):
     data_source = request.POST.get('data_source', 'all')
     arc         = request.POST.get('arc', 'all')
     is_modal    = request.headers.get('X-Modal-Request') == '1'
+    print(f"DEBUG arc={arc!r} data_source={data_source!r}") 
 
     if not traveler_id:
         if is_modal:

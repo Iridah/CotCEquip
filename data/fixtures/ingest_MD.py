@@ -16,11 +16,17 @@ from ingest_common import get_connection, clean_text
 # ── Normalización de nombres ─────────────────────────────────────────────────
  
 CHAR_MAP = {
-    'тАЩ': '’', 'тАЬ': '"', 'тАЭ': '"',
-    '├й': 'é', '├и': 'è', '├╝': 'ü',
-    '├░': 'ð', '├Ж': 'Æ',
+    'тАЩ': "'",
+    'тАЬ': '"',
+    'тАЭ': '"',
+    '\u2019': "'",  # ' → ' (curly a straight)
+    '├й': 'é',
+    '├и': 'è',
+    '├╝': 'ü',
+    '├░': 'ð',
+    '├Ж': 'Æ',
 }
- 
+
 NAME_OVERRIDES = {
     'O Odio': 'O. Odio',
     'S Odio': 'S. Odio',

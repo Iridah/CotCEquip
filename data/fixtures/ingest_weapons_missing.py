@@ -3,9 +3,18 @@
 ingest_weapons_missing.py
 Ingesta TODAS las secciones de weapons.txt (Lua del fandom).
 Uso: python ingest_weapons_missing.py <weapons.txt>
+
+Reglas de negocio:
+- series / arc: si ya tiene valor en BD → no tocar.
+                Si vacío → dejar vacío, EXCEPTO prefijos conocidos de Osterra
+                (Cosmic*, Stamp*, Ballen*, *Fortune*) que se marcan 'Osterra'.
+- soul_bonus_1..4: nunca se tocan (se pueblan desde Notion).
+- req_mat: columna text en BD, se guarda como JSON string.
+- arc: misma lógica que series.
 """
 import re
 import sys
+import json
 from pathlib import Path
 
 import psycopg2
@@ -31,6 +40,19 @@ ALL_SECTIONS = {
 
 PLACEHOLDER = {'Weapon Name'}
 
+# Prefijos/patrones que sabemos con certeza que son Osterra
+OSTERRA_PATTERNS = re.compile(
+    r'^(Cosmic|Stamp|Ballen|Brave)|Fortune',
+    re.IGNORECASE
+)
+
+
+def infer_arc(name: str) -> str:
+    """Devuelve 'Osterra' si el nombre coincide con patrones conocidos, sino ''."""
+    if OSTERRA_PATTERNS.search(name):
+        return 'Osterra'
+    return ''
+
 
 def parse_stat(val):
     if not val:
@@ -46,6 +68,17 @@ def clean_text(val):
     if not val:
         return ''
     return str(val).strip()
+
+
+def parse_req_mat(raw: str) -> list:
+    """
+    Convierte "Item A x5<br>Item B x2" → ["Item A x5", "Item B x2"]
+    Devuelve lista vacía si no hay materiales.
+    """
+    if not raw:
+        return []
+    parts = [p.strip() for p in re.split(r'<br\s*/?>', raw, flags=re.IGNORECASE)]
+    return [p for p in parts if p]
 
 
 def parse_lua(filepath):
@@ -89,13 +122,16 @@ def parse_lua(filepath):
 
             try:
                 level = int(fields_num.get('Level', 1))
-            except:
+            except Exception:
                 level = 1
+
+            req_mat_raw = fields_str.get('Req_Mat', '')
+            req_mat_list = parse_req_mat(req_mat_raw)
 
             weapons.append({
                 'name':        name,
                 'weapon_type': weapon_type,
-                'series':      '',
+                'inferred_arc': infer_arc(name),  # 'Osterra' o ''
                 'level_req':   level,
                 'p_atk':       get('Phys_Atk'),
                 'e_atk':       get('Elem_Atk'),
@@ -107,6 +143,7 @@ def parse_lua(filepath):
                 'sp':          get('Max_SP'),
                 'extra':       clean_text(fields_str.get('Extra', '')),
                 'slot_count':  0,
+                'req_mat':     req_mat_list,
             })
 
         results[section_name] = weapons
@@ -131,6 +168,7 @@ def main():
     cur  = conn.cursor()
 
     inserted = updated = skipped = 0
+    arc_tagged = 0
 
     for section_name, weapons in sections.items():
         print(f"\nProcesando {section_name}...")
@@ -139,44 +177,107 @@ def main():
                 skipped += 1
                 continue
 
-            cur.execute("SELECT id FROM weapons WHERE name = %s", (w['name'],))
-            exists = cur.fetchone()
-
-            params = (
-                w['weapon_type'], w['series'], w['level_req'],
-                w['p_atk'], w['e_atk'], w['p_def'], w['e_def'],
-                w['spd'], w['crit'], w['hp'], w['sp'],
-                w['extra'], w['slot_count'],
+            # Leer estado actual de series y arc en BD
+            cur.execute(
+                "SELECT id, series, arc FROM weapons WHERE name = %s",
+                (w['name'],)
             )
+            row = cur.fetchone()
 
-            if exists:
+            req_mat_json = json.dumps(w['req_mat'], ensure_ascii=False)
+
+            # Respetar series/arc existentes; solo escribir si están vacíos
+            # y tenemos inferencia confiable
+            if row:
+                existing_id, existing_series, existing_arc = row
+
+                new_series = existing_series if existing_series else ''
+                new_arc    = existing_arc    if existing_arc    else w['inferred_arc']
+
+                if not existing_arc and w['inferred_arc']:
+                    arc_tagged += 1
+
                 cur.execute("""
                     UPDATE weapons SET
-                        weapon_type=%s, series=%s, level_req=%s,
+                        weapon_type = %s,
+                        series      = %s,
+                        arc         = %s,
+                        level_req   = %s,
                         p_atk=%s, e_atk=%s, p_def=%s, e_def=%s,
                         spd=%s, crit=%s, hp=%s, sp=%s,
-                        extra=%s, slot_count=%s
-                    WHERE name=%s
-                """, params + (w['name'],))
+                        extra=%s, slot_count=%s,
+                        req_mat=%s
+                    WHERE id = %s
+                """, (
+                    w['weapon_type'],
+                    new_series,
+                    new_arc,
+                    w['level_req'],
+                    w['p_atk'], w['e_atk'], w['p_def'], w['e_def'],
+                    w['spd'], w['crit'], w['hp'], w['sp'],
+                    w['extra'], w['slot_count'],
+                    req_mat_json,
+                    existing_id,
+                ))
                 updated += 1
+
             else:
+                # INSERT — series vacío, arc inferido si aplica
+                if w['inferred_arc']:
+                    arc_tagged += 1
+
                 cur.execute("""
                     INSERT INTO weapons
-                        (name, weapon_type, series, level_req,
-                        p_atk, e_atk, p_def, e_def,
-                        spd, crit, hp, sp, extra, slot_count)
-                        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
-                """, (w['name'],) + params)
+                        (name, weapon_type, series, arc, level_req,
+                         p_atk, e_atk, p_def, e_def,
+                         spd, crit, hp, sp, extra, slot_count, req_mat)
+                    VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+                """, (
+                    w['name'],
+                    w['weapon_type'],
+                    '',                   # series vacío
+                    w['inferred_arc'],    # arc inferido o ''
+                    w['level_req'],
+                    w['p_atk'], w['e_atk'], w['p_def'], w['e_def'],
+                    w['spd'], w['crit'], w['hp'], w['sp'],
+                    w['extra'], w['slot_count'],
+                    req_mat_json,
+                ))
                 inserted += 1
 
     conn.commit()
+
+    # Resumen post-ingesta
+    cur.execute("""
+        SELECT
+            COUNT(*)                                                AS total,
+            COUNT(*) FILTER (WHERE req_mat IS NOT NULL
+                             AND req_mat != '[]')                  AS con_mat,
+            COUNT(*) FILTER (WHERE req_mat IS NULL
+                             OR  req_mat  = '[]')                  AS sin_mat,
+            COUNT(*) FILTER (WHERE arc = 'Osterra')                AS osterra,
+            COUNT(*) FILTER (WHERE arc = 'Solistia')               AS solistia,
+            COUNT(*) FILTER (WHERE arc = 'Unchosen')               AS unchosen,
+            COUNT(*) FILTER (WHERE arc IS NULL OR arc = '')        AS sin_arc
+        FROM weapons
+    """)
+    stats = cur.fetchone()
+
     cur.close()
     conn.close()
 
-    print(f"\n✓ Insertadas: {inserted}")
+    print(f"\n✓ Insertadas : {inserted}")
     print(f"↺ Actualizadas: {updated}")
-    print(f"✗ Saltadas: {skipped}")
-    print(f"Total procesadas: {inserted + updated}")
+    print(f"✗ Saltadas   : {skipped}")
+    print(f"🏷  Arc tagged : {arc_tagged} (esta corrida)")
+    print(f"\n── Estado BD post-ingesta ──")
+    print(f"  Total weapons : {stats[0]}")
+    print(f"  Con req_mat   : {stats[1]}")
+    print(f"  Sin req_mat   : {stats[2]}  ← base/canje directo, esperado")
+    print(f"  Osterra       : {stats[3]}")
+    print(f"  Solistia      : {stats[4]}")
+    print(f"  Unchosen      : {stats[5]}")
+    print(f"  Sin arc       : {stats[6]}  ← pendiente clasificar")
 
 
 if __name__ == '__main__':
