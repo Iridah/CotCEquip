@@ -1,5 +1,5 @@
 # Importamos el modelo desde el archivo físico travelers.py
-from .travelers import Traveler, RosterEntry
+from .travelers import Traveler, RosterEntry, TravelerSkill
 from .weapons import Weapon
 from .armors import Armor
 from .accessories import Accessory

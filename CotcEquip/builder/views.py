@@ -2,9 +2,9 @@ from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from django.views.decorators.http import require_POST
 
-from api.models import Traveler, Weapon, Armor, Accessory
 from api.models.travelers import RosterEntry
 from api.models.inventory import InventoryItem
+from api.models import Traveler, Weapon, Armor, Accessory, TravelerSkill
 
 
 OBJECTIVES = {
@@ -153,6 +153,18 @@ def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
         sum(a['score'] for a in chosen_accs)
     )
 
+    # Sumar stat_bonus de skills pasivas
+    skill_bonus = {}
+    for skill in TravelerSkill.objects.filter(
+        traveler=traveler,
+        skill_type__in=['passive', 'ex']
+    ).exclude(stat_bonus={}):
+        for key, val in skill.stat_bonus.items():
+            skill_bonus[key] = skill_bonus.get(key, 0) + val
+
+    # Agregar damage_limit al resultado si existe
+    damage_limit_bonus = skill_bonus.get('damage_limit', 0)
+
     return {
         'objective':    OBJECTIVES[objective_key][0],
         'weapon':       best_w,
@@ -165,6 +177,8 @@ def optimize(traveler, entry, objective_key, data_source='all', arc='all'):
         'total_score':  base_score + equip_score,
         'stats_fields': stats_fields,
         'data_source':  data_source,
+        'skill_bonus':  skill_bonus,
+        'damage_limit_bonus': damage_limit_bonus,
     }
 
 
@@ -183,7 +197,6 @@ def optimize_view(request):
     data_source = request.POST.get('data_source', 'all')
     arc         = request.POST.get('arc', 'all')
     is_modal    = request.headers.get('X-Modal-Request') == '1'
-    print(f"DEBUG arc={arc!r} data_source={data_source!r}") 
 
     if not traveler_id:
         if is_modal:

@@ -105,3 +105,16 @@ class RosterEntry(models.Model):
 
     def __str__(self):
         return f"{self.traveler.name} - roster"
+
+class TravelerSkill(models.Model):
+    traveler    = models.ForeignKey(Traveler, on_delete=models.CASCADE, related_name='skills')
+    skill_type  = models.CharField(max_length=20)  # battle, passive, ex, ultimate
+    name        = models.CharField(max_length=100)
+    description = models.TextField(default='')
+    stat_bonus  = models.JSONField(default=dict)
+
+    class Meta:
+        db_table = 'traveler_skills'
+
+    def __str__(self):
+        return f"{self.traveler.name} — {self.name}"
