@@ -119,12 +119,14 @@ def optimize(traveler, entry, objective_key, data_source='all', arc='all', skill
         headgear   = [a for a in headgear   if getattr(a, 'arc', None) == arc]
         body_armor = [a for a in body_armor if getattr(a, 'arc', None) == arc]
 
-    # Filtro de exclusivos e imprints
     traveler_weapon_types = set(
         w.strip() for w in (traveler.weapon_types or traveler.weapon_type or '').split(',')
         if w.strip()
     )
     traveler_element = (traveler.element or '').strip()
+
+    if traveler_weapon_types:
+        weapons = [w for w in weapons if w.weapon_type in traveler_weapon_types]
 
     accessories = [
         a for a in acc_qs
